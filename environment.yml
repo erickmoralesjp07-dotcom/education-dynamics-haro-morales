@@ -1,0 +1,26 @@
+name: education-dynamics
+channels:
+  - conda-forge
+  - defaults
+channel_priority: strict
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - ipykernel
+  - pandas
+  - polars
+  - pyarrow
+  - numpy
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - requests
+  - pyyaml
+  - tqdm
+  - pytest
+  - pip
+  - pip:
+      - watermark

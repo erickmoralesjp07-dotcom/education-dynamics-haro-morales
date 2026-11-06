@@ -1,0 +1,23 @@
+name: education-dynamics
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - scikit-learn
+  - statsmodels
+  - requests
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - pyyaml
+  - ipykernel
+  - pytest
+  - seaborn
+  - jupyterlab
+  - openpyxl
+  - python=3.12
+  - tqdm
+  - polars
+  - pyarrow
+prefix: C:\Users\ERICK\anaconda3\envs\education-dynamics

@@ -1,0 +1,8 @@
+﻿url,status,content_type,bytes,is_json
+https://api.uis.unesco.org/openapi.json,404,application/json; charset=utf-8,75,True
+https://api.uis.unesco.org/api/openapi.json,404,application/json; charset=utf-8,79,True
+https://api.uis.unesco.org/api/public/openapi.json,404,application/json; charset=utf-8,86,True
+https://api.uis.unesco.org/swagger/v1/swagger.json,404,application/json; charset=utf-8,86,True
+https://api.uis.unesco.org/api/swagger/v1/swagger.json,404,application/json; charset=utf-8,90,True
+https://api.uis.unesco.org/api/public/swagger/v1/swagger.json,404,application/json; charset=utf-8,97,True
+https://api.uis.unesco.org/api/public/documentation/openapi.json,200,text/html,767,False
