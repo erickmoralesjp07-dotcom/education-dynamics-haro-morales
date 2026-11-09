@@ -1,0 +1,12 @@
+﻿STAGE_ORDER,PRISMA_STAGE,ITEM,COUNT,NOTES
+1,Identification,Records identified from databases,,
+2,Identification,Records identified from other sources,,"Backward citation, forward citation, institutional sources."
+3,Deduplication,Duplicate records removed,,
+4,Screening,Records screened by title and abstract,,
+5,Screening,Records excluded by title and abstract,,
+6,Eligibility,Full-text reports sought,,
+7,Eligibility,Full-text reports not retrieved,,
+8,Eligibility,Full-text reports assessed,,
+9,Eligibility,Full-text reports excluded,,Provide counts by exclusion reason.
+10,Included,Studies included in qualitative synthesis,,
+11,Included,Studies included in methodological comparison,,

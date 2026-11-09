@@ -1,0 +1,15 @@
+﻿BLOCK_ORDER,THEMATIC_BLOCK,DESCRIPTION,MINIMUM_TARGET_STUDIES,FOUND_STUDIES,GAP_STATUS,ARTICLE_SECTION
+1,SDG4 and educational indicators,"Definitions, monitoring frameworks, metadata, and UIS indicators.",8,0,Pending,Data and indicators
+2,Education and social development,"Education as a component of well-being, human development, and equity.",5,0,Pending,Theoretical framework
+3,Educational access and exclusion,"Out-of-school rates, participation, enrollment, and access barriers.",5,0,Pending,Theoretical framework
+4,Educational completion and attainment,"Completion, survival, transition, graduation, and adult attainment.",5,0,Pending,Theoretical framework
+5,Youth literacy,"Literacy definitions, measurement, trends, and ceiling effects.",5,0,Pending,Theoretical framework
+6,Public education financing,"Public expenditure, allocation, efficiency, and educational outcomes.",8,0,Pending,Theoretical framework
+7,Dynamic systems in education,"Feedback, stocks, flows, system dynamics, and educational complexity.",8,0,Pending,Mathematical framework
+8,Differential equations in social sciences,"Continuous-time models, finite differences, and dynamic interpretation.",5,0,Pending,Mathematical framework
+9,International educational panel data,"Cross-country panels, temporal coverage, comparability, and dependency.",8,0,Pending,Methods
+10,Cross-country heterogeneity,"Institutional, economic, regional, and policy differences.",5,0,Pending,Discussion
+11,Predictive validation and baselines,"Cross-validation, temporal validation, grouped validation, and null models.",5,0,Pending,Methods and validation
+12,Missing data and unequal indicator coverage,"Missingness, irregular observation intervals, and selection effects.",5,0,Pending,Methods and limitations
+13,Negative and null predictive results,"Weak prediction, model limits, publication bias, and transparent reporting.",5,0,Pending,Discussion
+14,Ecuador and Latin American education,"Regional educational trends, policy context, and national evidence.",5,0,Pending,Country case study

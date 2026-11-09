@@ -1,0 +1,29 @@
+{
+  "processing_datetime": "2026-11-09T16:12:50.845667-05:00",
+  "review_title": "Dynamic modeling of international educational indicators: a structured literature review",
+  "review_question": "How have international educational indicators, panel data, dynamic systems, differential equations, and predictive validation been used to study changes in educational access, completion, literacy, and public financing?",
+  "primary_target_journal": "Social Indicators Research",
+  "alternative_target_journals": [
+    "Education Sciences",
+    "Journal of Educational Change"
+  ],
+  "databases": [
+    "Scopus",
+    "Web of Science Core Collection",
+    "ERIC",
+    "ScienceDirect",
+    "SpringerLink",
+    "Google Scholar",
+    "UNESCO Digital Library",
+    "OECD iLibrary"
+  ],
+  "minimum_publication_year": 2000,
+  "current_year": 2026,
+  "recent_literature_year": 2018,
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "thematic_block_count": 14,
+  "validation_status": "OK"
+}

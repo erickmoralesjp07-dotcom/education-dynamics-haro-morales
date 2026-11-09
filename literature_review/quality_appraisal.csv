@@ -1,0 +1,13 @@
+﻿STUDY_ID,CRITERION_ID,CRITERION,DESCRIPTION,SCORE,SCORE_RULE,JUSTIFICATION,REVIEWER
+,Q01,Clear research question,The research objective or question is explicitly stated.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q02,Appropriate data source,The data source is relevant and adequately documented.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q03,Indicator validity,Indicators are defined and justified for the construct.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q04,Temporal adequacy,The time structure is appropriate for dynamic conclusions.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q05,Sample transparency,"Countries, years, units, and exclusions are reported.",,0=No; 1=Partial or unclear; 2=Yes,,
+,Q06,Missing-data transparency,Missing data and coverage limitations are addressed.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q07,Appropriate model,The estimation method matches the research question.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q08,Validation,The study uses out-of-sample validation or robustness checks.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q09,Baseline comparison,The proposed model is compared with a meaningful baseline.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q10,Uncertainty reporting,"Uncertainty, intervals, standard errors, or sensitivity are reported.",,0=No; 1=Partial or unclear; 2=Yes,,
+,Q11,Causal restraint,Causal conclusions are supported or appropriately limited.,,0=No; 1=Partial or unclear; 2=Yes,,
+,Q12,Reproducibility,"Data, code, appendices, or sufficient procedural detail exist.",,0=No; 1=Partial or unclear; 2=Yes,,

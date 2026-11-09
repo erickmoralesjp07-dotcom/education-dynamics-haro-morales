@@ -1,0 +1,13 @@
+﻿CRITERION_ID,TYPE,CATEGORY,CRITERION,JUSTIFICATION
+I01,Inclusion,Topic,"The study analyzes educational indicators, educational systems, or educational change.",Direct relevance to the research question.
+I02,Inclusion,Method,"The study uses longitudinal, panel, dynamic, time-series, system-dynamics, or differential-equation methods.",Supports the dynamic-methodological framework.
+I03,Inclusion,Variables,"The study includes access, exclusion, completion, attainment, literacy, education quality, teachers, infrastructure, or educational financing.",Connects the literature with the UIS indicators.
+I04,Inclusion,Evidence,"The study reports enough methodological detail to evaluate data, model, sample, and findings.",Required for critical appraisal.
+I05,Inclusion,Source,"Peer-reviewed studies, authoritative institutional reports, methodological books, or official data documentation.",Allows academic and primary-source evidence.
+I06,Inclusion,Language,Publication available in English or Spanish.,Languages that can be assessed consistently.
+E01,Exclusion,Topic,The study concerns classroom teaching only and does not analyze system-level educational change.,Outside the system and indicator level.
+E02,Exclusion,Evidence,"Opinion pieces, promotional material, or documents without identifiable methods or sources.",Insufficient scientific traceability.
+E03,Exclusion,Duplication,Duplicate publication or duplicate database record.,Each study must be counted once.
+E04,Exclusion,Method,"The study reports only a cross-sectional description without temporal, comparative, or methodological relevance.",Does not inform educational dynamics.
+E05,Exclusion,Access,Full text cannot be obtained after reasonable institutional and author searches.,Full methodological assessment is impossible.
+E06,Exclusion,Data quality,"The source, sample, indicators, or estimation procedure cannot be determined.",Insufficient reproducibility.
