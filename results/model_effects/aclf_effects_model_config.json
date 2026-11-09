@@ -1,0 +1,38 @@
+{
+  "processing_datetime": "2026-11-09T15:00:20.473714-05:00",
+  "input_file": "uis_model_aclf_rates.parquet",
+  "primary_sample": "consecutive",
+  "robustness_sample": "gap_max_2",
+  "validation": "GroupKFold agrupado por YEAR",
+  "state_variables": [
+    "PREVIOUS_A",
+    "PREVIOUS_C",
+    "PREVIOUS_L",
+    "PREVIOUS_F"
+  ],
+  "targets": {
+    "DA_DT": "dA/dt",
+    "DC_DT": "dC/dt",
+    "DL_DT": "dL/dt",
+    "DF_DT": "dF/dt"
+  },
+  "models": [
+    "zero_baseline",
+    "country_mean_baseline",
+    "global_linear",
+    "country_effects",
+    "country_year_effects",
+    "nonlinear_country_year"
+  ],
+  "ridge_alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0
+  ],
+  "polynomial_degree": 2,
+  "validation_status": "OK"
+}
