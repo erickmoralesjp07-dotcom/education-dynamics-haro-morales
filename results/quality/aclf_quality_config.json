@@ -1,0 +1,39 @@
+{
+  "processing_datetime": "2026-11-09T15:23:15.897445-05:00",
+  "panel_file": "uis_model_aclf_complete.parquet",
+  "rates_file": "uis_model_aclf_rates.parquet",
+  "variables": [
+    "A",
+    "C",
+    "L",
+    "F"
+  ],
+  "rate_columns": [
+    "DA_DT",
+    "DC_DT",
+    "DL_DT",
+    "DF_DT"
+  ],
+  "expected_ranges": {
+    "A": {
+      "MINIMUM": 0.0,
+      "MAXIMUM": 100.0
+    },
+    "C": {
+      "MINIMUM": 0.0,
+      "MAXIMUM": 100.0
+    },
+    "L": {
+      "MINIMUM": 0.0,
+      "MAXIMUM": 100.0
+    },
+    "F": {
+      "MINIMUM": 0.0,
+      "MAXIMUM": 20.0
+    }
+  },
+  "outlier_method": "1.5 veces el rango intercuartil",
+  "sensitivity_sample": "Transiciones consecutivas",
+  "sensitivity_validation": "GroupKFold agrupado por pais",
+  "outlier_policy": "Las observaciones se señalan para revision, pero no se eliminan de la base original."
+}

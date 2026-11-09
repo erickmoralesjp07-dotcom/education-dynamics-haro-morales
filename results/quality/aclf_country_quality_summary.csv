@@ -1,0 +1,113 @@
+﻿COUNTRY_ID,COUNTRY_NAME_EN,OBSERVATION_COUNT,MIN_YEAR,MAX_YEAR,LEVEL_OUTLIER_COUNT,RATE_OUTLIER_COUNT,TOTAL_FLAG_COUNT
+BOL,Bolivia (Plurinational State of),17,2006,2024,11,15,26
+BFA,Burkina Faso,6,2006,2022,12,7,19
+SEN,Senegal,6,2006,2023,12,4,16
+DOM,Dominican Republic,17,2000,2023,0,14,14
+QAT,Qatar,8,2004,2017,0,13,13
+GTM,Guatemala,8,2006,2024,1,10,11
+BEN,Benin,5,2013,2022,5,6,11
+KWT,Kuwait,4,1975,2005,6,3,9
+NER,Niger,3,2012,2022,6,3,9
+PRY,Paraguay,14,2001,2024,0,8,8
+HND,Honduras,7,2012,2023,4,4,8
+CIV,Côte d'Ivoire,3,2014,2021,4,4,8
+MLI,Mali,3,2011,2018,6,2,8
+ECU,Ecuador,15,2009,2023,0,7,7
+BDI,Burundi,3,2008,2017,3,4,7
+ETH,Ethiopia,3,2007,2022,6,1,7
+IND,India,6,2011,2022,2,4,6
+MRT,Mauritania,2,2013,2015,4,2,6
+TLS,Timor-Leste,2,2010,2016,4,2,6
+COL,Colombia,16,2002,2020,0,5,5
+PER,Peru,16,2000,2019,0,5,5
+PAN,Panama,9,1980,2023,0,5,5
+LKA,Sri Lanka,7,2016,2023,0,5,5
+COM,Comoros,2,2014,2021,3,2,5
+GIN,Guinea,2,2010,2014,3,2,5
+MOZ,Mozambique,4,2015,2022,4,1,5
+GMB,Gambia,2,2015,2018,4,1,5
+AZE,Azerbaijan,12,2007,2023,0,4,4
+IDN,Indonesia,8,2008,2022,0,4,4
+UZB,Uzbekistan,8,2013,2022,0,4,4
+MDG,Madagascar,2,2018,2021,2,2,4
+LBN,Lebanon,3,2007,2019,3,1,4
+LSO,Lesotho,3,2006,2024,3,1,4
+RWA,Rwanda,2,1978,2018,3,1,4
+MEX,Mexico,18,2000,2022,0,3,3
+SLV,El Salvador,13,2000,2023,0,3,3
+GEO,Georgia,8,2014,2024,0,3,3
+ARM,Armenia,7,2011,2023,0,3,3
+PSE,Palestine,7,2010,2017,0,3,3
+ZAF,South Africa,3,2015,2021,0,3,3
+KHM,Cambodia,3,2014,2021,1,2,3
+BGD,Bangladesh,3,1981,2018,2,1,3
+NPL,Nepal,2,2011,2016,2,1,3
+TGO,Togo,2,2017,2022,2,1,3
+CUB,Cuba,3,2002,2019,3,0,3
+TZA,United Republic of Tanzania,3,2012,2022,3,0,3
+VEN,Venezuela (Bolivarian Republic of),3,2006,2009,0,2,2
+TUN,Tunisia,5,1984,2023,1,1,2
+BTN,Bhutan,2,2017,2022,1,1,2
+CRI,Costa Rica,2,2011,2018,1,1,2
+GHA,Ghana,2,2017,2021,1,1,2
+LAO,Lao People's Democratic Republic,2,2017,2023,2,0,2
+SWZ,Eswatini,2,1976,2022,2,0,2
+AGO,Angola,1,2023,2023,2,0,2
+HTI,Haiti,1,1982,1982,2,0,2
+PAK,Pakistan,1,2021,2021,2,0,2
+TCD,Chad,1,2019,2019,2,0,2
+IRN,Iran (Islamic Republic of),10,2006,2023,0,1,1
+MDV,Maldives,4,2006,2017,0,1,1
+MNG,Mongolia,4,2000,2024,0,1,1
+VNM,Viet Nam,4,2009,2022,0,1,1
+THA,Thailand,3,2018,2022,0,1,1
+BHR,Bahrain,2,2022,2023,0,1,1
+MDA,Republic of Moldova,2,2012,2014,0,1,1
+TUR,Türkiye,7,1985,2019,1,0,1
+MUS,Mauritius,4,1990,2023,1,0,1
+NAM,Namibia,2,2001,2013,1,0,1
+EGY,Egypt,1,2006,2006,1,0,1
+MHL,Marshall Islands,1,2019,2019,1,0,1
+MLT,Malta,1,2011,2011,1,0,1
+OMN,Oman,1,2003,2003,1,0,1
+UGA,Uganda,1,2010,2010,1,0,1
+VUT,Vanuatu,1,2023,2023,1,0,1
+ESP,Spain,16,2004,2021,0,0,0
+URY,Uruguay,14,1985,2023,0,0,0
+BRA,Brazil,11,2012,2022,0,0,0
+CHL,Chile,6,2009,2022,0,0,0
+SGP,Singapore,6,2016,2021,0,0,0
+ALB,Albania,5,2001,2023,0,0,0
+MYS,Malaysia,5,2000,2022,0,0,0
+MAC,"China, Macao Special Administrative Region",4,2001,2016,0,0,0
+SRB,Serbia,4,2011,2022,0,0,0
+ITA,Italy,3,2001,2019,0,0,0
+JOR,Jordan,3,2010,2023,0,0,0
+PHL,Philippines,3,2017,2022,0,0,0
+ROU,Romania,3,2002,2021,0,0,0
+ARE,United Arab Emirates,2,2019,2021,0,0,0
+BGR,Bulgaria,2,2001,2011,0,0,0
+BLR,Belarus,2,2009,2019,0,0,0
+BRN,Brunei Darussalam,2,1981,2011,0,0,0
+KGZ,Kyrgyzstan,2,1999,2009,0,0,0
+TJK,Tajikistan,2,2000,2017,0,0,0
+TTO,Trinidad and Tobago,2,1980,1990,0,0,0
+WSM,Samoa,2,2011,2019,0,0,0
+ABW,Aruba,1,2000,2000,0,0,0
+ARG,Argentina,1,2001,2001,0,0,0
+BLZ,Belize,1,2015,2015,0,0,0
+CPV,Cabo Verde,1,2015,2015,0,0,0
+CYP,Cyprus,1,2011,2011,0,0,0
+JAM,Jamaica,1,2022,2022,0,0,0
+KAZ,Kazakhstan,1,2009,2009,0,0,0
+LVA,Latvia,1,2011,2011,0,0,0
+MKD,North Macedonia,1,2002,2002,0,0,0
+PLW,Palau,1,2020,2020,0,0,0
+PRT,Portugal,1,2011,2011,0,0,0
+RUS,Russian Federation,1,2021,2021,0,0,0
+SMR,San Marino,1,2022,2022,0,0,0
+SUR,Suriname,1,2018,2018,0,0,0
+SYC,Seychelles,1,2002,2002,0,0,0
+SYR,Syrian Arab Republic,1,2002,2002,0,0,0
+TKM,Turkmenistan,1,2022,2022,0,0,0
+TON,Tonga,1,2018,2018,0,0,0
