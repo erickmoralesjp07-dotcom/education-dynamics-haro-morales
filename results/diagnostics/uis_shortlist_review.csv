@@ -1,0 +1,94 @@
+﻿DIMENSION,INDICATOR_ID,INDICATOR_LABEL_EN,COUNTRY_COUNT,MIN_YEAR,MAX_YEAR
+access_enrolment,ROFST.1.CP,"Out-of-school rate for children of primary school age, both sexes (%)",217.0,1970.0,2025.0
+access_enrolment,ROFST.1.F.CP,"Out-of-school rate for children of primary school age, female (%)",211.0,1970.0,2025.0
+access_enrolment,ROFST.1.M.CP,"Out-of-school rate for children of primary school age, male (%)",211.0,1970.0,2025.0
+access_enrolment,GER.5T8,"Gross enrolment ratio for tertiary education, both sexes (%)",206.0,1970.0,2025.0
+access_enrolment,ROFST.MOD.1,"Out-of-school rate for children of primary school age, both sexes (modelled data) (%) ",206.0,2000.0,2025.0
+access_enrolment,ROFST.MOD.2,"Out-of-school rate for adolescents of lower secondary school age, both sexes (modelled data) (%) ",206.0,2000.0,2025.0
+access_enrolment,ROFST.MOD.3,"Out-of-school rate for youth of upper secondary school age, both sexes (modelled data) (%) ",206.0,2000.0,2025.0
+access_enrolment,ROFST.3.CP,"Out-of-school rate for youth of upper secondary school age, both sexes (%)",204.0,1970.0,2025.0
+access_enrolment,ROFST.1T2.CP,"Out-of-school rate for children and adolescents of primary and lower secondary school age, both sexes (%)",203.0,1970.0,2025.0
+access_enrolment,ROFST.2.CP,"Out-of-school rate for adolescents of lower secondary school age, both sexes (%)",203.0,1970.0,2025.0
+access_enrolment|equity_gender,ROFST.H.3.LPIA,"Out-of-school rate for youth of upper secondary school age, adjusted location parity index (household survey data) (LPIA)",143.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.3.WPIA,"Out-of-school rate for youth of upper secondary school age, adjusted wealth parity index (household survey data) (WPIA)",124.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.1.LPIA,"Out-of-school rate for children of primary school age, adjusted location parity index (household survey data) (LPIA)",123.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.1.WPIA,"Out-of-school rate for children of primary school age, adjusted wealth parity index (household survey data) (WPIA)",122.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.2.LPIA,"Out-of-school rate for adolescents of lower secondary school age, adjusted location parity index (household survey data) (LPIA)",121.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.2.WPIA,"Out-of-school rate for adolescents of lower secondary school age, adjusted wealth parity index (household survey data) (WPIA)",120.0,2000.0,2025.0
+access_enrolment|equity_gender,NARA.AGM1.LPIA,"Adjusted net attendance rate, one year before the official primary entry age, adjusted location parity index (LPIA)",116.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.1.F.LPIA,"Out-of-school rate for children of primary school age, female, adjusted location parity index (household survey data) (LPIA)",114.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.1.M.LPIA,"Out-of-school rate for children of primary school age, male, adjusted location parity index (household survey data) (LPIA)",114.0,2000.0,2025.0
+access_enrolment|equity_gender,ROFST.H.2.F.LPIA,"Out-of-school rate for adolescents of lower secondary school age, female, adjusted location parity index (household survey data) (LPIA)",114.0,2000.0,2025.0
+completion_transition,EA.2T8.AG25T99,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, both sexes (%)",211.0,1970.0,2024.0
+completion_transition,AIR.1.GLAST,"Gross intake ratio to the last grade of primary education, both sexes (%)",209.0,1970.0,2025.0
+completion_transition,EA.1T8.AG25T99,"Educational attainment rate, completed primary education or higher, population 25+ years, both sexes (%)",205.0,1970.0,2025.0
+completion_transition,EA.3T8.AG25T99,"Educational attainment rate, completed upper secondary education or higher, population 25+ years, both sexes (%)",205.0,1970.0,2025.0
+completion_transition,AIR.2.GPV.GLAST,"Gross intake ratio to the last grade of lower secondary general education, both sexes (%)",203.0,1970.0,2025.0
+completion_transition,EA.3T8.AG25T99.RUR,"Educational attainment rate, completed upper secondary education or higher, population 25+ years, rural, both sexes (%)",170.0,1970.0,2025.0
+completion_transition,EA.3T8.AG25T99.URB,"Educational attainment rate, completed upper secondary education or higher, population 25+ years, urban, both sexes (%)",170.0,1970.0,2025.0
+completion_transition,EA.2T8.AG25T99.RUR,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, rural, both sexes (%)",169.0,1970.0,2024.0
+completion_transition,EA.2T8.AG25T99.URB,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, urban, both sexes (%)",169.0,1970.0,2024.0
+completion_transition,EA.1T8.AG25T99.RUR,"Educational attainment rate, completed primary education or higher, population 25+ years, rural, both sexes (%)",168.0,1970.0,2025.0
+completion_transition|equity_gender,EA.3T8.AG25T99.LPIA,"Educational attainment rate, completed upper secondary education or higher, population 25+ years, adjusted location parity index (LPIA)",170.0,1970.0,2025.0
+completion_transition|equity_gender,EA.3T8.AG25T99.F.LPIA,"Educational attainment rate, completed upper secondary education or higher, population 25+ years, female, adjusted location parity index (LPIA)",169.0,1970.0,2025.0
+completion_transition|equity_gender,EA.3T8.AG25T99.M.LPIA,"Educational attainment rate, completed upper secondary education or higher, population 25+ years, male, adjusted location parity index (LPIA)",169.0,1970.0,2025.0
+completion_transition|equity_gender,EA.2T8.AG25T99.LPIA,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, adjusted location parity index (LPIA)",169.0,1970.0,2024.0
+completion_transition|equity_gender,EA.1T8.AG25T99.LPIA,"Educational attainment rate, completed primary education or higher, population 25+ years, adjusted location parity index (LPIA)",168.0,1970.0,2025.0
+completion_transition|equity_gender,EA.1T8.AG25T99.F.LPIA,"Educational attainment rate, completed primary education or higher, population 25+ years, female, adjusted location parity index (LPIA)",167.0,1970.0,2025.0
+completion_transition|equity_gender,EA.1T8.AG25T99.M.LPIA,"Educational attainment rate, completed primary education or higher, population 25+ years, male, adjusted location parity index (LPIA)",167.0,1970.0,2025.0
+completion_transition|equity_gender,EA.2T8.AG25T99.F.LPIA,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, female, adjusted location parity index (LPIA)",167.0,1970.0,2024.0
+completion_transition|equity_gender,EA.2T8.AG25T99.M.LPIA,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, male, adjusted location parity index (LPIA)",167.0,1970.0,2024.0
+completion_transition|equity_gender,CR.1.LPIA,"Completion rate, primary education, adjusted location parity index (LPIA)",149.0,1996.0,2024.0
+equity_gender,EA.S1T8.AG25T99.LPIA,"Educational attainment: at least some primary (ISCED 1), population 25+ years, adjusted location parity index (LPIA)",168.0,1970.0,2024.0
+equity_gender,EA.S1T8.AG25T99.F.LPIA,"Educational attainment: at least some primary (ISCED 1), population 25+ years, female, adjusted location parity index (LPIA)",167.0,1970.0,2024.0
+equity_gender,EA.S1T8.AG25T99.M.LPIA,"Educational attainment: at least some primary (ISCED 1), population 25+ years, male, adjusted location parity index (LPIA)",165.0,1970.0,2024.0
+equity_gender,EA.6T8.AG25T99.LPIA,"Educational attainment rate, completed Bachelor's or equivalent education or higher, population 25+ years, adjusted location parity index (LPIA)",159.0,1981.0,2024.0
+equity_gender,EA.5T8.AG25T99.LPIA,"Educational attainment rate, completed short-cycle tertiary education or higher, population 25+ years, adjusted location parity index (LPIA)",158.0,1970.0,2025.0
+equity_gender,EA.5T8.AG25T99.M.LPIA,"Educational attainment rate, completed short-cycle tertiary education or higher, population 25+ years, male, adjusted location parity index (LPIA)",158.0,1970.0,2025.0
+equity_gender,EA.6T8.AG25T99.F.LPIA,"Educational attainment rate, completed Bachelor's or equivalent education or higher, population 25+ years, female, adjusted location parity index (LPIA)",158.0,1981.0,2024.0
+equity_gender,EA.6T8.AG25T99.M.LPIA,"Educational attainment rate, completed Bachelor's or equivalent education or higher, population 25+ years, male, adjusted location parity index (LPIA)",158.0,1981.0,2024.0
+equity_gender,EA.5T8.AG25T99.F.LPIA,"Educational attainment rate, completed short-cycle tertiary education or higher, population 25+ years, female, adjusted location parity index (LPIA)",155.0,1970.0,2025.0
+equity_gender,EA.4T8.AG25T99.LPIA,"Educational attainment rate, completed post-secondary non-tertiary education or higher, population 25+ years, adjusted location parity index (LPIA)",147.0,1970.0,2024.0
+finance_infrastructure,XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),206.0,1970.0,2025.0
+finance_infrastructure,XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),206.0,1980.0,2025.0
+finance_infrastructure,XGDP.FSGOV.FFNTR,Initial government expenditure on education as a percentage of GDP (%),205.0,1970.0,2025.0
+finance_infrastructure,XGDP.FSINT.FFNTR,International expenditure on education as a percentage of GDP (%),203.0,1998.0,2024.0
+finance_infrastructure,SCHBSP.2T3.WCOMPUT,Proportion of secondary schools with access to computers for pedagogical purposes (%),181.0,2000.0,2025.0
+finance_infrastructure,SCHBSP.1.WCOMPUT,Proportion of primary schools with access to computers for pedagogical purposes (%),179.0,2000.0,2025.0
+finance_infrastructure,SCHBSP.1.WELEC,Proportion of primary schools with access to electricity (%),178.0,2000.0,2025.0
+finance_infrastructure,SCHBSP.3.WELEC,Proportion of upper secondary schools with access to electricity (%),177.0,2000.0,2025.0
+finance_infrastructure,SCHBSP.2.WELEC,Proportion of lower secondary schools with access to electricity (%),175.0,2000.0,2025.0
+finance_infrastructure,SCHBSP.2T3.WINTERN,Proportion of secondary schools with access to Internet for pedagogical purposes (%),172.0,2000.0,2025.0
+learning_quality,MATH.PRIMARY,"Proportion of students at the end of primary education achieving at least a minimum proficiency level in mathematics, both sexes (%)",133.0,1995.0,2023.0
+learning_quality,READ.PRIMARY,"Proportion of students at the end of primary education achieving at least a minimum proficiency level in reading, both sexes (%)",123.0,2001.0,2023.0
+learning_quality,MATH.LOWERSEC,"Proportion of students at the end of lower secondary education achieving at least a minimum proficiency level in mathematics, both sexes (%)",103.0,1995.0,2023.0
+literacy_numeracy,LR.AG15T24,"Youth literacy rate, population 15-24 years, both sexes (%)",182.0,1970.0,2024.0
+literacy_numeracy,LR.AG15T99,"Adult literacy rate, population 15+ years, both sexes (%)",180.0,1970.0,2024.0
+literacy_numeracy,LR.AG65T99,"Elderly literacy rate, population 65+ years, both sexes (%)",179.0,1970.0,2024.0
+literacy_numeracy,LR.AG25T64,"Literacy rate, population 25-64 years, both sexes (%)",175.0,1970.0,2024.0
+literacy_numeracy,LR.AG15T24.URB,"Youth literacy rate, population 15-24 years, urban, both sexes (%)",146.0,1976.0,2024.0
+literacy_numeracy,LR.AG15T24.RUR,"Youth literacy rate, population 15-24 years, rural, both sexes (%)",141.0,1976.0,2024.0
+literacy_numeracy,LR.AG15T99.URB,"Adult literacy rate, population 15+ years, urban, both sexes (%)",136.0,1976.0,2024.0
+literacy_numeracy,LR.AG65T99.URB,"Elderly literacy rate, population 65+ years, urban, both sexes (%)",136.0,1976.0,2024.0
+literacy_numeracy,LR.AG25T64.URB,"Literacy rate, population 25-64 years, urban, both sexes (%)",135.0,1976.0,2024.0
+literacy_numeracy,LR.AG15T99.RUR,"Adult literacy rate, population 15+ years, rural, both sexes (%)",130.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG15T24.LPIA,"Youth literacy rate, population 15-24 years, adjusted location parity index (LPIA)",141.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG15T24.F.LPIA,"Youth literacy rate, population 15-24 years, female, adjusted location parity index (LPIA)",137.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG15T99.F.LPIA,"Adult literacy rate, population 15+ years, female, adjusted location parity index (LPIA)",134.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG25T64.F.LPIA,"Literacy rate, population 25-64 years, female, adjusted location parity index (LPIA)",134.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG65T99.F.LPIA,"Elderly literacy rate, population 65+ years, female, adjusted location parity index (LPIA)",134.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG15T24.M.LPIA,"Youth literacy rate, population 15-24 years, male, adjusted location parity index (LPIA)",132.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG15T99.LPIA,"Adult literacy rate, population 15+ years, adjusted location parity index (LPIA)",130.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG15T99.M.LPIA,"Adult literacy rate, population 15+ years, male, adjusted location parity index (LPIA)",130.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG65T99.LPIA,"Elderly literacy rate, population 65+ years, adjusted location parity index (LPIA)",130.0,1976.0,2024.0
+literacy_numeracy|equity_gender,LR.AG65T99.M.LPIA,"Elderly literacy rate, population 65+ years, male, adjusted location parity index (LPIA)",130.0,1976.0,2024.0
+teachers_resources,TRTP.1,"Proportion of teachers with the minimum required qualifications in primary education, both sexes (%)",162.0,1998.0,2025.0
+teachers_resources,TRTP.2T3,"Proportion of teachers with the minimum required qualifications in secondary education, both sexes (%)",155.0,1998.0,2025.0
+teachers_resources,QUTP.1,"Percentage of qualified teachers in primary education, both sexes (%)",155.0,1999.0,2025.0
+teachers_resources,TRTP.02,"Proportion of teachers with the minimum required qualifications in pre-primary education, both sexes (%)",150.0,1998.0,2025.0
+teachers_resources,QUTP.2T3,"Percentage of qualified teachers in secondary education, both sexes (%)",143.0,2000.0,2025.0
+teachers_resources,QUTP.02,"Percentage of qualified teachers in pre-primary education, both sexes (%)",141.0,2000.0,2025.0
+teachers_resources,TRTP.2,"Proportion of teachers with the minimum required qualifications in lower secondary education, both sexes (%)",136.0,1998.0,2025.0
+teachers_resources,TRTP.3,"Proportion of teachers with the minimum required qualifications in upper secondary education, both sexes (%)",133.0,1998.0,2025.0
+teachers_resources,QUTP.2,"Percentage of qualified teachers in lower secondary education, both sexes (%)",117.0,2000.0,2025.0
+teachers_resources,QUTP.3,"Percentage of qualified teachers in upper secondary education, both sexes (%)",113.0,2000.0,2025.0
