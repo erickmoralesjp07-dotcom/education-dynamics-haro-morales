@@ -1,2 +1,2 @@
 ﻿source,resource,url,retrieved_at_utc,http_status,content_type,bytes,sha256,local_file
-UNESCO UIS,Public API documentation,https://api.uis.unesco.org/api/public/documentation/,2026-11-06T00:29:43.942552+00:00,200,text/html; charset=UTF-8,767,c21d66acbed1b90aa59b70ff316717e8580de0e2fb12df4ca3163183e238126f,data\raw\uis\uis_api_documentation.html
+UNESCO UIS,Public API documentation,https://api.uis.unesco.org/api/public/documentation/,2026-11-09T16:57:18.735034+00:00,200,text/html; charset=UTF-8,767,c21d66acbed1b90aa59b70ff316717e8580de0e2fb12df4ca3163183e238126f,data\raw\uis\uis_api_documentation.html
