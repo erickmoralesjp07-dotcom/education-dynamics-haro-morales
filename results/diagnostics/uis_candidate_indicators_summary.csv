@@ -1,0 +1,8 @@
+﻿processing_datetime,dimension,candidate_indicator_count,indicators_with_national_data,maximum_country_coverage,earliest_year,latest_year
+2026-11-09T12:31:12.117621-05:00,access_enrolment,604,604,217,1970,2025
+2026-11-09T12:31:12.118881-05:00,completion_transition,455,455,211,1970,2025
+2026-11-09T12:31:12.120024-05:00,learning_quality,134,116,236,1995,2025
+2026-11-09T12:31:12.120964-05:00,literacy_numeracy,174,171,182,1970,2024
+2026-11-09T12:31:12.121889-05:00,teachers_resources,66,66,162,1998,2025
+2026-11-09T12:31:12.123212-05:00,finance_infrastructure,150,150,206,1970,2025
+2026-11-09T12:31:12.124549-05:00,equity_gender,1060,1048,211,1970,2025
