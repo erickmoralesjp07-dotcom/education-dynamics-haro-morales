@@ -1,0 +1,26 @@
+﻿SECTION,RESULT,VALUE,UNIT,INTERPRETATION
+Data source,Original national rows,1460179,rows,Registros nacionales originales procesados desde UNESCO UIS.
+Data source,Final national rows,1460179,rows,Registros conservados después de validación y eliminación de duplicados exactos.
+Data source,Unique indicators,2941,indicators,Indicadores distintos disponibles en la base nacional.
+Data source,Unique countries,236,countries or territories,Países o territorios presentes en la base.
+Data source,Minimum source year,1970,year,Primer año disponible en la base nacional.
+Data source,Maximum source year,2025,year,Último año disponible en la base nacional.
+Catalog integration,Missing country names,0,rows,Registros sin coincidencia en el catálogo de nombres de países.
+Catalog integration,Missing indicator labels,14181,rows,Registros cuyos códigos no tenían etiqueta en el catálogo de indicadores.
+General panel,Selected indicators,8,indicators,Indicadores inicialmente seleccionados para las dimensiones del modelo.
+General panel,Country-year rows,7467,country-year rows,Filas disponibles en el panel general ancho.
+General panel,Complete eight-variable rows,10,country-year rows,Observaciones con los ocho indicadores simultáneamente disponibles.
+General panel,Rows with at least six variables,199,country-year rows,Observaciones con seis o más indicadores simultáneamente disponibles.
+General panel,Rows with at least four variables,1233,country-year rows,Observaciones con cuatro o más indicadores simultáneamente disponibles.
+ACLF panel,ACLF country-year rows,487,country-year rows,"Observaciones completas para acceso, finalización, alfabetización y financiamiento."
+ACLF panel,ACLF countries,112,countries or territories,Países o territorios incluidos en el panel ACLF.
+ACLF panel,Countries with at least 3 observations,59,countries,Países con al menos tres observaciones ACLF.
+ACLF panel,Countries with at least 5 observations,33,countries,Países con al menos cinco observaciones ACLF.
+ACLF panel,Countries with at least 10 observations,13,countries,Países con al menos diez observaciones ACLF.
+Temporal transitions,Total transitions,375,transitions,Transiciones temporales construidas usando los intervalos reales entre observaciones.
+Temporal transitions,Consecutive transitions,207,transitions,Transiciones separadas exactamente por un año.
+Temporal transitions,Transitions with gap at most 2 years,266,transitions,Transiciones utilizadas como muestra de robustez.
+Data quality,Values outside expected ranges,0,flags,Valores fuera de los rangos esperados para porcentajes y gasto educativo.
+Data quality,Level IQR outliers,149,flags,Observaciones de nivel señaladas por el criterio de rango intercuartílico.
+Data quality,Rate IQR outliers,192,flags,Cambios temporales señalados por el criterio de rango intercuartílico.
+Data quality,Countries with quality flags,73,countries,"Países con al menos una observación marcada para revisión, sin eliminación automática."

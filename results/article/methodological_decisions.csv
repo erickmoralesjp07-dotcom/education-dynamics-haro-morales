@@ -1,0 +1,13 @@
+﻿ORDER,DECISION,JUSTIFICATION,IMPLEMENTATION,ARTICLE_SECTION
+1,Use official UIS bulk data,La descarga masiva de UNESCO UIS permite procesamiento reproducible y conserva la base oficial completa.,SDG_DATA_NATIONAL.csv y catálogos asociados.,Data and sources
+2,Keep raw data outside Git,Los archivos originales y Parquet son grandes y pueden reconstruirse mediante scripts.,"data/raw, data/interim y data/processed protegidos mediante .gitignore.",Reproducibility
+3,Select indicators by concept and coverage,"La selección combina relevancia educativa, cobertura internacional y disponibilidad temporal.",Ocho indicadores iniciales organizados por dimensión educativa.,Variable selection
+4,Use ACLF as the primary dynamic core,La combinación A-C-L-F produjo la mayor cobertura conjunta entre todas las combinaciones de cuatro variables.,A: exclusión escolar; C: finalización; L: alfabetización; F: financiamiento.,Dynamic model
+5,Use actual time intervals,No todas las observaciones están separadas por un año. Las tasas se dividieron por DELTA_T.,dX/dt aproximado por diferencia finita usando el intervalo real.,Rate construction
+6,Use consecutive transitions as primary sample,Las transiciones anuales reducen la ambigüedad al aproximar derivadas temporales.,DELTA_T igual a 1 para el ajuste principal.,Model estimation
+7,Use gaps up to two years for robustness,Amplía la muestra sin mezclar intervalos temporales demasiado extensos.,DELTA_T menor o igual a 2.,Robustness
+8,Compare against zero-change baseline,Las tasas anuales suelen concentrarse cerca de cero. Un modelo debe superar esa referencia.,Comparación de RMSE con predicción igual a cero.,Model evaluation
+9,Group cross-validation by country or year,Evita repartir indiscriminadamente observaciones relacionadas entre entrenamiento y validación.,GroupKFold por país en el modelo global y por año en la comparación de efectos.,Validation
+10,Treat Ecuador model as exploratory,"Ecuador tiene una serie anual limpia, pero solo 14 transiciones, insuficientes para inferencia causal o modelos complejos.",Ridge y Leave-One-Out sobre 14 transiciones.,Country case study
+11,Do not delete IQR outliers automatically,"Una observación extrema puede representar una situación educativa real, no un error.","Señalización, revisión y análisis de sensibilidad.",Data quality
+12,Report weak predictive performance,Los resultados negativos son evidencia científica y no deben ocultarse ni ajustarse artificialmente.,"Reporte de R2, RMSE y comparación con referencias.",Results and limitations

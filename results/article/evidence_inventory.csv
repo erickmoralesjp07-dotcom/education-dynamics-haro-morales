@@ -1,0 +1,29 @@
+﻿RELATIVE_PATH,FILE_NAME,FILE_TYPE,EXISTS,SIZE_BYTES,PURPOSE
+results\diagnostics\uis_sdg_national_diagnostic.csv,uis_sdg_national_diagnostic.csv,.csv,True,508,Validación de la base nacional original
+results\diagnostics\uis_sdg_catalog_integration.csv,uis_sdg_catalog_integration.csv,.csv,True,1387,Validación de catálogos y etiquetas
+results\diagnostics\uis_candidate_indicators_summary.csv,uis_candidate_indicators_summary.csv,.csv,True,663,Búsqueda de indicadores candidatos
+data\metadata\uis_selected_indicators.csv,uis_selected_indicators.csv,.csv,True,2285,Selección final de indicadores
+results\diagnostics\uis_model_panel_coverage.csv,uis_model_panel_coverage.csv,.csv,True,541,Cobertura del panel país-año
+results\diagnostics\uis_model_indicator_coverage.csv,uis_model_indicator_coverage.csv,.csv,True,1681,Evidencia reproducible del análisis
+results\diagnostics\uis_model_variable_combinations.csv,uis_model_variable_combinations.csv,.csv,True,5546,Comparación de combinaciones de variables
+results\diagnostics\uis_model_aclf_summary.csv,uis_model_aclf_summary.csv,.csv,True,461,Resumen del panel ACLF
+results\diagnostics\uis_model_aclf_rates_summary.csv,uis_model_aclf_rates_summary.csv,.csv,True,364,Resumen de tasas temporales
+results\model\aclf_linear_ode_metrics.csv,aclf_linear_ode_metrics.csv,.csv,True,2012,Evidencia reproducible del análisis
+results\diagnostics\aclf_linear_ode_diagnostic.csv,aclf_linear_ode_diagnostic.csv,.csv,True,825,Evidencia reproducible del análisis
+results\model_effects\aclf_effects_model_metrics.csv,aclf_effects_model_metrics.csv,.csv,True,8503,Métricas de validación de modelos
+results\model_ecuador\ecuador_aclf_metrics.csv,ecuador_aclf_metrics.csv,.csv,True,1026,Evidencia reproducible del análisis
+results\model_ecuador\ecuador_aclf_coefficients.csv,ecuador_aclf_coefficients.csv,.csv,True,1532,Coeficientes estimados
+results\diagnostics\aclf_country_case_analysis_summary.csv,aclf_country_case_analysis_summary.csv,.csv,True,2116,Resumen de casos nacionales
+results\tables\aclf_selected_countries_trends.csv,aclf_selected_countries_trends.csv,.csv,True,3575,Tendencias por país y variable
+results\diagnostics\aclf_quality_diagnostic_summary.csv,aclf_quality_diagnostic_summary.csv,.csv,True,318,Diagnóstico de calidad
+results\quality\aclf_variable_ranges.csv,aclf_variable_ranges.csv,.csv,True,1155,Evidencia reproducible del análisis
+results\quality\aclf_outlier_sensitivity_metrics.csv,aclf_outlier_sensitivity_metrics.csv,.csv,True,1321,Evidencia reproducible del análisis
+results\figures\aclf_ecuador_trajectories.png,aclf_ecuador_trajectories.png,.png,True,480796,Figura científica para resultados
+results\figures\aclf_country_comparison.png,aclf_country_comparison.png,.png,True,906754,Figura científica para resultados
+results\figures\aclf_country_standardized_change.png,aclf_country_standardized_change.png,.png,True,933029,Figura científica para resultados
+results\figures\aclf_ecuador_rates.png,aclf_ecuador_rates.png,.png,True,279122,Figura científica para resultados
+results\figures\ecuador_aclf_observed_predicted_rates.png,ecuador_aclf_observed_predicted_rates.png,.png,True,669555,Figura científica para resultados
+results\figures\ecuador_aclf_observed_simulated_states.png,ecuador_aclf_observed_simulated_states.png,.png,True,557971,Figura científica para resultados
+results\figures\aclf_quality_distributions.png,aclf_quality_distributions.png,.png,True,237814,Diagnóstico de calidad
+results\figures\aclf_quality_rate_distributions.png,aclf_quality_rate_distributions.png,.png,True,211843,Diagnóstico de calidad
+results\figures\aclf_quality_outliers_by_country.png,aclf_quality_outliers_by_country.png,.png,True,141958,Diagnóstico de calidad

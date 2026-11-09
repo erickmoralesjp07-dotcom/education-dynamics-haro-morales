@@ -1,0 +1,9 @@
+﻿MODEL_DIMENSION,MODEL_VARIABLE,INDICATOR_ID,INDICATOR_LABEL_EN,DESCRIPTION_ES,DIRECTION,COUNTRY_COUNT,MIN_YEAR,MAX_YEAR
+access,A,ROFST.1.CP,"Out-of-school rate for children of primary school age, both sexes (%)",Tasa de exclusion escolar en edad de primaria,negative,217.0,1970.0,2025.0
+completion,C,EA.2T8.AG25T99,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, both sexes (%)",Poblacion adulta que completo secundaria inferior o superior,positive,211.0,1970.0,2024.0
+wealth_equity,E,ROFST.H.1.WPIA,"Out-of-school rate for children of primary school age, adjusted wealth parity index (household survey data) (WPIA)",Paridad por riqueza en exclusion escolar de primaria,contextual,122.0,2000.0,2025.0
+education_finance,F,XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),Gasto publico en educacion como porcentaje del PIB,positive,206.0,1970.0,2025.0
+youth_literacy,L,LR.AG15T24,"Youth literacy rate, population 15-24 years, both sexes (%)",Tasa de alfabetizacion juvenil de 15 a 24 anios,positive,182.0,1970.0,2024.0
+mathematics_learning,M,MATH.PRIMARY,"Proportion of students at the end of primary education achieving at least a minimum proficiency level in mathematics, both sexes (%)",Competencia minima en matematicas al finalizar primaria,positive,133.0,1995.0,2023.0
+reading_learning,R,READ.PRIMARY,"Proportion of students at the end of primary education achieving at least a minimum proficiency level in reading, both sexes (%)",Competencia minima en lectura al finalizar primaria,positive,123.0,2001.0,2023.0
+qualified_teachers,T,TRTP.1,"Proportion of teachers with the minimum required qualifications in primary education, both sexes (%)",Docentes de primaria con cualificaciones minimas,positive,162.0,1998.0,2025.0

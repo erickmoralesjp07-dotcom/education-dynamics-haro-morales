@@ -1,0 +1,14 @@
+{
+  "processing_datetime": "2026-11-09T15:29:13.645471-05:00",
+  "project_root": "C:\\Users\\ERICK\\OneDrive\\Documents\\Tercer Semestre CDIA\\ECUACIONES DIFERENCIALES\\Articulo\\education_dynamics_starter",
+  "output_directory": "C:\\Users\\ERICK\\OneDrive\\Documents\\Tercer Semestre CDIA\\ECUACIONES DIFERENCIALES\\Articulo\\education_dynamics_starter\\results\\article",
+  "master_results_rows": 25,
+  "master_models_rows": 60,
+  "selected_indicators_rows": 8,
+  "country_cases_rows": 7,
+  "quality_results_rows": 12,
+  "methodological_decisions_rows": 12,
+  "evidence_inventory_rows": 28,
+  "missing_evidence_count": 0,
+  "validation_status": "OK"
+}
