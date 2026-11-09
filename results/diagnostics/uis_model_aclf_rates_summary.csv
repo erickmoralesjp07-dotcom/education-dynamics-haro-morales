@@ -1,0 +1,2 @@
+﻿processing_datetime,model_variables,total_transitions,country_count,consecutive_transitions,transitions_gap_max_2,transitions_gap_max_3,consecutive_percent,gap_max_2_percent,gap_max_3_percent,minimum_gap,maximum_gap,output_file,validation_status
+2026-11-09T12:52:39.961198-05:00,A|C|L|F,375,84,207,266,288,55.2,70.93,76.8,1,46,uis_model_aclf_rates.parquet,OK
