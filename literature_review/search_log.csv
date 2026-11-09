@@ -1,1 +1,2 @@
 ﻿SEARCH_EVENT_ID,DATABASE,QUERY_ID,SEARCH_DATE,SEARCHER,SEARCH_STRING_USED,FILTERS_USED,RESULT_COUNT,EXPORT_FORMAT,EXPORT_FILE,NOTES
+SEARCH-INITIAL-001,Official websites and ERIC,Initial primary-source batch,2026-11-09,Haro and Morales,"Targeted retrieval of PRISMA, UNESCO UIS documentation, and an educational system-dynamics article",Official source|Full text available|English,5,PDF and CSV manifest,initial_source_manifest.csv,Initial methodological and primary-source batch. This is not yet a database search count for PRISMA.
