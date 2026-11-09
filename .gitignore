@@ -16,3 +16,4 @@ Thumbs.db
 results/diagnostics/*.json
 .virtual_documents/
 anaconda_projects/
+literature_review/full_text/
