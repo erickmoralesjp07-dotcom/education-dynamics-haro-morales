@@ -1,0 +1,9 @@
+﻿MODEL_DIMENSION,MODEL_VARIABLE,INDICATOR_ID,INDICATOR_LABEL_EN,RECORD_COUNT,COUNTRY_COUNT,YEAR_COUNT,MIN_YEAR,MAX_YEAR,MIN_VALUE,MAX_VALUE,MEAN_VALUE
+access,A,ROFST.1.CP,"Out-of-school rate for children of primary school age, both sexes (%)",4693,217,56,1970,2025,0.0,89.71257781982422,13.051754693881845
+completion,C,EA.2T8.AG25T99,"Educational attainment rate, completed lower secondary education or higher, population 25+ years, both sexes (%)",2111,211,55,1970,2024,0.6000000238418579,100.0,63.261276472724404
+wealth_equity,E,ROFST.H.1.WPIA,"Out-of-school rate for children of primary school age, adjusted wealth parity index (household survey data) (WPIA)",634,122,26,2000,2025,0.0,2.0,1.025622304962411
+education_finance,F,XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),5159,206,56,1970,2025,0.0,66.90030670166016,4.289086792316958
+youth_literacy,L,LR.AG15T24,"Youth literacy rate, population 15-24 years, both sexes (%)",1289,182,51,1970,2024,14.38000011444092,100.0,89.76049406649429
+mathematics_learning,M,MATH.PRIMARY,"Proportion of students at the end of primary education achieving at least a minimum proficiency level in mathematics, both sexes (%)",386,133,14,1995,2023,1.289279477367937,97.79838696157375,50.09661087748434
+reading_learning,R,READ.PRIMARY,"Proportion of students at the end of primary education achieving at least a minimum proficiency level in reading, both sexes (%)",311,123,11,2001,2023,1.8,99.5501695558643,66.03549298051647
+qualified_teachers,T,TRTP.1,"Proportion of teachers with the minimum required qualifications in primary education, both sexes (%)",2064,162,28,1998,2025,0.0,100.0,85.56114617053707

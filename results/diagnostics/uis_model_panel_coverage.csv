@@ -1,0 +1,2 @@
+﻿processing_datetime,selected_indicator_count,long_panel_rows,country_year_rows,country_count,minimum_year,maximum_year,exact_duplicates_removed,duplicate_key_rows_detected,complete_country_year_rows,country_year_rows_at_least_6,country_year_rows_at_least_4,countries_with_complete_case,countries_with_at_least_6,countries_with_at_least_4,long_output_file,wide_output_file,validation_status
+2026-11-09T12:41:59.589754-05:00,8,16647,7467,222,1970,2025,0,0,10,199,1233,8,71,177,uis_model_panel_long.parquet,uis_model_panel_wide.parquet,OK
