@@ -1,0 +1,28 @@
+{
+  "processing_datetime": "2026-11-09T12:57:42.222939-05:00",
+  "random_seed": 2026,
+  "state_variables": [
+    "A",
+    "C",
+    "L",
+    "F"
+  ],
+  "targets": {
+    "DA_DT": "dA/dt",
+    "DC_DT": "dC/dt",
+    "DL_DT": "dL/dt",
+    "DF_DT": "dF/dt"
+  },
+  "samples": {
+    "consecutive": "DELTA_T igual a 1",
+    "gap_max_2": "DELTA_T menor o igual a 2"
+  },
+  "model": "RidgeCV",
+  "feature_scaling": "StandardScaler",
+  "cross_validation": "GroupKFold grouped by COUNTRY_ID",
+  "alpha_grid_minimum": 0.0001,
+  "alpha_grid_maximum": 10000.0,
+  "alpha_grid_count": 81,
+  "primary_sample": "consecutive",
+  "robustness_sample": "gap_max_2"
+}
