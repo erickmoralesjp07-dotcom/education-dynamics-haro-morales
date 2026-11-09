@@ -1,0 +1,2 @@
+﻿source_file,output_file,processing_datetime,source_sha256,original_rows,final_rows,columns,exact_duplicates_found,duplicates_removed,unique_indicators,unique_countries,minimum_year,maximum_year,missing_indicator_id,missing_country_id,missing_year,missing_value,parquet_size_bytes,validation_status
+SDG_DATA_NATIONAL.csv,uis_sdg_national.parquet,2026-11-09T12:20:53.552246-05:00,3232451b9bc7fb7aeca2f5f7bb1523240b918d613ea7c7c0de3e2659515afaca,1460179,1460179,6,0,0,2941,236,1970,2025,0,0,0,0,9053495,OK
