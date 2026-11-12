@@ -1,0 +1,977 @@
+{
+  "id": "https://openalex.org/W7214572560",
+  "doi": "https://doi.org/10.35542/osf.io/fdytm_v1",
+  "title": "Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study",
+  "display_name": "Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study",
+  "publication_year": 2026,
+  "publication_date": "2026-09-29",
+  "ids": {
+    "openalex": "https://openalex.org/W7214572560",
+    "doi": "https://doi.org/10.35542/osf.io/fdytm_v1"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.35542/osf.io/fdytm_v1",
+    "doi": "https://doi.org/10.35542/osf.io/fdytm_v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.35542/osf.io/fdytm_v1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306402530",
+      "display_name": "EdArXiv (OSF Preprints)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I2799848540",
+      "host_organization_name": "Center for Open Science",
+      "host_organization_lineage": [
+        "https://openalex.org/I2799848540"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "volume": null,
+  "type": "preprint",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.35542/osf.io/fdytm_v1",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5102860121",
+        "display_name": "Puti Xu",
+        "orcid": "https://orcid.org/0009-0001-4066-8537",
+        "observed_orcids": [
+          "https://orcid.org/0009-0001-4066-8537"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Puti Xu",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0009-0001-4066-8537",
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5102860121"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11499",
+    "display_name": "ICT Impact and Policies",
+    "score": 0.6675000190734863,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11499",
+      "display_name": "ICT Impact and Policies",
+      "score": 0.6675000190734863,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.25220000743865967,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12395",
+      "display_name": "Educational Innovations and Technology",
+      "score": 0.04309999942779541,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/digital-infrastructure",
+      "display_name": "digital infrastructure",
+      "score": 1.0
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-outcomes",
+      "display_name": "educational outcomes",
+      "score": 0.7829999923706055
+    },
+    {
+      "id": "https://openalex.org/keywords/expected-years-of-schooling",
+      "display_name": "expected years of schooling",
+      "score": 0.9950000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/fixed-broadband-subscriptions",
+      "display_name": "fixed broadband subscriptions",
+      "score": 0.9409999847412109
+    },
+    {
+      "id": "https://openalex.org/keywords/internet-use",
+      "display_name": "internet use",
+      "score": 0.9700000286102295
+    },
+    {
+      "id": "https://openalex.org/keywords/broadband-infrastructure",
+      "display_name": "broadband infrastructure",
+      "score": 0.5899999737739563
+    },
+    {
+      "id": "https://openalex.org/keywords/internet-accessibility",
+      "display_name": "internet accessibility",
+      "score": 0.8519999980926514
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-capacity",
+      "display_name": "digital capacity",
+      "score": 0.8550000190734863
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.656000018119812
+    },
+    {
+      "id": "https://openalex.org/keywords/gdp-per-capita",
+      "display_name": "GDP per capita",
+      "score": 0.777999997138977
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.6791999936103821
+    },
+    {
+      "id": "https://openalex.org/C173655357",
+      "wikidata": "https://www.wikidata.org/wiki/Q244752",
+      "display_name": "Digital divide",
+      "level": 3,
+      "score": 0.6164000034332275
+    },
+    {
+      "id": "https://openalex.org/C127598652",
+      "wikidata": "https://www.wikidata.org/wiki/Q558635",
+      "display_name": "Per capita",
+      "level": 3,
+      "score": 0.6115999817848206
+    },
+    {
+      "id": "https://openalex.org/C27548731",
+      "wikidata": "https://www.wikidata.org/wiki/Q88272",
+      "display_name": "Investment (military)",
+      "level": 3,
+      "score": 0.53329998254776
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.48159998655319214
+    },
+    {
+      "id": "https://openalex.org/C509933004",
+      "wikidata": "https://www.wikidata.org/wiki/Q194163",
+      "display_name": "Broadband",
+      "level": 2,
+      "score": 0.47909998893737793
+    },
+    {
+      "id": "https://openalex.org/C83849155",
+      "wikidata": "https://www.wikidata.org/wiki/Q1472399",
+      "display_name": "Internet access",
+      "level": 3,
+      "score": 0.4745999872684479
+    },
+    {
+      "id": "https://openalex.org/C6422946",
+      "wikidata": "https://www.wikidata.org/wiki/Q857354",
+      "display_name": "Panel data",
+      "level": 2,
+      "score": 0.4577000141143799
+    },
+    {
+      "id": "https://openalex.org/C67363961",
+      "wikidata": "https://www.wikidata.org/wiki/Q5268834",
+      "display_name": "Information and Communications Technology",
+      "level": 2,
+      "score": 0.4309000074863434
+    },
+    {
+      "id": "https://openalex.org/C152877465",
+      "wikidata": "https://www.wikidata.org/wiki/Q208042",
+      "display_name": "Regression analysis",
+      "level": 2,
+      "score": 0.3919999897480011
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.3691999912261963
+    },
+    {
+      "id": "https://openalex.org/C39896193",
+      "wikidata": "https://www.wikidata.org/wiki/Q380344",
+      "display_name": "Descriptive statistics",
+      "level": 2,
+      "score": 0.35690000653266907
+    },
+    {
+      "id": "https://openalex.org/C2985890590",
+      "wikidata": "https://www.wikidata.org/wiki/Q244752",
+      "display_name": "Digital inclusion",
+      "level": 3,
+      "score": 0.34940001368522644
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.33959999680519104
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.3271999955177307
+    },
+    {
+      "id": "https://openalex.org/C121017731",
+      "wikidata": "https://www.wikidata.org/wiki/Q11661",
+      "display_name": "Information technology",
+      "level": 2,
+      "score": 0.3125999867916107
+    },
+    {
+      "id": "https://openalex.org/C2775924081",
+      "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+      "display_name": "Control (management)",
+      "level": 2,
+      "score": 0.30880001187324524
+    },
+    {
+      "id": "https://openalex.org/C93996380",
+      "wikidata": "https://www.wikidata.org/wiki/Q44127",
+      "display_name": "Server",
+      "level": 2,
+      "score": 0.30239999294281006
+    },
+    {
+      "id": "https://openalex.org/C100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "level": 1,
+      "score": 0.2849999964237213
+    },
+    {
+      "id": "https://openalex.org/C83864248",
+      "wikidata": "https://www.wikidata.org/wiki/Q177323",
+      "display_name": "Developing country",
+      "level": 2,
+      "score": 0.2806999981403351
+    },
+    {
+      "id": "https://openalex.org/C203043789",
+      "wikidata": "https://www.wikidata.org/wiki/Q138461",
+      "display_name": "Digital economy",
+      "level": 2,
+      "score": 0.26260000467300415
+    },
+    {
+      "id": "https://openalex.org/C181683161",
+      "wikidata": "https://www.wikidata.org/wiki/Q7301159",
+      "display_name": "Real gross domestic product",
+      "level": 2,
+      "score": 0.2556999921798706
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.35542/osf.io/fdytm_v1",
+      "doi": "https://doi.org/10.35542/osf.io/fdytm_v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.35542/osf.io/fdytm_v1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402530",
+        "display_name": "EdArXiv (OSF Preprints)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I2799848540",
+        "host_organization_name": "Center for Open Science",
+        "host_organization_lineage": [
+          "https://openalex.org/I2799848540"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.35542/osf.io/fdytm_v1",
+    "doi": "https://doi.org/10.35542/osf.io/fdytm_v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.35542/osf.io/fdytm_v1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306402530",
+      "display_name": "EdArXiv (OSF Preprints)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I2799848540",
+      "host_organization_name": "Center for Open Science",
+      "host_organization_lineage": [
+        "https://openalex.org/I2799848540"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9",
+      "score": 1.0
+    },
+    {
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.975600004196167
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W7202170786",
+    "https://openalex.org/W7172027325",
+    "https://openalex.org/W4405769142",
+    "https://openalex.org/W7213884468",
+    "https://openalex.org/W4400961428",
+    "https://openalex.org/W7203922827",
+    "https://openalex.org/W7222927552",
+    "https://openalex.org/W7204205759",
+    "https://openalex.org/W7160938351",
+    "https://openalex.org/W7171457862"
+  ],
+  "abstract_inverted_index": {
+    "Digital": [
+      0
+    ],
+    "infrastructure": [
+      1,
+      25,
+      42,
+      193
+    ],
+    "has": [
+      2
+    ],
+    "become": [
+      3
+    ],
+    "a": [
+      4,
+      112
+    ],
+    "fundamental": [
+      5
+    ],
+    "foundation": [
+      6
+    ],
+    "for": [
+      7,
+      179
+    ],
+    "educational": [
+      8,
+      29,
+      138,
+      219
+    ],
+    "development": [
+      9,
+      30,
+      139
+    ],
+    "in": [
+      10,
+      68,
+      191,
+      209
+    ],
+    "the": [
+      11,
+      38,
+      131,
+      157,
+      167,
+      172,
+      184,
+      204
+    ],
+    "digital": [
+      12,
+      24,
+      41,
+      74,
+      192,
+      215
+    ],
+    "era.": [
+      13
+    ],
+    "However,": [
+      14,
+      130
+    ],
+    "limited": [
+      15
+    ],
+    "evidence": [
+      16,
+      188
+    ],
+    "is": [
+      17,
+      140
+    ],
+    "available": [
+      18
+    ],
+    "regarding": [
+      19
+    ],
+    "how": [
+      20
+    ],
+    "different": [
+      21
+    ],
+    "dimensions": [
+      22,
+      72
+    ],
+    "of": [
+      23,
+      46,
+      60,
+      73,
+      104,
+      128,
+      145,
+      159,
+      200,
+      206
+    ],
+    "are": [
+      26,
+      122,
+      194
+    ],
+    "associated": [
+      27,
+      124,
+      195
+    ],
+    "with": [
+      28,
+      101,
+      106,
+      125,
+      196
+    ],
+    "across": [
+      31
+    ],
+    "countries": [
+      32,
+      53
+    ],
+    "over": [
+      33
+    ],
+    "time.": [
+      34
+    ],
+    "This": [
+      35
+    ],
+    "study": [
+      36
+    ],
+    "investigates": [
+      37
+    ],
+    "relationship": [
+      39,
+      132
+    ],
+    "between": [
+      40,
+      54,
+      133
+    ],
+    "and": [
+      43,
+      56,
+      80,
+      90,
+      137,
+      148,
+      202,
+      214
+    ],
+    "expected": [
+      44,
+      102,
+      126,
+      198
+    ],
+    "years": [
+      45,
+      103,
+      127,
+      199
+    ],
+    "schooling": [
+      47,
+      201
+    ],
+    "using": [
+      48
+    ],
+    "panel": [
+      49
+    ],
+    "data": [
+      50
+    ],
+    "from": [
+      51,
+      65
+    ],
+    "131": [
+      52
+    ],
+    "2020": [
+      55
+    ],
+    "2023.": [
+      57
+    ],
+    "A": [
+      58
+    ],
+    "total": [
+      59
+    ],
+    "524": [
+      61
+    ],
+    "observations": [
+      62
+    ],
+    "were": [
+      63,
+      95
+    ],
+    "obtained": [
+      64
+    ],
+    "Our": [
+      66
+    ],
+    "World": [
+      67
+    ],
+    "Data.": [
+      69
+    ],
+    "Three": [
+      70
+    ],
+    "key": [
+      71
+    ],
+    "infrastructure—fixed": [
+      75
+    ],
+    "broadband": [
+      76,
+      146,
+      210
+    ],
+    "subscriptions,": [
+      77
+    ],
+    "Internet": [
+      78,
+      82,
+      135,
+      149,
+      212
+    ],
+    "usage,": [
+      79
+    ],
+    "secure": [
+      81,
+      134
+    ],
+    "servers—were": [
+      83
+    ],
+    "examined.": [
+      84
+    ],
+    "Descriptive": [
+      85
+    ],
+    "statistics,": [
+      86
+    ],
+    "Pearson": [
+      87
+    ],
+    "correlation": [
+      88
+    ],
+    "analysis,": [
+      89
+    ],
+    "multiple": [
+      91
+    ],
+    "linear": [
+      92
+    ],
+    "regression": [
+      93,
+      152
+    ],
+    "models": [
+      94
+    ],
+    "employed": [
+      96
+    ],
+    "to": [
+      97,
+      217
+    ],
+    "assess": [
+      98
+    ],
+    "their": [
+      99
+    ],
+    "associations": [
+      100,
+      174
+    ],
+    "schooling,": [
+      105
+    ],
+    "GDP": [
+      107,
+      160
+    ],
+    "per": [
+      108,
+      161
+    ],
+    "capita": [
+      109,
+      162
+    ],
+    "included": [
+      110
+    ],
+    "as": [
+      111
+    ],
+    "control": [
+      113
+    ],
+    "variable.": [
+      114
+    ],
+    "The": [
+      115,
+      151
+    ],
+    "results": [
+      116
+    ],
+    "indicate": [
+      117
+    ],
+    "that": [
+      118,
+      156,
+      171,
+      189
+    ],
+    "all": [
+      119
+    ],
+    "three": [
+      120
+    ],
+    "indicators": [
+      121
+    ],
+    "positively": [
+      123
+    ],
+    "schooling.": [
+      129
+    ],
+    "servers": [
+      136
+    ],
+    "comparatively": [
+      141
+    ],
+    "weaker": [
+      142
+    ],
+    "than": [
+      143
+    ],
+    "those": [
+      144
+    ],
+    "subscriptions": [
+      147
+    ],
+    "usage.": [
+      150
+    ],
+    "analysis": [
+      153
+    ],
+    "further": [
+      154
+    ],
+    "demonstrates": [
+      155
+    ],
+    "inclusion": [
+      158
+    ],
+    "does": [
+      163
+    ],
+    "not": [
+      164
+    ],
+    "substantially": [
+      165
+    ],
+    "alter": [
+      166
+    ],
+    "estimated": [
+      168
+    ],
+    "coefficients,": [
+      169
+    ],
+    "suggesting": [
+      170
+    ],
+    "observed": [
+      173
+    ],
+    "remain": [
+      175
+    ],
+    "robust": [
+      176
+    ],
+    "after": [
+      177
+    ],
+    "controlling": [
+      178
+    ],
+    "national": [
+      180
+    ],
+    "economic": [
+      181
+    ],
+    "development.": [
+      182,
+      220
+    ],
+    "Overall,": [
+      183
+    ],
+    "findings": [
+      185
+    ],
+    "provide": [
+      186
+    ],
+    "cross-country": [
+      187
+    ],
+    "improvements": [
+      190
+    ],
+    "higher": [
+      197
+    ],
+    "highlight": [
+      203
+    ],
+    "importance": [
+      205
+    ],
+    "continued": [
+      207
+    ],
+    "investment": [
+      208
+    ],
+    "infrastructure,": [
+      211
+    ],
+    "accessibility,": [
+      213
+    ],
+    "capacity": [
+      216
+    ],
+    "support": [
+      218
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-11-09T13:22:03.289127",
+  "created_date": "2026-09-29T00:00:00"
+}

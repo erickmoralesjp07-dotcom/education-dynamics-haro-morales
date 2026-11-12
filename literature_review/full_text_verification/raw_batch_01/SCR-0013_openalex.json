@@ -1,0 +1,567 @@
+{
+  "id": "https://openalex.org/W2204437881",
+  "doi": "https://doi.org/10.2139/ssrn.2179525",
+  "title": "Inequality of Educational Opportunity in a Cross-Section of Countries: Empirical Analysis of 2009 PISA Data",
+  "display_name": "Inequality of Educational Opportunity in a Cross-Section of Countries: Empirical Analysis of 2009 PISA Data",
+  "publication_year": 2012,
+  "publication_date": "2012-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2204437881",
+    "doi": "https://doi.org/10.2139/ssrn.2179525",
+    "mag": "2204437881"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.2139/ssrn.2179525",
+    "doi": "https://doi.org/10.2139/ssrn.2179525",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2139/ssrn.2179525",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "volume": null,
+  "type": "preprint",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.2139/ssrn.2179525",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5054585219",
+        "display_name": "Timur Natkhov",
+        "orcid": "https://orcid.org/0000-0002-8837-6015",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8837-6015"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118501908",
+          "display_name": "National Research University Higher School of Economics",
+          "ror": "https://ror.org/055f7t516",
+          "country_code": "RU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118501908"
+          ]
+        }
+      ],
+      "countries": [
+        "RU"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Timur Natkhov",
+      "raw_affiliation_strings": [
+        "National Research University Higher School of Economics, Myasnitskaya street, 20, Moscow, Moscow 119017, Russia",
+        "National Research University Higher School of Economics"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Research University Higher School of Economics, Myasnitskaya street, 20, Moscow, Moscow 119017, Russia",
+          "institution_ids": [
+            "https://openalex.org/I118501908"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Research University Higher School of Economics",
+          "institution_ids": [
+            "https://openalex.org/I118501908"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5007859689",
+        "display_name": "Козина Наталья Сергеевна",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118501908",
+          "display_name": "National Research University Higher School of Economics",
+          "ror": "https://ror.org/055f7t516",
+          "country_code": "RU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118501908"
+          ]
+        }
+      ],
+      "countries": [
+        "RU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalia Kozina",
+      "raw_affiliation_strings": [
+        "National Research University Higher School of Economics, Myasnitskaya street, 20, Moscow, Moscow 119017, Russia",
+        "National Research University Higher School of Economics"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Research University Higher School of Economics, Myasnitskaya street, 20, Moscow, Moscow 119017, Russia",
+          "institution_ids": [
+            "https://openalex.org/I118501908"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Research University Higher School of Economics",
+          "institution_ids": [
+            "https://openalex.org/I118501908"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5054585219"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I118501908"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12088",
+    "display_name": "Intergenerational and Educational Inequality Studies",
+    "score": 0.861299991607666,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.861299991607666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.13490000367164612,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11676",
+      "display_name": "Parental Involvement in Education",
+      "score": 0.0007999999797903001,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/pisa",
+      "display_name": "PISA",
+      "score": 0.5820000171661377
+    },
+    {
+      "id": "https://openalex.org/keywords/academic-achievement",
+      "display_name": "academic performance",
+      "score": 0.8989999890327454
+    },
+    {
+      "id": "https://openalex.org/keywords/family-background",
+      "display_name": "family background",
+      "score": 0.9419999718666077
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.8069999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-inequality",
+      "display_name": "economic inequality",
+      "score": 0.9399999976158142
+    },
+    {
+      "id": "https://openalex.org/keywords/health-care-access",
+      "display_name": "health care access",
+      "score": 0.6819999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/education-expenditure",
+      "display_name": "education expenditure",
+      "score": 0.6489999890327454
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.5799741148948669
+    },
+    {
+      "id": "https://openalex.org/C2780129039",
+      "wikidata": "https://www.wikidata.org/wiki/Q1931107",
+      "display_name": "Section (typography)",
+      "level": 2,
+      "score": 0.556331992149353
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.4647945761680603
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.427436888217926
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.41139280796051025
+    },
+    {
+      "id": "https://openalex.org/C148383697",
+      "wikidata": "https://www.wikidata.org/wiki/Q1781695",
+      "display_name": "Regional science",
+      "level": 1,
+      "score": 0.3677925765514374
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.3549541234970093
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.34552979469299316
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.18797537684440613
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.13136360049247742
+    },
+    {
+      "id": "https://openalex.org/C112698675",
+      "wikidata": "https://www.wikidata.org/wiki/Q37038",
+      "display_name": "Advertising",
+      "level": 1,
+      "score": 0.09686872363090515
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.2139/ssrn.2179525",
+      "doi": "https://doi.org/10.2139/ssrn.2179525",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.2179525",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmh:oai:RePEc:hig:wpaper:07edu2012",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://www.hse.ru/data/2012/11/23/1301707439/07EDU2012.pdf",
+      "pdf_url": "http://www.hse.ru/data/2012/11/23/1301707439/07EDU2012.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "preprint"
+    },
+    {
+      "id": "mag:3121625732",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://EconPapers.repec.org/RePEc:hig:wpaper:07edu2012",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RePEc: Research Papers in Economics",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.2139/ssrn.2179525",
+    "doi": "https://doi.org/10.2139/ssrn.2179525",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2139/ssrn.2179525",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "score": 0.9629999995231628,
+      "display_name": "Reduced inequalities"
+    },
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.9235000014305115,
+      "display_name": "Quality education"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2204437881.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2204437881.grobid-xml"
+  },
+  "referenced_works_count": 13,
+  "referenced_works": [
+    "https://openalex.org/W263698725",
+    "https://openalex.org/W1511191416",
+    "https://openalex.org/W2059077067",
+    "https://openalex.org/W2111393069",
+    "https://openalex.org/W2132246218",
+    "https://openalex.org/W2141523927",
+    "https://openalex.org/W2234671092",
+    "https://openalex.org/W3121401935",
+    "https://openalex.org/W3122809229",
+    "https://openalex.org/W3123579667",
+    "https://openalex.org/W3124047061",
+    "https://openalex.org/W4231102933",
+    "https://openalex.org/W4300392941"
+  ],
+  "related_works": [
+    "https://openalex.org/W3124183466",
+    "https://openalex.org/W7098266464",
+    "https://openalex.org/W1600756829",
+    "https://openalex.org/W1546837495",
+    "https://openalex.org/W1775172391",
+    "https://openalex.org/W2181588390",
+    "https://openalex.org/W7111760165",
+    "https://openalex.org/W1603918933",
+    "https://openalex.org/W7098009374",
+    "https://openalex.org/W2961096368"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-09T13:22:03.289127",
+  "created_date": "2016-06-24T00:00:00"
+}

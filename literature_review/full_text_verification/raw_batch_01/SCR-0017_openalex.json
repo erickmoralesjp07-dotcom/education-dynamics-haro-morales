@@ -1,0 +1,913 @@
+{
+  "id": "https://openalex.org/W3144287231",
+  "doi": "https://doi.org/10.3386/w7591",
+  "title": "Education for Growth: Why and For Whom?",
+  "display_name": "Education for Growth: Why and For Whom?",
+  "publication_year": 2000,
+  "publication_date": "2000-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3144287231",
+    "doi": "https://doi.org/10.3386/w7591",
+    "mag": "3144287231"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3386/w7591",
+    "doi": "https://doi.org/10.3386/w7591",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3386/w7591",
+    "pdf_url": "https://doi.org/10.3386/w7591",
+    "source": {
+      "id": "https://openalex.org/S2809516038",
+      "display_name": "National Bureau of Economic Research",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [
+        "https://openalex.org/P4322614461"
+      ],
+      "host_organization_lineage_names": [
+        "National Bureau of Economic Research"
+      ],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "National Bureau of Economic Research",
+    "raw_type": "report"
+  },
+  "volume": null,
+  "type": "report",
+  "is_traditional": false,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.3386/w7591",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5108453089",
+        "display_name": "Alan B. Krueger",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161593684",
+          "display_name": "Stockholm University",
+          "ror": "https://ror.org/05f0yaq80",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161593684"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I20089843",
+          "display_name": "Princeton University",
+          "ror": "https://ror.org/00hx57361",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20089843"
+          ]
+        }
+      ],
+      "countries": [
+        "SE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alan Krueger",
+      "raw_affiliation_strings": [
+        "Economics Department Economics Department Princeton University Stockholm University Princeton, NJ 08540 Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Economics Department Economics Department Princeton University Stockholm University Princeton, NJ 08540 Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I161593684",
+            "https://openalex.org/I20089843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5038133032",
+        "display_name": "Mikael Lindahl",
+        "orcid": "https://orcid.org/0000-0003-0618-8035",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-0618-8035"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161593684",
+          "display_name": "Stockholm University",
+          "ror": "https://ror.org/05f0yaq80",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161593684"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I20089843",
+          "display_name": "Princeton University",
+          "ror": "https://ror.org/00hx57361",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20089843"
+          ]
+        }
+      ],
+      "countries": [
+        "SE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mikael Lindahl",
+      "raw_affiliation_strings": [
+        "Economics Department Economics Department Princeton University Stockholm University Princeton, NJ 08540 Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Economics Department Economics Department Princeton University Stockholm University Princeton, NJ 08540 Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I161593684",
+            "https://openalex.org/I20089843"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 227,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10393",
+    "display_name": "Economic Growth and Productivity",
+    "score": 0.9980000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.0010999999940395355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "score": 0.00019999999494757503,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/education-and-economic-growth",
+      "display_name": "education and economic growth",
+      "score": 0.8700000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/returns-to-education",
+      "display_name": "returns to education",
+      "score": 0.7670000195503235
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.8370000123977661
+    },
+    {
+      "id": "https://openalex.org/keywords/human-capital",
+      "display_name": "human capital",
+      "score": 0.7310000061988831
+    },
+    {
+      "id": "https://openalex.org/keywords/income-growth",
+      "display_name": "income growth",
+      "score": 0.7670000195503235
+    },
+    {
+      "id": "https://openalex.org/keywords/gdp-growth",
+      "display_name": "GDP growth",
+      "score": 0.5509999990463257
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-country-growth-determinants",
+      "display_name": "cross-country growth determinants",
+      "score": 0.5299999713897705
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.32804596424102783
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.3386/w7591",
+      "doi": "https://doi.org/10.3386/w7591",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3386/w7591",
+      "pdf_url": "https://doi.org/10.3386/w7591",
+      "source": {
+        "id": "https://openalex.org/S2809516038",
+        "display_name": "National Bureau of Economic Research",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          "https://openalex.org/P4322614461"
+        ],
+        "host_organization_lineage_names": [
+          "National Bureau of Economic Research"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "National Bureau of Economic Research",
+      "raw_type": "report"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3386/w7591",
+    "doi": "https://doi.org/10.3386/w7591",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3386/w7591",
+    "pdf_url": "https://doi.org/10.3386/w7591",
+    "source": {
+      "id": "https://openalex.org/S2809516038",
+      "display_name": "National Bureau of Economic Research",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [
+        "https://openalex.org/P4322614461"
+      ],
+      "host_organization_lineage_names": [
+        "National Bureau of Economic Research"
+      ],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "National Bureau of Economic Research",
+    "raw_type": "report"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6164000034332275,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3144287231.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3144287231.grobid-xml"
+  },
+  "referenced_works_count": 68,
+  "referenced_works": [
+    "https://openalex.org/W636620581",
+    "https://openalex.org/W951631542",
+    "https://openalex.org/W1483323320",
+    "https://openalex.org/W1515677901",
+    "https://openalex.org/W1520684202",
+    "https://openalex.org/W1521575263",
+    "https://openalex.org/W1548923106",
+    "https://openalex.org/W1564168960",
+    "https://openalex.org/W1577892204",
+    "https://openalex.org/W1588107190",
+    "https://openalex.org/W1675125027",
+    "https://openalex.org/W1800776598",
+    "https://openalex.org/W1940676734",
+    "https://openalex.org/W1980412904",
+    "https://openalex.org/W1981505451",
+    "https://openalex.org/W1985289044",
+    "https://openalex.org/W1986413771",
+    "https://openalex.org/W1986657108",
+    "https://openalex.org/W1989535774",
+    "https://openalex.org/W1992772196",
+    "https://openalex.org/W2000901237",
+    "https://openalex.org/W2016422302",
+    "https://openalex.org/W2023522548",
+    "https://openalex.org/W2032121917",
+    "https://openalex.org/W2034498875",
+    "https://openalex.org/W2038106030",
+    "https://openalex.org/W2044819410",
+    "https://openalex.org/W2048351960",
+    "https://openalex.org/W2063134194",
+    "https://openalex.org/W2064798575",
+    "https://openalex.org/W2069939401",
+    "https://openalex.org/W2099268311",
+    "https://openalex.org/W2103419131",
+    "https://openalex.org/W2107660968",
+    "https://openalex.org/W2114226309",
+    "https://openalex.org/W2116518316",
+    "https://openalex.org/W2116890252",
+    "https://openalex.org/W2129235960",
+    "https://openalex.org/W2136966912",
+    "https://openalex.org/W2146411203",
+    "https://openalex.org/W2156471102",
+    "https://openalex.org/W2162484441",
+    "https://openalex.org/W2166974667",
+    "https://openalex.org/W2237514089",
+    "https://openalex.org/W2260600530",
+    "https://openalex.org/W2313287647",
+    "https://openalex.org/W2338433155",
+    "https://openalex.org/W2889743237",
+    "https://openalex.org/W2890544541",
+    "https://openalex.org/W2890691259",
+    "https://openalex.org/W2891089383",
+    "https://openalex.org/W3023499496",
+    "https://openalex.org/W3121388701",
+    "https://openalex.org/W3121845422",
+    "https://openalex.org/W3122705141",
+    "https://openalex.org/W3123216046",
+    "https://openalex.org/W3124335343",
+    "https://openalex.org/W3124846654",
+    "https://openalex.org/W3124886404",
+    "https://openalex.org/W3125289242",
+    "https://openalex.org/W3125379269",
+    "https://openalex.org/W4251501731",
+    "https://openalex.org/W4293090868",
+    "https://openalex.org/W6645940357",
+    "https://openalex.org/W6650667851",
+    "https://openalex.org/W6657748644",
+    "https://openalex.org/W6676263744",
+    "https://openalex.org/W6789867501"
+  ],
+  "related_works": [
+    "https://openalex.org/W1564168960",
+    "https://openalex.org/W627682529",
+    "https://openalex.org/W4301751675",
+    "https://openalex.org/W2263638210",
+    "https://openalex.org/W7098812985",
+    "https://openalex.org/W4378083052",
+    "https://openalex.org/W6999894745",
+    "https://openalex.org/W7096544665",
+    "https://openalex.org/W7096054653",
+    "https://openalex.org/W1911608134"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "paper": [
+      1
+    ],
+    "tries": [
+      2
+    ],
+    "to": [
+      3,
+      55,
+      60,
+      108,
+      131
+    ],
+    "reconcile": [
+      4
+    ],
+    "evidence": [
+      5,
+      25
+    ],
+    "from": [
+      6,
+      133
+    ],
+    "the": [
+      7,
+      15,
+      66,
+      82,
+      104,
+      114,
+      123,
+      140,
+      147,
+      155,
+      167
+    ],
+    "mi.croeconometric": [
+      8
+    ],
+    "and": [
+      9,
+      21,
+      136,
+      149
+    ],
+    "empirical": [
+      10
+    ],
+    "macro": [
+      11,
+      115
+    ],
+    "growth": [
+      12,
+      91,
+      116,
+      119,
+      165
+    ],
+    "literatures": [
+      13
+    ],
+    "on": [
+      14,
+      19,
+      89,
+      122,
+      139,
+      163
+    ],
+    "effect": [
+      16,
+      83,
+      162
+    ],
+    "of": [
+      17,
+      34,
+      65,
+      70,
+      84,
+      103,
+      106,
+      110,
+      113,
+      126,
+      158
+    ],
+    "schooling": [
+      18
+    ],
+    "income": [
+      20,
+      35,
+      90
+    ],
+    "GDP": [
+      22
+    ],
+    "growth.Much": [
+      23
+    ],
+    "microeconometric": [
+      24,
+      101
+    ],
+    "suggest": [
+      26
+    ],
+    "that": [
+      27,
+      48
+    ],
+    "education": [
+      28,
+      76,
+      159
+    ],
+    "is": [
+      29,
+      95,
+      153
+    ],
+    "an": [
+      30
+    ],
+    "important": [
+      31
+    ],
+    "causal": [
+      32
+    ],
+    "determinant": [
+      33
+    ],
+    "for": [
+      36,
+      79,
+      166
+    ],
+    "individuals": [
+      37
+    ],
+    "within": [
+      38
+    ],
+    "countries.At": [
+      39
+    ],
+    "a": [
+      40,
+      62
+    ],
+    "national": [
+      41
+    ],
+    "level.,": [
+      42
+    ],
+    "however,": [
+      43
+    ],
+    "recent": [
+      44
+    ],
+    "studies": [
+      45
+    ],
+    "have": [
+      46
+    ],
+    "found": [
+      47
+    ],
+    "increases": [
+      49
+    ],
+    "in": [
+      50,
+      73,
+      86,
+      92
+    ],
+    "educational": [
+      51,
+      87
+    ],
+    "attainment": [
+      52,
+      88
+    ],
+    "are": [
+      53,
+      143
+    ],
+    "unrelated": [
+      54
+    ],
+    "economic": [
+      56,
+      118,
+      164
+    ],
+    "growth.This": [
+      57
+    ],
+    "finding": [
+      58,
+      112
+    ],
+    "appears": [
+      59
+    ],
+    "be": [
+      61
+    ],
+    "spurious": [
+      63
+    ],
+    "result": [
+      64,
+      132
+    ],
+    "extremely": [
+      67
+    ],
+    "high": [
+      68
+    ],
+    "rate": [
+      69,
+      105
+    ],
+    "measurement": [
+      71,
+      80
+    ],
+    "error": [
+      72
+    ],
+    "firstdifferenced": [
+      74
+    ],
+    "cross-country": [
+      75,
+      93
+    ],
+    "data.After": [
+      77
+    ],
+    "accounting": [
+      78
+    ],
+    "error,": [
+      81
+    ],
+    "changes": [
+      85
+    ],
+    "data": [
+      94
+    ],
+    "at": [
+      96
+    ],
+    "least": [
+      97
+    ],
+    "as": [
+      98,
+      100
+    ],
+    "great": [
+      99
+    ],
+    "estimates": [
+      102
+    ],
+    "return": [
+      107
+    ],
+    "years": [
+      109
+    ],
+    "schooling.Another": [
+      111
+    ],
+    "literaturethat": [
+      117
+    ],
+    "depends": [
+      120
+    ],
+    "positively": [
+      121
+    ],
+    "initial": [
+      124,
+      156
+    ],
+    "stock": [
+      125
+    ],
+    "human": [
+      127
+    ],
+    "capital": [
+      128
+    ],
+    "-is": [
+      129
+    ],
+    "shown": [
+      130
+    ],
+    "imposing": [
+      134
+    ],
+    "linearity": [
+      135
+    ],
+    "constant-coefficient": [
+      137
+    ],
+    "assumptions": [
+      138
+    ],
+    "estimates.These": [
+      141
+    ],
+    "restrictions": [
+      142
+    ],
+    "often": [
+      144
+    ],
+    "rejected": [
+      145
+    ],
+    "by": [
+      146
+    ],
+    "data,": [
+      148
+    ],
+    "once": [
+      150
+    ],
+    "either": [
+      151
+    ],
+    "assumption": [
+      152
+    ],
+    "relaxed": [
+      154
+    ],
+    "level": [
+      157
+    ],
+    "has": [
+      160
+    ],
+    "little": [
+      161
+    ],
+    "average": [
+      168
+    ],
+    "country.": [
+      169
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 11
+    }
+  ],
+  "updated_date": "2026-11-10T11:39:43.021295",
+  "created_date": "2021-04-13T00:00:00"
+}

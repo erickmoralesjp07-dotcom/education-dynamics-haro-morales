@@ -1,0 +1,1072 @@
+{
+  "id": "https://openalex.org/W7162427960",
+  "doi": "https://doi.org/10.63913/ail.v2i2.53",
+  "title": "Predictive Modeling of Educational Outcomes Using Machine Learning for Data-Driven Regional Education Policy",
+  "display_name": "Predictive Modeling of Educational Outcomes Using Machine Learning for Data-Driven Regional Education Policy",
+  "publication_year": 2026,
+  "publication_date": "2026-05-26",
+  "ids": {
+    "openalex": "https://openalex.org/W7162427960",
+    "doi": "https://doi.org/10.63913/ail.v2i2.53"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.63913/ail.v2i2.53",
+    "doi": "https://doi.org/10.63913/ail.v2i2.53",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.63913/ail.v2i2.53",
+    "pdf_url": "https://ail.mbicore.com/index.php/ail/article/download/53/43",
+    "source": {
+      "id": "https://openalex.org/S5407049860",
+      "display_name": "Artificial Intelligence in Learning",
+      "issn_l": "3089-3690",
+      "issn": [
+        "3089-3690"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Artificial Intelligence in Learning",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://ail.mbicore.com/index.php/ail/article/download/53/43",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5133024557",
+        "display_name": "Ahmad Latif",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Ahmad Latif",
+      "raw_affiliation_strings": [
+        "Information Technology Study Program, Faculty of Science and Technology, Universitas Komputama Cilacap, Indonesia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Information Technology Study Program, Faculty of Science and Technology, Universitas Komputama Cilacap, Indonesia",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5133024557"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11122",
+    "display_name": "Online Learning and Analytics",
+    "score": 0.9599999785423279,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1706",
+      "display_name": "Computer Science Applications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11122",
+      "display_name": "Online Learning and Analytics",
+      "score": 0.9599999785423279,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13929",
+      "display_name": "Educational Outcomes and Influences",
+      "score": 0.008299999870359898,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13373",
+      "display_name": "Data Mining and Machine Learning Applications",
+      "score": 0.0071000000461936,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/regional-education-policy",
+      "display_name": "regional education policy",
+      "score": 0.6690000295639038
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.9940000176429749
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-factors",
+      "display_name": "socioeconomic factors",
+      "score": 0.6489999890327454
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.546999990940094
+    },
+    {
+      "id": "https://openalex.org/keywords/feature-importance",
+      "display_name": "feature importance",
+      "score": 0.7400000095367432
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-governance",
+      "display_name": "education governance",
+      "score": 0.5139999985694885
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.49079999327659607
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.45570001006126404
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.4510999917984009
+    },
+    {
+      "id": "https://openalex.org/C2776510970",
+      "wikidata": "https://www.wikidata.org/wiki/Q2118368",
+      "display_name": "Regional policy",
+      "level": 2,
+      "score": 0.33500000834465027
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.325300008058548
+    },
+    {
+      "id": "https://openalex.org/C2779436431",
+      "wikidata": "https://www.wikidata.org/wiki/Q30672407",
+      "display_name": "Policy learning",
+      "level": 2,
+      "score": 0.32190001010894775
+    },
+    {
+      "id": "https://openalex.org/C5395021",
+      "wikidata": "https://www.wikidata.org/wiki/Q1061410",
+      "display_name": "Program evaluation",
+      "level": 2,
+      "score": 0.2883000075817108
+    },
+    {
+      "id": "https://openalex.org/C120912362",
+      "wikidata": "https://www.wikidata.org/wiki/Q136822",
+      "display_name": "Higher education",
+      "level": 2,
+      "score": 0.28630000352859497
+    },
+    {
+      "id": "https://openalex.org/C2777211547",
+      "wikidata": "https://www.wikidata.org/wiki/Q17141490",
+      "display_name": "Training (meteorology)",
+      "level": 2,
+      "score": 0.26429998874664307
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.2628999948501587
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.25999999046325684
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.25999999046325684
+    },
+    {
+      "id": "https://openalex.org/C195094911",
+      "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+      "display_name": "Process management",
+      "level": 1,
+      "score": 0.25679999589920044
+    },
+    {
+      "id": "https://openalex.org/C9652623",
+      "wikidata": "https://www.wikidata.org/wiki/Q190109",
+      "display_name": "Field (mathematics)",
+      "level": 2,
+      "score": 0.2515000104904175
+    },
+    {
+      "id": "https://openalex.org/C168167062",
+      "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+      "display_name": "Component (thermodynamics)",
+      "level": 2,
+      "score": 0.25130000710487366
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.2506999969482422
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.63913/ail.v2i2.53",
+      "doi": "https://doi.org/10.63913/ail.v2i2.53",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.63913/ail.v2i2.53",
+      "pdf_url": "https://ail.mbicore.com/index.php/ail/article/download/53/43",
+      "source": {
+        "id": "https://openalex.org/S5407049860",
+        "display_name": "Artificial Intelligence in Learning",
+        "issn_l": "3089-3690",
+        "issn": [
+          "3089-3690"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Artificial Intelligence in Learning",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.63913/ail.v2i2.53",
+    "doi": "https://doi.org/10.63913/ail.v2i2.53",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.63913/ail.v2i2.53",
+    "pdf_url": "https://ail.mbicore.com/index.php/ail/article/download/53/43",
+    "source": {
+      "id": "https://openalex.org/S5407049860",
+      "display_name": "Artificial Intelligence in Learning",
+      "issn_l": "3089-3690",
+      "issn": [
+        "3089-3690"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Artificial Intelligence in Learning",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.975600004196167,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    },
+    {
+      "score": 0.9629999995231628,
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7162427960.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7162427960.grobid-xml"
+  },
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W643967429",
+    "https://openalex.org/W2006444123",
+    "https://openalex.org/W2155087493",
+    "https://openalex.org/W2618851150",
+    "https://openalex.org/W2745133928",
+    "https://openalex.org/W3209750384",
+    "https://openalex.org/W4200044454",
+    "https://openalex.org/W4388501749",
+    "https://openalex.org/W4403774928",
+    "https://openalex.org/W4405371552",
+    "https://openalex.org/W4406019523",
+    "https://openalex.org/W4408241040",
+    "https://openalex.org/W4408792026",
+    "https://openalex.org/W4411001155",
+    "https://openalex.org/W4411057930",
+    "https://openalex.org/W7123810396",
+    "https://openalex.org/W7162394917",
+    "https://openalex.org/W7162409135",
+    "https://openalex.org/W7162441865",
+    "https://openalex.org/W7162453639"
+  ],
+  "related_works": [
+    "https://openalex.org/W7162469063",
+    "https://openalex.org/W4412952589",
+    "https://openalex.org/W7214847911",
+    "https://openalex.org/W4414070005",
+    "https://openalex.org/W4401332815",
+    "https://openalex.org/W7207860708",
+    "https://openalex.org/W7164733253",
+    "https://openalex.org/W4408815324",
+    "https://openalex.org/W4402254494",
+    "https://openalex.org/W4321786774"
+  ],
+  "abstract_inverted_index": {
+    "Educational": [
+      0
+    ],
+    "inequality": [
+      1
+    ],
+    "remains": [
+      2
+    ],
+    "a": [
+      3,
+      24,
+      88,
+      95,
+      104,
+      220
+    ],
+    "major": [
+      4
+    ],
+    "challenge": [
+      5
+    ],
+    "across": [
+      6,
+      198
+    ],
+    "regions": [
+      7,
+      170
+    ],
+    "and": [
+      8,
+      16,
+      41,
+      54,
+      59,
+      70,
+      76,
+      103,
+      129,
+      140,
+      167,
+      185,
+      192,
+      218,
+      241
+    ],
+    "is": [
+      9
+    ],
+    "influenced": [
+      10
+    ],
+    "by": [
+      11,
+      143
+    ],
+    "socioeconomic": [
+      12,
+      58
+    ],
+    "conditions,": [
+      13
+    ],
+    "demographic": [
+      14
+    ],
+    "characteristics,": [
+      15
+    ],
+    "access": [
+      17
+    ],
+    "to": [
+      18,
+      36,
+      72,
+      178,
+      195,
+      238,
+      245,
+      248
+    ],
+    "post-secondary": [
+      19,
+      130
+    ],
+    "education.": [
+      20
+    ],
+    "This": [
+      21
+    ],
+    "study": [
+      22
+    ],
+    "develops": [
+      23
+    ],
+    "predictive": [
+      25,
+      85,
+      207
+    ],
+    "modeling": [
+      26
+    ],
+    "framework": [
+      27
+    ],
+    "using": [
+      28
+    ],
+    "machine": [
+      29
+    ],
+    "learning,": [
+      30
+    ],
+    "specifically": [
+      31
+    ],
+    "the": [
+      32,
+      116,
+      147,
+      157,
+      189
+    ],
+    "Random": [
+      33,
+      80
+    ],
+    "Forest": [
+      34,
+      81
+    ],
+    "Regressor,": [
+      35
+    ],
+    "estimate": [
+      37
+    ],
+    "regional": [
+      38,
+      119,
+      152,
+      200
+    ],
+    "educational": [
+      39,
+      60,
+      161,
+      216,
+      251
+    ],
+    "outcomes": [
+      40
+    ],
+    "identify": [
+      42
+    ],
+    "key": [
+      43
+    ],
+    "determinants": [
+      44
+    ],
+    "of": [
+      45,
+      93,
+      101,
+      106,
+      109,
+      115,
+      151,
+      160,
+      183
+    ],
+    "academic": [
+      46,
+      127
+    ],
+    "performance.": [
+      47,
+      153
+    ],
+    "The": [
+      48,
+      79,
+      202
+    ],
+    "dataset,": [
+      49
+    ],
+    "which": [
+      50
+    ],
+    "contained": [
+      51
+    ],
+    "1,104": [
+      52
+    ],
+    "observations": [
+      53
+    ],
+    "31": [
+      55
+    ],
+    "predictors": [
+      56,
+      150
+    ],
+    "representing": [
+      57
+    ],
+    "indicators,": [
+      61
+    ],
+    "was": [
+      62
+    ],
+    "preprocessed": [
+      63
+    ],
+    "through": [
+      64
+    ],
+    "missing": [
+      65
+    ],
+    "value": [
+      66
+    ],
+    "imputation,": [
+      67
+    ],
+    "one-hot": [
+      68
+    ],
+    "encoding,": [
+      69
+    ],
+    "normalization": [
+      71
+    ],
+    "ensure": [
+      73
+    ],
+    "data": [
+      74
+    ],
+    "consistency": [
+      75
+    ],
+    "model": [
+      77,
+      82
+    ],
+    "reliability.": [
+      78
+    ],
+    "achieved": [
+      83
+    ],
+    "high": [
+      84
+    ],
+    "accuracy,": [
+      86
+    ],
+    "with": [
+      87,
+      171
+    ],
+    "Mean": [
+      89,
+      97
+    ],
+    "Absolute": [
+      90
+    ],
+    "Error": [
+      91,
+      99
+    ],
+    "(MAE)": [
+      92
+    ],
+    "0.2656,": [
+      94
+    ],
+    "Root": [
+      96
+    ],
+    "Squared": [
+      98
+    ],
+    "(RMSE)": [
+      100
+    ],
+    "0.4168,": [
+      102
+    ],
+    "Coefficient": [
+      105
+    ],
+    "Determination": [
+      107
+    ],
+    "(R²)": [
+      108
+    ],
+    "0.9881,": [
+      110
+    ],
+    "explaining": [
+      111
+    ],
+    "approximately": [
+      112
+    ],
+    "98.8": [
+      113
+    ],
+    "percent": [
+      114
+    ],
+    "variance": [
+      117
+    ],
+    "in": [
+      118,
+      163,
+      174
+    ],
+    "education": [
+      120,
+      176
+    ],
+    "scores.": [
+      121
+    ],
+    "Feature": [
+      122
+    ],
+    "importance": [
+      123
+    ],
+    "analysis": [
+      124
+    ],
+    "indicated": [
+      125
+    ],
+    "that": [
+      126,
+      169,
+      205
+    ],
+    "attainment": [
+      128
+    ],
+    "participation,": [
+      131
+    ],
+    "such": [
+      132
+    ],
+    "as": [
+      133
+    ],
+    "Level": [
+      134
+    ],
+    "3": [
+      135
+    ],
+    "achievement": [
+      136
+    ],
+    "at": [
+      137
+    ],
+    "age": [
+      138,
+      144
+    ],
+    "18": [
+      139
+    ],
+    "higher": [
+      141,
+      175
+    ],
+    "qualification": [
+      142
+    ],
+    "22,": [
+      145
+    ],
+    "were": [
+      146
+    ],
+    "most": [
+      148
+    ],
+    "influential": [
+      149
+    ],
+    "These": [
+      154
+    ],
+    "results": [
+      155
+    ],
+    "highlight": [
+      156
+    ],
+    "critical": [
+      158
+    ],
+    "role": [
+      159
+    ],
+    "progression": [
+      162
+    ],
+    "shaping": [
+      164
+    ],
+    "long-term": [
+      165
+    ],
+    "success": [
+      166
+    ],
+    "suggest": [
+      168
+    ],
+    "sustained": [
+      172
+    ],
+    "engagement": [
+      173
+    ],
+    "tend": [
+      177
+    ],
+    "perform": [
+      179
+    ],
+    "better": [
+      180
+    ],
+    "overall.": [
+      181
+    ],
+    "Visualization": [
+      182
+    ],
+    "predicted": [
+      184
+    ],
+    "actual": [
+      186
+    ],
+    "scores": [
+      187
+    ],
+    "confirmed": [
+      188
+    ],
+    "model’s": [
+      190
+    ],
+    "robustness": [
+      191
+    ],
+    "its": [
+      193
+    ],
+    "ability": [
+      194
+    ],
+    "generalize": [
+      196
+    ],
+    "effectively": [
+      197
+    ],
+    "diverse": [
+      199
+    ],
+    "profiles.": [
+      201
+    ],
+    "findings": [
+      203
+    ],
+    "demonstrate": [
+      204
+    ],
+    "AI-based": [
+      206
+    ],
+    "analytics": [
+      208
+    ],
+    "can": [
+      209
+    ],
+    "accurately": [
+      210
+    ],
+    "capture": [
+      211
+    ],
+    "complex,": [
+      212
+    ],
+    "nonlinear": [
+      213
+    ],
+    "relationships": [
+      214
+    ],
+    "within": [
+      215
+    ],
+    "systems": [
+      217
+    ],
+    "provide": [
+      219
+    ],
+    "valuable": [
+      221
+    ],
+    "foundation": [
+      222
+    ],
+    "for": [
+      223
+    ],
+    "data-driven": [
+      224
+    ],
+    "policy": [
+      225
+    ],
+    "formulation.": [
+      226
+    ],
+    "Future": [
+      227
+    ],
+    "research": [
+      228
+    ],
+    "should": [
+      229
+    ],
+    "incorporate": [
+      230
+    ],
+    "longitudinal": [
+      231
+    ],
+    "data,": [
+      232
+    ],
+    "apply": [
+      233
+    ],
+    "Explainable": [
+      234
+    ],
+    "AI": [
+      235
+    ],
+    "(XAI)": [
+      236
+    ],
+    "methods": [
+      237
+    ],
+    "enhance": [
+      239
+    ],
+    "interpretability,": [
+      240
+    ],
+    "extend": [
+      242
+    ],
+    "this": [
+      243
+    ],
+    "approach": [
+      244
+    ],
+    "cross-national": [
+      246
+    ],
+    "datasets": [
+      247
+    ],
+    "support": [
+      249
+    ],
+    "evidence-based": [
+      250
+    ],
+    "governance.": [
+      252
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-11-10T11:39:43.021295",
+  "created_date": "2026-05-27T00:00:00"
+}

@@ -1,0 +1,1324 @@
+{
+  "id": "https://openalex.org/W4387712905",
+  "doi": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+  "title": "Факторы, влияющие на достижения Казахстанских учащихся в международном исследовании PISA-2018",
+  "display_name": "Факторы, влияющие на достижения Казахстанских учащихся в международном исследовании PISA-2018",
+  "publication_year": 2023,
+  "publication_date": "2023-09-20",
+  "ids": {
+    "openalex": "https://openalex.org/W4387712905",
+    "doi": "https://doi.org/10.26577/jes.2023.v76.i3.010"
+  },
+  "language": "ru",
+  "primary_location": {
+    "id": "doi:10.26577/jes.2023.v76.i3.010",
+    "doi": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210238575",
+      "display_name": "Journal of Educational Sciences",
+      "issn_l": "2520-2634",
+      "issn": [
+        "2520-2634",
+        "2520-2650"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/P4310314845",
+      "host_organization_name": "Al-Farabi Kazakh National University",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310314845"
+      ],
+      "host_organization_lineage_names": [
+        "Al-Farabi Kazakh National University"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Educational Sciences",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5061844628",
+        "display_name": "Оспанова Улжан Абаевна",
+        "orcid": "https://orcid.org/0000-0003-0427-7931",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-0427-7931"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I10232997",
+          "display_name": "L. N. Gumilyov Eurasian National University",
+          "ror": "https://ror.org/0242cby63",
+          "country_code": "KZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I10232997"
+          ]
+        }
+      ],
+      "countries": [
+        "KZ"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "U. Ospanova",
+      "raw_affiliation_strings": [
+        "АО «Информационно-аналитический центр», Евразийский национальный университет имени Л.Н. Гумилева  Казахстан, г. Астана"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0427-7931",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "АО «Информационно-аналитический центр», Евразийский национальный университет имени Л.Н. Гумилева  Казахстан, г. Астана",
+          "institution_ids": [
+            "https://openalex.org/I10232997"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "K. Nurumov",
+        "orcid": "https://orcid.org/0000-0002-1514-0095",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-1514-0095"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I10232997",
+          "display_name": "L. N. Gumilyov Eurasian National University",
+          "ror": "https://ror.org/0242cby63",
+          "country_code": "KZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I10232997"
+          ]
+        }
+      ],
+      "countries": [
+        "KZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "K. Nurumov",
+      "raw_affiliation_strings": [
+        "Евразийский национальный университет им. Л.Н. Гумилева, Казахстан, г.Астана"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1514-0095",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Евразийский национальный университет им. Л.Н. Гумилева, Казахстан, г.Астана",
+          "institution_ids": [
+            "https://openalex.org/I10232997"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "M. Atanaeva",
+        "orcid": "https://orcid.org/0000-0002-3067-356X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-3067-356X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I10232997",
+          "display_name": "L. N. Gumilyov Eurasian National University",
+          "ror": "https://ror.org/0242cby63",
+          "country_code": "KZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I10232997"
+          ]
+        }
+      ],
+      "countries": [
+        "KZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Atanaeva",
+      "raw_affiliation_strings": [
+        "Евразийский национальный университет им. Л.Н. Гумилева, Казахстан, г.Астана"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3067-356X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Евразийский национальный университет им. Л.Н. Гумилева, Казахстан, г.Астана",
+          "institution_ids": [
+            "https://openalex.org/I10232997"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5061844628"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I10232997"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.5712,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.69517613,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "76",
+    "issue": "3",
+    "first_page": "116",
+    "last_page": "126"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10674",
+    "display_name": "School Choice and Performance",
+    "score": 0.5166000127792358,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.5166000127792358,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11300",
+      "display_name": "Global Educational Policies and Reforms",
+      "score": 0.3610999882221222,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13405",
+      "display_name": "Educational Assessment and Improvement",
+      "score": 0.0706000030040741,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/pisa-2018",
+      "display_name": "PISA 2018",
+      "score": 0.9210000038146973
+    },
+    {
+      "id": "https://openalex.org/keywords/academic-achievement",
+      "display_name": "academic performance",
+      "score": 0.7839999794960022
+    },
+    {
+      "id": "https://openalex.org/keywords/kazakhstan",
+      "display_name": "Kazakhstan",
+      "score": 0.6039999723434448
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.6980000138282776
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-status",
+      "display_name": "socioeconomic status",
+      "score": 0.6430000066757202
+    },
+    {
+      "id": "https://openalex.org/keywords/school-quality",
+      "display_name": "school quality",
+      "score": 0.4519999921321869
+    },
+    {
+      "id": "https://openalex.org/keywords/family-background",
+      "display_name": "family background",
+      "score": 0.6620000004768372
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-literacy",
+      "display_name": "mathematical literacy",
+      "score": 0.6420000195503235
+    },
+    {
+      "id": "https://openalex.org/keywords/reading-literacy",
+      "display_name": "reading literacy",
+      "score": 0.9959999918937683
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-science-literacy",
+      "display_name": "natural science literacy",
+      "score": 0.9079999923706055
+    },
+    {
+      "id": "https://openalex.org/keywords/plausible-values",
+      "display_name": "plausible values",
+      "score": 0.6679999828338623
+    },
+    {
+      "id": "https://openalex.org/keywords/complex-sampling-designs",
+      "display_name": "complex sampling designs",
+      "score": 0.7480000257492065
+    },
+    {
+      "id": "https://openalex.org/keywords/multilevel-regression",
+      "display_name": "multilevel regression",
+      "score": 0.800000011920929
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C53059260",
+      "wikidata": "https://www.wikidata.org/wiki/Q374758",
+      "display_name": "Multilevel model",
+      "level": 2,
+      "score": 0.609583854675293
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.5708514451980591
+    },
+    {
+      "id": "https://openalex.org/C196083921",
+      "wikidata": "https://www.wikidata.org/wiki/Q7915758",
+      "display_name": "Variance (accounting)",
+      "level": 2,
+      "score": 0.5625870227813721
+    },
+    {
+      "id": "https://openalex.org/C158154518",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310970",
+      "display_name": "Relevance (law)",
+      "level": 2,
+      "score": 0.5437537431716919
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.5274146795272827
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.4889136850833893
+    },
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.4791080951690674
+    },
+    {
+      "id": "https://openalex.org/C9652623",
+      "wikidata": "https://www.wikidata.org/wiki/Q190109",
+      "display_name": "Field (mathematics)",
+      "level": 2,
+      "score": 0.47225943207740784
+    },
+    {
+      "id": "https://openalex.org/C152877465",
+      "wikidata": "https://www.wikidata.org/wiki/Q208042",
+      "display_name": "Regression analysis",
+      "level": 2,
+      "score": 0.45750972628593445
+    },
+    {
+      "id": "https://openalex.org/C2776291640",
+      "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+      "display_name": "Value (mathematics)",
+      "level": 2,
+      "score": 0.4397870600223541
+    },
+    {
+      "id": "https://openalex.org/C2777382242",
+      "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+      "display_name": "Index (typography)",
+      "level": 2,
+      "score": 0.42752671241760254
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4086454510688782
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2973707318305969
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.2915738523006439
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.23562467098236084
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.2110597789287567
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.15633758902549744
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121955636",
+      "wikidata": "https://www.wikidata.org/wiki/Q4116214",
+      "display_name": "Accounting",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.26577/jes.2023.v76.i3.010",
+      "doi": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210238575",
+        "display_name": "Journal of Educational Sciences",
+        "issn_l": "2520-2634",
+        "issn": [
+          "2520-2634",
+          "2520-2650"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/P4310314845",
+        "host_organization_name": "Al-Farabi Kazakh National University",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310314845"
+        ],
+        "host_organization_lineage_names": [
+          "Al-Farabi Kazakh National University"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Educational Sciences",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.26577/jes.2023.v76.i3.010",
+    "doi": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.26577/jes.2023.v76.i3.010",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210238575",
+      "display_name": "Journal of Educational Sciences",
+      "issn_l": "2520-2634",
+      "issn": [
+        "2520-2634",
+        "2520-2650"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/P4310314845",
+      "host_organization_name": "Al-Farabi Kazakh National University",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310314845"
+      ],
+      "host_organization_lineage_names": [
+        "Al-Farabi Kazakh National University"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Educational Sciences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.9235000014305115,
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4387514609",
+    "https://openalex.org/W4403091396",
+    "https://openalex.org/W4408464493",
+    "https://openalex.org/W3114815001",
+    "https://openalex.org/W4391181776",
+    "https://openalex.org/W3099601651",
+    "https://openalex.org/W4233768884",
+    "https://openalex.org/W4416040008",
+    "https://openalex.org/W7009449161",
+    "https://openalex.org/W3035484624"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      25,
+      71,
+      111,
+      148,
+      224,
+      266
+    ],
+    "PISA": [
+      1,
+      87
+    ],
+    "International": [
+      2,
+      8
+    ],
+    "Student": [
+      3,
+      9
+    ],
+    "Assessment": [
+      4
+    ],
+    "Program": [
+      5
+    ],
+    "(Program": [
+      6
+    ],
+    "for": [
+      7,
+      142,
+      198
+    ],
+    "Assessment)": [
+      10
+    ],
+    "is": [
+      11,
+      30,
+      57,
+      213,
+      275,
+      319
+    ],
+    "one": [
+      12,
+      65
+    ],
+    "of": [
+      13,
+      21,
+      27,
+      38,
+      64,
+      69,
+      77,
+      85,
+      94,
+      99,
+      116,
+      131,
+      164,
+      166,
+      171,
+      190,
+      205,
+      226,
+      243,
+      249,
+      269,
+      272,
+      280,
+      283,
+      288,
+      290,
+      297,
+      301,
+      308,
+      313
+    ],
+    "the": [
+      14,
+      19,
+      28,
+      33,
+      36,
+      42,
+      54,
+      60,
+      75,
+      83,
+      86,
+      97,
+      117,
+      121,
+      145,
+      169,
+      176,
+      180,
+      188,
+      191,
+      219,
+      227,
+      232,
+      237,
+      241,
+      250,
+      260,
+      270,
+      273,
+      278,
+      291,
+      295,
+      302,
+      306,
+      309,
+      316
+    ],
+    "most": [
+      15
+    ],
+    "authoritative": [
+      16
+    ],
+    "studies": [
+      17
+    ],
+    "in": [
+      18,
+      41,
+      52,
+      120,
+      207,
+      231,
+      246,
+      277,
+      294
+    ],
+    "field": [
+      20
+    ],
+    "school": [
+      22,
+      262,
+      323
+    ],
+    "education": [
+      23,
+      292,
+      324
+    ],
+    "quality.": [
+      24
+    ],
+    "relevance": [
+      26
+    ],
+    "article": [
+      29,
+      47
+    ],
+    "due": [
+      31
+    ],
+    "to": [
+      32,
+      58,
+      235
+    ],
+    "factors": [
+      34,
+      95,
+      239,
+      282
+    ],
+    "influencing": [
+      35
+    ],
+    "achievements": [
+      37
+    ],
+    "Kazakhstani": [
+      39,
+      244
+    ],
+    "students": [
+      40
+    ],
+    "PISA-2018": [
+      43,
+      251
+    ],
+    "international": [
+      44
+    ],
+    "study.": [
+      45
+    ],
+    "This": [
+      46
+    ],
+    "uses": [
+      48
+    ],
+    "factor-centric": [
+      49
+    ],
+    "research": [
+      50,
+      79,
+      149,
+      192,
+      229
+    ],
+    "design,": [
+      51,
+      157
+    ],
+    "which": [
+      53,
+      89,
+      101,
+      208
+    ],
+    "main": [
+      55,
+      72,
+      181,
+      238
+    ],
+    "purpose": [
+      56
+    ],
+    "calculate": [
+      59
+    ],
+    "direction": [
+      61
+    ],
+    "and": [
+      62,
+      74,
+      109,
+      113,
+      133,
+      183,
+      201,
+      221,
+      256,
+      263,
+      305
+    ],
+    "size": [
+      63
+    ],
+    "or": [
+      66
+    ],
+    "more": [
+      67
+    ],
+    "variables": [
+      68
+    ],
+    "interest.": [
+      70
+    ],
+    "directions": [
+      73
+    ],
+    "idea": [
+      76
+    ],
+    "scientific": [
+      78,
+      112
+    ],
+    "are": [
+      80
+    ],
+    "characterized": [
+      81
+    ],
+    "by": [
+      82
+    ],
+    "results": [
+      84,
+      98,
+      182,
+      242,
+      271,
+      318
+    ],
+    "study,": [
+      88
+    ],
+    "broadcast": [
+      90
+    ],
+    "a": [
+      91,
+      126,
+      136,
+      210
+    ],
+    "large": [
+      92
+    ],
+    "number": [
+      93
+    ],
+    "affecting": [
+      96
+    ],
+    "schoolchildren,": [
+      100
+    ],
+    "can": [
+      102,
+      195
+    ],
+    "be": [
+      103
+    ],
+    "divided": [
+      104
+    ],
+    "into": [
+      105
+    ],
+    "geographical,": [
+      106
+    ],
+    "school,": [
+      107
+    ],
+    "family-biographical": [
+      108
+    ],
+    "socio-economic.": [
+      110
+    ],
+    "practical": [
+      114,
+      267
+    ],
+    "significance": [
+      115,
+      268
+    ],
+    "work": [
+      118,
+      274
+    ],
+    "lies": [
+      119,
+      230
+    ],
+    "fact": [
+      122
+    ],
+    "that,": [
+      123
+    ],
+    "based": [
+      124
+    ],
+    "on": [
+      125,
+      315
+    ],
+    "literary": [
+      127
+    ],
+    "review,": [
+      128
+    ],
+    "an": [
+      129
+    ],
+    "index": [
+      130
+    ],
+    "socio-cultural": [
+      132
+    ],
+    "economic": [
+      134
+    ],
+    "status,": [
+      135
+    ],
+    "resistance": [
+      137
+    ],
+    "index,": [
+      138
+    ],
+    "etc.": [
+      139
+    ],
+    "were": [
+      140
+    ],
+    "selected": [
+      141
+    ],
+    "modeling": [
+      143
+    ],
+    "at": [
+      144,
+      175,
+      218,
+      259
+    ],
+    "group": [
+      146,
+      177,
+      222
+    ],
+    "level.": [
+      147,
+      178
+    ],
+    "methodology": [
+      150
+    ],
+    "includes": [
+      151
+    ],
+    "multilevel": [
+      152,
+      160
+    ],
+    "regression": [
+      153
+    ],
+    "analysis,": [
+      154,
+      159,
+      184,
+      327
+    ],
+    "complex": [
+      155,
+      330
+    ],
+    "sampling": [
+      156,
+      331
+    ],
+    "statistical": [
+      158,
+      326
+    ],
+    "linear": [
+      161
+    ],
+    "regression,": [
+      162
+    ],
+    "calculations": [
+      163
+    ],
+    "variance": [
+      165
+    ],
+    "random": [
+      167,
+      211
+    ],
+    "effects,": [
+      168
+    ],
+    "possibility": [
+      170
+    ],
+    "adding": [
+      172
+    ],
+    "fixed": [
+      173
+    ],
+    "effects": [
+      174
+    ],
+    "As": [
+      179
+    ],
+    "as": [
+      185,
+      187,
+      253
+    ],
+    "well": [
+      186
+    ],
+    "conclusions": [
+      189
+    ],
+    "work,": [
+      193
+    ],
+    "we": [
+      194
+    ],
+    "cite": [
+      196
+    ],
+    "models": [
+      197
+    ],
+    "mathematical,": [
+      199
+    ],
+    "reading": [
+      200,
+      255
+    ],
+    "natural": [
+      202,
+      257
+    ],
+    "science": [
+      203,
+      258
+    ],
+    "literacy": [
+      204
+    ],
+    "15-year-olds,": [
+      206
+    ],
+    "only": [
+      209
+    ],
+    "constant": [
+      212
+    ],
+    "calculated,": [
+      214
+    ],
+    "without": [
+      215
+    ],
+    "including": [
+      216
+    ],
+    "predictors": [
+      217
+    ],
+    "individual": [
+      220
+    ],
+    "levels.": [
+      223,
+      265
+    ],
+    "value": [
+      225
+    ],
+    "conducted": [
+      228
+    ],
+    "first": [
+      233
+    ],
+    "attempt": [
+      234
+    ],
+    "collect": [
+      236
+    ],
+    "explaining": [
+      240
+    ],
+    "schoolchildren": [
+      245
+    ],
+    "such": [
+      247
+    ],
+    "areas": [
+      248
+    ],
+    "study": [
+      252,
+      300
+    ],
+    "mathematics,": [
+      254
+    ],
+    "individual,": [
+      261
+    ],
+    "regional": [
+      264
+    ],
+    "considered": [
+      276
+    ],
+    "analysis": [
+      279
+    ],
+    "persistent": [
+      281
+    ],
+    "inequality": [
+      284
+    ],
+    "over": [
+      285
+    ],
+    "10-14": [
+      286
+    ],
+    "years": [
+      287
+    ],
+    "development": [
+      289
+    ],
+    "system": [
+      293
+    ],
+    "Republic": [
+      296
+    ],
+    "Kazakhstan.": [
+      298
+    ],
+    "Further": [
+      299
+    ],
+    "language": [
+      303
+    ],
+    "difference": [
+      304
+    ],
+    "influence": [
+      307
+    ],
+    "generally": [
+      310
+    ],
+    "accepted": [
+      311
+    ],
+    "typology": [
+      312
+    ],
+    "schools": [
+      314
+    ],
+    "test": [
+      317
+    ],
+    "recommended.": [
+      320
+    ],
+    "Key": [
+      321
+    ],
+    "words:": [
+      322
+    ],
+    "quality,": [
+      325
+    ],
+    "plausible": [
+      328
+    ],
+    "values,": [
+      329
+    ],
+    "design.": [
+      332
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-12T12:28:57.059296",
+  "created_date": "2023-10-18T00:00:00"
+}

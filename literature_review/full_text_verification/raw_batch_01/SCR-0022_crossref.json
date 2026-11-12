@@ -1,0 +1,140 @@
+{
+  "institution": [
+    {
+      "name": "The IFS"
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        22
+      ]
+    ],
+    "date-time": "2023-04-22T18:56:43Z",
+    "timestamp": 1682189803192
+  },
+  "reference-count": 0,
+  "publisher": "Institute for Fiscal Studies",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "DOI": "10.1920/wp.ifs.2000.0009",
+  "type": "report-series",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        10
+      ]
+    ],
+    "date-time": "2017-08-10T13:46:41Z",
+    "timestamp": 1502372801000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Functional literacy, educational attainment and earnings - evidence from the international adult literacy survey"
+  ],
+  "prefix": "10.1920",
+  "author": [
+    {
+      "given": "Kevin",
+      "family": "Denny",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Sandra",
+      "family": "Redmond",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Harmon,",
+      "family": "Harmon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "10170",
+  "published-online": {
+    "date-parts": [
+      [
+        2000,
+        4,
+        7
+      ]
+    ]
+  },
+  "container-title": [
+    "Working Paper Series"
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        15
+      ]
+    ],
+    "date-time": "2018-08-15T16:09:15Z",
+    "timestamp": 1534349355000
+  },
+  "score": 41.692177,
+  "resource": {
+    "primary": {
+      "URL": "http://www.ifs.org.uk/wps/wp0009.pdf"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2000,
+        4,
+        7
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.1920/wp.ifs.2000.0009",
+  "ISSN": [
+    "1742-0415"
+  ],
+  "issn-type": [
+    {
+      "value": "1742-0415",
+      "type": "print"
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2000,
+        4,
+        7
+      ]
+    ]
+  }
+}

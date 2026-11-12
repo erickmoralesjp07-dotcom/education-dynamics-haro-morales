@@ -1,0 +1,534 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ],
+    "date-time": "2026-10-15T09:51:54Z",
+    "timestamp": 1792057914914,
+    "version": "4.4.0"
+  },
+  "reference-count": 34,
+  "publisher": "Emerald",
+  "issue": "8",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            15
+          ]
+        ],
+        "date-time": "2024-03-15T00:00:00Z",
+        "timestamp": 1710460800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.emerald.com/insight/site-policies"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JES"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        27
+      ]
+    ]
+  },
+  "abstract": "<jats:sec><jats:title content-type=\"abstract-subheading\">Purpose</jats:title><jats:p>The main aim of this study is to investigate the role of fathers and mothers in the intergenerational educational persistence for sons and daughters under two dimensions that characterize the clusters of countries: redistributive policy and governance.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title><jats:p>Data from the Global Database of Intergenerational Mobility (GDIM), hierarchical cluster analysis on principal components and panel regression are used in this study to estimate intergenerational educational correlation and to investigate its determinants related to the parents’ and descendants’ education variables in 93 countries grouped in four clusters. The empirical analysis is differentiated by gender combinations of parents and descendants.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Findings</jats:title><jats:p>In the clusters of countries characterized by high inequalities and poor governance, our findings show that the role of the fathers is stronger than that of the mothers in educational transmission; fathers and mothers are more influential for the daughters rather than for the sons; parental educational privilege is the main driver of intergenerational educational persistence; there is an inverse U-curve in the association between educational inequality of the parents and educational correlation for the sons. Differently, in the countries characterized by high income, low redistributive conflict and better governance, the role of the mothers is stronger and education mobility for the daughters is higher than that for the sons.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Social implications</jats:title><jats:p>The authors’ results remark on the importance of social welfare policies aimed to expand a meritocratic public education system including schooling transfers for lower social class students and narrowing the gender gap in educational mobility between daughters and sons. Social welfare policies should also be oriented to spread high quality child care systems that help to foster greater women equality in the labor market, because the strength of educational persistence depends on the position of the mother in the economic hierarchy.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Originality/value</jats:title><jats:p>The distinctiveness of the paper can be found in the fact that this study investigates the parental role differentiating by gender and coupling hierarchical cluster analysis on principal components with panel regression models. This allows us to have a sample of 93 countries aggregated in four groups defined in two dimensions: redistributive policy and governance. Amongst the determinants of educational transmission, we consider not only education’s years of the parents but also other determinants, such as educational inequality and privilege of the parents. We also identify the effects of investment in human capital and educational inequalities for the descendants on education mobility.</jats:p></jats:sec>",
+  "DOI": "10.1108/jes-05-2023-0246",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        14
+      ]
+    ],
+    "date-time": "2024-03-14T20:30:16Z",
+    "timestamp": 1710448216000
+  },
+  "page": "1586-1612",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "The parental role in intergenerational educational persistence: an empirical investigation with cross-country panel data"
+  ],
+  "prefix": "10.1108",
+  "volume": "51",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0008-5047-8017",
+      "authenticated-orcid": false,
+      "given": "Francesco",
+      "family": "Salomone Marino",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2911-1746",
+      "authenticated-orcid": false,
+      "given": "Maria",
+      "family": "Berrittella",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "140",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        15
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "6",
+      "key": "key2024112616155380600_ref001",
+      "doi-asserted-by": "publisher",
+      "first-page": "1153",
+      "DOI": "10.1086/260831",
+      "article-title": "An equilibrium theory of the distribution of income and intergenerational mobility",
+      "volume": "87",
+      "year": "1979",
+      "journal-title": "Journal of Political Economy"
+    },
+    {
+      "issue": "3 Part 2",
+      "key": "key2024112616155380600_ref002",
+      "doi-asserted-by": "publisher",
+      "first-page": "S1",
+      "DOI": "10.1086/298118",
+      "article-title": "Human capital and the rise and fall of families",
+      "volume": "4",
+      "year": "1986",
+      "journal-title": "Journal of Labor Economics"
+    },
+    {
+      "key": "key2024112616155380600_ref003",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Behrman, J.R. (2021), “Human capital and social mobility in low-and middle- income countries”, in Iversen, V., Krishna, A. and Sen, K. (Eds), Social Mobility in Developing Countries: Concepts, Methods, and Determinants, online edn, Oxford Academic, Oxford.",
+      "DOI": "10.1093/oso/9780192896858.003.0013"
+    },
+    {
+      "issue": "4",
+      "key": "key2024112616155380600_ref004",
+      "doi-asserted-by": "publisher",
+      "first-page": "353",
+      "DOI": "10.1016/j.rssm.2006.10.001",
+      "article-title": "Welfare states and social mobility: how educational and social policy may affect cross-national differences in the association between occupational origins and destinations",
+      "volume": "24",
+      "year": "2006",
+      "journal-title": "Research in Social Stratification and Mobility"
+    },
+    {
+      "issue": "1",
+      "key": "key2024112616155380600_ref005",
+      "doi-asserted-by": "publisher",
+      "first-page": "84",
+      "DOI": "10.2307/2095342",
+      "article-title": "Number of siblings and educational mobility",
+      "volume": "50",
+      "year": "1985",
+      "journal-title": "American Sociological Review"
+    },
+    {
+      "issue": "3 Part 2",
+      "key": "key2024112616155380600_ref006",
+      "doi-asserted-by": "publisher",
+      "first-page": "S219",
+      "DOI": "10.1086/259996",
+      "article-title": "Schooling and inequality from generation to generation",
+      "volume": "80",
+      "year": "1972",
+      "journal-title": "Journal of Political Economy"
+    },
+    {
+      "issue": "519",
+      "key": "key2024112616155380600_ref007",
+      "doi-asserted-by": "publisher",
+      "first-page": "72",
+      "DOI": "10.1111/j.1468-0297.2007.02036.x",
+      "article-title": "Non linearities in intergenerational earnings mobility: consequences for cross-country comparisons",
+      "volume": "117",
+      "year": "2007",
+      "journal-title": "Economic Journal"
+    },
+    {
+      "key": "key2024112616155380600_ref008",
+      "doi-asserted-by": "publisher",
+      "first-page": "102",
+      "DOI": "10.1016/j.ijedudev.2019.102122",
+      "article-title": "Inequalities in access to higher education in Africa: how large are they? Do they mirror the situation in the metropole 60 years ago?",
+      "volume": "72",
+      "year": "2020",
+      "journal-title": "International Journal of Educational Development"
+    },
+    {
+      "key": "key2024112616155380600_ref009",
+      "volume-title": "The Son Also Rises: Surnames and the History of Social Mobility",
+      "year": "2014"
+    },
+    {
+      "issue": "3",
+      "key": "key2024112616155380600_ref010",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.1257/jep.27.3.79",
+      "article-title": "Income inequality, equality of opportunity, and intergenerational mobility",
+      "volume": "27",
+      "year": "2013",
+      "journal-title": "Journal of Economic Perspectives"
+    },
+    {
+      "issue": "1",
+      "key": "key2024112616155380600_ref011",
+      "doi-asserted-by": "publisher",
+      "first-page": "210",
+      "DOI": "10.2307/146246",
+      "article-title": "Intergenerational correlations in labor market status: a comparison of the United States and Germany",
+      "volume": "32",
+      "year": "1997",
+      "journal-title": "Journal of Human Resources"
+    },
+    {
+      "key": "key2024112616155380600_ref012",
+      "first-page": "30",
+      "article-title": "Intergenerational education mobility: an international comparison with a focus on postsecondary education",
+      "volume": "5",
+      "year": "1998",
+      "journal-title": "Education Quarterly Review"
+    },
+    {
+      "issue": "1",
+      "key": "key2024112616155380600_ref013",
+      "doi-asserted-by": "publisher",
+      "first-page": "49",
+      "DOI": "10.1007/s40797-021-00157-0",
+      "article-title": "Intergenerational upward (Im)mobility and political support of public education spending",
+      "volume": "8",
+      "year": "2022",
+      "journal-title": "Italian Economic Journal"
+    },
+    {
+      "issue": "3",
+      "key": "key2024112616155380600_ref014",
+      "doi-asserted-by": "publisher",
+      "first-page": "589",
+      "DOI": "10.3368/jhr.53.3.0216-7737r1",
+      "article-title": "When measure matters",
+      "volume": "53",
+      "year": "2018",
+      "journal-title": "Journal of Human Resources"
+    },
+    {
+      "key": "key2024112616155380600_ref015",
+      "doi-asserted-by": "publisher",
+      "first-page": "246",
+      "DOI": "10.2307/2841583",
+      "article-title": "Regression towards mediocrity in hereditary stature",
+      "volume": "15",
+      "year": "1886",
+      "journal-title": "The Journal of the Anthropological Institute of Great Britain and Ireland"
+    },
+    {
+      "issue": "4",
+      "key": "key2024112616155380600_ref016",
+      "doi-asserted-by": "publisher",
+      "first-page": "339",
+      "DOI": "10.1016/s0967-067x(99)00017-3",
+      "article-title": "Access to education in six Eastern European countries between 1940 and 1985",
+      "volume": "32",
+      "year": "1999",
+      "journal-title": "Results of a Cross- National Survey, Communist and Post-Communist Studies"
+    },
+    {
+      "key": "key2024112616155380600_ref017",
+      "article-title": "Global database on intergenerational mobility",
+      "author": "GDIM",
+      "year": "2023"
+    },
+    {
+      "issue": "3",
+      "key": "key2024112616155380600_ref018",
+      "first-page": "504",
+      "article-title": "Economic and mechanical models of intergenerational transmission",
+      "volume": "79",
+      "year": "1989",
+      "journal-title": "American Economic Review"
+    },
+    {
+      "issue": "2",
+      "key": "key2024112616155380600_ref019",
+      "doi-asserted-by": "publisher",
+      "first-page": "99",
+      "DOI": "10.2307/2112516",
+      "article-title": "Equality of schooling: trends and prospects",
+      "volume": "49",
+      "year": "1976",
+      "journal-title": "Sociology of Education"
+    },
+    {
+      "issue": "4",
+      "key": "key2024112616155380600_ref020",
+      "doi-asserted-by": "publisher",
+      "first-page": "507",
+      "DOI": "10.2307/145765",
+      "article-title": "An investigation of the labor market earnings of Panamanian males: evaluating sources of inequality",
+      "volume": "21",
+      "year": "1986",
+      "journal-title": "Journal of Human Resources"
+    },
+    {
+      "issue": "2",
+      "key": "key2024112616155380600_ref021",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.2202/1935-1682.1775",
+      "article-title": "The inheritance of education inequality: inter- national comparisons and fifty-year trends",
+      "volume": "7",
+      "year": "2008",
+      "journal-title": "The BE Journal of Economic Analysis and Policy"
+    },
+    {
+      "key": "key2024112616155380600_ref022",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.rssm.2023.100815",
+      "article-title": "When lines of class division run through families: comparing mother's and father's influence on social destiny",
+      "volume": "86",
+      "year": "2023",
+      "journal-title": "Research in Social Stratification and Mobility"
+    },
+    {
+      "key": "key2024112616155380600_ref023",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.econlet.2021.110054",
+      "article-title": "The great Gatsby curve in education with a kink",
+      "volume": "208",
+      "year": "2021",
+      "journal-title": "Economics Letters"
+    },
+    {
+      "issue": "2",
+      "key": "key2024112616155380600_ref024",
+      "doi-asserted-by": "publisher",
+      "first-page": "151",
+      "DOI": "10.1177/09589287221148336",
+      "article-title": "Gendered employment patterns: women's labour market outcomes across 24 countries",
+      "volume": "33",
+      "year": "2023",
+      "journal-title": "Journal of European Social Policy"
+    },
+    {
+      "issue": "4",
+      "key": "key2024112616155380600_ref025",
+      "doi-asserted-by": "publisher",
+      "first-page": "571",
+      "DOI": "10.1108/ijse-09-2020-0643",
+      "article-title": "Mothers, sons and daughters: intergenerational transmission of education in Canada",
+      "volume": "48",
+      "year": "2021",
+      "journal-title": "International Journal of Social Economics"
+    },
+    {
+      "issue": "4",
+      "key": "key2024112616155380600_ref026",
+      "doi-asserted-by": "publisher",
+      "first-page": "1126",
+      "DOI": "10.2307/146136",
+      "article-title": "Intergenerational educational mobility: effects of family and state in Malaysia",
+      "volume": "29",
+      "year": "1994",
+      "journal-title": "Journal of Human Resources"
+    },
+    {
+      "key": "key2024112616155380600_ref027",
+      "volume-title": "Fair Progress?: Economic Mobility across Generations Around the World",
+      "year": "2018"
+    },
+    {
+      "issue": "2",
+      "key": "key2024112616155380600_ref028",
+      "doi-asserted-by": "publisher",
+      "first-page": "413",
+      "DOI": "10.1007/s10663-015-9291-5",
+      "article-title": "Gender in intergenerational educational persistence across time and place",
+      "volume": "42",
+      "year": "2015",
+      "journal-title": "Empirica"
+    },
+    {
+      "key": "key2024112616155380600_ref029",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Solon, G. (2004), “A model of intergenerational mobility variation over time and place”, in Corak, M. (Ed.), Generational Income Mobility in North America and Europe, Cambridge University Press, pp. 38-47, 2004.",
+      "DOI": "10.1017/CBO9780511492549.003"
+    },
+    {
+      "key": "key2024112616155380600_ref030",
+      "doi-asserted-by": "publisher",
+      "first-page": "13",
+      "DOI": "10.1016/j.rssm.2013.09.005",
+      "article-title": "Theoretical models of inequality transmission across multiple generations",
+      "volume": "35",
+      "year": "2014",
+      "journal-title": "Research in Social Stratification and Mobility"
+    },
+    {
+      "issue": "3",
+      "key": "key2024112616155380600_ref031",
+      "doi-asserted-by": "publisher",
+      "first-page": "273",
+      "DOI": "10.1086/224475",
+      "article-title": "Educational mobility and access: growth and para- doxes",
+      "volume": "73",
+      "year": "1967",
+      "journal-title": "American Journal of Sociology"
+    },
+    {
+      "issue": "2",
+      "key": "key2024112616155380600_ref032",
+      "first-page": "330",
+      "article-title": "Education across generations in South Africa",
+      "volume": "86",
+      "year": "1996",
+      "journal-title": "American Economic Review"
+    },
+    {
+      "key": "key2024112616155380600_ref033",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Torche, F. (2021), “Educational mobility in the developing world”, in Iversen, V., Krishna, A. and Sen, K. (Eds), Social Mobility in Developing Countries: Concepts, Methods, and Determinants, online edn, Oxford Academic, Oxford.",
+      "DOI": "10.1093/oso/9780192896858.003.0007"
+    },
+    {
+      "key": "key2024112616155380600_ref034",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jdeveco.2023.103167",
+      "article-title": "Intergenerational mobility around the world: a new database",
+      "volume": "166",
+      "year": "2024",
+      "journal-title": "Journal of Development Economics"
+    }
+  ],
+  "container-title": [
+    "Journal of Economic Studies"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.emerald.com/insight/content/doi/10.1108/JES-05-2023-0246/full/xml",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.emerald.com/insight/content/doi/10.1108/JES-05-2023-0246/full/html",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        24
+      ]
+    ],
+    "date-time": "2025-07-24T22:36:07Z",
+    "timestamp": 1753396567000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.emerald.com/jes/article/51/8/1586-1612/1226102"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        15
+      ]
+    ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+    "issue": "8",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          15
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          27
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1108/JES-05-2023-0246"
+  ],
+  "URL": "https://doi.org/10.1108/jes-05-2023-0246",
+  "relation": {},
+  "ISSN": [
+    "0144-3585"
+  ],
+  "issn-type": [
+    {
+      "value": "0144-3585",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        15
+      ]
+    ]
+  }
+}

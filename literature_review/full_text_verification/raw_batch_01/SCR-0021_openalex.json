@@ -1,0 +1,1064 @@
+{
+  "id": "https://openalex.org/W2612123448",
+  "doi": "https://doi.org/10.1787/41d175fc-en",
+  "title": "Who Makes It Into PISA? Understanding the Impact of PISA Sample Eligibility Using Turkey as a Case Study (PISA 2003 - PISA 2012)",
+  "display_name": "Who Makes It Into PISA? Understanding the Impact of PISA Sample Eligibility Using Turkey as a Case Study (PISA 2003 - PISA 2012)",
+  "publication_year": 2017,
+  "publication_date": "2017-03-24",
+  "ids": {
+    "openalex": "https://openalex.org/W2612123448",
+    "doi": "https://doi.org/10.1787/41d175fc-en",
+    "mag": "2612123448"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1787/41d175fc-en",
+    "doi": "https://doi.org/10.1787/41d175fc-en",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1787/41d175fc-en",
+    "pdf_url": "https://www.oecd-ilibrary.org/deliver/41d175fc-en.pdf?itemId=%2Fcontent%2Fpaper%2F41d175fc-en&mimeType=pdf",
+    "source": {
+      "id": "https://openalex.org/S4210230829",
+      "display_name": "OECD education working papers",
+      "issn_l": "1993-9019",
+      "issn": [
+        "1993-9019"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "OECD Education Working Papers",
+    "raw_type": "report"
+  },
+  "volume": null,
+  "type": "report",
+  "is_traditional": false,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.oecd-ilibrary.org/deliver/41d175fc-en.pdf?itemId=%2Fcontent%2Fpaper%2F41d175fc-en&mimeType=pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5053345365",
+        "display_name": "Nicholas Spaull",
+        "orcid": "https://orcid.org/0000-0002-2970-5229",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-2970-5229"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I26092322",
+          "display_name": "Stellenbosch University",
+          "ror": "https://ror.org/05bk57929",
+          "country_code": "ZA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I26092322"
+          ]
+        }
+      ],
+      "countries": [
+        "ZA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Nicholas Spaull",
+      "raw_affiliation_strings": [
+        "Stellenbosch University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Stellenbosch University",
+          "institution_ids": [
+            "https://openalex.org/I26092322"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5053345365"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I26092322"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11300",
+    "display_name": "Global Educational Policies and Reforms",
+    "score": 0.8964999914169312,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3320",
+      "display_name": "Political Science and International Relations"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11300",
+      "display_name": "Global Educational Policies and Reforms",
+      "score": 0.8964999914169312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.07689999788999557,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13405",
+      "display_name": "Educational Assessment and Improvement",
+      "score": 0.006599999964237213,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/pisa",
+      "display_name": "PISA",
+      "score": 0.7820000052452087
+    },
+    {
+      "id": "https://openalex.org/keywords/sample-representativeness",
+      "display_name": "sample representativeness",
+      "score": 0.6370000243186951
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.4490000009536743
+    },
+    {
+      "id": "https://openalex.org/keywords/functional-literacy",
+      "display_name": "functional literacy",
+      "score": 0.8560000061988831
+    },
+    {
+      "id": "https://openalex.org/keywords/student-performance-trends",
+      "display_name": "student achievement trends",
+      "score": 0.4779999852180481
+    },
+    {
+      "id": "https://openalex.org/keywords/school-dropout",
+      "display_name": "school dropout",
+      "score": 0.3790000081062317
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-delay",
+      "display_name": "educational delay",
+      "score": 0.43799999356269836
+    },
+    {
+      "id": "https://openalex.org/keywords/turkey",
+      "display_name": "Turkey",
+      "score": 0.5090000033378601
+    },
+    {
+      "id": "https://openalex.org/keywords/international-student-assessment",
+      "display_name": "international student assessment",
+      "score": 0.4869999885559082
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C53537400",
+      "wikidata": "https://www.wikidata.org/wiki/Q140637",
+      "display_name": "Numeracy",
+      "level": 3,
+      "score": 0.8323007822036743
+    },
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.5506932735443115
+    },
+    {
+      "id": "https://openalex.org/C198327121",
+      "wikidata": "https://www.wikidata.org/wiki/Q7410163",
+      "display_name": "Sampling frame",
+      "level": 3,
+      "score": 0.5340591669082642
+    },
+    {
+      "id": "https://openalex.org/C2777216955",
+      "wikidata": "https://www.wikidata.org/wiki/Q18351911",
+      "display_name": "International comparisons",
+      "level": 2,
+      "score": 0.49333515763282776
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.45038866996765137
+    },
+    {
+      "id": "https://openalex.org/C198531522",
+      "wikidata": "https://www.wikidata.org/wiki/Q485146",
+      "display_name": "Sample (material)",
+      "level": 2,
+      "score": 0.4465555250644684
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4389115571975708
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.4073472321033478
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.39099687337875366
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.3613584041595459
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.2117728888988495
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.19546103477478027
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.18814969062805176
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.14227333664894104
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.0930817723274231
+    },
+    {
+      "id": "https://openalex.org/C43617362",
+      "wikidata": "https://www.wikidata.org/wiki/Q170050",
+      "display_name": "Chromatography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1787/41d175fc-en",
+      "doi": "https://doi.org/10.1787/41d175fc-en",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1787/41d175fc-en",
+      "pdf_url": "https://www.oecd-ilibrary.org/deliver/41d175fc-en.pdf?itemId=%2Fcontent%2Fpaper%2F41d175fc-en&mimeType=pdf",
+      "source": {
+        "id": "https://openalex.org/S4210230829",
+        "display_name": "OECD education working papers",
+        "issn_l": "1993-9019",
+        "issn": [
+          "1993-9019"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "OECD Education Working Papers",
+      "raw_type": "report"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1787/41d175fc-en",
+    "doi": "https://doi.org/10.1787/41d175fc-en",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1787/41d175fc-en",
+    "pdf_url": "https://www.oecd-ilibrary.org/deliver/41d175fc-en.pdf?itemId=%2Fcontent%2Fpaper%2F41d175fc-en&mimeType=pdf",
+    "source": {
+      "id": "https://openalex.org/S4210230829",
+      "display_name": "OECD education working papers",
+      "issn_l": "1993-9019",
+      "issn": [
+        "1993-9019"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "OECD Education Working Papers",
+    "raw_type": "report"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8974000215530396,
+      "display_name": "Reduced inequalities",
+      "id": "https://metadata.un.org/sdg/10"
+    },
+    {
+      "score": 0.6164000034332275,
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2612123448.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2612123448.grobid-xml"
+  },
+  "referenced_works_count": 34,
+  "referenced_works": [
+    "https://openalex.org/W610515939",
+    "https://openalex.org/W640577565",
+    "https://openalex.org/W1480274481",
+    "https://openalex.org/W1501740630",
+    "https://openalex.org/W1524738911",
+    "https://openalex.org/W1589515948",
+    "https://openalex.org/W1730194634",
+    "https://openalex.org/W1887298485",
+    "https://openalex.org/W1900104834",
+    "https://openalex.org/W1973280438",
+    "https://openalex.org/W2003921352",
+    "https://openalex.org/W2009559431",
+    "https://openalex.org/W2014267260",
+    "https://openalex.org/W2047874219",
+    "https://openalex.org/W2096945481",
+    "https://openalex.org/W2106283970",
+    "https://openalex.org/W2132073984",
+    "https://openalex.org/W2134078187",
+    "https://openalex.org/W2139281670",
+    "https://openalex.org/W2163921928",
+    "https://openalex.org/W2164928682",
+    "https://openalex.org/W2167691107",
+    "https://openalex.org/W2168149114",
+    "https://openalex.org/W2291932025",
+    "https://openalex.org/W2340152360",
+    "https://openalex.org/W2354200557",
+    "https://openalex.org/W2482499561",
+    "https://openalex.org/W2794003266",
+    "https://openalex.org/W3122871200",
+    "https://openalex.org/W3212211465",
+    "https://openalex.org/W4233721855",
+    "https://openalex.org/W4246395703",
+    "https://openalex.org/W4247256386",
+    "https://openalex.org/W4255591583"
+  ],
+  "related_works": [
+    "https://openalex.org/W3122561566",
+    "https://openalex.org/W3013586637",
+    "https://openalex.org/W7008584608",
+    "https://openalex.org/W4389412051",
+    "https://openalex.org/W3122890936",
+    "https://openalex.org/W3035329084",
+    "https://openalex.org/W3089329216",
+    "https://openalex.org/W7097431687",
+    "https://openalex.org/W4382894271",
+    "https://openalex.org/W7100292577"
+  ],
+  "abstract_inverted_index": {
+    "Of": [
+      0
+    ],
+    "the": [
+      1,
+      7,
+      18,
+      24,
+      61,
+      71,
+      105,
+      114,
+      149,
+      152,
+      181,
+      209,
+      225
+    ],
+    "OECD": [
+      2
+    ],
+    "countries": [
+      3,
+      247
+    ],
+    "that": [
+      4,
+      43,
+      67,
+      104,
+      110,
+      174
+    ],
+    "participate": [
+      5
+    ],
+    "in": [
+      6,
+      29,
+      39,
+      52,
+      81,
+      117,
+      124,
+      129,
+      151,
+      160,
+      176,
+      183,
+      192
+    ],
+    "Programme": [
+      8
+    ],
+    "for": [
+      9,
+      70,
+      97,
+      113,
+      229,
+      245
+    ],
+    "International": [
+      10
+    ],
+    "Student": [
+      11
+    ],
+    "Assessment": [
+      12
+    ],
+    "(PISA),": [
+      13
+    ],
+    "Turkey": [
+      14,
+      53,
+      118
+    ],
+    "has": [
+      15,
+      119,
+      215
+    ],
+    "one": [
+      16
+    ],
+    "of": [
+      17,
+      21,
+      27,
+      64,
+      107,
+      154,
+      227
+    ],
+    "lowest": [
+      19
+    ],
+    "levels": [
+      20
+    ],
+    "performance": [
+      22
+    ],
+    "and": [
+      23,
+      34,
+      50,
+      92,
+      100,
+      138,
+      164,
+      189,
+      203,
+      213,
+      220,
+      232,
+      237
+    ],
+    "highest": [
+      25
+    ],
+    "rates": [
+      26,
+      186
+    ],
+    "improvement": [
+      28,
+      150
+    ],
+    "PISA": [
+      30,
+      72,
+      115,
+      125,
+      130,
+      139,
+      161,
+      178
+    ],
+    "scores": [
+      31
+    ],
+    "between": [
+      32,
+      187,
+      211,
+      218
+    ],
+    "2003": [
+      33,
+      219
+    ],
+    "2012.": [
+      35,
+      131,
+      221
+    ],
+    "New": [
+      36
+    ],
+    "evidence": [
+      37
+    ],
+    "presented": [
+      38
+    ],
+    "this": [
+      40
+    ],
+    "paper": [
+      41,
+      223
+    ],
+    "suggests": [
+      42
+    ],
+    "existing": [
+      44
+    ],
+    "accounts": [
+      45
+    ],
+    "have": [
+      46
+    ],
+    "underestimated": [
+      47
+    ],
+    "both": [
+      48
+    ],
+    "progress": [
+      49
+    ],
+    "inequity": [
+      51
+    ],
+    "because": [
+      54,
+      76,
+      84
+    ],
+    "they": [
+      55,
+      77,
+      85
+    ],
+    "did": [
+      56
+    ],
+    "not": [
+      57,
+      216
+    ],
+    "take": [
+      58
+    ],
+    "into": [
+      59
+    ],
+    "account": [
+      60
+    ],
+    "large": [
+      62,
+      172,
+      198
+    ],
+    "proportion": [
+      63,
+      106
+    ],
+    "15-16": [
+      65,
+      108,
+      155
+    ],
+    "year-olds": [
+      66,
+      109,
+      156
+    ],
+    "are": [
+      68,
+      78,
+      86
+    ],
+    "ineligible": [
+      69
+    ],
+    "sampling": [
+      73
+    ],
+    "frame,": [
+      74
+    ],
+    "either": [
+      75
+    ],
+    "no": [
+      79
+    ],
+    "longer": [
+      80
+    ],
+    "school": [
+      82
+    ],
+    "or": [
+      83
+    ],
+    "severely": [
+      87
+    ],
+    "delayed.": [
+      88
+    ],
+    "Using": [
+      89
+    ],
+    "Turkey’s": [
+      90
+    ],
+    "Demographic": [
+      91
+    ],
+    "Health": [
+      93
+    ],
+    "Survey": [
+      94
+    ],
+    "(DHS)": [
+      95
+    ],
+    "data": [
+      96,
+      135,
+      141
+    ],
+    "2003,": [
+      98,
+      126
+    ],
+    "2008": [
+      99
+    ],
+    "2013": [
+      101
+    ],
+    "we": [
+      102,
+      145
+    ],
+    "show": [
+      103,
+      146
+    ],
+    "were": [
+      111
+    ],
+    "eligible": [
+      112
+    ],
+    "sample": [
+      116,
+      230
+    ],
+    "nearly": [
+      120
+    ],
+    "doubled": [
+      121
+    ],
+    "from": [
+      122
+    ],
+    "45%": [
+      123
+    ],
+    "to": [
+      127,
+      169,
+      206
+    ],
+    "80%": [
+      128
+    ],
+    "By": [
+      132
+    ],
+    "combining": [
+      133
+    ],
+    "DHS": [
+      134
+    ],
+    "on": [
+      136,
+      142
+    ],
+    "access/attainment": [
+      137
+    ],
+    "survey": [
+      140
+    ],
+    "learning": [
+      143
+    ],
+    "outcomes": [
+      144
+    ],
+    "that:": [
+      147
+    ],
+    "(1)": [
+      148
+    ],
+    "percentage": [
+      153
+    ],
+    "reaching": [
+      157
+    ],
+    "Level": [
+      158
+    ],
+    "2": [
+      159
+    ],
+    "(functional": [
+      162
+    ],
+    "literacy": [
+      163,
+      185
+    ],
+    "functional": [
+      165,
+      184
+    ],
+    "numeracy)": [
+      166
+    ],
+    "is": [
+      167,
+      194
+    ],
+    "up": [
+      168
+    ],
+    "twice": [
+      170
+    ],
+    "as": [
+      171,
+      173,
+      197,
+      199
+    ],
+    "reflected": [
+      175
+    ],
+    "official": [
+      177
+    ],
+    "reports,": [
+      179
+    ],
+    "(2)": [
+      180
+    ],
+    "gap": [
+      182,
+      210
+    ],
+    "rich": [
+      188,
+      212
+    ],
+    "poor": [
+      190,
+      214
+    ],
+    "youth": [
+      191
+    ],
+    "2012": [
+      193
+    ],
+    "2.3": [
+      195
+    ],
+    "times": [
+      196
+    ],
+    "was": [
+      200
+    ],
+    "previously": [
+      201
+    ],
+    "thought,": [
+      202
+    ],
+    "(3)": [
+      204
+    ],
+    "contrary": [
+      205
+    ],
+    "earlier": [
+      207
+    ],
+    "research": [
+      208
+    ],
+    "declined": [
+      217
+    ],
+    "The": [
+      222
+    ],
+    "emphasises": [
+      224
+    ],
+    "importance": [
+      226
+    ],
+    "accounting": [
+      228
+    ],
+    "eligibility": [
+      231
+    ],
+    "representivity": [
+      233
+    ],
+    "when": [
+      234
+    ],
+    "making": [
+      235
+    ],
+    "inter-country": [
+      236
+    ],
+    "inter-temporal": [
+      238
+    ],
+    "comparisons": [
+      239
+    ],
+    "using": [
+      240
+    ],
+    "international": [
+      241
+    ],
+    "assessment": [
+      242
+    ],
+    "data,": [
+      243
+    ],
+    "particularly": [
+      244
+    ],
+    "developing": [
+      246
+    ],
+    "with": [
+      248
+    ],
+    "expanding": [
+      249
+    ],
+    "education": [
+      250
+    ],
+    "systems.": [
+      251
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-11-12T12:28:57.059296",
+  "created_date": "2017-05-19T00:00:00"
+}

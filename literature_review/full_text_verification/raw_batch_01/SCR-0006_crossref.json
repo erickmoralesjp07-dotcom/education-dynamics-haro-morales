@@ -1,0 +1,106 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        27
+      ]
+    ],
+    "date-time": "2026-07-27T10:04:14Z",
+    "timestamp": 1785146654803,
+    "version": "3.55.0"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2004
+      ]
+    ]
+  },
+  "group-title": "SSRN",
+  "reference-count": 0,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>This paper examines differences in educational achievement between immigrants andnatives in ten countries with a high population of immigrant pupils: Australia, Canada, France,Germany, the Netherlands, New Zealand, Sweden, Switzerland, the UK and the USA. Thefirst step of the analysis shows how far countries differ regarding immigrants educationaldisadvantage. In a second step, the paper compares immigrants characteristics acrosscountries focusing predominantly on socioeconomic status, language proficiency, immigrantstime spent in the host country and patterns of school segregation. Using a regressionframework the last step of the analysis investigates how far these determinants ofeducational achievement can explain immigrants educational disadvantage in the countriesexamined. The paper evaluates whether results found are robust across different sources ofachievement data: the Trends in International Maths and Science Study (TIMSS), theProgramme of International Student Assessment (PISA) and the Programme of InternationalReading Literacy Study (PIRLS).</jats:p>",
+  "DOI": "10.2139/ssrn.621062",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        16
+      ]
+    ],
+    "date-time": "2021-11-16T23:01:16Z",
+    "timestamp": 1637103676000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 29,
+  "title": [
+    "How Different are Immigrants? A Cross-Country and Cross-Survey Analysis of Educational Achievement"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-0768-5682",
+      "authenticated-orcid": true,
+      "given": "Sylke V.",
+      "family": "Schnepf",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        27
+      ]
+    ],
+    "date-time": "2026-07-27T09:13:54Z",
+    "timestamp": 1785143634000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=621062"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2004
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.2139/ssrn.621062",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2004
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

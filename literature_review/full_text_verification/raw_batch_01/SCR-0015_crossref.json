@@ -1,0 +1,207 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ],
+    "date-time": "2026-09-21T07:04:50Z",
+    "timestamp": 1789974290618,
+    "version": "4.0.1"
+  },
+  "reference-count": 0,
+  "publisher": "Academia Publications LTD",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            19
+          ]
+        ],
+        "date-time": "2025-12-19T00:00:00Z",
+        "timestamp": 1766102400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Insights Comput. Sci."
+  ],
+  "abstract": "<jats:p>Background and Objective: The study aims to develop and evaluate EduForecast, a predictive framework designed to estimate global educational performance. The primary objective is to compare the predictive accuracy of two ensemble machine-learning algorithms—Extreme Gradient Boosting (XGBoost) and Random Forest—using internationally sourced education indicators.\nMaterials and Methods: A comprehensive dataset encompassing key educational and socioeconomic variables was utilized, including GDP Share of Education, Literacy-to-Enrollment Ratio, Student–Teacher Ratio, and the Education Development Index. Enrollment Rate served as the target variable. Data preprocessing involved feature engineering and normalization procedures. Model development employed an 80–20 train–test split combined with five-fold cross-validation to ensure robustness. Both algorithms were trained and optimized using standard regression performance metrics.\nResults: XGBoost demonstrated superior predictive performance, achieving an R² value of 0.90, compared with 0.85 for the Random Forest model. Additionally, XGBoost exhibited lower Root Mean Square Error (RMSE) and Mean Absolute Error (MAE), indicating higher precision and reduced prediction variability. The Education Development Index and Literacy-to-Enrollment Ratio emerged as the most influential predictors in both models.\nConclusion: The findings indicate that ensemble-based regression algorithms, particularly XGBoost, offer strong predictive capabilities for analyzing global education performance. The EduForecast framework provides a practical and transparent data-driven tool that can support policymakers and educational planners in evidence-based decision-making.</jats:p>",
+  "DOI": "10.68163/ics.2025.40",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ],
+    "date-time": "2026-09-21T06:52:32Z",
+    "timestamp": 1789973552000
+  },
+  "page": "19-25",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "EduForecast: A Comparative AI Model for Predicting Global Education Performance through XGBoost and Random Forest Intelligence"
+  ],
+  "prefix": "10.68163",
+  "volume": "1",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0000-8008-8206",
+      "authenticated-orcid": false,
+      "given": "Jose Jr.",
+      "family": "Agoylo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lykzelle Mae",
+      "family": "C. Padasas",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Gardenia B.",
+      "family": "Concillo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0006-3276-1105",
+      "authenticated-orcid": false,
+      "given": "Jimson A.",
+      "family": "Olaybar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alex C.",
+      "family": "Bacalla",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "57945",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        19
+      ]
+    ]
+  },
+  "container-title": [
+    "Insights in Computer Science"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://acadpub.com/ics/article/download/eduforecast-ai-model-global-education-performance-xgboost-random-forest/28",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://acadpub.com/ics/article/download/eduforecast-ai-model-global-education-performance-xgboost-random-forest/28",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ],
+    "date-time": "2026-09-21T06:52:33Z",
+    "timestamp": 1789973553000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://acadpub.com/ics/article/view/eduforecast-ai-model-global-education-performance-xgboost-random-forest"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        19
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.68163/ics.2025.40",
+  "relation": {},
+  "ISSN": [
+    "2978-8668"
+  ],
+  "issn-type": [
+    {
+      "value": "2978-8668",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        19
+      ]
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        16
+      ]
+    ],
+    "date-time": "2025-09-16T16:27:57Z",
+    "timestamp": 1758040077677,
+    "version": "3.44.0"
+  },
+  "reference-count": 57,
+  "publisher": "Consortia Academia Publishing",
+  "issue": "6",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IJRSM"
+  ],
+  "DOI": "10.5861/ijrsm.2025.25095",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2025-09-11T06:00:52Z",
+    "timestamp": 1757570452000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Strategic management of equity in early childhood education: A mathematical framework with clustering, inequality metrics, and system dynamics"
+  ],
+  "prefix": "10.5861",
+  "volume": "13",
+  "author": [
+    {
+      "given": "Tsai-Hsin",
+      "family": "Lo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Wei-Hang",
+      "family": "Lo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "3886",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "unstructured": "Alexander, R. (2001). Culture and pedagogy: International comparisons in primary education. Wiley-Blackwell.",
+      "key": "ref0"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bakken, L., Brown, N., & Downing, B. (2017). Early childhood education: The long-term benefits. Journal of Research in Childhood Education, 31(2), 255-269. https://doi.org/10.1080/02568543.2016.1273285",
+      "key": "ref1",
+      "DOI": "10.1080/02568543.2016.1273285"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Barnett, W. S. (1995). Long-term effects of early childhood programs on cognitive and school outcomes. The Future of Children, 5(3), 25-50. https://doi.org/10.2307/1602366",
+      "key": "ref2",
+      "DOI": "10.2307/1602366"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Barnett, W. S., & Belfield, C. R. (2006). Early childhood development and social mobility. The Future of Children, 16(2), 73-98.",
+      "key": "ref3",
+      "DOI": "10.1353/foc.2006.0011"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Barr, A., & Gibbs, C. R. (2022). Breaking the cycle? Intergenerational effects of an antipoverty program in early childhood. Journal of Political Economy, 130(12), 3253-3285. https://doi.org/10.1086/720764",
+      "key": "ref4",
+      "DOI": "10.1086/720764"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Beblavý, M., Thum, A.-E., & Veselkova, M. (2013). Education and social protection policies in OECD countries: Social stratification and policy intervention. Journal of European Social Policy, 23(5), 487-503. https://doi.org/10.1177/0958928713499174",
+      "key": "ref5",
+      "DOI": "10.1177/0958928713499174"
+    },
+    {
+      "unstructured": "Bradshaw, J., Hoelscher, P., & Richardson, D. (2006). Comparing child well-being in OECD countries: Concepts and methods. UNICEF Innocenti Research Centre. https://doi.org/10.18356/3b3190da-en",
+      "key": "ref6"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bray, M., & Thomas, R. M. (1995). Levels of comparison in educational studies: Different insights from different literatures and the value of multilevel analyses. Harvard Educational Review, 65(3), 472-490.",
+      "key": "ref7",
+      "DOI": "10.17763/haer.65.3.g3228437224v4877"
+    },
+    {
+      "unstructured": "Busolo, B., & Agembo, W. (2017). Access and equity in early childhood education: Challenges and opportunities. Baraton Interdisciplinary Research Journal, 7, 1-7.",
+      "key": "ref8"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Capano, G., & Engeli, I. (2022). Using instrument typologies in comparative research: Conceptual and methodological trade-offs. Journal of Comparative Policy Analysis: Research and Practice, 24(2), 99-116. https://doi.org/10.1080/13876988.2020.1871297",
+      "key": "ref9",
+      "DOI": "10.1080/13876988.2020.1871297"
+    },
+    {
+      "unstructured": "Chapman, T. G. (1989). Classification of regions. In Comparative hydrology: An ecological approach to land and water resources (pp. 67-74). UNESCO.",
+      "key": "ref10"
+    },
+    {
+      "unstructured": "Chi, J. (2018). Pathways for gender equality through early childhood teacher policy in China. Center for Universal Education.",
+      "key": "ref11"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cho, E. Y.-N. (2014). A clustering approach to comparing children's wellbeing across countries. Child Indicators Research, 7, 553-567. https://doi.org/10.1007/s12187-013-9229-z",
+      "key": "ref12",
+      "DOI": "10.1007/s12187-013-9229-z"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cowell, F. A. (2011). Measuring inequality. Oxford University Press.",
+      "key": "ref13",
+      "DOI": "10.1093/acprof:osobl/9780199594030.001.0001"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Darragh, J. (2007). Universal design for early childhood education: Ensuring access and equity for all. Early Childhood Education Journal, 35, 167-171. https://doi.org/10.1007/s10643-007-0177-4",
+      "key": "ref14",
+      "DOI": "10.1007/s10643-007-0177-4"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "de Vaus, D. (2008). Comparative and cross-national designs. In P. Alasuutari, L. Bickman, & J. Brannen (Eds.), The SAGE Handbook of Social Research Methods (pp. 249-264). Sage.",
+      "key": "ref15",
+      "DOI": "10.4135/9781446212165.n15"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Everitt, B. S., Landau, S., Leese, M., & Stahl, D. (2011). Cluster analysis (5th ed.). Wiley Wiley & Sons.",
+      "key": "ref16",
+      "DOI": "10.1002/9780470977811"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Farnen, R. F. (2007). Class matters: Inequality, SES, education and childhood in the USA and Canada today. Policy Futures in Education, 5(3), 278-302. https://doi.org/10.2304/pfie.2007.5.3.278",
+      "key": "ref17",
+      "DOI": "10.2304/pfie.2007.5.3.278"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Fitzmaurice, G. M., Laird, N. M., & Ware, J. H. (2011). Applied longitudinal analysis. John Wiley & Sons.",
+      "key": "ref18",
+      "DOI": "10.1002/9781119513469"
+    },
+    {
+      "unstructured": "Gini, C. (1912). Variabilitá e Mulabilitá: Contributo allo Studio delle Distribuzioni edelle Relazioni Statistiche. Tipografia di Paolo Cuppini.",
+      "key": "ref19"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ginting, T. G. (2024). Forming a solid foundation: The role of early childhood education in character development. Solo Universal Journal of Islamic Education and Multiculturalism, 2(1), 71-82. https://doi.org/10.61455/sujiem.v2i01.148",
+      "key": "ref20",
+      "DOI": "10.61455/sujiem.v2i01.148"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Gorey, K. M. (2001). Early childhood education: A meta-analytic affirmation of the short- and long-term benefits of educational opportunity. School Psychology Quarterly, 16(1), 9-30.",
+      "key": "ref21",
+      "DOI": "10.1521/scpq.16.1.9.19163"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Griffiths, U. K., Legood, R., & Pitt, C. (2016). Comparison of economic evaluation methods across low-income, middle-income and high-income countries: What are the differences and why? Health Economics, 25(S1), 29-41. https://doi.org/10.1002/hec.3312",
+      "key": "ref22",
+      "DOI": "10.1002/hec.3312"
+    },
+    {
+      "unstructured": "Heckman, J. J. (2008). The case for investing in disadvantaged young children. CESifo DICE Report, 6(2), 3-8.",
+      "key": "ref23"
+    },
+    {
+      "unstructured": "Heckman, J. J. (2011). The economics of inequality: The value of early childhood education. American Educator, 35(1), 31-35.",
+      "key": "ref24"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Karoly, L. A. (2016). The economic returns to early childhood education. The Future of Children, 26(2), 37-55.",
+      "key": "ref25",
+      "DOI": "10.1353/foc.2016.0011"
+    },
+    {
+      "unstructured": "Kaufman, L., & Rousseeuw, P. J. (2005). Finding groups in data: An introduction to cluster analysis. John Wiley & Sons.",
+      "key": "ref26"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ketchen, D. J., & Shook, C. L. (1996). The application of cluster analysis in strategic management research: An analysis and critique. Strategic Management Journal, 17(6), 441-458. https://doi.org/10.1002/(SICI)1097-0266(199606)17:6<441::AID-SMJ819>3.0.CO;2-G",
+      "key": "ref27",
+      "DOI": "10.1002/(SICI)1097-0266(199606)17:6<441::AID-SMJ819>3.0.CO;2-G"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Lu, C., Cuartas, J., Fink, G., McCoy, D., Liu, K., Li, Z., Daelmans, B., & Richter, L. (2020). Inequalities in early childhood care and development in low/middle-income countries: 2010-2018. BMJ Global Health, 5, e002314. https://doi.org/10.1136/bmjgh-2020-002314",
+      "key": "ref28",
+      "DOI": "10.1136/bmjgh-2020-002314"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Murtagh, F., & Legendre, P. (2014). Ward's hierarchical agglomerative clustering method: Which algorithms implement Ward's criterion? Journal of Classification, 31, 274-295. https://doi.org/10.1007/s00357-014-9161-z",
+      "key": "ref29",
+      "DOI": "10.1007/s00357-014-9161-z"
+    },
+    {
+      "unstructured": "Neuman, M., Hatipoglu, K., & Josephson, K. (2015). A review of the literature: Early childhood care and education (ECCE) personnel in low- and middle-income countries. UNESCO.",
+      "key": "ref30"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nordtveit, B. H. (2008). Poverty alleviation and integrated service delivery: Literacy, early child development and health. International Journal of Educational Development, 28(4), 405-418. https://doi.org/10.1016/j.ijedudev.2007.10.004",
+      "key": "ref31",
+      "DOI": "10.1016/j.ijedudev.2007.10.004"
+    },
+    {
+      "unstructured": "OECD. (2012). Equity and quality in education: Supporting disadvantaged students and schools. OECD Publishing. https://doi.org/10.1787/9789264130852-en",
+      "key": "ref32"
+    },
+    {
+      "unstructured": "Organisation for Economic Co-operation and Development [OECD]. (2017). Starting strong V: Transitions from early childhood education and care to primary education. OECD Publishing. https://doi.org/10.1787/9789264276253-en",
+      "key": "ref33"
+    },
+    {
+      "unstructured": "R Core Team. (2023). R: A language and environment for statistical computing. In (Version Version 4.3.0) [Computer software]. R Foundation for Statistical Computing. https://www.R-project.org/",
+      "key": "ref34"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Rad, D., Rede, A., Roman, A., Ignat, S., Lile, R., Demeter, E., Eger, A., Dughi, T., Bala, E., Maier, R., Kiss, C., Torkos, H., & Rad, G. (2022). Pathways to inclusive and equitable quality early childhood education for achieving SDG4 goal: A scoping review. Frontiers in Psychology, 13, 955833. https://doi.org/10.3389/fpsyg.2022.955833",
+      "key": "ref35",
+      "DOI": "10.3389/fpsyg.2022.955833"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Raikes, A., Rao, N., Yoshikawa, H., Cohrssen, C., Behrman, J., Cappa, C., Devercelli, A., Boo, F. L., McCoy, D., & Richter, L. (2023). Global tracking of access and quality in early childhood care and education. International Journal of Child Care and Education Policy, 17(14). https://doi.org/10.1186/s40723-023-00116-5",
+      "key": "ref36",
+      "DOI": "10.1186/s40723-023-00116-5"
+    },
+    {
+      "unstructured": "Raimon Efendi, R., Hidayati, A., & Andra, S. (2020). The quality Of digital literation early childhood education teachers based on UNESCO standards. International Journal of Scientific and Technology Research, 9(3), 3514-3517.",
+      "key": "ref37"
+    },
+    {
+      "unstructured": "Ramachandran, V., & Saihjee, A. (2002). The new segregation: Reflections on gender and equity in primary education. Economic and Political Weekly, 37(17), 1600-1613.",
+      "key": "ref38"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Rao, N., Yang, Y., Su, Y., & Cohrssen, C. (2023). Promoting equity in access to quality early childhood education in China. Children, 10(10), 1674. https://doi.org/10.3390/children10101674",
+      "key": "ref39",
+      "DOI": "10.3390/children10101674"
+    },
+    {
+      "unstructured": "Theil, H. (1967). Economics and information theory. North-Holland Publishing Company.",
+      "key": "ref40"
+    },
+    {
+      "unstructured": "UIS. (2025). SDG4 Monitoring: Target 4.2. Retrieved 10 June 2025] from https://databrowser.uis.unesco.org/browser/EDUCATION/UIS-SDG4Monitoring/t4.2",
+      "key": "ref41"
+    },
+    {
+      "unstructured": "UN. (2025). UN system documentation: Regional commissions. https://research.un.org/en/docs/unsystem/regionalcommissions",
+      "key": "ref42"
+    },
+    {
+      "unstructured": "UNESCO. (2017). Girls' education in developing countries: Mind the gap. UNESCO.",
+      "key": "ref43"
+    },
+    {
+      "unstructured": "UNESCO. (2021). Global education monitoring report, 2021/2, Non-state actors in education: Who chooses? Who loses? UNESCO.",
+      "key": "ref44"
+    },
+    {
+      "unstructured": "UNESCO. (2022). Global education monitoring report, 2022, Gender report: Deepening the debate on those still left behind. UNESCO.",
+      "key": "ref45"
+    },
+    {
+      "unstructured": "UNESCO. (2023). SDG4 scorecard progress report on national benchmarks: Focus on early childhood. UNESCO. https://doi.org/10.54676/ZSLV3583",
+      "key": "ref46"
+    },
+    {
+      "unstructured": "UNESCO. (2024a). Global education monitoring report, 2024/5, Leadership in education: Lead for learning. UNESCO. https://doi.org/10.54676/EFLH5184",
+      "key": "ref47"
+    },
+    {
+      "unstructured": "UNESCO. (2024b). Transforming education towards SDG 4: Report of a global survey on country actions to transform education. UNESCO.",
+      "key": "ref48"
+    },
+    {
+      "unstructured": "UNESCO Institute for Statistics (UIS). (2025). SDG 4 Education - Global and Thematic Indicators UIS.",
+      "key": "ref49"
+    },
+    {
+      "unstructured": "United Nations Children's Fund [UNICEF]. (2019). A world ready to learn: Prioritizing quality early childhood education. UNICEF.",
+      "key": "ref50"
+    },
+    {
+      "unstructured": "United Nations Educational Scientific and Cultural Organization [UNESCO]. (2009). Education indicators: Technical guideline. UNESCO.",
+      "key": "ref51"
+    },
+    {
+      "unstructured": "Wickham, H. (2023a). dplyr: A grammar of data manipulation. In (Version 1.1.4) https://cran.r-project.org/web/packages/dplyr/index.html",
+      "key": "ref52"
+    },
+    {
+      "unstructured": "Wickham, H. (2023b). stringr: Simple, consistent wrappers for common string operations. In (Version 1.5.1) https://cran.r-project.org/web/packages/stringr/index.html",
+      "key": "ref53"
+    },
+    {
+      "unstructured": "Wickham, H. (2024). tidyr: Tidy messy data. In (Version 1.3.1) https://cran.r-project.org/web/packages/tidyr/index.html",
+      "key": "ref54"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wu, K. B., Young, M. E., & Cai, J. (2012). Early child development in China: Breaking the cycle of poverty and improving future competitiveness. The World Bank.",
+      "key": "ref55",
+      "DOI": "10.1596/978-0-8213-9564-6"
+    },
+    {
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wu, X., Li, X., & Miao, J. (2024). Early childhood development and social mobility in China. ECNU Review of Education, 7(4), 991-1008. https://doi.org/10.1177/20965311241240479",
+      "key": "ref56",
+      "DOI": "10.1177/20965311241240479"
+    }
+  ],
+  "container-title": [
+    "International Journal of Research Studies in Management"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2025-09-11T06:17:07Z",
+    "timestamp": 1757571427000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://consortiacademia.org/10-5861-ijrsm-2025-25095/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ]
+  },
+  "references-count": 57,
+  "journal-issue": {
+    "issue": "6",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.5861/ijrsm.2025.25095",
+  "relation": {},
+  "ISSN": [
+    "2243-7789",
+    "2243-7770"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2243-7789"
+    },
+    {
+      "type": "print",
+      "value": "2243-7770"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ]
+  }
+}

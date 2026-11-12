@@ -1,0 +1,1456 @@
+{
+  "id": "https://openalex.org/W3198693291",
+  "doi": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+  "title": "Performance decline in a low‐stakes test at age 15 and educational attainment at age 25: Cross‐country longitudinal evidence",
+  "display_name": "Performance decline in a low‐stakes test at age 15 and educational attainment at age 25: Cross‐country longitudinal evidence",
+  "publication_year": 2021,
+  "publication_date": "2021-08-28",
+  "ids": {
+    "openalex": "https://openalex.org/W3198693291",
+    "doi": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+    "mag": "3198693291",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34461566"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.adolescence.2021.08.011",
+    "doi": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S179289126",
+      "display_name": "Journal of Adolescence",
+      "issn_l": "0140-1971",
+      "issn": [
+        "0140-1971",
+        "1095-9254"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "dongbi-d",
+        "erih-plus",
+        "jufo-1",
+        "ki-jl-1",
+        "medline",
+        "norway-1",
+        "poland-70",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Adolescence",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://discovery.ucl.ac.uk/10136598/1/Borgonovi_RPS.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5043554042",
+        "display_name": "Francesca Borgonovi",
+        "orcid": "https://orcid.org/0000-0002-6759-4515",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-6759-4515"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1288051870",
+          "display_name": "Organisation de Coopération et de Développement Economiques",
+          "ror": "https://ror.org/0438wbg98",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1288051870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ],
+      "countries": [
+        "FR",
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "F. Borgonovi",
+      "raw_affiliation_strings": [
+        "Organisation for Economic Cooperation and Development, France",
+        "Social Research Institute, Institute of Education University College London, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Organisation for Economic Cooperation and Development, France",
+          "institution_ids": [
+            "https://openalex.org/I1288051870"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Social Research Institute, Institute of Education University College London, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067483652",
+        "display_name": "Alessandro Ferrara",
+        "orcid": "https://orcid.org/0000-0002-9927-3863",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-9927-3863"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I874792244",
+          "display_name": "European University Institute",
+          "ror": "https://ror.org/0031wrj91",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I874792244"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Ferrara",
+      "raw_affiliation_strings": [
+        "European University Institute, Italy"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "European University Institute, Italy",
+          "institution_ids": [
+            "https://openalex.org/I874792244"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "M. Piacentini",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1288051870",
+          "display_name": "Organisation de Coopération et de Développement Economiques",
+          "ror": "https://ror.org/0438wbg98",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1288051870"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Piacentini",
+      "raw_affiliation_strings": [
+        "Organisation for Economic Cooperation and Development, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Organisation for Economic Cooperation and Development, France",
+          "institution_ids": [
+            "https://openalex.org/I1288051870"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5043554042"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1288051870",
+    "https://openalex.org/I45129253"
+  ],
+  "apc_list": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "apc_paid": null,
+  "fwci": 1.8668,
+  "has_fulltext": true,
+  "cited_by_count": 15,
+  "citation_normalized_percentile": {
+    "value": 0.84182468,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "92",
+    "issue": "1",
+    "first_page": "114",
+    "last_page": "125"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10547",
+    "display_name": "Education, Achievement, and Giftedness",
+    "score": 0.7480000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10547",
+      "display_name": "Education, Achievement, and Giftedness",
+      "score": 0.7480000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.10090000182390213,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13542",
+      "display_name": "Grit, Self-Efficacy, and Motivation",
+      "score": 0.07129999995231628,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/performance-degradation",
+      "display_name": "performance degradation",
+      "score": 0.7979999780654907
+    },
+    {
+      "id": "https://openalex.org/keywords/low-stakes-assessment",
+      "display_name": "low-stakes assessment",
+      "score": 0.824999988079071
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.7720000147819519
+    },
+    {
+      "id": "https://openalex.org/keywords/achievement-motivation",
+      "display_name": "achievement motivation",
+      "score": 0.9200000166893005
+    },
+    {
+      "id": "https://openalex.org/keywords/effort",
+      "display_name": "effort",
+      "score": 0.4659999907016754
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-demand",
+      "display_name": "cognitive demand",
+      "score": 0.4659999907016754
+    },
+    {
+      "id": "https://openalex.org/keywords/pisa",
+      "display_name": "PISA",
+      "score": 0.6859999895095825
+    },
+    {
+      "id": "https://openalex.org/keywords/higher-education",
+      "display_name": "higher education",
+      "score": 0.5569999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/student-engagement",
+      "display_name": "student engagement",
+      "score": 0.6549999713897705
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.621999979019165
+    },
+    {
+      "id": "https://openalex.org/keywords/australia",
+      "display_name": "Australia",
+      "score": 0.3889999985694885
+    },
+    {
+      "id": "https://openalex.org/keywords/denmark",
+      "display_name": "Denmark",
+      "score": 1.0
+    },
+    {
+      "id": "https://openalex.org/keywords/switzerland",
+      "display_name": "Switzerland",
+      "score": 1.0
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.754356861114502
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7276153564453125
+    },
+    {
+      "id": "https://openalex.org/C142853389",
+      "wikidata": "https://www.wikidata.org/wiki/Q744778",
+      "display_name": "Association (psychology)",
+      "level": 2,
+      "score": 0.5799956917762756
+    },
+    {
+      "id": "https://openalex.org/C2777267654",
+      "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+      "display_name": "Test (biology)",
+      "level": 2,
+      "score": 0.5553650259971619
+    },
+    {
+      "id": "https://openalex.org/C137403100",
+      "wikidata": "https://www.wikidata.org/wiki/Q41710",
+      "display_name": "Ethnic group",
+      "level": 2,
+      "score": 0.5452930331230164
+    },
+    {
+      "id": "https://openalex.org/C2777895361",
+      "wikidata": "https://www.wikidata.org/wiki/Q1758614",
+      "display_name": "Longitudinal study",
+      "level": 2,
+      "score": 0.5091769099235535
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": 0.4490370452404022
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.437843918800354
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.41423550248146057
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.40525588393211365
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.16729530692100525
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.11643195152282715
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.11086523532867432
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000076363",
+      "descriptor_name": "Academic Success",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004522",
+      "descriptor_name": "Educational Status",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006304",
+      "descriptor_name": "Health Status",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009042",
+      "descriptor_name": "Motivation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012923",
+      "descriptor_name": "Social Class",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055815",
+      "descriptor_name": "Young Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.adolescence.2021.08.011",
+      "doi": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S179289126",
+        "display_name": "Journal of Adolescence",
+        "issn_l": "0140-1971",
+        "issn": [
+          "0140-1971",
+          "1095-9254"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-d",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Adolescence",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34461566",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34461566",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of adolescence",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:10136598",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://discovery.ucl.ac.uk/id/eprint/10136598/",
+      "pdf_url": "https://discovery.ucl.ac.uk/10136598/1/Borgonovi_RPS.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400024",
+        "display_name": "UCL Discovery (University College London)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I45129253",
+        "host_organization_name": "University College London",
+        "host_organization_lineage": [
+          "https://openalex.org/I45129253"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Adolescence , 92 pp. 114-125. (2021)",
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:10136598",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://discovery.ucl.ac.uk/id/eprint/10136598/",
+    "pdf_url": "https://discovery.ucl.ac.uk/10136598/1/Borgonovi_RPS.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306400024",
+      "display_name": "UCL Discovery (University College London)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I45129253",
+      "host_organization_name": "University College London",
+      "host_organization_lineage": [
+        "https://openalex.org/I45129253"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Journal of Adolescence , 92 pp. 114-125. (2021)",
+    "raw_type": "Article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality education",
+      "score": 0.9235000014305115,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320004",
+      "display_name": "British Academy",
+      "ror": "https://ror.org/0302b4677"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3198693291.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3198693291.grobid-xml"
+  },
+  "referenced_works_count": 77,
+  "referenced_works": [
+    "https://openalex.org/W4047437",
+    "https://openalex.org/W176200302",
+    "https://openalex.org/W323988777",
+    "https://openalex.org/W1210695061",
+    "https://openalex.org/W1499862992",
+    "https://openalex.org/W1501740630",
+    "https://openalex.org/W1825148483",
+    "https://openalex.org/W1853636458",
+    "https://openalex.org/W2008666913",
+    "https://openalex.org/W2014175876",
+    "https://openalex.org/W2043890790",
+    "https://openalex.org/W2051257772",
+    "https://openalex.org/W2052729098",
+    "https://openalex.org/W2055363574",
+    "https://openalex.org/W2058818389",
+    "https://openalex.org/W2063685573",
+    "https://openalex.org/W2073724104",
+    "https://openalex.org/W2074625588",
+    "https://openalex.org/W2079719496",
+    "https://openalex.org/W2081071304",
+    "https://openalex.org/W2089632658",
+    "https://openalex.org/W2091512260",
+    "https://openalex.org/W2094194165",
+    "https://openalex.org/W2101771110",
+    "https://openalex.org/W2102575223",
+    "https://openalex.org/W2105019520",
+    "https://openalex.org/W2106326623",
+    "https://openalex.org/W2107031757",
+    "https://openalex.org/W2117535423",
+    "https://openalex.org/W2122529637",
+    "https://openalex.org/W2124242630",
+    "https://openalex.org/W2127837421",
+    "https://openalex.org/W2130337868",
+    "https://openalex.org/W2132319517",
+    "https://openalex.org/W2134049139",
+    "https://openalex.org/W2147281706",
+    "https://openalex.org/W2155556476",
+    "https://openalex.org/W2160788084",
+    "https://openalex.org/W2281113764",
+    "https://openalex.org/W2282207390",
+    "https://openalex.org/W2315454467",
+    "https://openalex.org/W2316519976",
+    "https://openalex.org/W2413362571",
+    "https://openalex.org/W2506596936",
+    "https://openalex.org/W2558795608",
+    "https://openalex.org/W2602045441",
+    "https://openalex.org/W2754433264",
+    "https://openalex.org/W2768908686",
+    "https://openalex.org/W2769702005",
+    "https://openalex.org/W2776452830",
+    "https://openalex.org/W2792768097",
+    "https://openalex.org/W2844175618",
+    "https://openalex.org/W2884318343",
+    "https://openalex.org/W2888241091",
+    "https://openalex.org/W2898339756",
+    "https://openalex.org/W2900978308",
+    "https://openalex.org/W2902097346",
+    "https://openalex.org/W2944339144",
+    "https://openalex.org/W2956178214",
+    "https://openalex.org/W2967312023",
+    "https://openalex.org/W2971428140",
+    "https://openalex.org/W2982332163",
+    "https://openalex.org/W2982439178",
+    "https://openalex.org/W2995918197",
+    "https://openalex.org/W3014766318",
+    "https://openalex.org/W3019273456",
+    "https://openalex.org/W3022693841",
+    "https://openalex.org/W3046195123",
+    "https://openalex.org/W3082809289",
+    "https://openalex.org/W3121555466",
+    "https://openalex.org/W3151373778",
+    "https://openalex.org/W3161601550",
+    "https://openalex.org/W4206410612",
+    "https://openalex.org/W4233399586",
+    "https://openalex.org/W4242883546",
+    "https://openalex.org/W4300870773",
+    "https://openalex.org/W6891665044"
+  ],
+  "related_works": [
+    "https://openalex.org/W2141873647",
+    "https://openalex.org/W4411051192",
+    "https://openalex.org/W2779393185",
+    "https://openalex.org/W7204643028",
+    "https://openalex.org/W7135071482",
+    "https://openalex.org/W4411419946",
+    "https://openalex.org/W3041857057",
+    "https://openalex.org/W3160361444",
+    "https://openalex.org/W2160320011",
+    "https://openalex.org/W2967312023"
+  ],
+  "abstract_inverted_index": {
+    "INTRODUCTION:": [
+      0
+    ],
+    "Educational": [
+      1
+    ],
+    "attainment": [
+      2,
+      118,
+      186,
+      202
+    ],
+    "is": [
+      3,
+      23,
+      26,
+      39,
+      187
+    ],
+    "associated": [
+      4,
+      131
+    ],
+    "with": [
+      5,
+      132
+    ],
+    "important": [
+      6,
+      21
+    ],
+    "life": [
+      7
+    ],
+    "outcomes": [
+      8
+    ],
+    "including": [
+      9
+    ],
+    "labour": [
+      10
+    ],
+    "market": [
+      11
+    ],
+    "performance,": [
+      12
+    ],
+    "health": [
+      13
+    ],
+    "status,": [
+      14
+    ],
+    "well-being,": [
+      15
+    ],
+    "civic": [
+      16
+    ],
+    "and": [
+      17,
+      58,
+      69,
+      75,
+      116,
+      153,
+      170,
+      184,
+      226
+    ],
+    "political": [
+      18
+    ],
+    "participation.": [
+      19
+    ],
+    "An": [
+      20
+    ],
+    "question": [
+      22
+    ],
+    "whether": [
+      24
+    ],
+    "it": [
+      25
+    ],
+    "possible": [
+      27
+    ],
+    "to": [
+      28,
+      41,
+      80,
+      91,
+      214,
+      232,
+      243
+    ],
+    "identify": [
+      29,
+      92
+    ],
+    "early": [
+      30
+    ],
+    "those": [
+      31
+    ],
+    "students": [
+      32
+    ],
+    "who": [
+      33
+    ],
+    "lack": [
+      34
+    ],
+    "the": [
+      35,
+      56,
+      93,
+      113,
+      139,
+      176,
+      204,
+      215,
+      234
+    ],
+    "achievement": [
+      36,
+      195
+    ],
+    "motivation": [
+      37,
+      196,
+      225
+    ],
+    "that": [
+      38
+    ],
+    "needed": [
+      40
+    ],
+    "complete": [
+      42
+    ],
+    "a": [
+      43,
+      96,
+      101,
+      133
+    ],
+    "higher": [
+      44
+    ],
+    "education": [
+      45,
+      220
+    ],
+    "degree.": [
+      46
+    ],
+    "METHODS:": [
+      47
+    ],
+    "Longitudinal": [
+      48
+    ],
+    "follow-ups": [
+      49
+    ],
+    "of": [
+      50,
+      53,
+      98,
+      141,
+      161,
+      173,
+      194,
+      200,
+      217,
+      224,
+      238
+    ],
+    "representative": [
+      51
+    ],
+    "samples": [
+      52
+    ],
+    "participants": [
+      54
+    ],
+    "in": [
+      55,
+      127,
+      138,
+      148,
+      151,
+      155,
+      163,
+      175,
+      203,
+      219,
+      240
+    ],
+    "2000": [
+      57
+    ],
+    "2003": [
+      59
+    ],
+    "Programme": [
+      60
+    ],
+    "for": [
+      61
+    ],
+    "International": [
+      62
+    ],
+    "Student": [
+      63
+    ],
+    "Assessment": [
+      64
+    ],
+    "(PISA)": [
+      65
+    ],
+    "from": [
+      66
+    ],
+    "Australia,": [
+      67
+    ],
+    "Denmark": [
+      68,
+      152
+    ],
+    "Switzerland": [
+      70
+    ],
+    "(N": [
+      71
+    ],
+    "=": [
+      72,
+      78,
+      146
+    ],
+    "3110;": [
+      73
+    ],
+    "1130;": [
+      74
+    ],
+    "1962;": [
+      76
+    ],
+    "age": [
+      77,
+      107,
+      120
+    ],
+    "15": [
+      79,
+      108
+    ],
+    "27;": [
+      81
+    ],
+    "%": [
+      82
+    ],
+    "females": [
+      83
+    ],
+    "51%,": [
+      84,
+      85
+    ],
+    "49%;": [
+      86
+    ],
+    "ethnicity/race": [
+      87
+    ],
+    "unknown)": [
+      88
+    ],
+    "were": [
+      89,
+      197
+    ],
+    "used": [
+      90,
+      231
+    ],
+    "association": [
+      94,
+      180
+    ],
+    "between": [
+      95,
+      181
+    ],
+    "measure": [
+      97
+    ],
+    "effort": [
+      99,
+      245
+    ],
+    "on": [
+      100
+    ],
+    "cognitively": [
+      102,
+      247
+    ],
+    "demanding": [
+      103,
+      248
+    ],
+    "low-stake": [
+      104
+    ],
+    "task": [
+      105
+    ],
+    "at": [
+      106,
+      119
+    ],
+    "-": [
+      109,
+      115
+    ],
+    "performance": [
+      110,
+      128,
+      182
+    ],
+    "decline": [
+      111,
+      129,
+      183
+    ],
+    "during": [
+      112
+    ],
+    "test": [
+      114
+    ],
+    "educational": [
+      117,
+      185,
+      201
+    ],
+    "25-27.": [
+      121
+    ],
+    "RESULTS:": [
+      122
+    ],
+    "A": [
+      123
+    ],
+    "one": [
+      124
+    ],
+    "SD": [
+      125
+    ],
+    "difference": [
+      126,
+      137
+    ],
+    "was": [
+      130
+    ],
+    "5-6": [
+      134
+    ],
+    "percentage": [
+      135
+    ],
+    "point": [
+      136
+    ],
+    "probability": [
+      140
+    ],
+    "obtaining": [
+      142
+    ],
+    "tertiary-level": [
+      143
+    ],
+    "qualifications": [
+      144
+    ],
+    "(r": [
+      145
+    ],
+    "-0.15": [
+      147
+    ],
+    "Australia;": [
+      149
+    ],
+    "-0.11": [
+      150,
+      154
+    ],
+    "Switzerland).": [
+      156
+    ],
+    "We": [
+      157
+    ],
+    "find": [
+      158
+    ],
+    "no": [
+      159
+    ],
+    "evidence": [
+      160,
+      213
+    ],
+    "differences": [
+      162
+    ],
+    "this": [
+      164
+    ],
+    "relationship": [
+      165
+    ],
+    "across": [
+      166,
+      189
+    ],
+    "genders,": [
+      167
+    ],
+    "socio-economic": [
+      168
+    ],
+    "status": [
+      169
+    ],
+    "baseline": [
+      171
+    ],
+    "levels": [
+      172
+    ],
+    "ability": [
+      174
+    ],
+    "three": [
+      177,
+      205
+    ],
+    "countries.": [
+      178,
+      206
+    ],
+    "The": [
+      179
+    ],
+    "homogeneous": [
+      188
+    ],
+    "these": [
+      190
+    ],
+    "groups.": [
+      191
+    ],
+    "Self-reported": [
+      192
+    ],
+    "measures": [
+      193,
+      223
+    ],
+    "not": [
+      198
+    ],
+    "predictive": [
+      199
+    ],
+    "CONCLUSIONS:": [
+      207
+    ],
+    "Our": [
+      208
+    ],
+    "work": [
+      209
+    ],
+    "contributes": [
+      210
+    ],
+    "new": [
+      211
+    ],
+    "longitudinal": [
+      212
+    ],
+    "body": [
+      216
+    ],
+    "research": [
+      218
+    ],
+    "employing": [
+      221
+    ],
+    "behavioural": [
+      222
+    ],
+    "engagement.": [
+      227
+    ],
+    "It": [
+      228
+    ],
+    "can": [
+      229
+    ],
+    "be": [
+      230
+    ],
+    "understand": [
+      233
+    ],
+    "potential": [
+      235
+    ],
+    "long-term": [
+      236
+    ],
+    "consequences": [
+      237
+    ],
+    "disparities": [
+      239
+    ],
+    "students'": [
+      241
+    ],
+    "preparation": [
+      242
+    ],
+    "sustain": [
+      244
+    ],
+    "over": [
+      246
+    ],
+    "tasks.": [
+      249
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-10T11:39:43.021295",
+  "created_date": "2021-09-13T00:00:00"
+}

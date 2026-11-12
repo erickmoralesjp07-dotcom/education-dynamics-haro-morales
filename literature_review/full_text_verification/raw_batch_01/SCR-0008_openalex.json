@@ -1,0 +1,1123 @@
+{
+  "id": "https://openalex.org/W4414136217",
+  "doi": "https://doi.org/10.5861/ijrsm.2025.25095",
+  "title": "Strategic management of equity in early childhood education: A mathematical framework with clustering, inequality metrics, and system dynamics",
+  "display_name": "Strategic management of equity in early childhood education: A mathematical framework with clustering, inequality metrics, and system dynamics",
+  "publication_year": 2025,
+  "publication_date": "2025-09-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4414136217",
+    "doi": "https://doi.org/10.5861/ijrsm.2025.25095"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5861/ijrsm.2025.25095",
+    "doi": "https://doi.org/10.5861/ijrsm.2025.25095",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5861/ijrsm.2025.25095",
+    "pdf_url": "https://consortiacademia.org/wp-content/uploads/2024/m13v06/M25095_final.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210184990",
+      "display_name": "International Journal of Research Studies in Management",
+      "issn_l": "2243-7770",
+      "issn": [
+        "2243-7770",
+        "2243-7789"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Research Studies in Management",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://consortiacademia.org/wp-content/uploads/2024/m13v06/M25095_final.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Tsai-Hsin Lo",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I87354575",
+          "display_name": "National Chengchi University",
+          "ror": "https://ror.org/03rqk8h36",
+          "country_code": "TW",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I87354575"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tsai-Hsin Lo",
+      "raw_affiliation_strings": [
+        "Department of Education , National Chengchi University , Taiwan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Education , National Chengchi University , Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I87354575"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "Wei-Hang Lo",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I87354575",
+          "display_name": "National Chengchi University",
+          "ror": "https://ror.org/03rqk8h36",
+          "country_code": "TW",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I87354575"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wei-Hang Lo",
+      "raw_affiliation_strings": [
+        "Department of Education , National Chengchi University , Taiwan",
+        "Master of Education in School Administration , National Chengchi University , Taiwan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Education , National Chengchi University , Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I87354575"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Master of Education in School Administration , National Chengchi University , Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I87354575"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I87354575"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "13",
+    "issue": "6",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13709",
+    "display_name": "Education in Diverse Contexts",
+    "score": 0.6395999789237976,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13709",
+      "display_name": "Education in Diverse Contexts",
+      "score": 0.6395999789237976,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10589",
+      "display_name": "Early Childhood Education and Development",
+      "score": 0.13019999861717224,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11300",
+      "display_name": "Global Educational Policies and Reforms",
+      "score": 0.06539999693632126,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/early-childhood-education",
+      "display_name": "early childhood education",
+      "score": 0.9319999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-equity",
+      "display_name": "educational equity",
+      "score": 0.9449999928474426
+    },
+    {
+      "id": "https://openalex.org/keywords/net-enrollment-rate",
+      "display_name": "net enrollment rate",
+      "score": 0.75
+    },
+    {
+      "id": "https://openalex.org/keywords/inequality-indicators",
+      "display_name": "inequality indices",
+      "score": 0.47200000286102295
+    },
+    {
+      "id": "https://openalex.org/keywords/gini-coefficient",
+      "display_name": "Gini coefficient",
+      "score": 0.9409999847412109
+    },
+    {
+      "id": "https://openalex.org/keywords/theil-index",
+      "display_name": "Theil index",
+      "score": 1.0
+    },
+    {
+      "id": "https://openalex.org/keywords/country-typology",
+      "display_name": "country typology",
+      "score": 0.5789999961853027
+    },
+    {
+      "id": "https://openalex.org/keywords/covid-19-pandemic-impact",
+      "display_name": "COVID-19 pandemic impact",
+      "score": 0.9269999861717224
+    },
+    {
+      "id": "https://openalex.org/keywords/education-policy",
+      "display_name": "education policy",
+      "score": 0.4909999966621399
+    },
+    {
+      "id": "https://openalex.org/keywords/system-dynamics-modeling",
+      "display_name": "system dynamics modeling",
+      "score": 0.574999988079071
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C199728807",
+      "wikidata": "https://www.wikidata.org/wiki/Q2578557",
+      "display_name": "Equity (law)",
+      "level": 2,
+      "score": 0.5965999960899353
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.5837000012397766
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.5530999898910522
+    },
+    {
+      "id": "https://openalex.org/C145912823",
+      "wikidata": "https://www.wikidata.org/wiki/Q113558",
+      "display_name": "Dynamics (music)",
+      "level": 2,
+      "score": 0.39559999108314514
+    },
+    {
+      "id": "https://openalex.org/C77405623",
+      "wikidata": "https://www.wikidata.org/wiki/Q598451",
+      "display_name": "System dynamics",
+      "level": 2,
+      "score": 0.35499998927116394
+    },
+    {
+      "id": "https://openalex.org/C2777082460",
+      "wikidata": "https://www.wikidata.org/wiki/Q3377398",
+      "display_name": "Early childhood",
+      "level": 2,
+      "score": 0.3513999879360199
+    },
+    {
+      "id": "https://openalex.org/C48243021",
+      "wikidata": "https://www.wikidata.org/wiki/Q932522",
+      "display_name": "Strategic planning",
+      "level": 2,
+      "score": 0.3192000091075897
+    },
+    {
+      "id": "https://openalex.org/C2781133197",
+      "wikidata": "https://www.wikidata.org/wiki/Q1502025",
+      "display_name": "Intergenerational equity",
+      "level": 3,
+      "score": 0.29789999127388
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.2944999933242798
+    },
+    {
+      "id": "https://openalex.org/C100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "level": 1,
+      "score": 0.2840000092983246
+    },
+    {
+      "id": "https://openalex.org/C86275758",
+      "wikidata": "https://www.wikidata.org/wiki/Q376657",
+      "display_name": "Strategic management",
+      "level": 2,
+      "score": 0.2734000086784363
+    },
+    {
+      "id": "https://openalex.org/C108578832",
+      "wikidata": "https://www.wikidata.org/wiki/Q7621835",
+      "display_name": "Strategic financial management",
+      "level": 3,
+      "score": 0.2549000084400177
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.5861/ijrsm.2025.25095",
+      "doi": "https://doi.org/10.5861/ijrsm.2025.25095",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5861/ijrsm.2025.25095",
+      "pdf_url": "https://consortiacademia.org/wp-content/uploads/2024/m13v06/M25095_final.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210184990",
+        "display_name": "International Journal of Research Studies in Management",
+        "issn_l": "2243-7770",
+        "issn": [
+          "2243-7770",
+          "2243-7789"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Research Studies in Management",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5861/ijrsm.2025.25095",
+    "doi": "https://doi.org/10.5861/ijrsm.2025.25095",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5861/ijrsm.2025.25095",
+    "pdf_url": "https://consortiacademia.org/wp-content/uploads/2024/m13v06/M25095_final.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210184990",
+      "display_name": "International Journal of Research Studies in Management",
+      "issn_l": "2243-7770",
+      "issn": [
+        "2243-7770",
+        "2243-7789"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Research Studies in Management",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "score": 1.0,
+      "display_name": "Reduced inequalities"
+    },
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.8278999924659729,
+      "display_name": "Quality education"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4414136217.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4414136217.grobid-xml"
+  },
+  "referenced_works_count": 31,
+  "referenced_works": [
+    "https://openalex.org/W123406305",
+    "https://openalex.org/W1485565467",
+    "https://openalex.org/W1492075988",
+    "https://openalex.org/W1827846433",
+    "https://openalex.org/W1883752899",
+    "https://openalex.org/W1964513496",
+    "https://openalex.org/W1980849679",
+    "https://openalex.org/W1993361578",
+    "https://openalex.org/W2009856213",
+    "https://openalex.org/W2049017883",
+    "https://openalex.org/W2063079132",
+    "https://openalex.org/W2142571946",
+    "https://openalex.org/W2148857058",
+    "https://openalex.org/W2284782484",
+    "https://openalex.org/W2479531384",
+    "https://openalex.org/W2566934416",
+    "https://openalex.org/W2583253048",
+    "https://openalex.org/W2979526726",
+    "https://openalex.org/W3004471233",
+    "https://openalex.org/W3126963611",
+    "https://openalex.org/W4230753018",
+    "https://openalex.org/W4235666903",
+    "https://openalex.org/W4244230134",
+    "https://openalex.org/W4255202928",
+    "https://openalex.org/W4286488539",
+    "https://openalex.org/W4317802076",
+    "https://openalex.org/W4367679115",
+    "https://openalex.org/W4387476802",
+    "https://openalex.org/W4393277127",
+    "https://openalex.org/W4403922983",
+    "https://openalex.org/W4407012071"
+  ],
+  "related_works": [
+    "https://openalex.org/W2964652798",
+    "https://openalex.org/W2938221521",
+    "https://openalex.org/W3172195051",
+    "https://openalex.org/W4313306028",
+    "https://openalex.org/W2970147616",
+    "https://openalex.org/W4293567790",
+    "https://openalex.org/W3208422309",
+    "https://openalex.org/W2958867333",
+    "https://openalex.org/W7017894824",
+    "https://openalex.org/W147966840"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "study": [
+      1,
+      177
+    ],
+    "develops": [
+      2
+    ],
+    "a": [
+      3,
+      138,
+      151,
+      179
+    ],
+    "mathematical": [
+      4
+    ],
+    "and": [
+      5,
+      23,
+      45,
+      78,
+      94,
+      112,
+      159,
+      173,
+      193,
+      230,
+      240
+    ],
+    "managerial": [
+      6
+    ],
+    "framework": [
+      7,
+      181,
+      221
+    ],
+    "to": [
+      8,
+      31,
+      41,
+      99,
+      232
+    ],
+    "analyze": [
+      9
+    ],
+    "global": [
+      10,
+      128
+    ],
+    "equity": [
+      11
+    ],
+    "in": [
+      12,
+      102,
+      125
+    ],
+    "early": [
+      13
+    ],
+    "childhood": [
+      14
+    ],
+    "education": [
+      15
+    ],
+    "(ECE)": [
+      16
+    ],
+    "by": [
+      17
+    ],
+    "combining": [
+      18
+    ],
+    "statistical": [
+      19
+    ],
+    "typologies,": [
+      20
+    ],
+    "inequality": [
+      21,
+      88,
+      171
+    ],
+    "metrics,": [
+      22
+    ],
+    "dynamical": [
+      24
+    ],
+    "modeling.Drawing": [
+      25
+    ],
+    "on": [
+      26,
+      35
+    ],
+    "UNESCO": [
+      27
+    ],
+    "indicators": [
+      28
+    ],
+    "from": [
+      29
+    ],
+    "1998": [
+      30
+    ],
+    "2024,": [
+      32
+    ],
+    "we": [
+      33
+    ],
+    "focus": [
+      34
+    ],
+    "16": [
+      36
+    ],
+    "countries": [
+      37,
+      200
+    ],
+    "with": [
+      38,
+      67,
+      74,
+      82,
+      137,
+      201,
+      212
+    ],
+    "complete": [
+      39
+    ],
+    "data": [
+      40
+    ],
+    "ensure": [
+      42
+    ],
+    "robust": [
+      43
+    ],
+    "longitudinal": [
+      44
+    ],
+    "comparative": [
+      46
+    ],
+    "inference.The": [
+      47
+    ],
+    "analysis": [
+      48
+    ],
+    "integrates": [
+      49
+    ],
+    "three": [
+      50,
+      62
+    ],
+    "components.First,": [
+      51
+    ],
+    "hierarchical": [
+      52
+    ],
+    "clustering": [
+      53
+    ],
+    "(Ward's": [
+      54
+    ],
+    "method)": [
+      55
+    ],
+    "generates": [
+      56
+    ],
+    "typologies": [
+      57
+    ],
+    "of": [
+      58,
+      108
+    ],
+    "ECE": [
+      59
+    ],
+    "systems,": [
+      60
+    ],
+    "revealing": [
+      61
+    ],
+    "profiles:": [
+      63
+    ],
+    "(1)": [
+      64
+    ],
+    "high": [
+      65,
+      146,
+      205,
+      213
+    ],
+    "access": [
+      66,
+      73,
+      81,
+      203
+    ],
+    "moderate": [
+      68,
+      80
+    ],
+    "parity": [
+      69,
+      84,
+      206
+    ],
+    "gaps,": [
+      70
+    ],
+    "(2)": [
+      71
+    ],
+    "low": [
+      72,
+      202
+    ],
+    "relatively": [
+      75
+    ],
+    "balanced": [
+      76
+    ],
+    "participation,": [
+      77
+    ],
+    "(3)": [
+      79
+    ],
+    "strong": [
+      83
+    ],
+    "across": [
+      85
+    ],
+    "indicators.Second,": [
+      86
+    ],
+    "formal": [
+      87
+    ],
+    "indices,": [
+      89,
+      172
+    ],
+    "including": [
+      90
+    ],
+    "the": [
+      91,
+      142,
+      195
+    ],
+    "Gini": [
+      92,
+      109
+    ],
+    "coefficient": [
+      93
+    ],
+    "Theil": [
+      95,
+      113
+    ],
+    "index,": [
+      96
+    ],
+    "are": [
+      97,
+      120,
+      131
+    ],
+    "applied": [
+      98
+    ],
+    "gender": [
+      100
+    ],
+    "gaps": [
+      101
+    ],
+    "net": [
+      103
+    ],
+    "enrollment": [
+      104,
+      129
+    ],
+    "rates,": [
+      105
+    ],
+    "producing": [
+      106
+    ],
+    "values": [
+      107
+    ],
+    "≈": [
+      110,
+      114,
+      149
+    ],
+    "0.18": [
+      111
+    ],
+    "0.09,": [
+      115
+    ],
+    "which": [
+      116
+    ],
+    "confirm": [
+      117
+    ],
+    "that": [
+      118,
+      162,
+      182
+    ],
+    "disparities": [
+      119,
+      186,
+      217
+    ],
+    "moderate,": [
+      121
+    ],
+    "but": [
+      122,
+      187,
+      204,
+      215
+    ],
+    "systematically": [
+      123
+    ],
+    "concentrated": [
+      124
+    ],
+    "certain": [
+      126
+    ],
+    "regions.Third,": [
+      127
+    ],
+    "dynamics": [
+      130
+    ],
+    "modeled": [
+      132
+    ],
+    "using": [
+      133
+    ],
+    "an": [
+      134
+    ],
+    "autoregressive": [
+      135
+    ],
+    "process": [
+      136
+    ],
+    "structural": [
+      139
+    ],
+    "break": [
+      140
+    ],
+    "for": [
+      141,
+      166,
+      224
+    ],
+    "COVID-19": [
+      143
+    ],
+    "pandemic.Results": [
+      144
+    ],
+    "show": [
+      145
+    ],
+    "persistence": [
+      147
+    ],
+    "(φ": [
+      148
+    ],
+    "0.9),": [
+      150
+    ],
+    "significant": [
+      152
+    ],
+    "negative": [
+      153
+    ],
+    "pandemic": [
+      154
+    ],
+    "shock": [
+      155
+    ],
+    "(δ": [
+      156
+    ],
+    "<": [
+      157
+    ],
+    "0),": [
+      158
+    ],
+    "steady-state": [
+      160
+    ],
+    "equilibria": [
+      161
+    ],
+    "provide": [
+      163
+    ],
+    "long-run": [
+      164
+    ],
+    "benchmarks": [
+      165
+    ],
+    "system": [
+      167
+    ],
+    "recovery.By": [
+      168
+    ],
+    "integrating": [
+      169
+    ],
+    "clustering,": [
+      170
+    ],
+    "time-series": [
+      174
+    ],
+    "modeling,": [
+      175
+    ],
+    "this": [
+      176
+    ],
+    "establishes": [
+      178
+    ],
+    "typological-temporal": [
+      180
+    ],
+    "not": [
+      183
+    ],
+    "only": [
+      184
+    ],
+    "diagnoses": [
+      185
+    ],
+    "also": [
+      188
+    ],
+    "offers": [
+      189
+    ],
+    "policy-relevant": [
+      190
+    ],
+    "insights.For": [
+      191
+    ],
+    "managers": [
+      192
+    ],
+    "policymakers,": [
+      194
+    ],
+    "findings": [
+      196
+    ],
+    "suggest": [
+      197
+    ],
+    "differentiated": [
+      198
+    ],
+    "strategies:": [
+      199
+    ],
+    "require": [
+      207
+    ],
+    "capacity": [
+      208
+    ],
+    "expansion,": [
+      209
+    ],
+    "while": [
+      210
+    ],
+    "those": [
+      211
+    ],
+    "access,": [
+      214
+    ],
+    "persistent": [
+      216
+    ],
+    "need": [
+      218
+    ],
+    "inclusive": [
+      219
+    ],
+    "reforms.The": [
+      220
+    ],
+    "is": [
+      222
+    ],
+    "replicable": [
+      223
+    ],
+    "monitoring": [
+      225
+    ],
+    "Sustainable": [
+      226
+    ],
+    "Development": [
+      227
+    ],
+    "Goal": [
+      228
+    ],
+    "4.2": [
+      229
+    ],
+    "extends": [
+      231
+    ],
+    "broader": [
+      233
+    ],
+    "management": [
+      234
+    ],
+    "challenges": [
+      235
+    ],
+    "where": [
+      236
+    ],
+    "equity,": [
+      237
+    ],
+    "resource": [
+      238
+    ],
+    "allocation,": [
+      239
+    ],
+    "systemic": [
+      241
+    ],
+    "resilience": [
+      242
+    ],
+    "intersect.": [
+      243
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-11-08T12:12:28.789561",
+  "created_date": "2025-10-10T00:00:00"
+}

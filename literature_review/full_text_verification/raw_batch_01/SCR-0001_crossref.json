@@ -1,0 +1,514 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        14
+      ]
+    ],
+    "date-time": "2026-08-14T20:28:43Z",
+    "timestamp": 1786739323531,
+    "version": "build-2736575974"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "group-title": "SSRN",
+  "reference-count": 43,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "abstract": "<jats:p>Do natural disasters impact educational attainment? Education as a paramount factor of economic development suffers from the uncontrollable effects of these increasing events from storms to floods, earthquakes to wildfires. Globally, educational resources are destroyed, directly and indirectly, students and teachers are displaced or killed, and parents’ income is affected because of natural disasters. Investments in human capital for rich- and low-income countries are exposed to the uneven impact of natural disasters that adjust household and country-level decisions, leaving them to short and long-run losses. Exploring the influence of natural disasters on secondary school attainment across a sample of 85 countries from 1960 to 1990, we employ a panel data set from the Emergency Events dataset and Barro-Lee dataset. Using year and country-fixed effects, the data shows that the intensity of deaths from natural disasters has a greater effect on secondary school attainment than the intensity of damages from these disasters. Data also suggests that damages per capita have a slightly significant effect on the secondary school repetition rate. Psychological and behavioral effects caused by deaths from disasters lead to disinvestments in human capital and these degenerate into long-term effects on economic development. Consequently, while natural disasters cannot be averted, their damages can be curtailed, therefore, it is crucial to inform policies that drive countries to a conscientious effort for high-performance social intervention programs; and motivate an urgency for climate change conversation.</jats:p>",
+  "DOI": "10.2139/ssrn.4594252",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        2
+      ]
+    ],
+    "date-time": "2023-11-02T13:38:58Z",
+    "timestamp": 1698932338000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "The Impacts of Natural Disasters on Educational Attainment: Cross-Country Evidence from Macro Data"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3216-7580",
+      "authenticated-orcid": true,
+      "given": "Lois",
+      "family": "Onigbinde Jacob",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "ref1",
+      "author": "References"
+    },
+    {
+      "issue": "1",
+      "key": "ref2",
+      "first-page": "148S",
+      "article-title": "Safety Nets Can Help Address The Risks To Nutrition From Increasing Climate Variability",
+      "volume": "140",
+      "author": "D Acemoglu",
+      "year": "2002",
+      "journal-title": "The Journal Of Nutrition"
+    },
+    {
+      "key": "ref3",
+      "article-title": "Destruction, Disinvestment, And Death: Economic And Human Losses Following Environmental Disaster",
+      "author": "Jesse Anttila-Hughes",
+      "year": "2013",
+      "journal-title": "SSRN Electronic Journal"
+    },
+    {
+      "key": "ref4",
+      "year": "2000",
+      "journal-title": "Attacking Poverty"
+    },
+    {
+      "key": "ref5",
+      "article-title": "Do Natural Disasters Affect Human Capital? An Assessment Based On Existing Empirical Evidence",
+      "volume": "5164",
+      "author": "Javier Baez",
+      "year": "2010",
+      "journal-title": "IZA DP"
+    },
+    {
+      "issue": "3",
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "first-page": "541",
+      "DOI": "10.1093/oep/53.3.541",
+      "article-title": "International Data On Educational Attainment: Updates And Implications",
+      "volume": "53",
+      "author": "R J Barro",
+      "year": "2001",
+      "journal-title": "Oxford Economic Papers"
+    },
+    {
+      "issue": "3",
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "first-page": "363",
+      "DOI": "10.1016/0304-3932(93)90023-9",
+      "article-title": "International Comparisons Of Educational Attainment",
+      "volume": "32",
+      "author": "Robert J Barro",
+      "year": "1993",
+      "journal-title": "Journal Of Monetary Economics"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "184",
+      "DOI": "10.1016/j.jdeveco.2012.10.001",
+      "article-title": "A New Data Set Of Educational Attainment In The World, 1950-2010",
+      "volume": "104",
+      "author": "Robert J Barro",
+      "year": "2013",
+      "journal-title": "Journal Of Development Economics"
+    },
+    {
+      "key": "ref9",
+      "article-title": "The Impact Of Experimental Nutritional Interventions On Education Into Adulthood In Rural Guatemala: Preliminary Longitudinal Analysis",
+      "volume": "207",
+      "author": "J R Behrman",
+      "year": "2006"
+    },
+    {
+      "key": "ref10",
+      "article-title": "Guidance Note For Integration Of Disaster Risk Reduction Concerns In Bank Projects",
+      "author": "Sanjaya Bhatia",
+      "year": "2009",
+      "journal-title": "Global Facility For Disaster Recovery And Reduction"
+    },
+    {
+      "issue": "8",
+      "key": "ref11",
+      "first-page": "1341",
+      "article-title": "Deteriorating Economic Context And Changing Patterns Of Youth Employment",
+      "volume": "32",
+      "author": "Anne-Emmanu�le Calv�s",
+      "year": "1980",
+      "journal-title": "World Development"
+    },
+    {
+      "key": "ref12",
+      "article-title": "The Economics Of Natural Disasters: A Survey",
+      "author": "Eduardo A Cavallo",
+      "year": "2009",
+      "journal-title": "SSRN Electronic Journal"
+    },
+    {
+      "issue": "2",
+      "key": "ref13",
+      "doi-asserted-by": "crossref",
+      "first-page": "280",
+      "DOI": "10.1093/wber/lhq008",
+      "article-title": "Natural Disasters And Human Capital Accumulation",
+      "volume": "24",
+      "author": "Jesus Cuaresma",
+      "year": "2010",
+      "journal-title": "The World Bank Economic Review"
+    },
+    {
+      "issue": "2",
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "first-page": "349",
+      "DOI": "10.1016/j.jdeveco.2006.01.013",
+      "article-title": "Can Conditional Cash Transfer Programs Serve As Safety Nets In Keeping Children At School And From Working When Exposed To Shocks?",
+      "volume": "79",
+      "author": "Alain De Janvry",
+      "year": "2006",
+      "journal-title": "Journal Of Development Economics"
+    },
+    {
+      "key": "ref15",
+      "article-title": "The Impact Of Climatic And Geological Hazards On Children Morbidity In Rural Mexico",
+      "author": "A De La Fuente",
+      "year": "2009"
+    },
+    {
+      "key": "ref16",
+      "first-page": "346",
+      "volume": "87",
+      "author": "M Escaleras",
+      "year": "2011",
+      "journal-title": "Natural Disasters And Foreign Direct Investment"
+    },
+    {
+      "issue": "1",
+      "key": "ref17",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.1162/003465304323023769",
+      "article-title": "Schooling And Parental Death",
+      "volume": "86",
+      "author": "Paul Gertler",
+      "year": "2004",
+      "journal-title": "Review Of Economics And Statistics"
+    },
+    {
+      "issue": "3",
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "first-page": "498",
+      "DOI": "10.1016/j.worlddev.2006.03.007",
+      "article-title": "Credit, Natural Disasters, Coffee, And Educational Attainment In Rural Honduras",
+      "volume": "35",
+      "author": "Seth R Gitter",
+      "year": "2007",
+      "journal-title": "World Development"
+    },
+    {
+      "issue": "4",
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "first-page": "893",
+      "DOI": "10.1086/503584",
+      "article-title": "Migration, Risk, And Liquidity Constraints In El Salvador",
+      "volume": "54",
+      "author": "Timothy Halliday",
+      "year": "2006",
+      "journal-title": "Economic Development And Cultural Change"
+    },
+    {
+      "issue": "2",
+      "key": "ref20",
+      "article-title": "Assessing The Effects Of School Resources On Student Performance: An Update",
+      "volume": "19",
+      "author": "Eric A Hanushek",
+      "year": "1997",
+      "journal-title": "Educational Evaluation And Policy Analysis"
+    },
+    {
+      "issue": "9610",
+      "key": "ref21",
+      "doi-asserted-by": "crossref",
+      "first-page": "411",
+      "DOI": "10.1016/S0140-6736(08)60205-6",
+      "article-title": "Effect Of A Nutrition Intervention During Early Childhood On Economic Productivity In Guatemalan Adults",
+      "volume": "371",
+      "author": "John Hoddinott",
+      "year": "2008",
+      "journal-title": "The Lancet"
+    },
+    {
+      "key": "ref22",
+      "author": "S M Hsiang",
+      "year": "2014",
+      "journal-title": "The Causal Effect Of Environmental Catastrophe On Long-Run Economic Growth: Evidence From 6,700 Cyclones"
+    },
+    {
+      "issue": "2",
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "first-page": "399",
+      "DOI": "10.1257/aer.90.2.399",
+      "article-title": "Agricultural Volatility And Investments In Children",
+      "volume": "90",
+      "author": "Robert Jensen",
+      "year": "2000",
+      "journal-title": "American Economic Review"
+    },
+    {
+      "issue": "2",
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "first-page": "413",
+      "DOI": "10.1016/j.jdeveco.2006.01.011",
+      "article-title": "Consumption Smoothing? Livestock, Insurance And Drought In Rural Burkina Faso",
+      "volume": "79",
+      "author": "Harounan Kazianga",
+      "year": "2006",
+      "journal-title": "Journal Of Development Economics"
+    },
+    {
+      "key": "ref25"
+    },
+    {
+      "key": "ref26",
+      "first-page": "185",
+      "author": "N Kim",
+      "year": "2017",
+      "journal-title": "Impact Of Extreme Climate Events On Educational Attainment"
+    },
+    {
+      "key": "ref27",
+      "article-title": "Informing Climate Adaptation: A Review Of The Economic Costs Of Natural Disasters, Their Determinants, And Risk Reduction Options",
+      "author": "Carolyn Kousky",
+      "year": "2012",
+      "journal-title": "SSRN Electronic Journal"
+    },
+    {
+      "issue": "1",
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1353/foc.2016.0004",
+      "article-title": "Impacts Of Natural Disasters On Children",
+      "volume": "26",
+      "author": "Carolyn Kousky",
+      "year": "2016",
+      "journal-title": "The Future Of Children"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1016/j.jdeveco.2016.05.006",
+      "article-title": "Human Capital In The Long Run",
+      "volume": "122",
+      "author": "Jong-Wha Lee",
+      "year": "2016",
+      "journal-title": "Journal Of Development Economics"
+    },
+    {
+      "issue": "1",
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1016/0304-3932(88)90168-7",
+      "article-title": "On The Mechanics Of Economic Development",
+      "volume": "22",
+      "author": "Robert E Lucas",
+      "year": "1988",
+      "journal-title": "Journal Of Monetary Economics"
+    },
+    {
+      "issue": "2",
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "first-page": "293",
+      "DOI": "10.1093/oxfordjournals.oep.a041948",
+      "article-title": "Supply-side Economics: An Analytical review",
+      "volume": "42",
+      "author": "Robert E Lucas",
+      "year": "1990",
+      "journal-title": "Oxford Economic Papers"
+    },
+    {
+      "issue": "3",
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "first-page": "1006",
+      "DOI": "10.1257/aer.99.3.1006",
+      "article-title": "Under The Weather: Health, Schooling, And Economic Consequences Of Early-Life Rainfall",
+      "volume": "99",
+      "author": "Sharon Maccini",
+      "year": "2009",
+      "journal-title": "American Economic Review"
+    },
+    {
+      "issue": "3",
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "first-page": "551",
+      "DOI": "10.1111/j.1467-8306.2007.00563.x",
+      "article-title": "The Gendered Nature Of Natural Disasters: The Impact Of Catastrophic Events On The Gender Gap In Life Expectancy",
+      "volume": "97",
+      "author": "Eric Neumayer",
+      "year": "1981",
+      "journal-title": "Annals Of The Association Of American Geographers"
+    },
+    {
+      "issue": "2",
+      "key": "ref34",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1016/j.jdeveco.2008.02.005",
+      "article-title": "The Macroeconomic Consequences Of Disasters",
+      "volume": "88",
+      "author": "Ilan Noy",
+      "year": "2009",
+      "journal-title": "Journal Of Development Economics"
+    },
+    {
+      "issue": "1",
+      "key": "ref35",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1016/j.jdeveco.2006.11.001",
+      "article-title": "Are External Shocks Responsible For The Instability Of Output In Low-Income Countries?",
+      "volume": "84",
+      "author": "Claudio Raddatz",
+      "year": "2007",
+      "journal-title": "Journal Of Development Economics"
+    },
+    {
+      "issue": "224",
+      "key": "ref36",
+      "article-title": "Macroeconomic Implications Of Natural Disasters In The Caribbean",
+      "volume": "4",
+      "author": "Tobias N Rasmussen",
+      "year": "2004",
+      "journal-title": "International Monetary Fund (IMF)"
+    },
+    {
+      "key": "ref37",
+      "author": "J Rush",
+      "year": "2014",
+      "journal-title": "Three Essays Exploring the impact of Natural Disasters on Education and Poverty in"
+    },
+    {
+      "issue": "1",
+      "key": "ref38",
+      "first-page": "109",
+      "article-title": "When The Saints Go Marching Out: Long-Term Outcomes For Student Evacuees From Hurricanes Katrina And Rita",
+      "volume": "4",
+      "author": "Bruce Sacerdote",
+      "year": "2012",
+      "journal-title": "American Economic Journal: Applied Economics"
+    },
+    {
+      "issue": "2",
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "first-page": "527",
+      "DOI": "10.1086/690828",
+      "article-title": "Drought Of Opportunities: Contemporaneous And Long-Term Impacts Of Rainfall Shocks On Human Capital",
+      "volume": "125",
+      "author": "Manisha Shah",
+      "year": "2017",
+      "journal-title": "Journal Of Political Economy"
+    },
+    {
+      "issue": "4",
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "first-page": "664",
+      "DOI": "10.1093/ei/40.4.664",
+      "article-title": "DO NATURAL DISASTERS PROMOTE LONG-RUN GROWTH?",
+      "volume": "40",
+      "author": "Mark Skidmore",
+      "year": "2002",
+      "journal-title": "Economic Inquiry"
+    },
+    {
+      "issue": "1",
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1111/j.1467-9523.2006.00305.x",
+      "article-title": "Reducing Hazard Vulnerability: Towards A Common Approach Between Disaster Risk Reduction And Climate Adaptation",
+      "volume": "30",
+      "author": "Frank Thomalla",
+      "year": "2006",
+      "journal-title": "Disasters"
+    },
+    {
+      "issue": "1",
+      "key": "ref42",
+      "first-page": "20",
+      "article-title": "Economic Development And The Impacts Of Natural Disasters",
+      "volume": "94",
+      "author": "Hideki Toya",
+      "year": "1993",
+      "journal-title": "EFA Global Monitoring Report: Chapter"
+    },
+    {
+      "key": "ref43",
+      "year": "2004",
+      "journal-title": "Global Education Digest"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        14
+      ]
+    ],
+    "date-time": "2026-08-14T19:28:00Z",
+    "timestamp": 1786735680000
+  },
+  "score": 80.8021,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=4594252"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "references-count": 43,
+  "URL": "https://doi.org/10.2139/ssrn.4594252",
+  "published": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

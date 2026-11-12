@@ -1,0 +1,1388 @@
+{
+  "id": "https://openalex.org/W2796787753",
+  "doi": null,
+  "title": "Education Expenditure and Access to Education: Case Study of United Nations Educational, Scientific and Cultural Organization Declaration in Nigeria",
+  "display_name": "Education Expenditure and Access to Education: Case Study of United Nations Educational, Scientific and Cultural Organization Declaration in Nigeria",
+  "relevance_score": 423.5134,
+  "publication_year": 2017,
+  "publication_date": "2017-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2796787753",
+    "mag": "2796787753"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:oai.econjournals.com:article/5082",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://econjournals.com/index.php/ijefi/article/view/5082",
+    "pdf_url": "https://econjournals.com/index.php/ijefi/article/download/5082/pdf",
+    "source": {
+      "id": "https://openalex.org/S2737777163",
+      "display_name": "International Journal of Economics and Financial Issues",
+      "issn_l": "2146-4138",
+      "issn": [
+        "2146-4138"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-c",
+        "anvur-scientific",
+        "cwts-core",
+        "norway-1"
+      ],
+      "host_organization": "https://openalex.org/P4310318345",
+      "host_organization_name": "EconJournals",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310318345"
+      ],
+      "host_organization_lineage_names": [
+        "EconJournals"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2146-4138",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://econjournals.com/index.php/ijefi/article/download/5082/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5011298356",
+        "display_name": "Bassey Okon Ebi",
+        "orcid": "https://orcid.org/0000-0003-3439-9171",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-3439-9171"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3970730",
+          "display_name": "University of Calabar",
+          "ror": "https://ror.org/05qderh61",
+          "country_code": "NG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3970730"
+          ]
+        }
+      ],
+      "countries": [
+        "NG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bassey Okon Ebi",
+      "raw_affiliation_strings": [
+        "Department of Economics, University of Calabar, Nigeria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Economics, University of Calabar, Nigeria",
+          "institution_ids": [
+            "https://openalex.org/I3970730"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5038708703",
+        "display_name": "Peter Samuel Ubi",
+        "orcid": "https://orcid.org/0000-0001-9591-1728",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-9591-1728"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Samuel Ubi",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 300,
+    "currency": "USD",
+    "value_usd": 300
+  },
+  "apc_paid": {
+    "value": 300,
+    "currency": "USD",
+    "value_usd": 300
+  },
+  "fwci": 1.5459,
+  "has_fulltext": true,
+  "cited_by_count": 13,
+  "citation_normalized_percentile": {
+    "value": 0.85319839,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 96
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12204",
+    "display_name": "African Education and Politics",
+    "score": 0.6836000084877014,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12204",
+      "display_name": "African Education and Politics",
+      "score": 0.6836000084877014,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13387",
+      "display_name": "Politics, Economics, and Education Policy",
+      "score": 0.14270000159740448,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11556",
+      "display_name": "Poverty, Education, and Child Welfare",
+      "score": 0.10830000042915344,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3303",
+        "display_name": "Development"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/education-expenditure",
+      "display_name": "education expenditure",
+      "score": 0.9679999947547913
+    },
+    {
+      "id": "https://openalex.org/keywords/access-to-education",
+      "display_name": "access to education",
+      "score": 0.9869999885559082
+    },
+    {
+      "id": "https://openalex.org/keywords/education-funding-allocation",
+      "display_name": "education budget allocation",
+      "score": 0.7760000228881836
+    },
+    {
+      "id": "https://openalex.org/keywords/primary-school-enrollment",
+      "display_name": "primary school enrollment",
+      "score": 0.9649999737739563
+    },
+    {
+      "id": "https://openalex.org/keywords/secondary-school-enrollment",
+      "display_name": "secondary school enrollment",
+      "score": 0.9369999766349792
+    },
+    {
+      "id": "https://openalex.org/keywords/access-to-higher-education",
+      "display_name": "higher education access",
+      "score": 0.9380000233650208
+    },
+    {
+      "id": "https://openalex.org/keywords/urbanization",
+      "display_name": "urbanization",
+      "score": 0.6579999923706055
+    },
+    {
+      "id": "https://openalex.org/keywords/nigeria",
+      "display_name": "Nigeria",
+      "score": 0.47099998593330383
+    },
+    {
+      "id": "https://openalex.org/keywords/public-expenditure",
+      "display_name": "government spending",
+      "score": 0.3790000081062317
+    },
+    {
+      "id": "https://openalex.org/keywords/school-infrastructure",
+      "display_name": "school infrastructure",
+      "score": 0.3440000116825104
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C138147947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1183659",
+      "display_name": "Declaration",
+      "level": 2,
+      "score": 0.8005439043045044
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.5163999199867249
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.51186603307724
+    },
+    {
+      "id": "https://openalex.org/C2779175122",
+      "wikidata": "https://www.wikidata.org/wiki/Q3309206",
+      "display_name": "Basic education",
+      "level": 2,
+      "score": 0.49395281076431274
+    },
+    {
+      "id": "https://openalex.org/C10050518",
+      "wikidata": "https://www.wikidata.org/wiki/Q975085",
+      "display_name": "Primary education",
+      "level": 2,
+      "score": 0.49251589179039
+    },
+    {
+      "id": "https://openalex.org/C3116431",
+      "wikidata": "https://www.wikidata.org/wiki/Q31728",
+      "display_name": "Public administration",
+      "level": 1,
+      "score": 0.3585697412490845
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.3124277591705322
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.10999923944473267
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "pmh:oai:oai.econjournals.com:article/5082",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://econjournals.com/index.php/ijefi/article/view/5082",
+      "pdf_url": "https://econjournals.com/index.php/ijefi/article/download/5082/pdf",
+      "source": {
+        "id": "https://openalex.org/S2737777163",
+        "display_name": "International Journal of Economics and Financial Issues",
+        "issn_l": "2146-4138",
+        "issn": [
+          "2146-4138"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-c",
+          "anvur-scientific",
+          "cwts-core",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310318345",
+        "host_organization_name": "EconJournals",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318345"
+        ],
+        "host_organization_lineage_names": [
+          "EconJournals"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2146-4138",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:RePEc:eco:journ1:2017-05-35",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://www.econjournals.com/index.php/ijefi/article/download/5082/pdf",
+      "pdf_url": "https://www.econjournals.com/index.php/ijefi/article/download/5082/pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:87515aeef7524ff18f7abc86fff42196",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/87515aeef7524ff18f7abc86fff42196",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "International Journal of Economics and Financial Issues, Vol 7, Iss 5, Pp 290-298 (2017)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:oai.econjournals.com:article/5082",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://econjournals.com/index.php/ijefi/article/view/5082",
+    "pdf_url": "https://econjournals.com/index.php/ijefi/article/download/5082/pdf",
+    "source": {
+      "id": "https://openalex.org/S2737777163",
+      "display_name": "International Journal of Economics and Financial Issues",
+      "issn_l": "2146-4138",
+      "issn": [
+        "2146-4138"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-c",
+        "anvur-scientific",
+        "cwts-core",
+        "norway-1"
+      ],
+      "host_organization": "https://openalex.org/P4310318345",
+      "host_organization_name": "EconJournals",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310318345"
+      ],
+      "host_organization_lineage_names": [
+        "EconJournals"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2146-4138",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education",
+      "score": 0.9235000014305115
+    },
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities",
+      "score": 0.5676000118255615
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2796787753.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2796787753.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4389523421",
+    "https://openalex.org/W7214848287",
+    "https://openalex.org/W4390476916",
+    "https://openalex.org/W3106384687",
+    "https://openalex.org/W7105549361",
+    "https://openalex.org/W4410778435",
+    "https://openalex.org/W348306424",
+    "https://openalex.org/W120061349",
+    "https://openalex.org/W2715249826",
+    "https://openalex.org/W2046986392"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "recognition": [
+      1
+    ],
+    "of": [
+      2,
+      4,
+      35,
+      60,
+      64,
+      75,
+      81,
+      103,
+      115,
+      119,
+      131,
+      161,
+      247,
+      256,
+      279,
+      327,
+      354,
+      364
+    ],
+    "importance": [
+      3
+    ],
+    "access": [
+      5,
+      25,
+      37,
+      171,
+      252,
+      275,
+      298,
+      315,
+      323,
+      336
+    ],
+    "to": [
+      6,
+      23,
+      26,
+      38,
+      68,
+      84,
+      96,
+      126,
+      159,
+      168,
+      172,
+      203,
+      253,
+      261,
+      276,
+      299,
+      316,
+      324,
+      337,
+      350,
+      358
+    ],
+    "education,": [
+      7,
+      318
+    ],
+    "national": [
+      8
+    ],
+    "leaders": [
+      9
+    ],
+    "and": [
+      10,
+      20,
+      44,
+      53,
+      122,
+      134,
+      197,
+      200,
+      227,
+      245,
+      268,
+      274,
+      311,
+      319,
+      387
+    ],
+    "international": [
+      11,
+      198
+    ],
+    "development": [
+      12
+    ],
+    "agencies": [
+      13
+    ],
+    "met": [
+      14
+    ],
+    "in": [
+      15,
+      17,
+      47,
+      90,
+      151,
+      217,
+      236,
+      281,
+      329,
+      339
+    ],
+    "1990": [
+      16
+    ],
+    "Jomtien": [
+      18
+    ],
+    "Thailand": [
+      19
+    ],
+    "committed": [
+      21
+    ],
+    "themselves": [
+      22
+    ],
+    "universalizing": [
+      24
+    ],
+    "primary": [
+      27,
+      112,
+      120,
+      300
+    ],
+    "schooling": [
+      28
+    ],
+    "by": [
+      29,
+      181,
+      290,
+      367
+    ],
+    "2000.": [
+      30
+    ],
+    "Recognizing": [
+      31
+    ],
+    "that": [
+      32,
+      98,
+      170,
+      246,
+      345,
+      346
+    ],
+    "the": [
+      33,
+      36,
+      87,
+      145,
+      162,
+      208,
+      214,
+      238,
+      342,
+      351
+    ],
+    "success": [
+      34
+    ],
+    "education": [
+      39,
+      85,
+      142,
+      154,
+      174,
+      204,
+      243,
+      272,
+      280,
+      287,
+      328,
+      338
+    ],
+    "agenda": [
+      40
+    ],
+    "requires": [
+      41
+    ],
+    "a": [
+      42,
+      58,
+      73
+    ],
+    "significant": [
+      43
+    ],
+    "well-targeted": [
+      45
+    ],
+    "increase": [
+      46,
+      177
+    ],
+    "financing,": [
+      48
+    ],
+    "United": [
+      49,
+      383
+    ],
+    "Nations": [
+      50,
+      384
+    ],
+    "Educational,": [
+      51,
+      385
+    ],
+    "Scientific": [
+      52,
+      386
+    ],
+    "Cultural": [
+      54,
+      388
+    ],
+    "Organization": [
+      55,
+      389
+    ],
+    "(UNESCO)": [
+      56
+    ],
+    "declared": [
+      57
+    ],
+    "benchmark": [
+      59
+    ],
+    "at": [
+      61,
+      100
+    ],
+    "least": [
+      62,
+      229
+    ],
+    "26%": [
+      63,
+      160,
+      201,
+      249,
+      284,
+      355
+    ],
+    "total": [
+      65,
+      163,
+      210
+    ],
+    "public": [
+      66
+    ],
+    "expenditure": [
+      67,
+      211,
+      244,
+      250,
+      273,
+      285
+    ],
+    "education.": [
+      69,
+      257,
+      359
+    ],
+    "Nigeria": [
+      70,
+      365
+    ],
+    "despite": [
+      71
+    ],
+    "being": [
+      72
+    ],
+    "member": [
+      74
+    ],
+    "UNESCO,": [
+      76
+    ],
+    "allocates": [
+      77
+    ],
+    "persistently": [
+      78
+    ],
+    "below,": [
+      79
+    ],
+    "6%": [
+      80
+    ],
+    "her": [
+      82
+    ],
+    "budget": [
+      83,
+      356
+    ],
+    "since": [
+      86
+    ],
+    "UNESCO": [
+      88,
+      220,
+      291,
+      352
+    ],
+    "Declaration": [
+      89
+    ],
+    "1990.": [
+      91
+    ],
+    "It": [
+      92
+    ],
+    "is": [
+      93,
+      144,
+      165,
+      266,
+      333
+    ],
+    "also": [
+      94,
+      176
+    ],
+    "worrisome": [
+      95
+    ],
+    "note": [
+      97
+    ],
+    "as": [
+      99,
+      288,
+      371
+    ],
+    "2014,": [
+      101
+    ],
+    "40%": [
+      102
+    ],
+    "Nigerian": [
+      104
+    ],
+    "children": [
+      105
+    ],
+    "aged": [
+      106
+    ],
+    "6-11": [
+      107
+    ],
+    "do": [
+      108
+    ],
+    "not": [
+      109
+    ],
+    "attend": [
+      110
+    ],
+    "any": [
+      111
+    ],
+    "school,": [
+      113
+    ],
+    "30%": [
+      114
+    ],
+    "pupils": [
+      116
+    ],
+    "drop": [
+      117
+    ],
+    "out": [
+      118
+    ],
+    "school": [
+      121,
+      301,
+      309
+    ],
+    "only": [
+      123
+    ],
+    "54%": [
+      124
+    ],
+    "transit": [
+      125
+    ],
+    "secondary": [
+      127,
+      189,
+      308
+    ],
+    "schools": [
+      128
+    ],
+    "(Federal": [
+      129
+    ],
+    "Ministry": [
+      130
+    ],
+    "Education,": [
+      132
+    ],
+    "2014;": [
+      133
+    ],
+    "UNICEF,": [
+      135
+    ],
+    "2015).": [
+      136
+    ],
+    "Could": [
+      137
+    ],
+    "it": [
+      138
+    ],
+    "be": [
+      139
+    ],
+    "that,": [
+      140
+    ],
+    "poor": [
+      141,
+      148
+    ],
+    "spending": [
+      143,
+      155
+    ],
+    "reason": [
+      146
+    ],
+    "for": [
+      147,
+      213
+    ],
+    "student's": [
+      149
+    ],
+    "enrolment": [
+      150,
+      310
+    ],
+    "Nigeria?": [
+      152
+    ],
+    "If": [
+      153
+    ],
+    "had": [
+      156,
+      294
+    ],
+    "increased": [
+      157
+    ],
+    "up": [
+      158
+    ],
+    "budget,": [
+      164
+    ],
+    "there": [
+      166,
+      265
+    ],
+    "reason(s)": [
+      167
+    ],
+    "believe": [
+      169
+    ],
+    "basic": [
+      173
+    ],
+    "will": [
+      175
+    ],
+    "and,": [
+      178
+    ],
+    "if": [
+      179
+    ],
+    "so,": [
+      180
+    ],
+    "how": [
+      182
+    ],
+    "much?": [
+      183
+    ],
+    "To": [
+      184
+    ],
+    "answer": [
+      185
+    ],
+    "these": [
+      186
+    ],
+    "pertinent": [
+      187
+    ],
+    "questions,": [
+      188
+    ],
+    "times-series": [
+      190
+    ],
+    "data": [
+      191
+    ],
+    "were": [
+      192
+    ],
+    "obtained": [
+      193
+    ],
+    "from": [
+      194,
+      207,
+      240
+    ],
+    "both": [
+      195,
+      241
+    ],
+    "local": [
+      196
+    ],
+    "sources": [
+      199
+    ],
+    "allocation": [
+      202,
+      357
+    ],
+    "was": [
+      205,
+      225,
+      234
+    ],
+    "projected": [
+      206,
+      248
+    ],
+    "existing": [
+      209
+    ],
+    "outlay": [
+      212
+    ],
+    "period": [
+      215
+    ],
+    "1990-2015": [
+      216
+    ],
+    "line": [
+      218
+    ],
+    "with": [
+      219,
+      335
+    ],
+    "declaration.": [
+      221
+    ],
+    "Ganger": [
+      222
+    ],
+    "causality": [
+      223
+    ],
+    "tests": [
+      224
+    ],
+    "conducted": [
+      226
+    ],
+    "ordinary": [
+      228
+    ],
+    "square": [
+      230
+    ],
+    "regression": [
+      231
+    ],
+    "estimation": [
+      232
+    ],
+    "technique": [
+      233
+    ],
+    "used": [
+      235
+    ],
+    "estimating": [
+      237
+    ],
+    "impacts": [
+      239
+    ],
+    "actual": [
+      242
+    ],
+    "on": [
+      251,
+      286,
+      297,
+      307,
+      314,
+      320
+    ],
+    "all": [
+      254,
+      277,
+      325
+    ],
+    "levels": [
+      255,
+      278,
+      326
+    ],
+    "The": [
+      258
+    ],
+    "results": [
+      259
+    ],
+    "point": [
+      260
+    ],
+    "three": [
+      262
+    ],
+    "conclusions:": [
+      263
+    ],
+    "First,": [
+      264
+    ],
+    "strong": [
+      267
+    ],
+    "positive": [
+      269
+    ],
+    "relationship": [
+      270
+    ],
+    "between": [
+      271
+    ],
+    "Nigeria.": [
+      282,
+      330,
+      340
+    ],
+    "Second,": [
+      283
+    ],
+    "prescribed": [
+      289
+    ],
+    "would": [
+      292
+    ],
+    "have": [
+      293
+    ],
+    "19-times": [
+      295
+    ],
+    "impact": [
+      296,
+      306,
+      313
+    ],
+    "enrolment,": [
+      302
+    ],
+    "more": [
+      303
+    ],
+    "than": [
+      304
+    ],
+    "2-times": [
+      305
+    ],
+    "9-times": [
+      312
+    ],
+    "tertiary": [
+      317
+    ],
+    "average": [
+      321
+    ],
+    "10-times": [
+      322
+    ],
+    "Third,": [
+      331
+    ],
+    "urbanization": [
+      332,
+      363
+    ],
+    "symbiotic": [
+      334
+    ],
+    "Accordingly,": [
+      341
+    ],
+    "study": [
+      343
+    ],
+    "recommended": [
+      344
+    ],
+    "government": [
+      347
+    ],
+    "should": [
+      348,
+      361
+    ],
+    "adhere": [
+      349
+    ],
+    "declaration": [
+      353
+    ],
+    "Government": [
+      360
+    ],
+    "intensify": [
+      362
+    ],
+    "enclaves": [
+      366
+    ],
+    "building": [
+      368
+    ],
+    "infrastructures": [
+      369
+    ],
+    "such": [
+      370
+    ],
+    "schools,": [
+      372
+    ],
+    "hospitals,": [
+      373
+    ],
+    "road": [
+      374
+    ],
+    "network,": [
+      375
+    ],
+    "markets,": [
+      376
+    ],
+    "industries,": [
+      377
+    ],
+    "etc.Keywords:": [
+      378
+    ],
+    "Education": [
+      379
+    ],
+    "Expenditure,": [
+      380
+    ],
+    "School": [
+      381
+    ],
+    "Enrolment,": [
+      382
+    ],
+    "DeclarationJEL": [
+      390
+    ],
+    "Classification:": [
+      391
+    ],
+    "H250": [
+      392
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-11-11T12:16:26.678958",
+  "created_date": "2018-04-24T00:00:00"
+}

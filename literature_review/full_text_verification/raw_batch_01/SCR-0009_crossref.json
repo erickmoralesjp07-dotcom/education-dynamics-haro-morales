@@ -1,0 +1,637 @@
+{
+  "institution": [
+    {
+      "name": "Research Square"
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        4
+      ]
+    ],
+    "date-time": "2024-01-04T00:14:34Z",
+    "timestamp": 1704327274266
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        11
+      ]
+    ]
+  },
+  "group-title": "In Review",
+  "reference-count": 82,
+  "publisher": "Research Square Platform LLC",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            11
+          ]
+        ],
+        "date-time": "2023-12-11T00:00:00Z",
+        "timestamp": 1702252800000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "accepted": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        5
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>A large body of literature has documented a strong economic gradient of educational outcomes, with pupils from richer households obtaining on average better outcomes than pupils from poorer households. However, there is surprisingly very little evidence on the role of aggregate economic inequality on individual educational attainment, once individual economic status as well as the aggregate economic milieu are controlled for. Using the 2012, 2015 and 2018 waves of multi-country data from the OECD Programme for International Student Assessment (PISA), we find a negative relationship between school-level wealth inequality and test scores. In addition, we observe that school-level inequality interacts with school-level mean wealth. This suggests that the role of inequality may differ depending on the economic milieu – being stronger for schools attended by pupils from richer families. We go beyond the standard econometric interpretation of this interaction term and provide a reading of it in terms of school-level absolute inequality and aggregate relative deprivation. Results hold for the pooled data as well as for each of the three waves alone and are confirmed by a range of robustness checks.</jats:p>",
+  "DOI": "10.21203/rs.3.rs-3709698/v1",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        11
+      ]
+    ],
+    "date-time": "2023-12-11T16:42:47Z",
+    "timestamp": 1702312967000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "School-level inequality and learning achievement: evidence from PISA"
+  ],
+  "prefix": "10.21203",
+  "author": [
+    {
+      "given": "Lucas",
+      "family": "Sempe",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Queen Margaret University"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Lucio",
+      "family": "Esposito",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of East Anglia"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "8761",
+  "reference": [
+    {
+      "key": "ref1",
+      "unstructured": "Atkinson, A. B. (1974) The economics of inequality. Clarendon. Oxford: Citeseer."
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Azeredo, C. M. et al. (2015) ‘School bullying: A systematic review of contextual-level risk factors in observational studies’, Aggression and Violent Behavior. Pergamon, pp. 65–76. doi: 10.1016/j.avb.2015.04.006.",
+      "DOI": "10.1016/j.avb.2015.04.006"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bak, H. and Yi, Y. (2020) ‘When the American dream fails: The effect of perceived economic inequality on present-oriented behavior’, Psychology and Marketing, 37(10), pp. 1321–1341. doi: 10.1002/mar.21369.",
+      "DOI": "10.1002/mar.21369"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Barone, G. and Mocetti, S. (2016) ‘Inequality and trust: New evidence from panel data’, Economic Inquiry, 54(2), pp. 794–809. doi: 10.1111/ecin.12309.",
+      "DOI": "10.1111/ecin.12309"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Basu, K. and Van, P. H. (1998) ‘The Economics of Child Labor’, The American Economic Review, 88(3), pp. 412–27. doi: 10.1038/scientificamerican1003-84.",
+      "DOI": "10.1038/scientificamerican1003-84"
+    },
+    {
+      "key": "ref6",
+      "unstructured": "Bates, D. (2010) ‘Mixed models in R using the lme4 package Part 8: Nonlinear mixed models’, pp. 1–9."
+    },
+    {
+      "key": "ref7",
+      "unstructured": "Becker, G. S. (2009) Human capital: A theoretical and empirical analysis, with special reference to education. Third. University of Chicago press."
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bond, G. C. (1981) ‘Social Economic Status and Educational Achievement: A Review Article’, Anthropology & Education Quarterly, 12(4), pp. 227–257. doi: 10.1525/aeq.1981.12.4.05x1811q.",
+      "DOI": "10.1525/aeq.1981.12.4.05x1811q"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bradley, R. H. and Corwyn, R. F. (2002) ‘Socioeconomic status and child development’, Annual Review of Psychology, 53, pp. 371–399. doi: 10.1146/annurev.psych.53.100901.135233.",
+      "DOI": "10.1146/annurev.psych.53.100901.135233"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Browman, A. S. et al. (2019) ‘How economic inequality shapes mobility expectations and behaviour in disadvantaged youth’, Nature Human Behaviour. Nature Publishing Group, pp. 214–220. doi: 10.1038/s41562-018-0523-0.",
+      "DOI": "10.1038/s41562-018-0523-0"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Caro, D. H. and Lenkeit, J. (2012) ‘An analytical approach to study educational inequalities: 10 hypothesis tests in PIRLS 2006’, International Journal of Research and Method in Education, 35(1), pp. 3–30. doi: 10.1080/1743727X.2012.666718.",
+      "DOI": "10.1080/1743727X.2012.666718"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Checchi, D. (2003) ‘Inequality in Incomes and Access to Education: A Cross-Country Analysis (1960-95)’, Labour, 17(2), pp. 153–201. doi: 10.1111/1467-9914.00226.",
+      "DOI": "10.1111/1467-9914.00226"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chiu, M. M. and Khoo, L. (2005) ‘Effects of resources, inequality, and privilege bias on achievement: Country, school, and student level analyses’, American Educational Research Journal, 42(4), pp. 575–603. doi: 10.3102/00028312042004575.",
+      "DOI": "10.3102/00028312042004575"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chiu, W. H. (1998) ‘Income Inequality, Human Capital Accumulation and Economic Performance’, The Economic Journal, 108(446), pp. 44–59. doi: 10.1111/1468-0297.00272.",
+      "DOI": "10.1111/1468-0297.00272"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Clark, A. E. and D’Ambrosio, C. (2015) ‘Attitudes to income inequality: Experimental and survey evidence’, in Handbook of Income Distribution. Elsevier, pp. 1147–1208. doi: 10.1016/B978-0-444-59428-0.00014-X.",
+      "DOI": "10.1016/B978-0-444-59428-0.00014-X"
+    },
+    {
+      "key": "ref16",
+      "unstructured": "Coleman, J. (1966) ‘Equality of Educational Opportunity’. Ann Arbor."
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Connell, R. (1994) ‘Poverty and Education’, Harvard Educational Review, 64(2), pp. 125–150. doi: 10.17763/haer.64.2.m14947g30k1x5781.",
+      "DOI": "10.17763/haer.64.2.m14947g30k1x5781"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "De Courson, B. and Nettle, D. (2021) ‘Why do inequality and deprivation produce high crime and low trust?’, Scientific Reports, 11(1), pp. 1–11. doi: 10.1038/s41598-020-80897-8.",
+      "DOI": "10.1038/s41598-020-80897-8"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Crane, J. (1991) ‘The Epidemic Theory of Ghettos and Neighborhood Effects on Dropping Out and Teenage Childbearing’, American Journal of Sociology, 96(5), pp. 1226–1259. doi: 10.1086/229654.",
+      "DOI": "10.1086/229654"
+    },
+    {
+      "key": "ref20",
+      "unstructured": "Davier, M. Von, Gonzalez, E. and Mislevy, R. J. (1997) What are plausible values and why are they useful ?"
+    },
+    {
+      "key": "ref21",
+      "unstructured": "Davis, A., Gardner, B. B., & Gardner, M. R. (1941). Deep South: A social anthropological study of caste and class. Univ of South Carolina Press."
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dincer, O. C. (2011) ‘Trust and schooling in the United States’, Economics of Education Review, 30(5), pp. 1097–1102. doi: 10.1016/j.econedurev.2011.05.014.",
+      "DOI": "10.1016/j.econedurev.2011.05.014"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Diener, E. D. and Diener, C. (1995). 'The wealth of nations revisited: Income and quality of life', Social Indicators Research, 36, 275–286.",
+      "DOI": "10.1007/BF01078817"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Due, P. et al. (2009) ‘Socioeconomic inequality in exposure to bullying during adolescence: A comparative, cross-sectional, multilevel study in 35 countries’, American Journal of Public Health, 99(5), pp. 907–914. doi: 10.2105/AJPH.2008.139303.",
+      "DOI": "10.2105/AJPH.2008.139303"
+    },
+    {
+      "key": "ref25",
+      "unstructured": "Durkheim (1897) Le suicide: étude de sociologie. Alcan."
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Elgar, F. J. et al. (2009) ‘Income Inequality and School Bullying: Multilevel Study of Adolescents in 37 Countries’, Journal of Adolescent Health, 45(4), pp. 351–359. doi: 10.1016/j.jadohealth.2009.04.004.",
+      "DOI": "10.1016/j.jadohealth.2009.04.004"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Esposito, L. and Villaseñor, A. (2018) ‘Wealth Inequality, Educational Environment and School Enrolment: Evidence from Mexico’, Journal of Development Studies, 54(11), pp. 2095–2118. doi: 10.1080/00220388.2017.1385768.",
+      "DOI": "10.1080/00220388.2017.1385768"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Esposito, L. and Villaseñor, A. (2019) ‘Relative Deprivation and School Enrolment. Evidence from Mexico’, Review of Income and Wealth, 65(1), pp. 166–186. doi: 10.1111/roiw.12344.",
+      "DOI": "10.1111/roiw.12344"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Galor, O. and Zeira, J. (1993) ‘Income Distribution and Macroeconomics’, The Review of Economic Studies, 60(1), pp. 35–52.",
+      "DOI": "10.2307/2297811"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "García-Peñalosa, C. (1995) ‘The Paradox of Education or the Good Side of Inequality’, Oxford Economic Papers, 47(2), pp. 265–285.",
+      "DOI": "10.1093/oxfordjournals.oep.a042170"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gerber, J. P., Wheeler, L. and Suls, J. (2018) ‘A social comparison theory meta-analysis 60 + years on’, Psychological Bulletin, 144(2), pp. 177–197. doi: 10.1037/bul0000127.",
+      "DOI": "10.1037/bul0000127"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Glewwe, P., Jacoby, H. G. and King, E. M. (2001) ‘Early childhood nutrition and academic achievement: A longitudinal analysis’, Journal of Public Economics, 81(3), pp. 345–368. doi: 10.1016/S0047-2727(00)00118-3.",
+      "DOI": "10.1016/S0047-2727(00)00118-3"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Goodman, E. et al. (2003) ‘A multilevel analysis of the relation of socioeconomic status to adolescent depressive symptoms: Does school context matter?’, Journal of Pediatrics, 143(4), pp. 451–456. doi: 10.1067/S0022-3476(03)00456-6.",
+      "DOI": "10.1067/S0022-3476(03)00456-6"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gustavsson, M. and Jordahl, H. (2008) ‘Inequality and trust in Sweden: Some inequalities are more harmful than others’, Journal of Public Economics, 92(1–2), pp. 348–365. doi: 10.1016/j.jpubeco.2007.06.010.",
+      "DOI": "10.1016/j.jpubeco.2007.06.010"
+    },
+    {
+      "key": "ref35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gutiérrez, G., Jerrim, J. and Torres, R. (2019) ‘School Segregation Across the World: Has Any Progress Been Made in Reducing the Separation of the Rich from the Poor?’, Journal of Economic Inequality. doi: 10.1007/s10888-019-09437-3.",
+      "DOI": "10.1007/s10888-019-09437-3"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hackman, D. A., Farah, M. J. and Meaney, M. J. (2010) ‘Socioeconomic status and the brain: Mechanistic insights from human and animal research’, Nature Reviews Neuroscience. Nature Publishing Group, pp. 651–659. doi: 10.1038/nrn2897.",
+      "DOI": "10.1038/nrn2897"
+    },
+    {
+      "key": "ref37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hanushek, E. A., Link, S. and Woessmann, L. (2013) ‘Does school autonomy make sense everywhere? Panel estimates from PISA’, Journal of Development Economics, 104, pp. 212–232. doi: 10.1016/j.jdeveco.2012.08.002.",
+      "DOI": "10.1016/j.jdeveco.2012.08.002"
+    },
+    {
+      "key": "ref38",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hey, J. D. and Lambert, P. J. (1980) ‘Relative Deprivation and the Gini Coefficient: Comment’, The Quarterly Journal of Economics, 95(3), p. 567. doi: 10.2307/1885094.",
+      "DOI": "10.2307/1885094"
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hoover-Dempsey, K. V., Bassler, O. C. and Brissie, J. S. (1987) ‘Parent Involvement: Contributions of Teacher Efficacy, School Socioeconomic Status, and Other School Characteristics’, American Educational Research Journal, 24(3), pp. 417–435. doi: 10.3102/00028312024003417.",
+      "DOI": "10.3102/00028312024003417"
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hopfenbeck, T. N. et al. (2018) ‘Lessons Learned from PISA: A Systematic Review of Peer-Reviewed Articles on the Programme for International Student Assessment’, Scandinavian Journal of Educational Research, 62(3), pp. 333–353. doi: 10.1080/00313831.2016.1258726.",
+      "DOI": "10.1080/00313831.2016.1258726"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Iniguez-Montiel, A. J. (2014) ‘Growth with Equity for the Development of Mexico: Poverty, Inequality, and Economic Growth (1992–2008)’, World Development, 59, pp. 313–326. doi: 10.1016/j.worlddev.2014.01.011.",
+      "DOI": "10.1016/j.worlddev.2014.01.011"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jerrim, J. et al. (2017) ‘What happens when econometrics and psycometrics collide? An example using the PISA data’, Economics of Education Review, 61, pp. 51–58.",
+      "DOI": "10.1016/j.econedurev.2017.09.007"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kalwij, A. and Verschoor, A. (2007) ‘Not by growth alone: The role of the distribution of income in regional diversity in poverty reduction’, European Economic Review, 51(4), pp. 805–829. doi: 10.1016/j.euroecorev.2006.06.003.",
+      "DOI": "10.1016/j.euroecorev.2006.06.003"
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kuhn, A. (2019) ‘The subversive nature of inequality: Subjective inequality perceptions and attitudes to social inequality’, European Journal of Political Economy, 59, pp. 331–344. doi: 10.1016/j.ejpoleco.2019.04.004.",
+      "DOI": "10.1016/j.ejpoleco.2019.04.004"
+    },
+    {
+      "key": "ref45",
+      "unstructured": "Kyriacou, A. and Trivin, P. (2020) ‘Economic development, inequality and generalized trust’, Economics Bulletin, 40(1). Available at: https://dugi-doc.udg.edu/handle/10256/17722 (Accessed: 9 November 2021)."
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lalive, R. and Cattaneo, M. A. (2009) ‘Social interactions and schooling decisions’, Review of Economics and Statistics, 91(3), pp. 457–477. doi: 10.1162/rest.91.3.457.",
+      "DOI": "10.1162/rest.91.3.457"
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lewis, L. S. (1964). Class and the Perception of Class. Social Forces, 42(3), 336–340.",
+      "DOI": "10.2307/2575538"
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lindberg, S. (1977) ‘The Direction of Ordering and Its Relation to Social Phenomena’, Zeitschrift für Soziologie, 6(2), pp. 203–221.",
+      "DOI": "10.1515/zfsoz-1977-0205"
+    },
+    {
+      "key": "ref49",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Marks, G. N. (2006) ‘Are between- and within-school differences in student performance largely due to socio-economic background? Evidence from 30 countries’, Educational Research, 48(1), pp. 21–40. doi: 10.1080/00131880500498396.",
+      "DOI": "10.1080/00131880500498396"
+    },
+    {
+      "key": "ref50",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Martins, L. and Veiga, P. (2010) ‘Do inequalities in parents’ education play an important role in PISA students’ mathematics achievement test score disparities?’, Economics of Education Review, 29(6), pp. 1016–1033. doi: 10.1016/j.econedurev.2010.05.001.",
+      "DOI": "10.1016/j.econedurev.2010.05.001"
+    },
+    {
+      "key": "ref51",
+      "unstructured": "Mayer, S. E. (1997) What money can’t buy: Family income and children’s life chances. Harvard University Press."
+    },
+    {
+      "key": "ref52",
+      "doi-asserted-by": "crossref",
+      "unstructured": "McLoyd, V. C. (1990) ‘The Impact of Economic Hardship on Black Families and Children: Psychological Distress, Parenting, and Socioemotional Development’, Child Development, 61(2), pp. 311–346. doi: 10.1111/J.1467-8624.1990.TB02781.X.",
+      "DOI": "10.1111/j.1467-8624.1990.tb02781.x"
+    },
+    {
+      "key": "ref53",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Merlo, J., Viciana-Fernández, F. J. and Ramiro-Fariñas, D. (2012) ‘Bringing the individual back to small-area variation studies: A multilevel analysis of all-cause mortality in Andalusia, Spain’, Social Science and Medicine, 75(8), pp. 1477–1487. doi: 10.1016/j.socscimed.2012.06.004.",
+      "DOI": "10.1016/j.socscimed.2012.06.004"
+    },
+    {
+      "key": "ref54",
+      "unstructured": "OECD (2014) PISA 2012 Technical Report Programme for International Student Assessment."
+    },
+    {
+      "key": "ref55",
+      "unstructured": "OECD (2017) PISA 2015 Technical Report, OECD Publishing. Paris."
+    },
+    {
+      "key": "ref56",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Oppedisano, V. and Turati, G. (2015) ‘What are the causes of educational inequality and of its evolution over time in Europe? Evidence from PISA’, Education Economics, 23(1), pp. 3–24. doi: 10.1080/09645292.2012.736475.",
+      "DOI": "10.1080/09645292.2012.736475"
+    },
+    {
+      "key": "ref57",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Oyserman, D. (2013) ‘Not just any path: Implications of identity-based motivation for disparities in school outcomes’, Economics of Education Review, 33, pp. 179–190. doi: 10.1016/j.econedurev.2012.09.002.",
+      "DOI": "10.1016/j.econedurev.2012.09.002"
+    },
+    {
+      "key": "ref58",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Perotti, R. (1993) ‘Political Equilibrium, Income Distribution, and Growth’, The Review of Economic Studies, 60(4), pp. 755–776. doi: 10.2307/2298098.",
+      "DOI": "10.2307/2298098"
+    },
+    {
+      "key": "ref59",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Perry, L. B. and McConney, A. (2010) ‘Does the SES of the school matter? An examination of socioeconomic status and student achievement using PISA 2003’, Teachers College Record, 112(4), pp. 1137–1162.",
+      "DOI": "10.1177/016146811011200401"
+    },
+    {
+      "key": "ref60",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pickett, K. E. and Wilkinson, R. G. (2015) ‘Income inequality and health: A causal review’, Social Science and Medicine, 128, pp. 316–326. doi: 10.1016/j.socscimed.2014.12.031.",
+      "DOI": "10.1016/j.socscimed.2014.12.031"
+    },
+    {
+      "key": "ref61",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Polidano, C., Hanel, B. and Buddelmeyer, H. (2013) ‘Explaining the socio-economic status school completion gap’, Education Economics, 21(3), pp. 230–247. doi: 10.1080/09645292.2013.789482.",
+      "DOI": "10.1080/09645292.2013.789482"
+    },
+    {
+      "key": "ref62",
+      "unstructured": "R Core Team (2020) ‘R: A language and environment for statistical computing. R Foundation for Statistical Computing’. Vienna, Austria: R Foundation for Statistical Computing."
+    },
+    {
+      "key": "ref63",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rabe-Hesketh, S. and Skrondal, A. (2006) ‘Multilevel modelling of complex survey data’, Journal of the Royal Statistical Society. Series A: Statistics in Society, 169(4), pp. 805–827. doi: 10.1111/j.1467-985X.2006.00426.x.",
+      "DOI": "10.1111/j.1467-985X.2006.00426.x"
+    },
+    {
+      "key": "ref64",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ravallion, M. and Lokshin, M. (2010). 'Who cares about relative deprivation?', Journal of Economic Behavior & Organization, 73(2), 171–185.",
+      "DOI": "10.1016/j.jebo.2009.08.008"
+    },
+    {
+      "key": "ref65",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ravallion, M. and Chen, S. (2007) ‘China’s (uneven) progress against poverty’, Journal of Development Economics, 82(1), pp. 1–42. doi: 10.1016/j.jdeveco.2005.07.003.",
+      "DOI": "10.1016/j.jdeveco.2005.07.003"
+    },
+    {
+      "key": "ref66",
+      "unstructured": "Robitzsch, A. and Oberwimmer, K. (2015) ‘BIFIEsurvey: tools for survey statistics in educational assessment’, R package version, pp. 1–2."
+    },
+    {
+      "key": "ref67",
+      "unstructured": "RStudio Team (2020) ‘RStudio: Integrated Development Environment for R’. Boston, MA. Available at: http://www.rstudio.com/."
+    },
+    {
+      "key": "ref68",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rubin, D. (1987) Multiple imputation for nonresponse in sample surveys. New York: John Wiley.",
+      "DOI": "10.1002/9780470316696"
+    },
+    {
+      "key": "ref69",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rumberger, R. W. and Palardy, G. J. (2005) ‘Does segregation still matter? The impact of student composition on academic achievement in high school’, Teachers College Record, 107(9), pp. 1999–2045. doi: 10.1111/j.1467-9620.2005.00583.x.",
+      "DOI": "10.1177/016146810510700905"
+    },
+    {
+      "key": "ref70",
+      "unstructured": "Runciman, W. G. (1966) Relative deprivation and social justice: A study of attitudes to social inequality in twentieth-century England. Routledge & Kegan Paul."
+    },
+    {
+      "key": "ref71",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rutkowski, L. et al. (2010) ‘International Large-Scale Assessment Data: Issues in Secondary Analysis and Reporting’, Educational Researcher, 39(2), pp. 142–151. doi: 10.3102/0013189X10363170.",
+      "DOI": "10.3102/0013189X10363170"
+    },
+    {
+      "key": "ref72",
+      "unstructured": "Schleicher, A. (2019) ‘PISA 2018. Insights and interpretations’, OECD Publishing, p. 61. Available at: https://www.oecd.org/pisa/PISA 2018 Insights and Interpretations FINAL PDF.pdf."
+    },
+    {
+      "key": "ref73",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Schneider, S. M. (2012) ‘Income Inequality and its Consequences for Life Satisfaction: What Role do Social Cognitions Play?’, Social Indicators Research, 106(3), pp. 419–438. doi: 10.1007/s11205-011-9816-7.",
+      "DOI": "10.1007/s11205-011-9816-7"
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sewell, W. H. and Shah, V. P. (1967) ‘Socioeconomic Status, Intelligence, and the Attainment of Higher Education’, Sociology of Education, 40(1), p. 1. doi: 10.2307/2112184.",
+      "DOI": "10.2307/2112184"
+    },
+    {
+      "key": "ref75",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Siddiqi, A. et al. (2012) ‘Education determines a nation’s health, but what determines educational outcomes? A cross-national comparative analysis’, Journal of Public Health Policy, 33(1), pp. 1–15. doi: 10.1057/jphp.2011.52.",
+      "DOI": "10.1057/jphp.2011.52"
+    },
+    {
+      "key": "ref76",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sirin, S. R. (2005) ‘Socioeconomic status and academic achievement: a meta-analytic review of research’, Review of Educational Research, 75(3), pp. 417–453. doi: 10.3102/00346543075003417.",
+      "DOI": "10.3102/00346543075003417"
+    },
+    {
+      "key": "ref77",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Strulik, H. (2013) ‘School Attendance and Child Labor—A Model Of Collective Behavior’, Journal of the European Economic Association, 11(2), pp. 246–277. doi: 10.1111/JEEA.12008.",
+      "DOI": "10.1111/jeea.12008"
+    },
+    {
+      "key": "ref78",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Thorbecke, E. and Charumilind, C. (2002) ‘Economic inequality and its socioeconomic impact’, World Development, 30(9), pp. 1477–1495. doi: 10.1016/S0305-750X(02)00052-9.",
+      "DOI": "10.1016/S0305-750X(02)00052-9"
+    },
+    {
+      "key": "ref79",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Walker, S. P. et al. (2011) ‘Inequality in early childhood: Risk and protective factors for early child development’, The Lancet. Lancet, pp. 1325–1338. doi: 10.1016/S0140-6736(11)60555-2.",
+      "DOI": "10.1016/S0140-6736(11)60555-2"
+    },
+    {
+      "key": "ref80",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wilkinson, R. G. and Pickett, K. E. (2007) ‘The problems of relative deprivation: Why some societies do better than others’, Social Science and Medicine, 65(9), pp. 1965–1978. doi: 10.1016/j.socscimed.2007.05.041.",
+      "DOI": "10.1016/j.socscimed.2007.05.041"
+    },
+    {
+      "key": "ref81",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Willms, J. D. and Somer, M.-A. (2001) ‘Family, Classroom, and School Effects on Childrens Educational Outcomes in Latin America’, School Effectiveness and School Improvement, 12(4), pp. 409–445. doi: 10.1076/sesi.12.4.409.3445.",
+      "DOI": "10.1076/sesi.12.4.409.3445"
+    },
+    {
+      "key": "ref82",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yitzhaki, S. (1979) ‘Relative Deprivation and the Gini Coefficient’, The Quarterly Journal of Economics, 93(2), p. 321. doi: 10.2307/1883197.",
+      "DOI": "10.2307/1883197"
+    }
+  ],
+  "container-title": [],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.researchsquare.com/article/rs-3709698/v1",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.researchsquare.com/article/rs-3709698/v1.html",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        3
+      ]
+    ],
+    "date-time": "2024-01-03T23:15:16Z",
+    "timestamp": 1704323716000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.researchsquare.com/article/rs-3709698/v1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        11
+      ]
+    ]
+  },
+  "references-count": 82,
+  "URL": "https://doi.org/10.21203/rs.3.rs-3709698/v1",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        11
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

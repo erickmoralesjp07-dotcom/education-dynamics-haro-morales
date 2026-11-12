@@ -1,0 +1,130 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        2
+      ]
+    ],
+    "date-time": "2026-10-02T05:53:28Z",
+    "timestamp": 1790920408481,
+    "version": "4.1.0"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "group-title": "EdArXiv",
+  "reference-count": 0,
+  "publisher": "Center for Open Science",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            29
+          ]
+        ],
+        "date-time": "2026-09-29T00:00:00Z",
+        "timestamp": 1790640000000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<p>Digital infrastructure has become a fundamental foundation for educational development in the digital era. However, limited evidence is available regarding how different dimensions of digital infrastructure are associated with educational development across countries over time. This study investigates the relationship between digital infrastructure and expected years of schooling using panel data from 131 countries between 2020 and 2023. A total of 524 observations were obtained from Our World in Data. Three key dimensions of digital infrastructure—fixed broadband subscriptions, Internet usage, and secure Internet servers—were examined. Descriptive statistics, Pearson correlation analysis, and multiple linear regression models were employed to assess their associations with expected years of schooling, with GDP per capita included as a control variable. The results indicate that all three indicators are positively associated with expected years of schooling. However, the relationship between secure Internet servers and educational development is comparatively weaker than those of broadband subscriptions and Internet usage. The regression analysis further demonstrates that the inclusion of GDP per capita does not substantially alter the estimated coefficients, suggesting that the observed associations remain robust after controlling for national economic development. Overall, the findings provide cross-country evidence that improvements in digital infrastructure are associated with higher expected years of schooling and highlight the importance of continued investment in broadband infrastructure, Internet accessibility, and digital capacity to support educational development.</p>",
+  "DOI": "10.35542/osf.io/fdytm_v1",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ],
+    "date-time": "2026-09-29T00:15:54Z",
+    "timestamp": 1790640954000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study"
+  ],
+  "prefix": "10.35542",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0001-4066-8537",
+      "authenticated-orcid": true,
+      "given": "Puti",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "15934",
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        2
+      ]
+    ],
+    "date-time": "2026-10-02T05:07:00Z",
+    "timestamp": 1790917620000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://osf.io/fdytm_v1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.35542/osf.io/fdytm_v1",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

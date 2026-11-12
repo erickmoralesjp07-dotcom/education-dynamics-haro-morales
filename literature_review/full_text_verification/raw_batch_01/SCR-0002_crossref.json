@@ -1,0 +1,550 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2026-11-04T21:59:50Z",
+    "timestamp": 1793829590278,
+    "version": "4.6.1"
+  },
+  "reference-count": 45,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2022-04-01T00:00:00Z",
+        "timestamp": 1648771200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2022-04-01T00:00:00Z",
+        "timestamp": 1648771200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2022-01-31T00:00:00Z",
+        "timestamp": 1643587200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "International Journal of Educational Development"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.ijedudev.2022.102561",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        8
+      ]
+    ],
+    "date-time": "2022-02-08T19:11:31Z",
+    "timestamp": 1644347491000
+  },
+  "page": "102561",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "special_numbering": "C",
+  "title": [
+    "Female enrollment, child mortality and corruption are good predictors of a country’s UN Education Index"
+  ],
+  "prefix": "10.1016",
+  "volume": "90",
+  "author": [
+    {
+      "given": "Olaitan",
+      "family": "Adeleke",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Patrick E.",
+      "family": "McSharry",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib1",
+      "unstructured": "Association for Public and Land-grant Universities, Knowledge Center on Higher Education for African Development. (2014, February). African Higher Education - APLU. AFRICAN HIGHER EDUCATION: OPPORTUNITIES FOR TRANSFORMATIVE CHANGE FOR SUSTAINABLE DEVELOPMENT. Retrieved February 3, 2022, from (https://aplu.org/library/african-higher-education-opportunities-for-transformative-change-for-sustainable-development/file)."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.ijedudev.2022.102561_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1602",
+      "DOI": "10.1016/j.puhe.2015.08.004",
+      "article-title": "Is there any association between parental education and child mortality? A study in a rural area of Bangladesh",
+      "volume": "129",
+      "author": "Akter",
+      "year": "2015",
+      "journal-title": "Public Health"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Allier-Gagneur, Z.C., & Gruijters, R.J. , 2021. Beyond Heyneman & Loxley: the relative importance of families and schools for learning outcomes in francophone Africa. https://doi.org/10.1080/03057925.2021.1951663.",
+      "DOI": "10.1080/03057925.2021.1951663"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Anand, P., Behrman, J., Dang, H.-A., & Jones, S. , 2018. Inequality of Opportunity in Education: Accounting for the Contributions of Sibs, Schools and Sorting Across East Africa. 〈https://papers.ssrn.com/abstract=3273175〉.",
+      "DOI": "10.1596/1813-9450-8622"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ijedudev.2022.102561_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1125",
+      "DOI": "10.1007/s11205-015-1225-x",
+      "article-title": "The role of wealth and mother’s education in infant and child mortality in 26 Sub-Saharan African countries: evidence from pooled demographic and health survey (DHS) data 2003–2011 and African development indicators (ADI), 2012",
+      "volume": "130",
+      "author": "Anyamele",
+      "year": "2016",
+      "journal-title": "Soc. Indic. Res."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib6",
+      "first-page": "1950",
+      "article-title": "A new data set of educational attainment in the world",
+      "author": "Barro",
+      "year": "2010",
+      "journal-title": "Natl. Bur. Econ. Res."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib7",
+      "unstructured": "Caillods, F., Phillips, M., Poisson, M., & Talbot, C. (2009). Association for the Development of Education in Africa Biennial Meeting; Overcoming the obstacles to EFA; Research papers IIEP; 2009."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ijedudev.2022.102561_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1257/jep.27.3.79",
+      "article-title": "Income inequality, equality of opportunity, and intergenerational mobility",
+      "volume": "27",
+      "author": "Corak",
+      "year": "2013",
+      "journal-title": "J. Econ. Perspect."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib9",
+      "unstructured": "Corruption Perceptions Index, 2017. Corruption perception index. 〈https://www.transparency.org/en/news/corruption-perceptions-index-2017〉."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.ijedudev.2022.102561_bib10",
+      "first-page": "725",
+      "article-title": "Women’s education and utilization of maternal health services in Africa: a multi-country and socioeconomic stratus analysis",
+      "volume": "50",
+      "author": "Dimbuene",
+      "year": "2018",
+      "journal-title": "Comp. Study"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ijedudev.2022.102561_bib11",
+      "first-page": "476",
+      "article-title": "Corruption and education: empirical evidence",
+      "volume": "4",
+      "author": "Dridi",
+      "year": "2014",
+      "journal-title": "Int. J. Econ. Financ. Issues"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib12",
+      "unstructured": "Education Statistics DataBank, (2021). World Bank. Retrieved September 14. from 〈https://databank.worldbank.org/source/education-statistics-%5E-all-indicators〉."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ferreira, F.H. G., & Gignoux, J. , 2018. The Measurement of educational inequality: achievement and opportunity 1. https://doi.org/10.1093/wber/lht004.",
+      "DOI": "10.1093/wber/lht004"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ijedudev.2022.102561_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1007/s11159-014-9407-3",
+      "article-title": "The case for investing in secondary education in sub-Saharan Africa (SSA): challenges and opportunities",
+      "volume": "60",
+      "author": "Fredriksen",
+      "year": "2014",
+      "journal-title": "Int. Rev. Educ."
+    },
+    {
+      "issue": "9745",
+      "key": "10.1016/j.ijedudev.2022.102561_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "959",
+      "DOI": "10.1016/S0140-6736(10)61257-3",
+      "article-title": "Increased educational attainment and its effect on child mortality in 175 countries between 1970 and 2009: a systematic analysis",
+      "volume": "376",
+      "author": "Gakidou",
+      "year": "2010",
+      "journal-title": "Lancet"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ganimian, A.J., Murnane, R.J., Alfonso, M., Álvarez Trongé, M., Barrera-Osorio, F., Beuermann, D., Bruns, B., Cristia, J., Deming, D., Fiszbein, A., Guaqueta, J., Hill, H., Yeyati, E.L., Lisman, M., Llach, J., Narodowski, M., Ñopo, H., Oliveira, J.B., Puryear, J., … Bustillo, E.V. , 2014. NBER working paper series improving educational outcomes in developing countries: lessons from rigorous impact evaluations. 〈http://www.nber.org/papers/w20284〉.",
+      "DOI": "10.3386/w20284"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib17",
+      "unstructured": "Germano Mwabu, X.A. (2013). Focusing on Quality Education in sub-Saharan Africa. Brookings. 〈https://www.brookings.edu/blog/education-plus-development/2013/05/28/focusing-on-quality-education-in-sub-saharan-africa/〉."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib18",
+      "series-title": "Growth: Are Good Times Good",
+      "author": "Gnder",
+      "year": "1999"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib19",
+      "series-title": "Handbook on Corruption, Ethics and Integrity in Public Administration",
+      "first-page": "493",
+      "author": "Graycar",
+      "year": "2020"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ijedudev.2022.102561_bib20",
+      "article-title": "Indicators of social well-being, education, genre equality and world development: analysis of 132 countries, 2000-2008",
+      "volume": "9",
+      "author": "Guisan",
+      "year": "2009",
+      "journal-title": "Int. J. Appl. Econ. Quant. Stud."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.ijedudev.2022.102561_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "637",
+      "DOI": "10.1016/j.ijedudev.2004.02.005",
+      "article-title": "Education and corruption",
+      "volume": "24",
+      "author": "Heyneman",
+      "year": "2004",
+      "journal-title": "Int. J. Educ. Dev."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib22",
+      "unstructured": "Heyneman, S.P. ,2001. 10. Corruption in the education sector. pp. 129–138."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Heyneman, S.P., & Loxley, W.A. , 2015. The effect of primary-school quality on academic achievement across twenty-nine high- and low-income countries. 88(6), pp. 1162–1194. https://doi.org/10.1086/227799.",
+      "DOI": "10.1086/227799"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib24",
+      "unstructured": "Kaffenberger, M., Anderson, K., & Saggi, K. , 2012. The effect of educational attainment on corruption participation in Sub-Saharan Africa."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib25",
+      "unstructured": "Karin A.L. Hyde., 1997. Women's Education in Developing Countries: Barriers, Benefits, and Policies - Google Books. World Bank. https://books.google.com/books?hl=en&lr=&id=DL8uSGzj8YIC&oi=fnd&pg=PA100&dq=factors+outside+school+influence+educational+achievement+in+sub+saharan+africa&ots=S5-yCrCLJZ&sig=MpdSL5ioV2U_XM9krErIdO2UnMs#v=onepage&q=factors outside school influence education."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim, N., 2018. Comparison of indicators for identification of least developed countries and for measuring progress towards the sustainable development goals. CDP policy review, 7.",
+      "DOI": "10.2139/ssrn.3299967"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib27",
+      "series-title": "Access to Education in Sub-Saharan Africa: Patterns, Problems, and Possibilities on JSTOR",
+      "author": "Lewin",
+      "year": "2009"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ijedudev.2022.102561_bib28",
+      "first-page": "449",
+      "article-title": "Public Law 107-110 No Child Left Behind act of 2001: support or threat to education as a fundamental right?",
+      "volume": "126",
+      "author": "Mayers",
+      "year": "2006",
+      "journal-title": "Education"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Muralidharan, K., Prakash, N., Alderman, H., Antonovics, K., Azam, M., Barrett, C., Berman, E., Bhalotra, S., Bharadwaj, P., Chin, A., Clemens, J., Cullen, J., Dahl, G., Das, J., Edmonds, E., Furtado, D., Ghatak, M., Gordon, R., Gupta, S., … Levere, M. (2013). NBER working paper series cycling to school: increasing secondary school enrollment for girls in India. 〈http://www.nber.org/papers/w19305〉.",
+      "DOI": "10.3386/w19305"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Muzammil, M. , 2010. Corrupt schools, corrupt universities: What can be done? In Compare: A journal of comparative and international education (Vol. 40, Issue 3). https://doi.org/10.1080/03057921003703934.",
+      "DOI": "10.1080/03057921003703934"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib31",
+      "unstructured": "Oecd. (2012). Closing the Gender Gap: Act Now."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "OECD , 2017. Handbook for Internationally Comparative Education Statistics. https://doi.org/10.1787/9789264279889-en.",
+      "DOI": "10.1787/9789264279889-en"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "OECD, 2018. The future of education and skills: education 2030. OECD Education Working Papers, pp. 1–23. http://www.oecd.org/education/2030/E2030 Position Paper (05.04.2018).pdf.",
+      "DOI": "10.1007/978-3-030-26068-2_3"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/j.ijedudev.2015.11.013",
+      "article-title": "The effectiveness of foreign aid to education: What can be learned?",
+      "volume": "48",
+      "author": "Riddell",
+      "year": "2016",
+      "journal-title": "Int. J. Educ. Dev."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Romaric Bado, A., & Susuman, A.S. , 1990. Women's education and health inequalities in under-five mortality in selected sub-saharan African countries. https://doi.org/10.1371/journal.pone.0159186.",
+      "DOI": "10.1371/journal.pone.0159186"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.ijedudev.2022.102561_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1207/S15327930pje8001_5",
+      "article-title": "Taxonomy of corruption in higher education",
+      "volume": "80",
+      "author": "Rumyantseva",
+      "year": "2005",
+      "journal-title": "Peabody J. Educ."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sabic-El-Rayess, A., Mansur, N.N., Batkhuyag, B., & Otgonlkhagva, S., 2019. School uniform policy's adverse impact on equity and access to schooling. 50(8), pp. 1122–1139. https://doi.org/10.1080/03057925.2019.1579637.",
+      "DOI": "10.1080/03057925.2019.1579637"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.4324/9780367274559-4",
+      "article-title": "Recent developments in women’s education: closer to a better social order?",
+      "author": "Stromquist",
+      "year": "2019",
+      "journal-title": "Women Int. Dev. Annu."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib39",
+      "unstructured": "Technical Advisory Group Proposal. (2015, October). Thematic Indicators to Monitor the Education 2030 Agenda. Canada; UNESCO Institute for Statistics (UIS).(https://apa.sdg4education2030.org/sites/apa.sdg4education2030.org/files/2020-12/06_43-indicators-to-monitor-education2030.pdf)."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tibshirani, Robert , (1996). Regression Shrinkage and Selection via the Lasso on JSTOR. Journal of the Royal Statistical Society, 58, No. 1, pp. 267-288. 〈https://www.jstor.org/stable/2346178?seq=1#metadata_info_tab_contents〉.",
+      "DOI": "10.1111/j.2517-6161.1996.tb02080.x"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib41",
+      "unstructured": "Justin van Fleet, Kevin Watkins, and L. G , 2012. Africa learning barometer. 〈https://www.brookings.edu/interactives/africa-learning-barometer/〉."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Veneman, A.M. , 2007. Education is key to reducing child mortality: the link between maternal health and education | United Nations. United Nations. 〈https://www.un.org/en/chronicle/article/education-key-reducing-child-mortality-link-between-maternal-health-and-education〉.",
+      "DOI": "10.18356/8ba72cc6-en"
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib43",
+      "unstructured": "Vladimirova, K., & Le Blanc, D., 2015. How well are the links between education and other sustainable development goals covered in UN flagship reports? Department of Economic & Social Affairs, 146, 32. http://www.un.org/en/development/%5Cnhttps://sustainabledevelopment.un.org/content/documents/2111education and sdgs.pdf."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib44",
+      "unstructured": "Ward Heneveld, H.C. , 1996. Schools count: world bank project designs and the quality of primary. 〈https://books.google.com/books?hl=en&lr=&id=glscQ5pxJxwC&oi=fnd&pg=PR13&dq=core+assignments+of+the+World+Bank&ots=tXF0yaLMb3&sig=tMmANA9Y0WHb0fA6D9z3hnyYPKA#v=onepage&q&f=false〉."
+    },
+    {
+      "key": "10.1016/j.ijedudev.2022.102561_bib45",
+      "unstructured": "Wheatley, L. , 2015. Factors affecting child mortality. 〈https://scholar.utc.edu/honors-theses〉."
+    }
+  ],
+  "container-title": [
+    "International Journal of Educational Development"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0738059322000116?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0738059322000116?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ],
+    "date-time": "2025-10-09T18:08:01Z",
+    "timestamp": 1760033281000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0738059322000116"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        4
+      ]
+    ]
+  },
+  "references-count": 45,
+  "alternative-id": [
+    "S0738059322000116"
+  ],
+  "URL": "https://doi.org/10.1016/j.ijedudev.2022.102561",
+  "relation": {},
+  "ISSN": [
+    "0738-0593"
+  ],
+  "issn-type": [
+    {
+      "value": "0738-0593",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Female enrollment, child mortality and corruption are good predictors of a country’s UN Education Index",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "International Journal of Educational Development",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.ijedudev.2022.102561",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2022 The Author(s). Published by Elsevier Ltd.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "102561"
+}

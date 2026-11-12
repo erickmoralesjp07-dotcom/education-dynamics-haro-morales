@@ -1,0 +1,200 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2026-08-12T17:26:56Z",
+    "timestamp": 1786555616717,
+    "version": "build-2736575974"
+  },
+  "posted": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
+  "group-title": "SSRN",
+  "reference-count": 11,
+  "publisher": "Elsevier BV",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>We provide a measure of inequality of educational opportunity for 72 countries, estimated as a share of the variation in the 2009 PISA test scores that is explained by pre-determined family characteristics. Inequality of opportunity accounts for up to 40 percent of the variation in educational achievement and different measures (for example in math, science, and reading) are highly correlated. Cross-country variation in the inequality of educational opportunity is unrelated to financial indicators, such as expenditure per student or public spending on education as a share of GDP, but depends on pre-school enrollment, overall economic inequality, and the availability of basic medical services. We also document the negative relationship between the inequality of educational opportunity and educational achievement: average educational achievement is lower in countries where family background plays a major role in determining individual progress.</jats:p>",
+  "DOI": "10.2139/ssrn.2179525",
+  "type": "posted-content",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        11,
+        28
+      ]
+    ],
+    "date-time": "2012-11-28T11:01:05Z",
+    "timestamp": 1354100465000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Inequality of Educational Opportunity in a Cross-Section of Countries: Empirical Analysis of 2009 PISA Data"
+  ],
+  "prefix": "10.2139",
+  "author": [
+    {
+      "given": "Timur",
+      "family": "Natkhov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Natalia",
+      "family": "Kozina",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "ref1",
+      "first-page": "7",
+      "volume": "38",
+      "author": "J S Coleman",
+      "year": "1968",
+      "journal-title": "The Concept of Equality of Educational Opportunity // Harvard Educational Review"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1596/9780821362495_overview",
+      "author": "Development Equity",
+      "year": "2006",
+      "journal-title": "World Development Report"
+    },
+    {
+      "key": "ref3",
+      "author": "F Ferreira",
+      "year": "2011",
+      "journal-title": "The Measurement of Educational Inequality: Achievement and Opportunity // World Bank Policy Research Working Paper 5873"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4020-5916-2_2",
+      "author": "A Gamoran",
+      "year": "2006",
+      "journal-title": "Equality of Educational Opportunity: A 40-Year Retrospective // WCER Working Paper No"
+    },
+    {
+      "key": "ref5",
+      "first-page": "89",
+      "volume": "3",
+      "author": "E Hanushek",
+      "year": "2011",
+      "journal-title": "The Economics of International Differences in Educational Achievement // Handbook of Economics of Education"
+    },
+    {
+      "key": "ref6",
+      "first-page": "22",
+      "author": "G Hodgson",
+      "year": "1975",
+      "journal-title": "The Inequality Controversy: Schooling and Distributive Justice"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "first-page": "635",
+      "DOI": "10.1016/s1574-0692(06)01011-7",
+      "volume": "1",
+      "author": "L Pritchett",
+      "year": "2006",
+      "journal-title": "Does Learning to Add Up Add Up? The Returns to Schooling in Aggregate Data"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.4159/9780674042872",
+      "author": "J E Roemer",
+      "year": "1998",
+      "journal-title": "Equality of Opportunity"
+    },
+    {
+      "key": "ref9",
+      "author": "G Schultz",
+      "year": "2005",
+      "journal-title": "Education Policy and Equality of Opportunity"
+    },
+    {
+      "key": "ref10",
+      "first-page": "279",
+      "volume": "61",
+      "author": "G Schultz",
+      "year": "2008"
+    },
+    {
+      "key": "ref11",
+      "author": "L Woessmann",
+      "year": "1284",
+      "journal-title": "How Equal Are Educational Opportunities? Family Background and Student Achievement in Europe and the United States // IZA Discussion Paper ?"
+    }
+  ],
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2026-08-12T16:27:05Z",
+    "timestamp": 1786552025000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=2179525"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
+  "references-count": 11,
+  "URL": "https://doi.org/10.2139/ssrn.2179525",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
+  "subtype": "preprint"
+}

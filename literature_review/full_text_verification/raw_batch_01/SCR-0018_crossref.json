@@ -1,0 +1,532 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        30
+      ]
+    ],
+    "date-time": "2026-04-30T23:33:19Z",
+    "timestamp": 1777591999798,
+    "version": "3.51.4"
+  },
+  "reference-count": 53,
+  "publisher": "SAGE Publications",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            30
+          ]
+        ],
+        "date-time": "2019-01-30T00:00:00Z",
+        "timestamp": 1548806400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Obra Social \"La Caixa\"",
+      "award": [
+        "2014ACUP0130"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2014ACUP0130"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spanish Ministry of Finance, Industry and Competitiveness",
+      "award": [
+        "ECO2014-59055-R"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "ECO2014-59055-R"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.sagepub.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Environment and Planning C: Politics and Space"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        11
+      ]
+    ]
+  },
+  "abstract": "<jats:p>In this paper, we study the impact of fiscal and political decentralization on the quality of public service delivery. While the effect of fiscal decentralization on public services is a recursive theme, to the best of our knowledge, our study is the first to investigate the impact of political decentralization. We use educational data as a proxy for the quality of public services. We use microdata from the Programme for International Student Assessment (PISA) test scores from 22 countries and test for the impact of fiscal and political decentralization on students’ performance. We use not only general measures of decentralization but, for the first time, also education-specific decentralization measures. Our results indicate that the impact of fiscal decentralization on school outcomes is positive. However, the results regarding political decentralization are more ambiguous. We also observe that the scalar effect of both political and economic decentralization becomes more evident in large cities.</jats:p>",
+  "DOI": "10.1177/2399654418824602",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        30
+      ]
+    ],
+    "date-time": "2019-01-30T23:52:11Z",
+    "timestamp": 1548892331000
+  },
+  "page": "1296-1316",
+  "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 11,
+  "title": [
+    "Decentralization and the quality of public services: Cross-country evidence from educational data"
+  ],
+  "prefix": "10.1177",
+  "volume": "37",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-9479-5091",
+      "authenticated-orcid": false,
+      "given": "Luis",
+      "family": "Diaz-Serrano",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "CREIP—Universitat Rovira i Virgili, Spain"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Enric",
+      "family": "Meix-Llop",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "CREIP—Universitat Rovira i Virgili, Spain"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        30
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_4_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10101-013-0131-4"
+    },
+    {
+      "key": "e_1_3_4_3_1",
+      "volume-title": "Financial Decentralization and Educational Performance: Evidence Form State-level Panel Data for the United States. Institute of Business and Economic Research, Conference Paper No. C07-011",
+      "author": "Akai N",
+      "year": "2007",
+      "unstructured": "Akai N, Sakata M, Tanaka R (2007) Financial Decentralization and Educational Performance: Evidence Form State-level Panel Data for the United States. Institute of Business and Economic Research, Conference Paper No. C07-011. Berkeley: University of California."
+    },
+    {
+      "key": "e_1_3_4_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jpubeco.2003.10.009"
+    },
+    {
+      "key": "e_1_3_4_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jpubeco.2006.11.006"
+    },
+    {
+      "key": "e_1_3_4_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1468-0327.2007.00179.x"
+    },
+    {
+      "key": "e_1_3_4_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.econlet.2007.06.016"
+    },
+    {
+      "key": "e_1_3_4_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1475-5890.2008.00081.x"
+    },
+    {
+      "key": "e_1_3_4_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S002081830606019X"
+    },
+    {
+      "key": "e_1_3_4_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/j.1662-6370.2008.tb00109.x"
+    },
+    {
+      "key": "e_1_3_4_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/2399654417730359"
+    },
+    {
+      "key": "e_1_3_4_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/juec.1997.2042"
+    },
+    {
+      "key": "e_1_3_4_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6435.2012.00533.x"
+    },
+    {
+      "key": "e_1_3_4_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11205-014-0599-5"
+    },
+    {
+      "key": "e_1_3_4_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00036846.2016.1273499"
+    },
+    {
+      "key": "e_1_3_4_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1068/a39195"
+    },
+    {
+      "key": "e_1_3_4_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00343404.2012.731046"
+    },
+    {
+      "key": "e_1_3_4_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11127-013-0077-7"
+    },
+    {
+      "key": "e_1_3_4_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.econlet.2011.10.019"
+    },
+    {
+      "key": "e_1_3_4_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jpubeco.2008.09.001"
+    },
+    {
+      "key": "e_1_3_4_21_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ferrari I and Zanardi A (2014) Decentralisation and interregional redistribution in the Italian education system. Education Economics 22: 529--548.",
+      "DOI": "10.1080/09645292.2012.709371"
+    },
+    {
+      "key": "e_1_3_4_22_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Filippetti A Cerulli G (2018) Are local public services better delivered in more autonomous regions? Evidence from European regions using a dose-response approach. Papers in Regional Science 97: 801–826.",
+      "DOI": "10.1111/pirs.12283"
+    },
+    {
+      "key": "e_1_3_4_23_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fischbach A Keller U Preckel F and Brunner M (2013) PISA proficiency scores predict educational outcomes. Learning and Individual Differences 24: 63–72.",
+      "DOI": "10.1016/j.lindif.2012.10.012"
+    },
+    {
+      "key": "e_1_3_4_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1468-0297.00570"
+    },
+    {
+      "key": "e_1_3_4_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0007123404000067"
+    },
+    {
+      "key": "e_1_3_4_26_1",
+      "volume-title": "Education and Race",
+      "author": "Hanushek EA",
+      "year": "1972",
+      "unstructured": "Hanushek EA (1972) Education and Race. Lexington, MA: D.C. Heath."
+    },
+    {
+      "key": "e_1_3_4_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/145575"
+    },
+    {
+      "key": "e_1_3_4_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jue.2004.12.007"
+    },
+    {
+      "key": "e_1_3_4_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ejpoleco.2008.06.002"
+    },
+    {
+      "key": "e_1_3_4_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1068/c1016r"
+    },
+    {
+      "key": "e_1_3_4_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781446279342"
+    },
+    {
+      "key": "e_1_3_4_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1068/a41296"
+    },
+    {
+      "key": "e_1_3_4_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1475-5890.12099"
+    },
+    {
+      "key": "e_1_3_4_34_1",
+      "volume-title": "Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries",
+      "author": "Lijphart A",
+      "year": "1999",
+      "unstructured": "Lijphart A (1999) Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries. New Haven, CT: Yale University Press."
+    },
+    {
+      "key": "e_1_3_4_35_1",
+      "volume-title": "Decentralization of Education: Why, When, What and How? Fundamentals of Educational Planning UNESCO",
+      "author": "McGinn N",
+      "year": "1999",
+      "unstructured": "McGinn N, Welsh T (1999) Decentralization of Education: Why, When, What and How? Fundamentals of Educational Planning UNESCO. Paris: IIEP."
+    },
+    {
+      "key": "e_1_3_4_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13597560801979506"
+    },
+    {
+      "key": "e_1_3_4_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/joes.12182"
+    },
+    {
+      "key": "e_1_3_4_38_1",
+      "volume-title": "Fiscal Federalism",
+      "author": "Oates WE",
+      "year": "1972",
+      "unstructured": "Oates WE (1972) Fiscal Federalism. New York: Harcourt Brace Jovanovich."
+    },
+    {
+      "key": "e_1_3_4_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1257/jel.37.3.1120"
+    },
+    {
+      "key": "e_1_3_4_40_1",
+      "volume-title": "Education at a Glance",
+      "author": "OECD",
+      "year": "2003",
+      "unstructured": "OECD (2003, 2004, 2007, 2009, 2011) Education at a Glance. Paris: OECD."
+    },
+    {
+      "key": "e_1_3_4_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1787/9789264197022-en"
+    },
+    {
+      "key": "e_1_3_4_42_1",
+      "volume-title": "OECD Territorial Reviews: Netherlands 2014",
+      "author": "OECD",
+      "year": "2014",
+      "unstructured": "OECD (2014) OECD Territorial Reviews: Netherlands 2014. Paris: OECD."
+    },
+    {
+      "key": "e_1_3_4_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1787/9789264265288-en"
+    },
+    {
+      "key": "e_1_3_4_44_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1787/9789264254053-en",
+      "volume-title": "Fiscal Federalism 2016. Making Decentralisation Work. OECD Multi-Level Governance Studies",
+      "author": "OECD",
+      "year": "2016",
+      "unstructured": "OECD (2016b) Fiscal Federalism 2016. Making Decentralisation Work. OECD Multi-Level Governance Studies. Paris: OECD."
+    },
+    {
+      "key": "e_1_3_4_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jce.2016.07.004"
+    },
+    {
+      "key": "e_1_3_4_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1257/jep.11.4.83"
+    },
+    {
+      "key": "e_1_3_4_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/jeg/lbq025"
+    },
+    {
+      "key": "e_1_3_4_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00343404.2014.893387"
+    },
+    {
+      "key": "e_1_3_4_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13597560801979498"
+    },
+    {
+      "key": "e_1_3_4_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6435.2008.00402.x"
+    },
+    {
+      "key": "e_1_3_4_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1068/c1033r"
+    },
+    {
+      "key": "e_1_3_4_52_1",
+      "unstructured": "Tiebout CM (1961) An Economic Theory of Fiscal Decentralization. In: Buchanan J (Ed.) Public Finances: Needs Sources and Utilization. Princeton NJ: Princeton pp.79–96."
+    },
+    {
+      "key": "e_1_3_4_53_1",
+      "volume-title": "Defining and Measuring Decentralization: A Global Perspective – Dataset on Decentralization",
+      "author": "Treisman D",
+      "year": "2002",
+      "unstructured": "Treisman D (2002) Defining and Measuring Decentralization: A Global Perspective – Dataset on Decentralization. Mimeo: University of California."
+    },
+    {
+      "key": "e_1_3_4_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-017-2547-7"
+    }
+  ],
+  "container-title": [
+    "Environment and Planning C: Politics and Space"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2399654418824602",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/2399654418824602",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2399654418824602",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        28
+      ]
+    ],
+    "date-time": "2026-04-28T20:24:54Z",
+    "timestamp": 1777407894000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/2399654418824602"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        30
+      ]
+    ]
+  },
+  "references-count": 53,
+  "journal-issue": {
+    "issue": "7",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1177/2399654418824602"
+  ],
+  "URL": "https://doi.org/10.1177/2399654418824602",
+  "relation": {},
+  "ISSN": [
+    "2399-6544",
+    "2399-6552"
+  ],
+  "issn-type": [
+    {
+      "value": "2399-6544",
+      "type": "print"
+    },
+    {
+      "value": "2399-6552",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        30
+      ]
+    ]
+  }
+}

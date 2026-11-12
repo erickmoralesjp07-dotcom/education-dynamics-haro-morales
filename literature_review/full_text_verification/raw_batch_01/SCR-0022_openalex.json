@@ -1,0 +1,869 @@
+{
+  "id": "https://openalex.org/W1544257585",
+  "doi": null,
+  "title": "Functional literacy, educational attainment and earnings : a multi-country comparison",
+  "display_name": "Functional literacy, educational attainment and earnings : a multi-country comparison",
+  "relevance_score": 324.5801,
+  "publication_year": 2003,
+  "publication_date": "2003-08-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1544257585",
+    "mag": "1544257585"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:researchrepository.ucd.ie:10197/939",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/10197/939",
+    "pdf_url": "http://hdl.handle.net/10197/939",
+    "source": {
+      "id": "https://openalex.org/S4306402280",
+      "display_name": "Research Repository UCD (University College Dublin)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I100930933",
+      "host_organization_name": "University College Dublin",
+      "host_organization_lineage": [
+        "https://openalex.org/I100930933"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Working Paper"
+  },
+  "volume": null,
+  "type": "report",
+  "is_traditional": false,
+  "indexed_in": [],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://hdl.handle.net/10197/939",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5090529647",
+        "display_name": "Kevin Denny",
+        "orcid": "https://orcid.org/0000-0002-1566-8981",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-1566-8981"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I100930933",
+          "display_name": "University College Dublin",
+          "ror": "https://ror.org/05m7pjf47",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I100930933"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kevin Denny",
+      "raw_affiliation_strings": [
+        "university college dublin"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1566-8981",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "university college dublin",
+          "institution_ids": [
+            "https://openalex.org/I100930933"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5105457120",
+        "display_name": "Colm Harmon",
+        "orcid": "https://orcid.org/0000-0003-2206-7639",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2206-7639"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Colm Harmon",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0003-2206-7639",
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "Vincent O’Sullivan",
+        "orcid": "https://orcid.org/0000-0002-8280-4365",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8280-4365"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Vincent O’Sullivan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0002-8280-4365",
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10208",
+    "display_name": "Labor market dynamics and wage inequality",
+    "score": 0.8695999979972839,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "score": 0.8695999979972839,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.05770000070333481,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10517",
+      "display_name": "Financial Literacy, Pension, Retirement Analysis",
+      "score": 0.01080000028014183,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/functional-literacy",
+      "display_name": "functional literacy",
+      "score": 0.9959999918937683
+    },
+    {
+      "id": "https://openalex.org/keywords/earnings",
+      "display_name": "earnings",
+      "score": 0.6809999942779541
+    },
+    {
+      "id": "https://openalex.org/keywords/returns-to-education",
+      "display_name": "returns to education",
+      "score": 0.9089999794960022
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.9729999899864197
+    },
+    {
+      "id": "https://openalex.org/keywords/international-adult-literacy-survey",
+      "display_name": "International Adult Literacy Survey",
+      "score": 0.7879999876022339
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.8410000205039978
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2781426361",
+      "wikidata": "https://www.wikidata.org/wiki/Q5326940",
+      "display_name": "Earnings",
+      "level": 2,
+      "score": 0.8148508071899414
+    },
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.7676122188568115
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.5853974223136902
+    },
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.4943721294403076
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.37229123711586
+    },
+    {
+      "id": "https://openalex.org/C145236788",
+      "wikidata": "https://www.wikidata.org/wiki/Q28161",
+      "display_name": "Labour economics",
+      "level": 1,
+      "score": 0.3629802465438843
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.19963493943214417
+    },
+    {
+      "id": "https://openalex.org/C121955636",
+      "wikidata": "https://www.wikidata.org/wiki/Q4116214",
+      "display_name": "Accounting",
+      "level": 1,
+      "score": 0.13329243659973145
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "pmh:oai:researchrepository.ucd.ie:10197/939",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10197/939",
+      "pdf_url": "http://hdl.handle.net/10197/939",
+      "source": {
+        "id": "https://openalex.org/S4306402280",
+        "display_name": "Research Repository UCD (University College Dublin)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I100930933",
+        "host_organization_name": "University College Dublin",
+        "host_organization_lineage": [
+          "https://openalex.org/I100930933"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Working Paper"
+    },
+    {
+      "id": "mag:1544257585",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://researchrepository.ucd.ie/bitstream/10197/939/1/dennyk_workpap_042.pdf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RePEc: Research Papers in Economics",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:http://www.rian.ie/57040/",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10197/939",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400033",
+        "display_name": "Arrow@dit (Dublin Institute of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I4210144925",
+        "host_organization_name": "Technological University Dublin",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210144925"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Working paper"
+    },
+    {
+      "id": "pmh:oai:RePEc:ucn:wpaper:200319",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10197/939",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "preprint"
+    },
+    {
+      "id": "pmh:oai:econstor.eu:10419/72411",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10419/72411",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401696",
+        "display_name": "Econstor (Econstor)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "doc-type:workingPaper"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:researchrepository.ucd.ie:10197/939",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/10197/939",
+    "pdf_url": "http://hdl.handle.net/10197/939",
+    "source": {
+      "id": "https://openalex.org/S4306402280",
+      "display_name": "Research Repository UCD (University College Dublin)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I100930933",
+      "host_organization_name": "University College Dublin",
+      "host_organization_lineage": [
+        "https://openalex.org/I100930933"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Working Paper"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/8",
+      "score": 0.6452000141143799,
+      "display_name": "Decent work and economic growth"
+    },
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.6164000034332275,
+      "display_name": "Quality education"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1544257585.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1544257585.grobid-xml"
+  },
+  "referenced_works_count": 25,
+  "referenced_works": [
+    "https://openalex.org/W1482121314",
+    "https://openalex.org/W1529475300",
+    "https://openalex.org/W1538443123",
+    "https://openalex.org/W1564168960",
+    "https://openalex.org/W1576083462",
+    "https://openalex.org/W1579993753",
+    "https://openalex.org/W1594296106",
+    "https://openalex.org/W1699746760",
+    "https://openalex.org/W1814045308",
+    "https://openalex.org/W1866428695",
+    "https://openalex.org/W1984202495",
+    "https://openalex.org/W2005906308",
+    "https://openalex.org/W2016422302",
+    "https://openalex.org/W2038106030",
+    "https://openalex.org/W2089053985",
+    "https://openalex.org/W2091501695",
+    "https://openalex.org/W2101214639",
+    "https://openalex.org/W2133768827",
+    "https://openalex.org/W2138992063",
+    "https://openalex.org/W2150444245",
+    "https://openalex.org/W2892065398",
+    "https://openalex.org/W3021738501",
+    "https://openalex.org/W3121818197",
+    "https://openalex.org/W3121990182",
+    "https://openalex.org/W3126134467"
+  ],
+  "related_works": [
+    "https://openalex.org/W3152054252",
+    "https://openalex.org/W7097124686",
+    "https://openalex.org/W7099608936",
+    "https://openalex.org/W1749039224",
+    "https://openalex.org/W7095449423",
+    "https://openalex.org/W3144739783",
+    "https://openalex.org/W7099938307",
+    "https://openalex.org/W1538679313",
+    "https://openalex.org/W1834782954",
+    "https://openalex.org/W4410126112"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      101
+    ],
+    "this": [
+      1
+    ],
+    "paper": [
+      2
+    ],
+    "a": [
+      3,
+      56,
+      113
+    ],
+    "rich": [
+      4
+    ],
+    "and": [
+      5,
+      109
+    ],
+    "innovative": [
+      6
+    ],
+    "dataset,": [
+      7
+    ],
+    "the": [
+      8,
+      17,
+      27,
+      36,
+      43,
+      69,
+      72
+    ],
+    "International": [
+      9
+    ],
+    "Adult": [
+      10
+    ],
+    "Literacy": [
+      11,
+      53
+    ],
+    "Survey,": [
+      12
+    ],
+    "is": [
+      13,
+      33
+    ],
+    "used": [
+      14
+    ],
+    "to": [
+      15,
+      30,
+      35,
+      45,
+      118
+    ],
+    "examine": [
+      16
+    ],
+    "impact": [
+      18
+    ],
+    "of": [
+      19,
+      38,
+      71,
+      76,
+      86
+    ],
+    "functional": [
+      20
+    ],
+    "literacy": [
+      21,
+      77,
+      110
+    ],
+    "on": [
+      22,
+      59
+    ],
+    "earnings.": [
+      23
+    ],
+    "We": [
+      24
+    ],
+    "show": [
+      25
+    ],
+    "that": [
+      26
+    ],
+    "estimated": [
+      28
+    ],
+    "return": [
+      29,
+      44
+    ],
+    "formal": [
+      31
+    ],
+    "education": [
+      32,
+      46
+    ],
+    "sensitive": [
+      34
+    ],
+    "inclusion": [
+      37
+    ],
+    "literacy:": [
+      39,
+      87
+    ],
+    "excluding": [
+      40
+    ],
+    "it": [
+      41
+    ],
+    "biases": [
+      42
+    ],
+    "in": [
+      47,
+      61,
+      68,
+      96,
+      98
+    ],
+    "many": [
+      48
+    ],
+    "countries": [
+      49,
+      63,
+      115
+    ],
+    "by": [
+      50
+    ],
+    "significant": [
+      51
+    ],
+    "amounts.": [
+      52
+    ],
+    "itself": [
+      54
+    ],
+    "has": [
+      55
+    ],
+    "well-determined": [
+      57
+    ],
+    "effect": [
+      58
+    ],
+    "earnings": [
+      60,
+      97
+    ],
+    "all": [
+      62
+    ],
+    "though": [
+      64,
+      111
+    ],
+    "with": [
+      65
+    ],
+    "considerable": [
+      66
+    ],
+    "variation": [
+      67
+    ],
+    "size": [
+      70
+    ],
+    "effect.": [
+      73
+    ],
+    "The": [
+      74
+    ],
+    "benefits": [
+      75
+    ],
+    "do": [
+      78
+    ],
+    "not": [
+      79
+    ],
+    "only": [
+      80
+    ],
+    "arise": [
+      81
+    ],
+    "from": [
+      82
+    ],
+    "increasing": [
+      83
+    ],
+    "low": [
+      84
+    ],
+    "levels": [
+      85,
+      92
+    ],
+    "increases": [
+      88,
+      95
+    ],
+    "at": [
+      89
+    ],
+    "already": [
+      90
+    ],
+    "high": [
+      91
+    ],
+    "generate": [
+      93
+    ],
+    "substantial": [
+      94
+    ],
+    "some": [
+      99
+    ],
+    "countries.": [
+      100
+    ],
+    "general": [
+      102
+    ],
+    "we": [
+      103
+    ],
+    "find": [
+      104
+    ],
+    "little": [
+      105
+    ],
+    "interaction": [
+      106
+    ],
+    "between": [
+      107
+    ],
+    "schooling": [
+      108
+    ],
+    "for": [
+      112
+    ],
+    "few": [
+      114
+    ],
+    "they": [
+      116
+    ],
+    "appear": [
+      117
+    ],
+    "complement": [
+      119
+    ],
+    "each": [
+      120
+    ],
+    "other.": [
+      121
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2012,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-01T11:40:01.658920",
+  "created_date": "2016-06-24T00:00:00"
+}

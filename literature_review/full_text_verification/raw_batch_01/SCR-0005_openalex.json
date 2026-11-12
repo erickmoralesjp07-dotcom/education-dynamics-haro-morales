@@ -1,0 +1,951 @@
+{
+  "id": "https://openalex.org/W2072113029",
+  "doi": "https://doi.org/10.1111/1467-9361.00162",
+  "title": "International Inequality and Convergence in Educational Attainment, 1960–1990",
+  "display_name": "International Inequality and Convergence in Educational Attainment, 1960–1990",
+  "publication_year": 2002,
+  "publication_date": "2002-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2072113029",
+    "doi": "https://doi.org/10.1111/1467-9361.00162",
+    "mag": "2072113029"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/1467-9361.00162",
+    "doi": "https://doi.org/10.1111/1467-9361.00162",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/1467-9361.00162",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9361.00162",
+    "source": {
+      "id": "https://openalex.org/S95496512",
+      "display_name": "Review of Development Economics",
+      "issn_l": "1363-6669",
+      "issn": [
+        "1363-6669",
+        "1467-9361"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a",
+        "anvur-scientific",
+        "cwts-core",
+        "jufo-1",
+        "norway-1",
+        "poland-40",
+        "russia-white-list-2",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Development Economics",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9361.00162",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5037286486",
+        "display_name": "Junsen Zhang",
+        "orcid": "https://orcid.org/0009-0009-2620-9834",
+        "observed_orcids": [
+          "https://orcid.org/0009-0009-2620-9834",
+          "https://orcid.org/0009-0003-3333-9799"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I177725633",
+          "display_name": "Chinese University of Hong Kong",
+          "ror": "https://ror.org/00t33hh48",
+          "country_code": "HK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177725633"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I197518295",
+          "display_name": "IZA - Institute of Labor Economics",
+          "ror": "https://ror.org/029s44460",
+          "country_code": "DE",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I197518295"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "HK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Junsen Zhang",
+      "raw_affiliation_strings": [
+        "Department of Economics, The Chinese University of Hong Kong",
+        "IZA Institute of Labor Economics",
+        "The Chinese University of Hong Kong (CUHK) - Department of Economics"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Economics, The Chinese University of Hong Kong",
+          "institution_ids": [
+            "https://openalex.org/I177725633"
+          ]
+        },
+        {
+          "raw_affiliation_string": "IZA Institute of Labor Economics",
+          "institution_ids": [
+            "https://openalex.org/I197518295"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Chinese University of Hong Kong (CUHK) - Department of Economics",
+          "institution_ids": [
+            "https://openalex.org/I177725633"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5016914541",
+        "display_name": "Tianyou Li",
+        "orcid": "https://orcid.org/0000-0002-8362-4796",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8362-4796",
+          "https://orcid.org/0009-0001-6672-1666"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I177725633",
+          "display_name": "Chinese University of Hong Kong",
+          "ror": "https://ror.org/00t33hh48",
+          "country_code": "HK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177725633"
+          ]
+        }
+      ],
+      "countries": [
+        "HK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tianyou Li",
+      "raw_affiliation_strings": [
+        "Department of Economics, The Chinese University of Hong Kong",
+        "The Chinese University of Hong Kong (CUHK)"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Economics, The Chinese University of Hong Kong",
+          "institution_ids": [
+            "https://openalex.org/I177725633"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Chinese University of Hong Kong (CUHK)",
+          "institution_ids": [
+            "https://openalex.org/I177725633"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3350,
+    "currency": "USD",
+    "value_usd": 3350
+  },
+  "apc_paid": null,
+  "fwci": 0.7443,
+  "has_fulltext": true,
+  "cited_by_count": 41,
+  "citation_normalized_percentile": {
+    "value": 0.802459,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 87,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "6",
+    "issue": "3",
+    "first_page": "383",
+    "last_page": "392"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10393",
+    "display_name": "Economic Growth and Productivity",
+    "score": 0.8755000233650208,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "score": 0.8755000233650208,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10446",
+      "display_name": "Income, Poverty, and Inequality",
+      "score": 0.04170000180602074,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.02889999933540821,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.9580000042915344
+    },
+    {
+      "id": "https://openalex.org/keywords/international-inequality",
+      "display_name": "international inequality",
+      "score": 0.8830000162124634
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-convergence",
+      "display_name": "educational convergence",
+      "score": 0.7379999756813049
+    },
+    {
+      "id": "https://openalex.org/keywords/gender-gap-in-education",
+      "display_name": "gender gap in education",
+      "score": 0.6639999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/development-gap",
+      "display_name": "development gap",
+      "score": 0.828000009059906
+    },
+    {
+      "id": "https://openalex.org/keywords/developing-countries",
+      "display_name": "developing countries",
+      "score": 0.6060000061988831
+    },
+    {
+      "id": "https://openalex.org/keywords/developed-countries",
+      "display_name": "developed countries",
+      "score": 0.7020000219345093
+    },
+    {
+      "id": "https://openalex.org/keywords/gini-coefficient-decomposition",
+      "display_name": "Gini coefficient decomposition",
+      "score": 0.7009999752044678
+    },
+    {
+      "id": "https://openalex.org/keywords/b-convergence",
+      "display_name": "B-convergence",
+      "score": 0.6779999732971191
+    },
+    {
+      "id": "https://openalex.org/keywords/years-of-schooling",
+      "display_name": "years of schooling",
+      "score": 0.6470000147819519
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.3230000138282776
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.851290225982666
+    },
+    {
+      "id": "https://openalex.org/C2779206190",
+      "wikidata": "https://www.wikidata.org/wiki/Q162455",
+      "display_name": "Gini coefficient",
+      "level": 4,
+      "score": 0.7821336984634399
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.6683881282806396
+    },
+    {
+      "id": "https://openalex.org/C2777303404",
+      "wikidata": "https://www.wikidata.org/wiki/Q759757",
+      "display_name": "Convergence (economics)",
+      "level": 2,
+      "score": 0.624144971370697
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.5591205358505249
+    },
+    {
+      "id": "https://openalex.org/C22679943",
+      "wikidata": "https://www.wikidata.org/wiki/Q159375",
+      "display_name": "Standard deviation",
+      "level": 2,
+      "score": 0.4194347560405731
+    },
+    {
+      "id": "https://openalex.org/C2778783286",
+      "wikidata": "https://www.wikidata.org/wiki/Q861360",
+      "display_name": "Educational inequality",
+      "level": 3,
+      "score": 0.4151718318462372
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.4096711575984955
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.3375171422958374
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.19630837440490723
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.17312389612197876
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.1493842899799347
+    },
+    {
+      "id": "https://openalex.org/C513380476",
+      "wikidata": "https://www.wikidata.org/wiki/Q5055020",
+      "display_name": "Economic inequality",
+      "level": 3,
+      "score": 0.13196250796318054
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1111/1467-9361.00162",
+      "doi": "https://doi.org/10.1111/1467-9361.00162",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/1467-9361.00162",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9361.00162",
+      "source": {
+        "id": "https://openalex.org/S95496512",
+        "display_name": "Review of Development Economics",
+        "issn_l": "1363-6669",
+        "issn": [
+          "1363-6669",
+          "1467-9361"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a",
+          "anvur-scientific",
+          "cwts-core",
+          "jufo-1",
+          "norway-1",
+          "poland-40",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Review of Development Economics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "mag:2072113029",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=330790",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "SSRN Electronic Journal",
+      "raw_type": null
+    },
+    {
+      "id": "mag:3122122588",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://ideas.repec.org/p/chk/cuhked/_121.html",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RePEc: Research Papers in Economics",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1111/1467-9361.00162",
+    "doi": "https://doi.org/10.1111/1467-9361.00162",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/1467-9361.00162",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9361.00162",
+    "source": {
+      "id": "https://openalex.org/S95496512",
+      "display_name": "Review of Development Economics",
+      "issn_l": "1363-6669",
+      "issn": [
+        "1363-6669",
+        "1467-9361"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a",
+        "anvur-scientific",
+        "cwts-core",
+        "jufo-1",
+        "norway-1",
+        "poland-40",
+        "russia-white-list-2",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Development Economics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Reduced inequalities",
+      "score": 0.9629999995231628,
+      "id": "https://metadata.un.org/sdg/10"
+    },
+    {
+      "display_name": "Quality education",
+      "score": 0.5385000109672546,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2072113029.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2072113029.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2032881630",
+    "https://openalex.org/W3133494444",
+    "https://openalex.org/W7027175929",
+    "https://openalex.org/W7162641108",
+    "https://openalex.org/W2494773845",
+    "https://openalex.org/W1591193235",
+    "https://openalex.org/W2037179477",
+    "https://openalex.org/W2925580386",
+    "https://openalex.org/W2170368158",
+    "https://openalex.org/W3136636597"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "paper": [
+      1
+    ],
+    "examines": [
+      2
+    ],
+    "the": [
+      3,
+      16,
+      22,
+      28,
+      42,
+      45,
+      53,
+      57,
+      61,
+      72,
+      82,
+      87,
+      91,
+      95,
+      116
+    ],
+    "international": [
+      4
+    ],
+    "inequality": [
+      5,
+      100
+    ],
+    "and": [
+      6,
+      31,
+      34,
+      38,
+      90,
+      107,
+      113
+    ],
+    "convergence": [
+      7
+    ],
+    "of": [
+      8,
+      48,
+      55,
+      64,
+      68,
+      81
+    ],
+    "educational": [
+      9,
+      20,
+      25,
+      49,
+      102
+    ],
+    "attainment": [
+      10,
+      26,
+      103,
+      110
+    ],
+    "from": [
+      11
+    ],
+    "1960": [
+      12,
+      106
+    ],
+    "to": [
+      13
+    ],
+    "1990.": [
+      14,
+      108
+    ],
+    "Despite": [
+      15
+    ],
+    "increasing": [
+      17
+    ],
+    "trend": [
+      18
+    ],
+    "in": [
+      19,
+      24,
+      41,
+      101,
+      104
+    ],
+    "attainment,": [
+      21
+    ],
+    "gap": [
+      23,
+      89,
+      93
+    ],
+    "between": [
+      27,
+      36
+    ],
+    "developing": [
+      29
+    ],
+    "countries": [
+      30,
+      33
+    ],
+    "developed": [
+      32
+    ],
+    "that": [
+      35,
+      86
+    ],
+    "males": [
+      37
+    ],
+    "females": [
+      39
+    ],
+    "increased": [
+      40
+    ],
+    "period.": [
+      43,
+      117
+    ],
+    "However,": [
+      44
+    ],
+    "relative": [
+      46
+    ],
+    "dispersion": [
+      47
+    ],
+    "attainment—as": [
+      50
+    ],
+    "measured": [
+      51
+    ],
+    "by": [
+      52,
+      74
+    ],
+    "coefficient": [
+      54,
+      84
+    ],
+    "variation,": [
+      56
+    ],
+    "Gini": [
+      58,
+      83
+    ],
+    "coefficient,": [
+      59
+    ],
+    "or": [
+      60,
+      77
+    ],
+    "standard": [
+      62
+    ],
+    "deviation": [
+      63
+    ],
+    "log": [
+      65
+    ],
+    "average": [
+      66
+    ],
+    "years": [
+      67
+    ],
+    "schooling—declined": [
+      69
+    ],
+    "consistently": [
+      70
+    ],
+    "during": [
+      71
+    ],
+    "period": [
+      73
+    ],
+    "either": [
+      75
+    ],
+    "development": [
+      76,
+      88
+    ],
+    "gender": [
+      78,
+      92
+    ],
+    "status.": [
+      79
+    ],
+    "Decompositions": [
+      80
+    ],
+    "indicate": [
+      85
+    ],
+    "were": [
+      94
+    ],
+    "main": [
+      96
+    ],
+    "components": [
+      97
+    ],
+    "for": [
+      98
+    ],
+    "world": [
+      99
+    ],
+    "both": [
+      105
+    ],
+    "Educational": [
+      109
+    ],
+    "exhibited": [
+      111
+    ],
+    "b‐": [
+      112
+    ],
+    "s‐convergence": [
+      114
+    ],
+    "over": [
+      115
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-11-07T11:25:07.637180",
+  "created_date": "2016-06-24T00:00:00"
+}
