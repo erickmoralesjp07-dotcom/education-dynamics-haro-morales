@@ -17,3 +17,4 @@ results/diagnostics/*.json
 .virtual_documents/
 anaconda_projects/
 literature_review/full_text/
+literature_review/extracted_text/
