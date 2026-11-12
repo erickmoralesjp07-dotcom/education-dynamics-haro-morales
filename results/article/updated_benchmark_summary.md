@@ -1,10 +1,10 @@
 # Updated Scientific Benchmark Summary
 
-Generated: 2026-11-12T10:01:08.304285-05:00
+Generated: 2026-11-12T10:08:32.632485-05:00
 
 ## 1. Current study scope
 
-The project evaluates whether a structured educational dynamics model can predict changes in access, completion, youth literacy, and education finance using UNESCO UIS data.
+The project evaluates whether a structured educational dynamics model can predict changes in access, adult educational attainment, youth literacy, and education finance using UNESCO UIS data.
 
 ## 2. Data coverage
 
@@ -32,7 +32,7 @@ The project evaluates whether a structured educational dynamics model can predic
 ## 4. ACLF model
 
 - A: out-of-school rate at primary age.
-- C: lower-secondary completion or higher among the population aged 25 years or more.
+- C: share of the population aged 25 years or more that attained at least lower-secondary education.
 - L: youth literacy rate, ages 15-24.
 - F: government education expenditure as a percentage of GDP.
 
@@ -55,7 +55,7 @@ The linear system predicts dA/dt, dC/dt, dL/dt, and dF/dt from the previous ACLF
 | Ecuador Ridge vs zero | Ecuador annual series | dF/dt | 0.3092 | 0.2914 | -6.12 | no_improvement |
 | Ecuador Ridge vs zero | Ecuador annual series | dL/dt | 0.3385 | 0.3280 | -3.21 | no_improvement |
 
-Only the completion-rate equation, dC/dt, consistently outperformed the zero-change baseline.
+Only the adult educational-attainment equation, dC/dt, consistently outperformed the zero-change baseline.
 
 ## 6. Stability of the adult educational-attainment signal
 
@@ -92,7 +92,7 @@ Ridge and Elastic Net are practically equivalent under the provisional 1% RMSE e
 
 ## 9. Current scientific interpretation
 
-The ACLF state contains a small but stable predictive signal for the evolution of educational completion. The signal is captured by low-complexity regularized linear models. Random Forest and HistGradientBoosting did not provide a consistent improvement.
+The ACLF state contains a small but stable predictive signal for changes in adult educational attainment. The signal is captured by low-complexity regularized linear models. Random Forest and HistGradientBoosting did not provide a consistent improvement.
 
 The remaining ACLF equations did not outperform a zero-change prediction. Therefore, the available evidence does not support the general superiority of the linear dynamic system.
 
@@ -109,7 +109,7 @@ The remaining ACLF equations did not outperform a zero-change prediction. Theref
 ## 11. Next scientific steps
 
 1. Evaluate sensitivity to alternative equivalence margins.
-2. Examine coefficients and predictor stability for completion.
+2. Examine coefficients and predictor stability for adult educational attainment.
 3. Evaluate temporal-origin validation.
 4. Test a state-space formulation.
 5. Integrate PISA country-cycle estimates with sampling uncertainty.

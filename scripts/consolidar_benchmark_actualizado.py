@@ -237,7 +237,7 @@ def build_markdown(data, key_results):
         "The project evaluates whether a "
         "structured educational dynamics model "
         "can predict changes in access, "
-        "completion, youth literacy, and "
+        "adult educational attainment, youth literacy, and "
         "education finance using UNESCO UIS data."
     )
     lines.append("")
@@ -307,8 +307,8 @@ def build_markdown(data, key_results):
         "- A: out-of-school rate at primary age."
     )
     lines.append(
-        "- C: lower-secondary completion or higher "
-        "among the population aged 25 years or more."
+        "- C: share of the population aged 25 years or more "
+        "that attained at least lower-secondary education."
     )
     lines.append(
         "- L: youth literacy rate, ages 15-24."
@@ -355,7 +355,7 @@ def build_markdown(data, key_results):
 
     lines.append("")
     lines.append(
-        "Only the completion-rate equation, dC/dt, "
+        "Only the adult educational-attainment equation, dC/dt, "
         "consistently outperformed the zero-change "
         "baseline."
     )
@@ -453,8 +453,8 @@ def build_markdown(data, key_results):
     lines.append("")
     lines.append(
         "The ACLF state contains a small but stable "
-        "predictive signal for the evolution of "
-        "educational completion. The signal is "
+        "predictive signal for changes in "
+        "adult educational attainment. The signal is "
         "captured by low-complexity regularized "
         "linear models. Random Forest and "
         "HistGradientBoosting did not provide a "
@@ -507,7 +507,7 @@ def build_markdown(data, key_results):
     )
     lines.append(
         "2. Examine coefficients and predictor "
-        "stability for completion."
+        "stability for adult educational attainment."
     )
     lines.append(
         "3. Evaluate temporal-origin validation."
