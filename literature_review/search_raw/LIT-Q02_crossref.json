@@ -1,0 +1,2512 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 6720745,
+    "items": [
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2015.10.008",
+        "type": "journal-article",
+        "is-referenced-by-count": 39,
+        "title": [
+          "Degenerate two-phase porous media flow model with dynamic capillarity"
+        ],
+        "author": [
+          {
+            "given": "X.",
+            "family": "Cao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "I.S.",
+            "family": "Pop",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2015.10.008",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2005.10.013",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A diffusion model in population genetics with dynamic fitness"
+        ],
+        "author": [
+          {
+            "given": "Judith R.",
+            "family": "Miller",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mike",
+            "family": "O'Leary",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2005.10.013",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2025.113986",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Dynamic behaviors of a receptor-based reaction-diffusion-ODEs model in heterogeneous environments"
+        ],
+        "author": [
+          {
+            "given": "Conghui",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5626-2737",
+            "authenticated-orcid": false,
+            "given": "Jianhua",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2025.113986",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2016.11.037",
+        "type": "journal-article",
+        "is-referenced-by-count": 15,
+        "title": [
+          "On the dynamic pull-in instability in a mass-spring model of electrostatically actuated MEMS devices"
+        ],
+        "author": [
+          {
+            "given": "Gilberto",
+            "family": "Flores",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2016.11.037",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5335574",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Lst-Node-Wwo: Neural Network Structure Optimization Model Based Variational Differential Equations in Dynamic System Prediction"
+        ],
+        "author": [
+          {
+            "given": "Jiating",
+            "family": "Fang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5335574",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2009.04.003",
+        "type": "journal-article",
+        "is-referenced-by-count": 46,
+        "title": [
+          "Hopf bifurcation in a size-structured population dynamic model with random growth"
+        ],
+        "author": [
+          {
+            "given": "Jixun",
+            "family": "Chu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Arnaud",
+            "family": "Ducrot",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pierre",
+            "family": "Magal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shigui",
+            "family": "Ruan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2009,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2009.04.003",
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2011.11.005",
+        "type": "journal-article",
+        "is-referenced-by-count": 113,
+        "title": [
+          "Measure functional differential equations and functional dynamic equations on time scales"
+        ],
+        "author": [
+          {
+            "given": "Márcia",
+            "family": "Federson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jaqueline",
+            "family": "G. Mesquita",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Antonín",
+            "family": "Slavík",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2011.11.005",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2022.10.038",
+        "type": "journal-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "Nonlinear structural stability and linear dynamic instability of transonic steady-states to hydrodynamic model for semiconductors"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-6404-8749",
+            "authenticated-orcid": false,
+            "given": "Yue-Hong",
+            "family": "Feng",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ming",
+            "family": "Mei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Guojing",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2022.10.038",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2022.05.009",
+        "type": "journal-article",
+        "is-referenced-by-count": 80,
+        "title": [
+          "Dynamic analysis of a plant-water model with spatial diffusion"
+        ],
+        "author": [
+          {
+            "given": "Gui-Quan",
+            "family": "Sun",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hong-Tao",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2209-2458",
+            "authenticated-orcid": false,
+            "given": "Yong-Li",
+            "family": "Song",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Li",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhen",
+            "family": "Jin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2022.05.009",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.padiff.2024.100875",
+        "type": "journal-article",
+        "is-referenced-by-count": 3,
+        "title": [
+          "The dynamic of two prey–One predator food web model with fear and harvesting"
+        ],
+        "author": [
+          {
+            "given": "Bushra E.",
+            "family": "Kashem",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hassan F.",
+            "family": "Al-Husseiny",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Partial Differential Equations in Applied Mathematics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.padiff.2024.100875",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2025.113859",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Global well-posedness and dynamic behavior of pantograph delay differential equations"
+        ],
+        "author": [
+          {
+            "given": "Wenlong",
+            "family": "Sun",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4697-898X",
+            "authenticated-orcid": false,
+            "given": "Tomas",
+            "family": "Caraballo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Peter E.",
+            "family": "Kloeden",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2025.113859",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2019.04.035",
+        "type": "journal-article",
+        "is-referenced-by-count": 28,
+        "title": [
+          "Lyapunov stability for measure differential equations and dynamic equations on time scales"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5120-3877",
+            "authenticated-orcid": false,
+            "given": "M.",
+            "family": "Federson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Grau",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J.G.",
+            "family": "Mesquita",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Toon",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2019.04.035",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2017.02.008",
+        "type": "journal-article",
+        "is-referenced-by-count": 18,
+        "title": [
+          "Boundedness of solutions of measure differential equations and dynamic equations on time scales"
+        ],
+        "author": [
+          {
+            "given": "M.",
+            "family": "Federson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Grau",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.G.",
+            "family": "Mesquita",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Toon",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2017.02.008",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This paper investigates a predator-prey eco-epidemiological model incorporating disease transmission in both prey and predator populations, along with a chemotactic mechanism representing the directional movement of susceptible predators towards infected prey. The global boundedness, as well as local and global asymptotic stability of the system, are analyzed in a two-dimensional bounded domain. An optimal control problem is formulated to minimize the infected population while simultaneously reducing the costs associated with isolation and treatment interventions. First, the existence of a globally bounded classical solution is established using energy estimates and semigroup theory. Second, the global asymptotic stability of the equilibrium points is investigated by constructing appropriate Lyapunov functionals, explicitly linking stability conditions to the basic reproduction numbers and the chemotactic coefficient. We find that global asymptotic stability is achieved only when the chemotactic sensitivity is below a critical threshold, indicating that excessively strong prey-taxis may destabilize the ecosystem. Interventions such as isolation and treatment can rapidly convert infected individuals into healthy ones, thereby facilitating artificial ecological protection; however, these measures incur financial costs. Consequently, optimizing treatment efficacy while minimizing expenditure constitutes a critical decision-making challenge. To address this, an optimal control strategy is developed using the Hamiltonian function and Pontryagin's minimum principle, identifying the optimal intensity combination of isolation and treatment measures. Numerical simulations validate the theoretical results and demonstrate that a strategy combining strict isolation with moderate treatment is the most cost-effective approach for disease control.</jats:p>",
+        "DOI": "10.57262/die039-0910-743",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Global dynamic analysis and optimal control of an eco-epidemiological prey-taxis model in prey and predator"
+        ],
+        "author": [
+          {
+            "given": "Wenjing",
+            "family": "Luo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Youhui",
+            "family": "Su",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hui",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qian",
+            "family": "Wen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Differential and Integral Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.57262/die039-0910-743",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2004.01.011",
+        "type": "journal-article",
+        "is-referenced-by-count": 31,
+        "title": [
+          "Complete second order differential equations in Banach spaces with dynamic boundary conditions"
+        ],
+        "author": [
+          {
+            "given": "Ti-Jun",
+            "family": "Xiao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jin",
+            "family": "Liang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2004.01.011",
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1155/2014/234174",
+        "type": "journal-article",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Qualitative Theory of Differential, Difference, and Dynamic Equations"
+        ],
+        "author": [
+          {
+            "given": "Tongxing",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Qingdao Technological University, Feixian, Shandong 273400, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6603-3732",
+            "authenticated-orcid": true,
+            "given": "Tuncay",
+            "family": "Candan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mathematics, Faculty of Arts and Sciences, Niǧde University, 51200 Niǧde, Turkey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ethiraju",
+            "family": "Thandapani",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ramanujan Institute for Advanced Study in Mathematics, University of Madras, Chennai 600 005, India"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1155/2014/234174",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>In this article, we consider the existence of pseudosolutions for boundary value  problem for fractional differential equations of the form $$\\displaylines{ {}_T^C \\Delta ^ \\alpha x(t)=f(t,x(t)), \\quad \\hbox{for } t \\in I_a=[0,a] \\cap T, \\cr x(0)=x_0,\\quad  x_0 \\in E, }$$ where \\({}_T^C \\Delta ^ \\alpha x(t)\\), \\(\\alpha \\in (0,1]\\) denotes the Caputo fractional  derivative, \\(T\\) denotes a time scale, and the function \\(f\\) is weakly-weakly  sequentially continuous with values in a Banach space \\(E\\) and satisfies some  boundary conditions and conditions expressed in terms of measures of weak  non-compactness. \nFor more information see https://ejde.math.txstate.edu/Volumes/2024/36/abstr.html</jats:p>",
+        "DOI": "10.58997/ejde.2024.36",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Existence of pseudosolutions for dynamic fractional differential equations"
+        ],
+        "author": [
+          {
+            "given": "Aneta",
+            "family": "Sikorska-Nowak",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "Electronic Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              20
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.58997/ejde.2024.36",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Mathematical modeling in economics became central to economic theory during the decade of the Second World War. The leading figure in that period was Paul Anthony Samuelson whose 1947 book, Foundations of Economic Analysis, formalized the problem of dynamic analysis in economics. In this brief chapter some seminal applications of differential equations in economic growth, capital and business trade cycles are outlined in deterministic setting. Chaos and bifurcations in economic dynamics are not considered. Explicit analytical solutions are presented only in relatively straightforward cases and in more complicated cases a path to the solution is outlined. Differential equations in modern dynamic economic modeling are extensions and modifications of these classical works. Finally we would like to stress that the differential equations presented in this chapter are of the “stand-alone” type in that they were solely introduced to model economic growth and trade cycles. Partial differential equations such as those which arise in related fields, like Bioeconomics and Differential Games, from optimizing the Hamiltonian of the problem, and stochastic differential equations of Finance and Macroeconomics are not considered here.</jats:p>",
+        "DOI": "10.5772/intechopen.97130",
+        "type": "book-chapter",
+        "is-referenced-by-count": 6,
+        "title": [
+          "On Some Important Ordinary Differential Equations of Dynamic Economics"
+        ],
+        "author": [
+          {
+            "given": "Anastasios",
+            "family": "Tsoularis",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Recent Developments in the Solution of Nonlinear Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5772/intechopen.97130",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2013.07.026",
+        "type": "journal-article",
+        "is-referenced-by-count": 16,
+        "title": [
+          "Non-periodic averaging principles for measure functional differential equations and functional dynamic equations on time scales involving impulses"
+        ],
+        "author": [
+          {
+            "given": "M.",
+            "family": "Federson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.G.",
+            "family": "Mesquita",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2013.07.026",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Motivated by diffusion processes on metric graphs and ramified spaces, we consider an abstract setting for interface problems with coupled dynamic boundary conditions belonging to a quite general class. Beside well posedness, we discuss positivity, $L^\\infty$-contractivity and further invariance properties. We show that the parabolic problem with dynamic boundary conditions enjoys these properties if and only if its counterpart with time-independent boundary conditions does also. Furthermore, we prove continuous dependence of the solution to the parabolic problem on the boundary conditions in the considered class.</jats:p>",
+        "DOI": "10.57262/ade/1355854437",
+        "type": "journal-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Vector-valued heat equations and networks with coupled dynamic boundary conditions"
+        ],
+        "author": [
+          {
+            "given": "Delio",
+            "family": "Mugnolo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Advances in Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.57262/ade/1355854437",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              18
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783111377155-009",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "9 Nonlinear dynamic-algebraic equations"
+        ],
+        "container-title": [
+          "Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1515/9783111377155-009",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        },
+        "DOI": "10.1063/1.5082052",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "An innovative model for integrating electronic assessment into differential equations education"
+        ],
+        "author": [
+          {
+            "given": "Tsvetan",
+            "family": "Hristov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "AIP Conference Proceedings"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1063/1.5082052",
+        "published": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/s0022-0396(02)00159-6",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Dynamic convexity for natural thermostatted systems"
+        ],
+        "author": [
+          {
+            "given": "Gaetano",
+            "family": "Zampieri",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/s0022-0396(02)00159-6",
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The main objective of the paper is to study new integral inequality on time scales which is used for the study of some partial dynamic equations. Some applications of our results are also given.</jats:p>",
+        "DOI": "10.1155/2014/949860",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "On Inequality Applicable to Partial Dynamic Equations"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3763-4878",
+            "authenticated-orcid": true,
+            "given": "Deepak B.",
+            "family": "Pachpatte",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Mathematics, Dr. B.A.M. University, Aurangabad, Maharashtra 431004, India"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1155/2014/949860",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2018.10.007",
+        "type": "journal-article",
+        "is-referenced-by-count": 15,
+        "title": [
+          "Singular stochastic Allen–Cahn equations with dynamic boundary conditions"
+        ],
+        "author": [
+          {
+            "given": "Carlo",
+            "family": "Orrieri",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6928-8944",
+            "authenticated-orcid": false,
+            "given": "Luca",
+            "family": "Scarpa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2018.10.007",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2021.07.035",
+        "type": "journal-article",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Global dynamic bifurcation of local semiflows and nonlinear evolution equations"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-4615-8834",
+            "authenticated-orcid": false,
+            "given": "Luyan",
+            "family": "Zhou",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Desheng",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2021.07.035",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              22
+            ]
+          ]
+        },
+        "abstract": "<jats:p>In this article, we carry out the structural analysis of an IS-LM-AS macroeconomic model with adaptive inflation expectations, exploring the presence of a possible local bifurcation. We prove that the model is structurally unstable when the speed with which economic agents adjust their expectations about future inflation is equal to the inverse of the semi-elasticity of real money demand with respect to the nominal interest rate since the periodic solutions are lost when the adaptive expectations parameter suffer any small change, ceteris paribus. Additionally, the phase portraits of the instantaneous rate of change of the real interest rate, the inflation rate, and the instantaneous rate of change of the inflation rate are numerically simulated in <jats:inline-formula>\n                     <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" id=\"M1\">\n                        <a:msup>\n                           <a:mrow>\n                              <a:mi>ℝ</a:mi>\n                           </a:mrow>\n                           <a:mrow>\n                              <a:mn>3</a:mn>\n                           </a:mrow>\n                        </a:msup>\n                     </a:math>\n                  </jats:inline-formula> with MATLAB for three asymptotically and locally stable cases and for the degenerate Hopf bifurcation. Finally, our results show that, specifically, in the case of pure conjugate complex eigenvalues, the economy could enter periods of an inflationary/deflationary spiral when the adaptive expectations parameter is of greater magnitude to the inverse of the semi-elasticity of real money demand balances with respect to the nominal interest rate, regardless of its initial state.</jats:p>",
+        "DOI": "10.1155/2022/5026061",
+        "type": "journal-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Structural Stability Analysis in a Dynamic IS-LM-AS Macroeconomic Model with Inflation Expectations"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0890-674X",
+            "authenticated-orcid": true,
+            "given": "Ciro Eduardo",
+            "family": "Bazán Navarro",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Economics Department, Faculty of Business Science, Universidad San Ignacio de Loyola, Lima, Peru"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1897-4383",
+            "authenticated-orcid": true,
+            "given": "Renato Mario",
+            "family": "Benazic Tomé",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Facultad de Ciencias Matemáticas, Departamento Académico de Matemáticas, Universidad Nacional Mayor de San Marcos (UNMSM), Lima, Peru"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1155/2022/5026061",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>We consider the dynamic elasticity equations with a locally distributed damping in a bounded domain. The local dissipation of the form $a(x)y_{t}$ allows coefficients $a$ that lie in some $L^r(\\Omega)$, with $(r&gt;2)$. Using multiplier techniques, interpolation inequalities, and a judicious application of the Hölder inequality, we prove sharp energy decay estimates for all $r&gt;Max(2,N)$, where $N$ denotes the space dimension. All space dimensions are considered; the results obtained generalize and improve earlier works where $r$ is required to satisfy $r \\! \\geq \\! {3N+\\sqrt{9N^2-16N}\\over4}$, for $N\\geq3$.</jats:p>",
+        "DOI": "10.57262/die/1356050350",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "On the stabilization of dynamic elasticity equations with unbounded locally distributed dissipation"
+        ],
+        "author": [
+          {
+            "given": "L. R.",
+            "family": "Tcheugoue Tebou",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Differential and Integral Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.57262/die/1356050350",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2006.07.004",
+        "type": "journal-article",
+        "is-referenced-by-count": 24,
+        "title": [
+          "Stability radii for linear time-varying differential–algebraic equations with respect to dynamic perturbations"
+        ],
+        "author": [
+          {
+            "given": "Nguyen Huu",
+            "family": "Du",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Vu Hoang",
+            "family": "Linh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2006.07.004",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2012.02.010",
+        "type": "journal-article",
+        "is-referenced-by-count": 48,
+        "title": [
+          "On a class of degenerate parabolic equations with dynamic boundary conditions"
+        ],
+        "author": [
+          {
+            "given": "Ciprian G.",
+            "family": "Gal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2012.02.010",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The main objective of the paper is to study the properties of the solution of a certain partial dynamic equation on time scales. The tools employed are based on the application of the Banach fixed-point theorem and a certain integral inequality with explicit estimates on time scales.</jats:p>",
+        "DOI": "10.1155/2013/345697",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Properties of Some Partial Dynamic Equations on Time Scales"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3763-4878",
+            "authenticated-orcid": true,
+            "given": "Deepak B.",
+            "family": "Pachpatte",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Mathematics, Dr. B. A. M. University, Aurangabad, Maharashtra 431004, India"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Partial Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1155/2013/345697",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781412983914.n1",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Dynamic Models and Social Change"
+        ],
+        "container-title": [
+          "Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4135/9781412983914.n1",
+        "published": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>&lt;p&gt;Fractional calculus is an important branch of mathematical analysis, which is specialized in the study of the mathematical properties and applications of arbitrary order integral and differential, and is the extension of the traditional integral calculus. At present, fractional integral and derivative operators are mainly used to calculate fractional calculus, among which the most famous ones are Riemann-Liouville fractional integral and derivative, Caputo fractional derivative, Grümwald-Letnikov fractional integral and derivative, etc. At present, the numerical algorithm of finite difference scheme is mainly used to solve the approximate solution of the equation, to solve the fractional differential equation. Through the finite difference of time fractional order or space fractional order, the approximate solution of the equation is obtained, and the stability, convergence and compatibility of the scheme are checked, and the convergence order and estimation error are calculated. At present, the theory and method of nonlinear fractional differential equation are widely used in the study of various intermediate processes and critical phenomena in finance, physics and mechanics, which can better fit some natural physical processes and dynamic system processes.&lt;/p&gt;</jats:p>",
+        "DOI": "10.18282/le.v7i2.776",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Research on the numerical solution and dynamic properties of nonlinear fractional differential equations"
+        ],
+        "author": [
+          {
+            "given": "Na",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yanqin",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Lifelong Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.18282/le.v7i2.776",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This paper is concerned with the following Cahn-Hilliard equation $ \\psi _t = \\Delta \\mu, $ where $ \\mu= -\\Delta \\psi -\\psi +\\psi ^3, $ subject on the boundary $\\Gamma$ to the following dynamic boundary condition $ \\sigma _s \\Delta _{||} \\psi - \\partial _{\\nu} \\psi + h_s -g_s \\psi = \\frac{1}{\\Gamma _s} \\psi _t $ and $ \\partial _{\\nu} \\mu =0, $ and the initial condition $ \\psi |_{t=0}= \\psi _0. $ This problem was recently proposed by physicists to describe spinodal decomposition of binary mixtures where the effective interaction between the wall (i.e., the boundary $\\Gamma$) and two mixture components are short-ranged. The global existence and uniqueness of solutions to this initial boundary value problem with highest-order boundary conditions is proved.</jats:p>",
+        "DOI": "10.57262/ade/1355926869",
+        "type": "journal-article",
+        "is-referenced-by-count": 56,
+        "title": [
+          "The Cahn-Hilliard equation with dynamic boundary conditions"
+        ],
+        "author": [
+          {
+            "given": "Reinhard",
+            "family": "Racke",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Songmu",
+            "family": "Zheng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Advances in Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.57262/ade/1355926869",
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1134/s0012266109120040",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Methods for deriving differential equations of arbitrary dynamic processes"
+        ],
+        "author": [
+          {
+            "given": "E. R.",
+            "family": "Smol’yakov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              1,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2009,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1134/s0012266109120040",
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              6,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1201/9781420010855-27",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Ordinary Differential Equations"
+        ],
+        "container-title": [
+          "Handbook of Dynamic System Modeling"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              6,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9781420010855-27",
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              6,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1023/b:dieq.0000023552.31670.08",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "A Theory of Dynamic Conflict Problems on Intersecting Sets"
+        ],
+        "author": [
+          {
+            "given": "E. R.",
+            "family": "Smol'yakov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1023/b:dieq.0000023552.31670.08",
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2017.10.023",
+        "type": "journal-article",
+        "is-referenced-by-count": 7,
+        "title": [
+          "On the Boussinesq–Burgers equations driven by dynamic boundary conditions"
+        ],
+        "author": [
+          {
+            "given": "Neng",
+            "family": "Zhu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zhengrong",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5059-9814",
+            "authenticated-orcid": false,
+            "given": "Kun",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2017.10.023",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jde.2004.10.016",
+        "type": "journal-article",
+        "is-referenced-by-count": 11,
+        "title": [
+          "Dynamic Hopf bifurcations generated by nonlinear terms"
+        ],
+        "author": [
+          {
+            "given": "D.",
+            "family": "Rachinskii",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "K.",
+            "family": "Schneider",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2005,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jde.2004.10.016",
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              18
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783111377155-002",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "2 Linear dynamic-algebraic equations with constant coefficients"
+        ],
+        "container-title": [
+          "Differential Equations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1515/9783111377155-002",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              18
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

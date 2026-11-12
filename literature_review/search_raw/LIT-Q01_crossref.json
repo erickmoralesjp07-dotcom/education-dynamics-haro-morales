@@ -1,0 +1,3659 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 6869657,
+    "items": [
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2017.1285510",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Longitudinal train dynamics"
+        ],
+        "author": [
+          {
+            "given": "Maksym",
+            "family": "Spiryagin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qing",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Colin",
+            "family": "Cole",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2017.1285510",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2016.1228988",
+        "type": "journal-article",
+        "is-referenced-by-count": 178,
+        "title": [
+          "Longitudinal train dynamics: an overview"
+        ],
+        "author": [
+          {
+            "given": "Qing",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Maksym",
+            "family": "Spiryagin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Colin",
+            "family": "Cole",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              9,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              9,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2016.1228988",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              9,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2010.545131",
+        "type": "journal-article",
+        "is-referenced-by-count": 18,
+        "title": [
+          "Longitudinal force distribution using quadratically constrained linear programming"
+        ],
+        "author": [
+          {
+            "given": "M.",
+            "family": "Klomp",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2010.545131",
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2016.1263393",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Examining longitudinal train dynamics in ore car tipplers"
+        ],
+        "author": [
+          {
+            "given": "Colin",
+            "family": "Cole",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, CQUniversity, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Maksym",
+            "family": "Spiryagin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, CQUniversity, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chris",
+            "family": "Bosomworth",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, CQUniversity, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2016.1263393",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2020.1751860",
+        "type": "journal-article",
+        "is-referenced-by-count": 36,
+        "title": [
+          "Theoretical modelling of a vehicle-slab track coupled dynamics system considering longitudinal vibrations and interface interactions"
+        ],
+        "author": [
+          {
+            "given": "Jun",
+            "family": "Luo",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shengyang",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wanming",
+            "family": "Zhai",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2020.1751860",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              14
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2022.2124178",
+        "type": "journal-article",
+        "is-referenced-by-count": 31,
+        "title": [
+          "Dynamics analysis of train-track-bridge coupled system considering spatial flexibility of high piers and system longitudinal vibrations"
+        ],
+        "author": [
+          {
+            "given": "Zhihao",
+            "family": "Zhai",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shengyang",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yun",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Luo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chengbiao",
+            "family": "Cai",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Train and Track Research Institute, State Key Laboratory of Traction Power, Southwest Jiaotong University, Chengdu, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2022.2124178",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2024.2362949",
+        "type": "journal-article",
+        "is-referenced-by-count": 6,
+        "title": [
+          "A novel approach for longitudinal train dynamics simulations with multibody codes"
+        ],
+        "author": [
+          {
+            "given": "M.",
+            "family": "Magelli",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Politecnico di Torino",
+                "place": [
+                  "Torino, Italy"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "N.",
+            "family": "Zampieri",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Politecnico di Torino",
+                "place": [
+                  "Torino, Italy"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2024.2362949",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2016.1270457",
+        "type": "journal-article",
+        "is-referenced-by-count": 54,
+        "title": [
+          "International benchmarking of longitudinal train dynamics simulators: benchmarking questions"
+        ],
+        "author": [
+          {
+            "given": "Maksym",
+            "family": "Spiryagin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qing",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Colin",
+            "family": "Cole",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2016.1270457",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2014.991332",
+        "type": "journal-article",
+        "is-referenced-by-count": 10,
+        "title": [
+          "Longitudinal wheel slip during ABS braking"
+        ],
+        "author": [
+          {
+            "given": "Lassi",
+            "family": "Hartikainen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Frank",
+            "family": "Petry",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Stephan",
+            "family": "Westermann",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              24
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2014.991332",
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              24
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2020.1823003",
+        "type": "journal-article",
+        "is-referenced-by-count": 31,
+        "title": [
+          "Longitudinal-vertical dynamics of wheeled vehicle under off-road conditions"
+        ],
+        "author": [
+          {
+            "given": "Zhiqiang",
+            "family": "Guo",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "National Key Laboratory of Vehicular Transmission, Beijing Institute of Technology, Beijing, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wei",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "National Key Laboratory of Vehicular Transmission, Beijing Institute of Technology, Beijing, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shihua",
+            "family": "Yuan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "National Key Laboratory of Vehicular Transmission, Beijing Institute of Technology, Beijing, People’s Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              24
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2020.1823003",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              24
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2013.821223",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Implementation and verification of adaptive longitudinal traction control"
+        ],
+        "author": [
+          {
+            "given": "William",
+            "family": "Kirchner",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Steve",
+            "family": "Southward",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2013.821223",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2019.1638947",
+        "type": "journal-article",
+        "is-referenced-by-count": 63,
+        "title": [
+          "Modelling longitudinal vehicle dynamics with neural networks"
+        ],
+        "author": [
+          {
+            "given": "Mauro",
+            "family": "Da Lio",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Industrial Engineering, University of Trento, Trento, Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2094-0668",
+            "authenticated-orcid": false,
+            "given": "Daniele",
+            "family": "Bortoluzzi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Industrial Engineering, University of Trento, Trento, Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1075-9603",
+            "authenticated-orcid": false,
+            "given": "Gastone Pietro",
+            "family": "Rosati Papini",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Industrial Engineering, University of Trento, Trento, Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2019.1638947",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2017.1330484",
+        "type": "journal-article",
+        "is-referenced-by-count": 154,
+        "title": [
+          "Modelling, simulation and applications of longitudinal train dynamics"
+        ],
+        "author": [
+          {
+            "given": "Colin",
+            "family": "Cole",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, QLD, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Maksym",
+            "family": "Spiryagin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, QLD, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qing",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, QLD, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yan Quan",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, QLD, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2017.1330484",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2012.661063",
+        "type": "journal-article",
+        "is-referenced-by-count": 22,
+        "title": [
+          "Simulation of longitudinal dynamics of long freight trains in positioning operations"
+        ],
+        "author": [
+          {
+            "given": "Zhaohui",
+            "family": "Qi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhihao",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xianchao",
+            "family": "Kong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2012.661063",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423110701867299",
+        "type": "journal-article",
+        "is-referenced-by-count": 35,
+        "title": [
+          "Effects of longitudinal road waviness on vehicle vibration response"
+        ],
+        "author": [
+          {
+            "given": "O.",
+            "family": "Kropáč",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "P.",
+            "family": "Múčka",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2009,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423110701867299",
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2019.1673445",
+        "type": "journal-article",
+        "is-referenced-by-count": 21,
+        "title": [
+          "Railway track longitudinal force model"
+        ],
+        "author": [
+          {
+            "given": "Qing",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yan",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Maksym",
+            "family": "Spiryagin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Colin",
+            "family": "Cole",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2019.1673445",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423110412331282931",
+        "type": "journal-article",
+        "is-referenced-by-count": 37,
+        "title": [
+          "Heavy-duty vehicle modelling and longitudinal control"
+        ],
+        "author": [
+          {
+            "given": "Xiao-Yun",
+            "family": "Lu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J. Karl",
+            "family": "Hedrick",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2005,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423110412331282931",
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2012.656654",
+        "type": "journal-article",
+        "is-referenced-by-count": 57,
+        "title": [
+          "A curving ACC system with coordination control of longitudinal car-following and lateral stability"
+        ],
+        "author": [
+          {
+            "given": "Dezhao",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Keqiang",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jianqiang",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2012.656654",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2018.1467019",
+        "type": "journal-article",
+        "is-referenced-by-count": 66,
+        "title": [
+          "Coupled lateral-longitudinal vehicle dynamics and control design with three-dimensional state portraits"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7193-9347",
+            "authenticated-orcid": false,
+            "given": "Craig E.",
+            "family": "Beal",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, Bucknell University, Lewisburg, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christina",
+            "family": "Boyd",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, Bucknell University, Lewisburg, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2018.1467019",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2021.1901943",
+        "type": "journal-article",
+        "is-referenced-by-count": 18,
+        "title": [
+          "Comparison of friction draft gear models for simulation in longitudinal train dynamics"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3513-5007",
+            "authenticated-orcid": false,
+            "given": "Yichang",
+            "family": "Zhou",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Institute of Land and Sea Transport Systems, Technical University of Berlin, Berlin, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9985-8741",
+            "authenticated-orcid": false,
+            "given": "Zhiyong",
+            "family": "Shi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Industrial Engineering, University of Florence, Florence, Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Markus",
+            "family": "Hecht",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Land and Sea Transport Systems, Technical University of Berlin, Berlin, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              23
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2021.1901943",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423110801935780",
+        "type": "journal-article",
+        "is-referenced-by-count": 9,
+        "title": [
+          "Reduction of longitudinal vibration by side-view arrangement of suspension"
+        ],
+        "author": [
+          {
+            "given": "Hiroki",
+            "family": "Kambe",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shingo",
+            "family": "Koumura",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423110801935780",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2012.659740",
+        "type": "journal-article",
+        "is-referenced-by-count": 86,
+        "title": [
+          "Robust estimation of road friction coefficient using lateral and longitudinal vehicle dynamics"
+        ],
+        "author": [
+          {
+            "given": "Changsun",
+            "family": "Ahn",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Huei",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "H. Eric",
+            "family": "Tseng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2012.659740",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1080/00423114.2026.2733699",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Integrated longitudinal and lateral control for high-speed platooning of articulated vehicles"
+        ],
+        "author": [
+          {
+            "given": "Aashish",
+            "family": "Shaju",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Virginia Tech",
+                "place": [
+                  "Blacksburg, USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Steve",
+            "family": "Southward",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Virginia Tech",
+                "place": [
+                  "Blacksburg, USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1171-4896",
+            "authenticated-orcid": false,
+            "given": "Mehdi",
+            "family": "Ahmadian",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Virginia Tech",
+                "place": [
+                  "Blacksburg, USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              20
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2026.2733699",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2019.1592204",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "A comparison of longitudinal adhesion models and identification of the dominant adhesion parameter"
+        ],
+        "author": [
+          {
+            "given": "HyunWook",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Transportation Environmental Research Team, New Transportation Innovative Research Center, Korea Railroad Research Institute, Uiwang-si, Korea"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2019.1592204",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              14
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2013.874563",
+        "type": "journal-article",
+        "is-referenced-by-count": 239,
+        "title": [
+          "Combined longitudinal and lateral control for automated vehicle guidance"
+        ],
+        "author": [
+          {
+            "given": "Rachid",
+            "family": "Attia",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rodolfo",
+            "family": "Orjuela",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michel",
+            "family": "Basset",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              16
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2013.874563",
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2019.1693048",
+        "type": "journal-article",
+        "is-referenced-by-count": 31,
+        "title": [
+          "A novel alternate multibody model for the longitudinal and ride dynamics of a tracked vehicle"
+        ],
+        "author": [
+          {
+            "given": "Ilango",
+            "family": "Mahalingam",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4845-2615",
+            "authenticated-orcid": false,
+            "given": "Chandramouli",
+            "family": "Padmanabhan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2019.1693048",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1080/00423114.2025.2571069",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Design and implementation of an ultra-local model-based longitudinal force observer"
+        ],
+        "author": [
+          {
+            "given": "Adam",
+            "family": "Alfoldi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "HUN-REN SZTAKI Institute for Computer Science and Control",
+                "place": [
+                  "Budapest, Hungary"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Fenyes",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "HUN-REN SZTAKI Institute for Computer Science and Control",
+                "place": [
+                  "Budapest, Hungary"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Peter",
+            "family": "Gaspar",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "HUN-REN SZTAKI Institute for Computer Science and Control",
+                "place": [
+                  "Budapest, Hungary"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2025.2571069",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2021.1975775",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Modelling and stability analysis of a longitudinal wheel dynamics control loop with feedback delay"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2806-3612",
+            "authenticated-orcid": false,
+            "given": "Adam",
+            "family": "Horvath",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Budapest University of Technology and Economics, Budapest, Hungary"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9845-8137",
+            "authenticated-orcid": false,
+            "given": "Peter",
+            "family": "Beda",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Budapest University of Technology and Economics, Budapest, Hungary"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1226-8613",
+            "authenticated-orcid": false,
+            "given": "Denes",
+            "family": "Takacs",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "MTA-BME Research Group on Dynamics of Machines and Vehicles, Budapest, Hungary"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2021.1975775",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1002/sdr.1622",
+        "type": "journal-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "On John Sterman's “System dynamics at sixty”: rigor, relevance and implications for education"
+        ],
+        "author": [
+          {
+            "given": "Markus",
+            "family": "Schwaninger",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "System Dynamics Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1002/sdr.1622",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2019.1618880",
+        "type": "journal-article",
+        "is-referenced-by-count": 19,
+        "title": [
+          "Model predictive longitudinal motion control for low velocities on known road profiles"
+        ],
+        "author": [
+          {
+            "given": "F.",
+            "family": "Walz",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Daimler AG, Böblingen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S.",
+            "family": "Hohmann",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute for Control Systems, Karlsruhe Institute of Technology, Karlsruhe, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2019.1618880",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2016.1254261",
+        "type": "journal-article",
+        "is-referenced-by-count": 93,
+        "title": [
+          "An air brake model for longitudinal train dynamics studies"
+        ],
+        "author": [
+          {
+            "given": "Wei",
+            "family": "Wei",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Traffic and Transportation Engineering, Dalian jiaotong University, Dalian, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yang",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Traffic and Transportation Engineering, Dalian jiaotong University, Dalian, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qing",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Railway Engineering, Central Queensland University, Rockhampton, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xubao",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Traffic and Transportation Engineering, Dalian jiaotong University, Dalian, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Traffic and Transportation Engineering, Dalian jiaotong University, Dalian, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yuan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Traffic and Transportation Engineering, Dalian jiaotong University, Dalian, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              11,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              11,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2016.1254261",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              11,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2013.847466",
+        "type": "journal-article",
+        "is-referenced-by-count": 50,
+        "title": [
+          "The vertical and the longitudinal dynamic responses of the vehicle–track system to squat-type short wavelength irregularity"
+        ],
+        "author": [
+          {
+            "given": "Xin",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": ",",
+                "place": [
+                  "The Netherlands"
+                ]
+              },
+              {
+                "name": ",",
+                "place": [
+                  "People's Republic of China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zili",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": ",",
+                "place": [
+                  "The Netherlands"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rolf",
+            "family": "Dollevoet",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": ",",
+                "place": [
+                  "The Netherlands"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2013.847466",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2002,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2002.11666220",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Real-time Estimation and Compensation of Road Slip for Longitudinal Control"
+        ],
+        "author": [
+          {
+            "given": "Xiao-Yun",
+            "family": "Lu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J. Karl",
+            "family": "Hedrick",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              1,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2002,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2002.11666220",
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2016.1269183",
+        "type": "journal-article",
+        "is-referenced-by-count": 34,
+        "title": [
+          "Study on longitudinal force simulation of heavy-haul train"
+        ],
+        "author": [
+          {
+            "given": "Chongyi",
+            "family": "Chang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Railway Science and Technology Research &amp; Development Center, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              },
+              {
+                "name": "High Speed Wheel-Rail System Laboratory, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gang",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Railway Science and Technology Research &amp; Development Center, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              },
+              {
+                "name": "High Speed Wheel-Rail System Laboratory, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Junbiao",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Railway Science and Technology Research &amp; Development Center, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              },
+              {
+                "name": "High Speed Wheel-Rail System Laboratory, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yingming",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Railway Science and Technology Research &amp; Development Center, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              },
+              {
+                "name": "High Speed Wheel-Rail System Laboratory, China Academy of Railway Sciences, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2016.1269183",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423110701882363",
+        "type": "journal-article",
+        "is-referenced-by-count": 33,
+        "title": [
+          "An experimentally confirmed driver longitudinal acceleration control model combined with vehicle lateral motion"
+        ],
+        "author": [
+          {
+            "given": "M.",
+            "family": "Yamakado",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Abe",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423110701882363",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2019.1693047",
+        "type": "journal-article",
+        "is-referenced-by-count": 15,
+        "title": [
+          "Longitudinal hydroplaning performance of passenger car tires"
+        ],
+        "author": [
+          {
+            "given": "Markus",
+            "family": "Maleska",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Goodyear S.A., Colmar-Berg, Luxembourg"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Frank",
+            "family": "Petry",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Goodyear S.A., Colmar-Berg, Luxembourg"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Duc",
+            "family": "Fehr",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Goodyear S.A., Colmar-Berg, Luxembourg"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wolfram",
+            "family": "Schuhmann",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Goodyear S.A., Colmar-Berg, Luxembourg"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Martin",
+            "family": "Böhle",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Fluid Mechanics and Fluid Machinery, Department of Mechanical Engineering, Technical University of Kaiserslautern, Kaiserslautern, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2019.1693047",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2021.1998559",
+        "type": "journal-article",
+        "is-referenced-by-count": 50,
+        "title": [
+          "Study on longitudinal dynamics of heavy haul trains running on long and steep downhills"
+        ],
+        "author": [
+          {
+            "given": "Wentao",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing, People's Republic of China"
+              },
+              {
+                "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shuai",
+            "family": "Su",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tao",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing, People's Republic of China"
+              },
+              {
+                "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yuan",
+            "family": "Cao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, People's Republic of China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2021.1998559",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2022.2107546",
+        "type": "journal-article",
+        "is-referenced-by-count": 8,
+        "title": [
+          "Influence of slack of automatic AAR couplers on longitudinal dynamics and jerk behaviour of rail vehicles"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5380-0296",
+            "authenticated-orcid": false,
+            "given": "Om Prakash",
+            "family": "Yadav",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, Indian Institute of Technology Kanpur, Kanpur, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6248-3579",
+            "authenticated-orcid": false,
+            "given": "Nalinaksh S.",
+            "family": "Vyas",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, Indian Institute of Technology Kanpur, Kanpur, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              5
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2022.2107546",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/00423114.2018.1456667",
+        "type": "journal-article",
+        "is-referenced-by-count": 35,
+        "title": [
+          "Influence of train length on in-train longitudinal forces during brake application"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3254-282X",
+            "authenticated-orcid": false,
+            "given": "Reza",
+            "family": "Serajian",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Mechanical Engineering Department, University of California, Riverside, CA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Saeed",
+            "family": "Mohammadi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Mechanical Engineering, Iran University of Science and Technology, Tehran, Iran"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Asghar",
+            "family": "Nasr",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Railway Engineering, Iran University of Science and Technology, Tehran, Iran"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00423114.2018.1456667",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              3,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1076/vesd.39.3.189.14152",
+        "type": "journal-article",
+        "is-referenced-by-count": 327,
+        "title": [
+          "Dynamic Friction Models for Road/Tire Longitudinal Interaction"
+        ],
+        "author": [
+          {
+            "given": "Carlos",
+            "family": "Canudas-de-Wit",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Panagiotis",
+            "family": "Tsiotras",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Efstathios",
+            "family": "Velenis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michel",
+            "family": "Basset",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gerard",
+            "family": "Gissinger",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Vehicle System Dynamics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              3,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1076/vesd.39.3.189.14152",
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              3,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

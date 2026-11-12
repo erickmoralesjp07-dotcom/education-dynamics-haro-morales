@@ -1,0 +1,2293 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5563380,
+    "items": [
+      {
+        "abstract": "<jats:p>\nHow to best utilize curriculum time has long been a question for England’s schools, which are free to vary time between subjects or to extend the school day/week. This question has now risen to national prominence as policymakers consider ways to help support students catch up lost learning after the COVID-19 pandemic. This article explores the relationship between instruction time on General Certificate of Secondary Education (GCSE) attainment and value-added scores for 2,815 English secondary schools using panel data from the 2010–14 School Workforce Census. Robust estimates suggest that instruction time has a small effect on attainment in each of English, mathematics, science and humanities. Based on sub-group analysis, effects sizes are also estimated for students with varying prior achievement and for those in receipt of free school meals. These too appear small, suggesting, vis-à-vis instructional time, sometimes less might be more.</jats:p>",
+        "DOI": "10.14324/lre.19.1.17",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Can less be more? Instruction time and attainment in English secondary schools: Evidence from panel data"
+        ],
+        "author": [
+          {
+            "given": "Vaughan",
+            "family": "Connolly",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Cambridge, UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              26
+            ]
+          ]
+        },
+        "container-title": [
+          "London Review of Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.14324/lre.19.1.17",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-32-9061-7_11",
+        "type": "book-chapter",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Impact of Public Education Expenditure Across Different Levels on Higher Education Access in India: A Panel Data Study"
+        ],
+        "author": [
+          {
+            "given": "Sandhya",
+            "family": "Dubey",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "The Future of Higher Education in India"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-32-9061-7_11",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>In the present paper author through an empirical analysis with panel data will point out that there is a critical level of health expenditure (% GDP) beyond which  economic growth starts rising. Health expenditure (% GDP) is taken from OECD, the rest from Eurostat. The elaboration of these panel data is made feasible by means of the Eviews software package.</jats:p>",
+        "DOI": "10.2139/ssrn.2250761",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Health Expenditure and Economic Growth: A Worldwide Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Miltiades N.",
+            "family": "Georgiou",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.2250761",
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-658-14598-9_4",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Data: The sub-study Adult Education and Lifelong Learning of the National Educational Panel Study"
+        ],
+        "author": [
+          {
+            "given": "Sophie",
+            "family": "Hahn",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "The Risk of Downward Mobility in Educational Attainment"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-3-658-14598-9_4",
+        "published": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Based on 2008-2010 Susenas panel data, this study analyzes expenditure inequality in Indonesia from spatial perspectives by using several inequality decomposition methods: decomposition of the Theil indices by population subgroups; decomposition of the Gini coefficient by expenditure components; and the Blinder-Oaxaca decomposition. In the Theil decomposition, this study employs not only the conventional approach but also an alternative approach proposed by Elbers and others (2008). Our results show that a substantial portion of expenditure inequality is attributed to inequalities within urban and rural sectors. According to the alternative approach, however, the contribution of between-sector inequality increases conspicuously, suggesting that there are notable differences in the distribution of per capita household expenditures between the urban and rural sectors. Educational differences appear to have played an important role in urban inequality as well as urban-rural disparity. For both urban and rural households, expenditures on non-food items, including expenditure on education, serve to have increased total inequality.</jats:p>",
+        "DOI": "10.2139/ssrn.2189150",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Spatial Dimensions of Expenditure Inequality and the Role of Education in Indonesia: An Analysis of the 2008-2010 Susenas Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Mitsuhiro",
+            "family": "Hayashi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mitsuhiko",
+            "family": "Kataoka",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Takahiro",
+            "family": "Akita",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.2189150",
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5727222",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Nexus Between Public Education Expenditure, Educational Attainment, and Youth Unemployment in Bangladesh: Empirical Evidence from an ARDL Approach"
+        ],
+        "author": [
+          {
+            "given": "Tanny",
+            "family": "Das",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shamsujjaman",
+            "family": "Raju",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5727222",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.7759/s44404-026-00352-1",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "&lt;p&gt;Digital Readiness and Public Education Expenditure in the European Union: Evidence from Panel Data&lt;/p&gt;"
+        ],
+        "author": [
+          {
+            "given": "Xhuljeta",
+            "family": "Meçaj",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Cureus Journal of Business and Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.7759/s44404-026-00352-1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              15
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Educational equity serves as the cornerstone for building a powerful nation in education. Focusing on the foundational stage of compulsory education, this study comprehensively analyzes the inter-provincial disparities, spatio-temporal dynamic distributions, and equity characteristics of per-student public budgetary expenditure in primary education across 31 provinces in China from 2021 to 2025. By employing statistical methods such as the range, Gini coefficient, and Lorenz curve, the study reveals several key findings. First, during the research period, although the total funding for primary education in China experienced continuous growth, the spatial non-equilibrium of resource allocation remained prominent. The range of total inter-provincial fiscal investment exhibited an expanding trend, indicating that the regional agglomeration of incremental funds and the “Matthew effect” have not been fundamentally reversed. Second, leveraging its robust fiscal foundation and strong capacity to absorb social capital, the eastern region consistently occupied a high position in resource agglomeration, whereas the central and western regions (particularly the west) faced a rigid financing structure heavily dependent on central transfer payments. Furthermore, a significant “center-periphery” disparity was observed within the eastern region itself. Third, the Gini coefficient of per-student public budgetary expenditure in primary education demonstrated an “initially decreasing and subsequently increasing” fluctuating trend, with values in all years far exceeding the relatively equitable interval of 0.2-0.3. This highlights profound spatial inequalities and resource dislocations. On this basis, this paper proposes policy recommendations. These include optimizing the structure of transfer payments to implement “precision irrigation”, advancing the standardized construction of urban-rural integration, and deepening the “county-managed and school-hired” system for cross-regional teacher sharing. Additionally, it suggests constructing digital governance and dynamic adjustment mechanisms, and innovating diversified financing channels to leverage social capital. These recommendations aim to provide empirical evidence and policy references for the high-quality and balanced development of compulsory education in China.</jats:p>",
+        "DOI": "10.71052/grb2025/izke7403",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Inter-provincial Disparities in Public Expenditure on Primary Education in China: Evidence from Panel Data of 31 Provinces (2021-2025)"
+        ],
+        "author": [
+          {
+            "given": "Ya-nan",
+            "family": "Jin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Faculty of Education, East China Normal University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Global Education Bulletin"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.71052/grb2025/izke7403",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2991/hsmet-19.2019.61",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Education Input, Social Security Expenditure and Urban-rural Income Gap--Based on Empirical Study with Provincial Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Yuan",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yingjun",
+            "family": "Huang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "container-title": [
+          "Proceedings of the 4th International Conference on Humanities Science, Management and Education Technology (HSMET 2019)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2991/hsmet-19.2019.61",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study examines South Korean household food demand across the pre-pandemic, restriction, and recovery phases using a Quadratic Almost Ideal Demand System with Shonkwiler-Yen censoring correction. Unlike nationwide lockdowns, South Korea's strict operational limits on restaurants provide a unique setting to isolate policy effects on food spending. Our results indicate that households systematically reallocated their budgets from food-away-from-home to food-at-home in response to shifts in regulatory intensity. Notably, the recovery period triggered a significant rebound in consumption, with spending patterns returning to baseline once restrictions were lifted. These findings demonstrate how asymmetric containment policies can structurally reshape household food demand.</jats:p>",
+        "DOI": "10.2139/ssrn.6856079",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "COVID-19 Containment Policies and Household Food Expenditure Structure: Evidence from Korean Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Sanguk",
+            "family": "Kwon",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2679-7551",
+            "authenticated-orcid": true,
+            "given": "Joonhong",
+            "family": "Ahn",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6856079",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>In this study, we tried to see the impact of military expenditure and foreign aid on foreign direct investment in Sub-Saharan Africa using a panel data analysis. Based on the results obtained from the fixed effect estimation model, Net Official Development Assistance (ODA) can increase the inflow of foreign direct investment in Sub-Saharan African countries. Military expenditure can also increase the inflow of FDI. The result from the estimation is aligned with the argument of some researchers (like Anyanwu (2012) and Jakobsen (2010)) that foreign aid and military expenditure can increase the inflow of foreign direct investment to developing countries, including Sub-Saharan African countries.</jats:p>",
+        "DOI": "10.2139/ssrn.3689786",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Foreign Direct Investment, Military Expenditure and Foreign Aid in Sub-Saharan Africa (Panel Data Analysis)"
+        ],
+        "author": [
+          {
+            "given": "Migbaru Alamirew",
+            "family": "Workneh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.3689786",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper reconsiders the long-run economic relationship between health care expenditure and income using a panel of 20 OECD countries observed over the period 1971-2004. In particular, the paper studies the non-stationarity and cointegration properties between health care spending and income. This is done in a panel data context controlling for both cross-section dependence and unobserved heterogeneity. Cross-section dependence is modelled through a common factor model and through spatial dependence. Heterogeneity is handled through fixed effects in a panel homogeneous model and through a panel heterogeneous model. Our findings suggest that health care is a necessity rather than a luxury, with an elasticity much smaller than that estimated in previous studies.</jats:p>",
+        "DOI": "10.2139/ssrn.1584182",
+        "type": "posted-content",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Health Care Expenditure and Income in the OECD Reconsidered: Evidence from Panel Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0469-4479",
+            "authenticated-orcid": true,
+            "given": "Badi H.",
+            "family": "Baltagi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francesco",
+            "family": "Moscone",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1584182",
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2991/icsste-15.2015.29",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Current Situation and Problems of Expenditure of public safety —Based on the Provincial Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Cao",
+            "family": "Yongsheng",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Social Science, Education and Humanities Research",
+          "Proceedings of the 2015 International Conference on Social Science and Technology Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2991/icsste-15.2015.29",
+        "published": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781526474865",
+        "type": "book",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Learn About Levene’s Test in R With Data From Medical Expenditure Panel Survey (2014)"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Shi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "name": "The Odum Institute",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4135/9781526474865",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p xml:lang=\"tr\">Purpose –The objective of this study is to identify the main factors affecting pharmaceutical expenditures in the Organization for Economic Cooperation and Development (OECD) countries.Design/methodology/approach –In this study, it was investigated whether the university graduate rate(UNI), the unemployment rate(UNEMP), gross domestic productper capita (GDP) in Purchasing Power Parity (PPP $),and the number of physicians per 1,000 people (PHY) affected per capita pharmaceutical expenditures (PHAR)(PPP $) by using panel data analysis. The population of the study was 33 OECD countries whose data were available. The data consisted of the time period of 2013-2016. Results –GDP and UNIstatistically significantly increased PHAR (p&lt;0.05). The UNEMPand PHYalso increased PHAR, but the effects of these variables were not found to be statistically significant (p&gt;0.05). The variables included in the model explained 22% of the variance in PHAR.Conclusion –PHAR are  affected  by  economic  factors  and  sociodemographic  factors  as  well  as  health systems' structure. Therefore, governments wishing to control pharmaceutical expenditures should also focus on these variables.</jats:p>",
+        "DOI": "10.20491/isarder.2023.1720",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Determinants of Pharmaceutical Expenditure in OECD Countries: Evidence from Panel Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7185-1660",
+            "authenticated-orcid": true,
+            "given": "Hasan",
+            "family": "Bağcı",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Business Research - Turk"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.20491/isarder.2023.1720",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781526474827",
+        "type": "book",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Learn About Bartlett’s Test in R With Data From the Medical Expenditure Panel Survey (2014)"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Shi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "name": "The Odum Institute",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4135/9781526474827",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study examines the relationship between education and the choice to become self-employed using Panel Study of Income Dynamics data.  It finds that educational attainment is an important determinant of self-employment.  Goods-producing entrepreneurs tend to be in construction, whereas service-producing industries with a greater presence of the self-employed are in the \"soft\" service sectors.  Multivariate logit regressions show that heads of household with post-baccalaureate experience are up to 8.3 percent more likely to be self-employed.  Other characteristics include wealth (home ownership or the value of one's home), prior military service, age, marital status, race, Internet usage, and population size.</jats:p>",
+        "DOI": "10.2139/ssrn.1070835",
+        "type": "posted-content",
+        "is-referenced-by-count": 11,
+        "title": [
+          "Educational Attainment and Other Characteristics of the Self-Employed: An Examination Using Data from the Panel Study of Income Dynamics"
+        ],
+        "author": [
+          {
+            "given": "Chad M.",
+            "family": "Moutray",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1070835",
+        "published": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.17576/jem-2022-5603-02",
+        "type": "journal-article",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Structural Transformation, Income Inequality and Government Expenditure: Evidence from International Panel Data"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Jurnal Ekonomi Malaysia"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.17576/jem-2022-5603-02",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>This paper revisits the relationship between health expenditure and life expectancy by distinguishing between cross-country moderation patterns and within-country temporal evidence. Using cross-sectional data for 111 countries in 2019 alongside two-way fixed effects panel models covering 2010–2019 with one-year lagged covariates, the study examines whether adult literacy and electricity access moderate the health expenditure–longevity association. In cross-sectional data, the association between health expenditure and life expectancy is more pronounced in countries with higher literacy and greater electricity access, consistent with a complementarity hypothesis. These interaction patterns are not recovered with statistical precision in within-country fixed effects models. Adult literacy and electricity access remain positively associated with within-country changes in life expectancy, but the health expenditure coefficient is imprecise in the panel setting, reflecting limited within-country annual variation in spending after absorbing country fixed effects. The findings are more consistent with a structural and long-run interpretation of these complementarities than with a short-run within-country dynamic, while also highlighting the limits of short-panel identification for slow-moving national characteristics.</p>",
+        "DOI": "10.31235/osf.io/yr8bk_v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Health Expenditure and Life Expectancy: Cross-Country Panel Evidence on the Moderating Role of Education and Infrastructure"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-0347-0499",
+            "authenticated-orcid": true,
+            "given": "Daramola Joseph",
+            "family": "Omoyele",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.31235/osf.io/yr8bk_v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781526474810",
+        "type": "book",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Learn About Cronbach’s Alpha in SPSS With Data From the Medical Expenditure Panel Survey (2014)"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Shi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "name": "The Odum Institute",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4135/9781526474810",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.iref.2026.105800",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Non-tax revenue and education expenditure: Evidence from provincial panel data in China"
+        ],
+        "author": [
+          {
+            "given": "Cao",
+            "family": "Yang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wang",
+            "family": "Xiaoqi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ren",
+            "family": "Xihe",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Review of Economics &amp; Finance"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.iref.2026.105800",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              16
+            ]
+          ]
+        },
+        "DOI": "10.12973/eurasia.2017.00995a",
+        "type": "journal-article",
+        "is-referenced-by-count": 16,
+        "title": [
+          "Performance of Financial Expenditure in China's basic science and math education: Panel Data Analysis Based on CCR Model and BBC Model"
+        ],
+        "author": [
+          {
+            "given": "Hua-Yun",
+            "family": "Qiao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lin-Bo",
+            "family": "Si",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "EURASIA Journal of Mathematics, Science and Technology Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.12973/eurasia.2017.00995a",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.24987/snuacar.2016.08.6.1.73",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Corruption and Military Expenditure : Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Jae-Hyung",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Asia Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.24987/snuacar.2016.08.6.1.73",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.2185443",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Ageing and Health Expenditure: A Panel Data Analysis and Discussion on Industrial Countries"
+        ],
+        "author": [
+          {
+            "given": "Miltiades N.",
+            "family": "Georgiou",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSRN Electronic Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.2185443",
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.6007/ijarbss/v9-i9/6314",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Effect of Education Sector Expenditure on Economic Growth in Arab Spring Countries: A Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Mustafa S",
+            "family": "Almajdob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dayang Affizah Awang",
+            "family": "Marikan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Academic Research in Business and Social Sciences"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.6007/ijarbss/v9-i9/6314",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2002,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1016/s0264-9993(01)00064-5",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Latent total consumption expenditure, unobservable individual preferences and panel data"
+        ],
+        "author": [
+          {
+            "given": "Yu",
+            "family": "Zhu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economic Modelling"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2002,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/s0264-9993(01)00064-5",
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1007/s43621-024-00498-7",
+        "type": "journal-article",
+        "is-referenced-by-count": 9,
+        "title": [
+          "Impact of natural disasters on educational attainment in India:  a panel data analysis"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7310-2065",
+            "authenticated-orcid": false,
+            "given": "Yasser Razak",
+            "family": "Hussain",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9999-4938",
+            "authenticated-orcid": false,
+            "given": "Pranab",
+            "family": "Mukhopadhyay",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Discover Sustainability"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s43621-024-00498-7",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study examines the relationship between public expenditure on education and economic growth across sixteen Latin American countries over the period 2000–2022, using a balanced-to-unbalanced macro panel drawn entirely from the World Bank's World Development Indicators. Motivated by the long-standing \"Latin American growth puzzle\", in which the region's early advantage in schooling failed to translate into sustained economic convergence, the analysis estimates pooled, fixed-effects, and random-effects specifications of an augmented growth model, and probes the temporal structure of the education–growth link through distributed-lag estimation. A Hausman test marginally favours the random-effects estimator, under which education expenditure is positively and significantly associated with the log of GDP per capita, with the association strongest at a lag of one to two years (coefficients of roughly 0.06–0.065, significant at the 1% level). Under the more demanding two-way fixed-effects estimator, however, the coefficient shrinks toward zero and loses conventional significance, becoming only marginally significant once Driscoll–Kraay standard errors are used to accommodate the pronounced cross-sectional dependence detected in the residuals. The evidence therefore points to a fragile and estimator-sensitive positive relationship rather than a robust growth dividend from educational spending alone. These findings are consistent with a body of Latin American research that emphasises the effectiveness, rather than the mere volume, of educational investment (Arias Ortiz et al., 2023; Hanushek, 2013), and they caution against treating higher education budgets as a sufficient instrument for growth in the absence of complementary improvements in the quality and institutional efficiency of spending.</jats:p>",
+        "DOI": "10.64391/ijssat.v2i2.005",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Public Education Expenditure and Economic Growth in Latin America: A Panel Data Analysis of Contemporaneous and Lagged Effects, 2000–2022"
+        ],
+        "author": [
+          {
+            "given": "Mateo Restrepo",
+            "family": "Benavides",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Social Science and Applied Technology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.64391/ijssat.v2i2.005",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              6
+            ]
+          ]
+        },
+        "abstract": "<jats:sec><jats:title content-type=\"abstract-subheading\">Purpose</jats:title><jats:p>The purpose of this paper is to examine the nexus among public expenditure allocated to education, educational attainment at secondary level and unemployment rate in India for the period 1987–2017.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title><jats:p>The study employs autoregressive distributed lags (ARDL) bound testing approach suggested by Pesaran<jats:italic>et al.</jats:italic>(2001) to find the long-run relationship among the variables. The causal linkages are investigated through block exogeneity test based on vector error correction model.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Findings</jats:title><jats:p>The empirical results indicate that educational attainment proxied by gross enrolment ratio at secondary level of education negatively affects unemployment rate in long run as well as in short run. However, public expenditure on education is ineffective in influencing both educational attainment and unemployment rate.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Originality/value</jats:title><jats:p>The study is the first empirical effort to identify the causal nexus among public expenditure on education, educational attainment and unemployment in the context of India.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Peer review</jats:title><jats:p>The peer review history for this article is available at:<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"url\" specific-use=\"related-article-aggregated-review-documents\" xlink:href=\"https://publons.com/publon/10.1108/IJSE-06-2019-0396\">https://publons.com/publon/10.1108/IJSE-06-2019-0396</jats:ext-link></jats:p></jats:sec>",
+        "DOI": "10.1108/ijse-06-2019-0396",
+        "type": "journal-article",
+        "is-referenced-by-count": 16,
+        "title": [
+          "Public expenditure on education, educational attainment and unemployment nexus in India: an empirical investigation"
+        ],
+        "author": [
+          {
+            "given": "Deepti",
+            "family": "Singh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shruti",
+            "family": "Shastri",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Social Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1108/ijse-06-2019-0396",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781412953948.n285",
+        "type": "reference-entry",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Medical Expenditure Panel Survey"
+        ],
+        "container-title": [
+          "Encyclopedia of Epidemiology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4135/9781412953948.n285",
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781526474834",
+        "type": "book",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Learn to Use the Kruskal–Wallis Test in SPSS With Data From the Medical Expenditure Panel Survey (2014)"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Shi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "name": "The Odum Institute",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4135/9781526474834",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The residential sector has the potential to significantly impact overall energy consumption and emissions due to the long lifespan of residential buildings and the difficulty of outsourcing residential emissions to other nations. This research primarily aimed to investigate the impact of government expenditure on environmental protection in reducing household energy consumption, thus contributing to Canada’s environmental quality. We utilized panel data from ten Canadian provinces covering the period from 1995 to 2020. To estimate household energy demand, both conceptual and empirical models were developed. Advanced second-generation econometric techniques were applied, including appropriate unit root and co-integration tests. Long-term relationships were analyzed using the fully modified ordinary least squares (FMOLS) and dynamic ordinary least squares (DOLS) methodologies. The long-term estimates indicate that all explanatory variables align with theoretical expectations and are highly significant. The findings reveal that government funding for environmental protection, along with province-specific environmental policies, contributes to reducing per capita residential energy consumption, which is essential for enhancing energy efficiency. Additionally, factors such as weather, income, demographic shifts, and energy prices are found to influence household energy consumption trends. These outcomes highlight the importance of increased government funding for environmental protection and underscore the need for provinces to implement context-specific environmental policies. This approach is essential in the effort to reduce household energy consumption across Canada.</jats:p>",
+        "DOI": "10.3390/su17136102",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Does Government Environmental Expenditure Reduce Residential Energy Consumption in Canada? Evidence from Provincial Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Belayet",
+            "family": "Hossain",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Economics, Bob Gaglardi School of Business and Economics, Thompson Rivers University, Kamloops, BC V2C 0C8, Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Sustainability"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.3390/su17136102",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.4337/9781845424558.00023",
+        "type": "book-chapter",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Defense Expenditure and Economic Growth: Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Rati",
+            "family": "Ram",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "The Elgar Companion to Public Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4337/9781845424558.00023",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4389168",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Public Health Expenditure and Under-Five Mortality in Low-Income Sub-Saharan African Countries: A Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Fidelis  Issah",
+            "family": "AYIPE",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mohammed",
+            "family": "Tanko",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4389168",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Public education expenditure is the largest public expenditure and the foundation of education development in China. This paper uses Cobb-Douglas production function model to analyze the relationship between public education expenditure and China's economic growth, and explores the impact of the proportion of public education expenditure in primary, secondary and tertiary education expenditure on economic growth. The results show that public education expenditure has a positive effect on economic growth, and that secondary education accounts for the largest contribution to economic growth, followed by higher education and primary education. The research results suggest that China should increase financial investment in education and optimize the expenditure structure of three-level education.</jats:p>",
+        "DOI": "10.30574/wjarr.2021.11.2.0376",
+        "type": "journal-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Public education expenditure and economic growth: based on panel data from 2009 to 2019 in China"
+        ],
+        "author": [
+          {
+            "family": "Yao Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "family": "Ziru Tan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "family": "Xiaohua Ning",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "World Journal of Advanced Research and Reviews"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.30574/wjarr.2021.11.2.0376",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1080/23322039.2026.2631192",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The role of higher education attainment and graduate college majors in shaping employment status in Ethiopia: evidence from pooled cross-sectional and pseudo-panel data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7880-4082",
+            "authenticated-orcid": false,
+            "given": "Habtamu",
+            "family": "Kefelegn",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Economics, College of Business and Economics, Bahir Dar University",
+                "place": [
+                  "Bahir Dar, Ethiopia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Assefa",
+            "family": "Admassie",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Economics, College of Business and Economics, Addis Ababa University",
+                "place": [
+                  "Addis Ababa, Ethiopia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Netsanet",
+            "family": "Getahun",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Economics, College of Business and Economics, Bahir Dar University",
+                "place": [
+                  "Bahir Dar, Ethiopia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Cogent Economics &amp; Finance"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/23322039.2026.2631192",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4277240",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Health Care Expenditure and Income in Canada: Evidence from Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Zuzana",
+            "family": "Janko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Venoo",
+            "family": "Kakar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Alexis",
+            "family": "Rivera-Andrade",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSRN Electronic Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4277240",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.1807230",
+        "type": "journal-article",
+        "is-referenced-by-count": 20,
+        "title": [
+          "Health Care Expenditure and Income in the OECD Reconsidered: Evidence from Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Badi H.",
+            "family": "Baltagi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francesco",
+            "family": "Moscone",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSRN Electronic Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1807230",
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              2
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This article estimates the effects of school expenditure on school performance at Key Stage 4 in England, over the period 2003–07 during which real per pupil expenditure increased rapidly. It adds to previous investigations by using dynamic panel analysis to: exploit time series data on individual schools that only recently has become available; adjust for the potential endogeneity not only of expenditure but also of other determinants of performance; and differentiate the short‐run and the (higher) long‐run attainment effects of spending changes. Consistent with other recent work, the article reports a generally significant but small effect of expenditure on school performance, but it also finds that the effect varies between specialist and non‐specialist schools, with the effect on the latter being larger. Further, the article identifies significant dynamics in the school improvement process, quantifies the long‐run effect of expenditure changes, suggests that spending effects increase with socio‐economic disadvantage, and quantifies absence effects.</jats:p>",
+        "DOI": "10.1080/01411920903452563",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Do increased resources increase educational attainment during a period of rising expenditure? Evidence from English secondary schools using a dynamic panel analysis"
+        ],
+        "author": [
+          {
+            "given": "Geoff",
+            "family": "Pugh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jean",
+            "family": "Mangan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "John",
+            "family": "Gray",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "British Educational Research Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/01411920903452563",
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.econmod.2010.02.006",
+        "type": "journal-article",
+        "is-referenced-by-count": 14,
+        "title": [
+          "Health expenditure models: A comparison using panel data"
+        ],
+        "author": [
+          {
+            "given": "Valerie",
+            "family": "Albouy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Laurent",
+            "family": "Davezies",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Thierry",
+            "family": "Debrand",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economic Modelling"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.econmod.2010.02.006",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              7
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,2306 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1700508,
+    "items": [
+      {
+        "abstract": "<jats:p>&lt;p&gt;&lt;span&gt;&lt;a href=\"https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data\" rel=\"nofollow\"&gt;https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</jats:p>",
+        "DOI": "10.2139/ssrn.6731360",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impact of Natural Disasters on Educational Attainment: Cross Country Evidence from Macro Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3216-7580",
+            "authenticated-orcid": true,
+            "given": "Lois",
+            "family": "Onigbinde Jacob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6731360",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Do natural disasters impact educational attainment? Education as a paramount factor of economic development suffers from the uncontrollable effects of these increasing events from storms to floods, earthquakes to wildfires. Globally, educational resources are destroyed, directly and indirectly, students and teachers are displaced or killed, and parents’ income is affected because of natural disasters. Investments in human capital for rich- and low-income countries are exposed to the uneven impact of natural disasters that adjust household and country-level decisions, leaving them to short and long-run losses. Exploring the influence of natural disasters on secondary school attainment across a sample of 85 countries from 1960 to 1990, we employ a panel data set from the Emergency Events dataset and Barro-Lee dataset. Using year and country-fixed effects, the data shows that the intensity of deaths from natural disasters has a greater effect on secondary school attainment than the intensity of damages from these disasters. Data also suggests that damages per capita have a slightly significant effect on the secondary school repetition rate. Psychological and behavioral effects caused by deaths from disasters lead to disinvestments in human capital and these degenerate into long-term effects on economic development. Consequently, while natural disasters cannot be averted, their damages can be curtailed, therefore, it is crucial to inform policies that drive countries to a conscientious effort for high-performance social intervention programs; and motivate an urgency for climate change conversation.</jats:p>",
+        "DOI": "10.2139/ssrn.4594252",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impacts of Natural Disasters on Educational Attainment: Cross-Country Evidence from Macro Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3216-7580",
+            "authenticated-orcid": true,
+            "given": "Lois",
+            "family": "Onigbinde Jacob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4594252",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4540678",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the Skill Composition of Trade Drive Educational Attainment? A Cross-Country Panel Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4540678",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5226641",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the Skill Composition of Trade Drive Educational Attainment? A Cross-Country Panel Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5226641",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.euroecorev.2026.105284",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the skill composition of trade drive educational attainment? A cross-country panel analysis"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3938-5959",
+            "authenticated-orcid": false,
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "European Economic Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.euroecorev.2026.105284",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.econedurev.2006.09.003",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Educational attainment and HIV/AIDS prevalence: A cross-country study"
+        ],
+        "author": [
+          {
+            "given": "Manisha",
+            "family": "Lakhanpal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rati",
+            "family": "Ram",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economics of Education Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.econedurev.2006.09.003",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10887-010-9055-9",
+        "type": "journal-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "Cross-country variation in educational attainment: structural change or within-industry skill upgrading?"
+        ],
+        "author": [
+          {
+            "given": "Lutz",
+            "family": "Hendricks",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Economic Growth"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s10887-010-9055-9",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1007/s12110-010-9092-2",
+        "type": "journal-article",
+        "is-referenced-by-count": 39,
+        "title": [
+          "Examining the Relationship between Life Expectancy, Reproduction, and Educational Attainment"
+        ],
+        "author": [
+          {
+            "given": "Nicola L.",
+            "family": "Bulled",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard",
+            "family": "Sosis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Human Nature"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s12110-010-9092-2",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.20955/wp.2010.021",
+        "type": "report",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cross-country Income Convergence Revisited"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3288-8396",
+            "authenticated-orcid": false,
+            "given": "Riccardo",
+            "family": "DiCecio",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Levon",
+            "family": "Barseghyan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.20955/wp.2010.021",
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1007/s42495-022-00081-w",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Effects of adult mortality rate on educational attainment: empirical analysis using cross-country panel data"
+        ],
+        "author": [
+          {
+            "given": "Koji",
+            "family": "Yasuda",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5840-5076",
+            "authenticated-orcid": false,
+            "given": "Tomoko",
+            "family": "Kinugasa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Economic Policy Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s42495-022-00081-w",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4123679",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Mass Incarceration and Stopped Convergence in Black-White Educational Attainment"
+        ],
+        "author": [
+          {
+            "given": "Sitian",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSRN Electronic Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4123679",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>I describe the extent and structure of cross-border commuting in the EU 27 to show that this is important only in a small number of border regions with strong linguistic, historic or institutional ties. Cross-border commuters are mostly medium skilled, male manufacturing workers, who have higher over- but lower under-education rates than non-commuters, internal commuters and established migrants. These findings can mostly be attributed to cross-border commuters from the 12 new EU member countries. Cross-border commuters from the EU 15 have higher under- and lower over-education rates than non-commuters.</jats:p>",
+        "DOI": "10.2139/ssrn.1878331",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Educational Attainment and Education-Job Mismatch of Cross-Border Commuters in the EU"
+        ],
+        "author": [
+          {
+            "given": "Peter",
+            "family": "Huber",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1878331",
+        "published": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>We model schooling as a sequential process and examine why some children are left behind. We focus on the factors that explain selection at early stages of the education system. Our findings for Uruguay suggest that long-term factors, such as parental background or ethnicity matter across all education stages while the effect of short-term factors, such as family income, wear out as individuals progress in the education system, suggesting a severe selection process at early stages.</jats:p>",
+        "DOI": "10.2139/ssrn.3390106",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Selection and Educational Attainment: Why Some Children are Left Behind? Evidence from a Middle-Income Country"
+        ],
+        "author": [
+          {
+            "given": "Luciana",
+            "family": "Méndez-Errico",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1947-4057",
+            "authenticated-orcid": true,
+            "given": "Xavier",
+            "family": "Ramos",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.3390106",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Introduction</jats:title><jats:p>Educational attainment is associated with important life outcomes including labour market performance, health status, well‐being, civic and political participation. An important question is whether it is possible to identify early those students who lack the achievement motivation that is needed to complete a higher education degree.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Longitudinal follow‐ups of representative samples of participants in the 2000 and 2003 Programme for International Student Assessment (PISA) from Australia, Denmark and Switzerland (N = 3110; 1130; and 1962; age = 15 to 27; % females 51%, 51%, 49%; ethnicity/race unknown) were used to identify the association between a measure of effort on a cognitively demanding low‐stake task at age 15 – performance decline during the test – and educational attainment at age 25–27.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>A one SD difference in performance decline was associated with a 5–6 percentage point difference in the probability of obtaining tertiary‐level qualifications (<jats:italic>r</jats:italic> = −0.15 in Australia; −0.11 in Denmark and −0.11 in Switzerland). We find no evidence of differences in this relationship across genders, socio‐economic status and baseline levels of ability in the three countries. The association between performance decline and educational attainment is homogeneous across these groups. Self‐reported measures of achievement motivation were not predictive of educational attainment in the three countries.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Our work contributes new longitudinal evidence to the body of research in education employing behavioural measures of motivation and engagement. It can be used to understand the potential long‐term consequences of disparities in students' preparation to sustain effort over cognitively demanding tasks.</jats:p></jats:sec>",
+        "DOI": "10.1016/j.adolescence.2021.08.011",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Performance decline in a low‐stakes test at age 15 and educational attainment at age 25: Cross‐country longitudinal evidence"
+        ],
+        "author": [
+          {
+            "given": "F.",
+            "family": "Borgonovi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Social Research Institute Institute of Education University College London United Kingdom"
+              },
+              {
+                "name": "Organisation for Economic Cooperation and Development France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "A.",
+            "family": "Ferrara",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "European University Institute Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Piacentini",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Organisation for Economic Cooperation and Development France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Adolescence"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              3
+            ]
+          ]
+        },
+        "abstract": "<jats:p> Integration of the global economy through trade has enabled firms to adopt new production strategies. Rather than producing in a single country, stages of production are performed in multiple countries to exploit inherent locational advantages. This practice gives rise to vertical specialization across national boundaries. Here, the U.S. exports components to a foreign (host) country that uses them to produce a product that is returned to the U.S. or is exported to other countries. This paper investigates the relationship between host country educational attainment and the extent of vertical specialization. Despite the general finding that educational attainment exerts a decreasingly negative effect on such activity in host countries, a detailed analysis suggests there may be a positive relationship between educational attainment and vertical specialization over some parts of the educational attainment scale. A country can become more attractive as a production location when its workforce is educated. </jats:p>",
+        "DOI": "10.2202/1524-5861.1317",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Host Country Educational Attainment and Vertical Specialization"
+        ],
+        "author": [
+          {
+            "given": "Don P.",
+            "family": "Clark",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Tennessee"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Global Economy Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2202/1524-5861.1317",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.1648857",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cross-Country Income Convergence Revisited"
+        ],
+        "author": [
+          {
+            "given": "Levon",
+            "family": "Barseghyan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Riccardo",
+            "family": "DiCecio",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSRN Electronic Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1648857",
+        "published": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Can we associate globalization with converging productivity levels of different countries? Are the developing countries catching up? This paper provides answers to these questions by studying unconditional beta-convergence and sigma-convergence of labor productivity with the Penn World Table 9.1 dataset. beta-convergence exists if a smaller initial level of an economic measure is related with a larger growth rate of this measure, whereas sigma-convergence exists if the standard deviation of the levels of an economic measure decreases over time. I utilize standard beta and sigma tests. Additionally, I test sigma-convergence with the new test proposed by Kong, Phillips and Sul (2019). Furthermore, I propose a similar time series based approach to test sigma-convergence that provides future information about the underlying process. The tests support unconditional convergence in the country groups of OECD, EU, APEC, Europe and Asia. Contrary to the current belief, that the income gap between rich and poor countries is not closing, I find unconditional sigma-convergence in a group that excludes only African countries. More so, even the group of all countries is converging from on the year 2000.</jats:p>",
+        "DOI": "10.2139/ssrn.3468423",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cross-Country Convergence: To Be or Not to Be, That Is the Question"
+        ],
+        "author": [
+          {
+            "given": "Sakari",
+            "family": "Lähdemäki",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.3468423",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ijedudev.2022.102722",
+        "type": "journal-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "The attainment of gender education equality: A preliminary assessment of country performance in sub-Saharan Africa"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0096-3141",
+            "authenticated-orcid": false,
+            "given": "Paul",
+            "family": "Bennell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Educational Development"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ijedudev.2022.102722",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper studies the impact of teachers training on primary and secondary school enrollment in a least developed country (LDC) Nepal, where a large portion of population are living below the poverty line. In this study a time series dataset based on World Development Indicators of the past fifty years and Nepal Government’s data is used. The analysis has found that trained primary teachers’ portion does have a statistically significant impact on primary and secondary school enrollment. Besides, a number of control variables are analyzed, in which unemployment and internet access have a statistically significant impact on school enrollment. In brief, the studies conclude that in Nepal, which is about to graduate from LDC to a developing country, trained primary teachers do have statistically significant impact on primary and secondary school enrollment, considering a set of control variables.</jats:p>",
+        "DOI": "10.54536/ajelps.v1i1.5183",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Determinants of Educational Attainment in Least Developed Country: Case of Nepal"
+        ],
+        "author": [
+          {
+            "given": "Sahanshila",
+            "family": "Pudasaini",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "American Journal of Educational Leadership &amp; Policy Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.54536/ajelps.v1i1.5183",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This study investigates native–migrant differences in engagement in post-school education. Using a longitudinal survey of youth in Australia, we find that immigrants originating from non-English-speaking countries are significantly more likely to continue with further study between the ages of 18 and 23 years. On the other hand, there are no significant differences between immigrants from English-speaking countries and native youth. We find several important factors influencing study decisions, including parents and family background, academic ability, aspirations and age at migration; however, accounting for these factors does not fully explain the higher probability of pursuing higher education for immigrants from non-English-speaking countries. Exploring the country of origin effect, we find that immigrants from countries with low tertiary education levels are more likely to study in Australia, while differences in parental attitudes in their origin countries do not have a significant effect. The results show the importance of country of origin on the study decisions of youth, underlining the impact of migration settings on education of next generation.</jats:p>",
+        "DOI": "10.1093/migration/mnz008",
+        "type": "journal-article",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Differences in educational attainment by country of origin: Evidence from Australia"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0359-7477",
+            "authenticated-orcid": false,
+            "given": "Jaai",
+            "family": "Parasnis",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jemma",
+            "family": "Swan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Migration Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/migration/mnz008",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper investigates the influence of women's participation in politics on decision making. I take public educational expenditures as the outcome of interest. The results suggest that an increase by one percentage point in the share of female legislators increases by 0.034 percentage points the ratio of educational expenditures to GDP. Moreover, one percentage point increases in the fraction of female legislators would lead to an estimated 0.54% rise in educational expenditures per capita. The positive effect of female legislators on educational policies is strengthened by forms of government. This study also supports the hypothesis that the identity of legislator matters for policy.</jats:p>",
+        "DOI": "10.2139/ssrn.1117552",
+        "type": "posted-content",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Female Policymakers and Educational Expenditures: Cross-Country Evidence"
+        ],
+        "author": [
+          {
+            "given": "Li-Ju",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1117552",
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper examines differences in educational achievement between immigrants andnatives in ten countries with a high population of immigrant pupils: Australia, Canada, France,Germany, the Netherlands, New Zealand, Sweden, Switzerland, the UK and the USA. Thefirst step of the analysis shows how far countries differ regarding immigrants educationaldisadvantage. In a second step, the paper compares immigrants characteristics acrosscountries focusing predominantly on socioeconomic status, language proficiency, immigrantstime spent in the host country and patterns of school segregation. Using a regressionframework the last step of the analysis investigates how far these determinants ofeducational achievement can explain immigrants educational disadvantage in the countriesexamined. The paper evaluates whether results found are robust across different sources ofachievement data: the Trends in International Maths and Science Study (TIMSS), theProgramme of International Student Assessment (PISA) and the Programme of InternationalReading Literacy Study (PIRLS).</jats:p>",
+        "DOI": "10.2139/ssrn.621062",
+        "type": "posted-content",
+        "is-referenced-by-count": 29,
+        "title": [
+          "How Different are Immigrants? A Cross-Country and Cross-Survey Analysis of Educational Achievement"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0768-5682",
+            "authenticated-orcid": true,
+            "given": "Sylke V.",
+            "family": "Schnepf",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.621062",
+        "published": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1007/s00712-019-00682-8",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Exploring the robustness of country rankings by educational attainment"
+        ],
+        "author": [
+          {
+            "given": "Carsten",
+            "family": "Schroeder",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shlomo",
+            "family": "Yitzhaki",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s00712-019-00682-8",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.4324/9780203325100-16",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Economic integration and cross-country convergence: exercises in growth theory and empirics"
+        ],
+        "container-title": [
+          "Inequality and Economic Integration"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4324/9780203325100-16",
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/13545701.2016.1198044",
+        "type": "journal-article",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Gender Empowerment and Educational Attainment of US Immigrants and Their Home-Country Counterparts"
+        ],
+        "author": [
+          {
+            "given": "Yunsun",
+            "family": "Huh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Feminist Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/13545701.2016.1198044",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.21125/edulearn.2019.0185",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "EXPOSURE TO TRAUMATIC EVENTS AND PTSD AMONG UNDERGRADUATE STUDENTS IN A DEVELOPING COUNTRY: POTENTIAL IMPACT ON EDUCATIONAL ATTAINMENT"
+        ],
+        "author": [
+          {
+            "given": "Anita",
+            "family": "Padmanabhanunni",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "EDULEARN Proceedings",
+          "EDULEARN19 Proceedings"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21125/edulearn.2019.0185",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.inteco.2020.06.002",
+        "type": "journal-article",
+        "is-referenced-by-count": 8,
+        "title": [
+          "Cross-country convergence in global value chains: Evidence from club convergence analysis"
+        ],
+        "author": [
+          {
+            "given": "Bhushan Praveen",
+            "family": "Jangam",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Badri Narayan",
+            "family": "Rath",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.inteco.2020.06.002",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>This study empirically assessed the influence of educational inequality on national intelligence quotient (IQ) using aggregated data from 139 countries. This relationship was analyzed while controlling for components of the Human Development Index (mean and expected years of schooling, life expectancy at birth, gross national income per capita), and other inequity factors (inequality in income, gender, and life expectancy at birth). These results provide evidence that educational inequality is the strongest predictor of national IQ. The findings demonstrate that countries with greater educational and gender inequalities and lower gross national income have lower national IQ. The current results provide unique insight into the processes shaping national IQ by demonstrating novel and strong determinants, that is, educational inequality. These findings are discussed in the context of possible practical implications for reducing educational inequality with the aim of increasing national IQ.</p>",
+        "DOI": "10.31235/osf.io/r92xb",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Educational inequality predicts intelligence quotient: A cross-country analysis"
+        ],
+        "author": [
+          {
+            "given": "Radosław",
+            "family": "Trepanowski",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5697-892X",
+            "authenticated-orcid": true,
+            "given": "Dariusz",
+            "family": "Drążkowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              20
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.31235/osf.io/r92xb",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2002,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The paper examines the international inequality and convergence of educational attainment from 1960 to 1990. Despite the increasing trend in educational attainment, the gap in educational attainment between the developing countries and developed countries and that between males and females increased in the period. However, the relative dispersion of educational attainment—as measured by the coefficient of variation, the Gini coefficient, or the standard deviation of log average years of schooling—declined consistently during the period by either development or gender status. Decompositions of the Gini coefficient indicate that the development gap and the gender gap were the main components for world inequality in educational attainment in both 1960 and 1990. Educational attainment exhibited <jats:italic>b</jats:italic>‐ and <jats:italic>s</jats:italic>‐convergence over the period.</jats:p>",
+        "DOI": "10.1111/1467-9361.00162",
+        "type": "journal-article",
+        "is-referenced-by-count": 22,
+        "title": [
+          "International Inequality and Convergence in Educational Attainment, 1960–1990"
+        ],
+        "author": [
+          {
+            "given": "Junsen",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tianyou",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2002,
+              12,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Review of Development Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2002,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/1467-9361.00162",
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.econlet.2011.07.006",
+        "type": "journal-article",
+        "is-referenced-by-count": 14,
+        "title": [
+          "Cross-country income convergence revisited"
+        ],
+        "author": [
+          {
+            "given": "Levon",
+            "family": "Barseghyan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Riccardo",
+            "family": "DiCecio",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economics Letters"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.econlet.2011.07.006",
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>Digital infrastructure has become a fundamental foundation for educational development in the digital era. However, limited evidence is available regarding how different dimensions of digital infrastructure are associated with educational development across countries over time. This study investigates the relationship between digital infrastructure and expected years of schooling using panel data from 131 countries between 2020 and 2023. A total of 524 observations were obtained from Our World in Data. Three key dimensions of digital infrastructure—fixed broadband subscriptions, Internet usage, and secure Internet servers—were examined. Descriptive statistics, Pearson correlation analysis, and multiple linear regression models were employed to assess their associations with expected years of schooling, with GDP per capita included as a control variable. The results indicate that all three indicators are positively associated with expected years of schooling. However, the relationship between secure Internet servers and educational development is comparatively weaker than those of broadband subscriptions and Internet usage. The regression analysis further demonstrates that the inclusion of GDP per capita does not substantially alter the estimated coefficients, suggesting that the observed associations remain robust after controlling for national economic development. Overall, the findings provide cross-country evidence that improvements in digital infrastructure are associated with higher expected years of schooling and highlight the importance of continued investment in broadband infrastructure, Internet accessibility, and digital capacity to support educational development.</p>",
+        "DOI": "10.35542/osf.io/fdytm_v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-4066-8537",
+            "authenticated-orcid": true,
+            "given": "Puti",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.35542/osf.io/fdytm_v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This study uses scholarly migration data in which international moves are identified from changes in researchers’ country affiliations recorded in publication metadata. We compare 2013–2022 flows with five networks across 168 countries. Collaboration and trade are measured by coauthored publication counts and average annual merchandise trade values, respectively. Student mobility is represented by average annual overseas enrolment stocks, and general migration by mean migrant stocks for 2015 and 2020. Social connectedness is measured using the Social Connectedness Index, which normalizes Facebook friendship counts by the product of the two countries’ user counts. Four analyses use transformed, non-residualized data: dyadic association, communities, centrality, and structural equivalence. Dyadic and equivalence analyses also use residuals from joint adjustment for country effects, geography, language, and colonial ties. Under the main specification, collaboration has the highest point estimates in all four non-residualized analyses. Collaboration and student mobility lead adjusted dyadic rankings, but the 95% country resampling interval for their correlation difference includes zero; the hypothesized ordering is partly supported. Trade slightly exceeds collaboration in adjusted equivalence point estimates, with the ordering varying by specification and country sample. Social connectedness ranks higher for communities than for dyadic associations or centrality. After fitting background factors and comparison networks, 16.4% of total variation in transformed migration tie values remains. Both residual tails overrepresent common-language and colonial ties, with concentrations varying by tail width. These findings highlight strong alignment with academic networks in dyadic connections, while structural similarities depend on analytical level and adjustment.</jats:p>",
+        "DOI": "10.57199/jgcr.2026.5.3.577",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Alignment between Global Scholarly Migration and Cross-country Networks"
+        ],
+        "author": [
+          {
+            "name": "Global Convergence Research Academy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Si Hyung",
+            "family": "Joo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Global Convergence Research Academy"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.57199/jgcr.2026.5.3.577",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.econmod.2012.08.026",
+        "type": "journal-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "On the dynamics of convergence in cross-country incomes"
+        ],
+        "author": [
+          {
+            "given": "Fariba",
+            "family": "Hashemi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economic Modelling"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.econmod.2012.08.026",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              29
+            ]
+          ]
+        },
+        "abstract": "<p>The chapter first reviews extant literature on educational gradients in physiological dysregulation. Prior studies suggested there is an inverse relationship between education and risk, although the association may be weaker at the oldest ages and stronger among whites than blacks; the educational gradient may differ by country; and sex differences in the educational gradient may depend on the context. The chapter then presents new comparative analyses of the relationship between physiological dysregulation and education based on data from five countries (United States, England, Russia, Costa Rica, and Taiwan). Large educational differences were found in dysregulation in Russia, US white men, US black women, and English white women. The finding that the educational differential among US women is larger for blacks than for whites appears to be sensitive to how one defines “high” education. Using race-specific cutoffs, the education gradient did not differ significantly between black and white women.</p>",
+        "DOI": "10.1093/oxfordhb/9780190676384.013.34",
+        "type": "reference-entry",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The Educational Gradient in Physiological Dysregulation: A Cross-Country Investigation"
+        ],
+        "author": [
+          {
+            "given": "Dana A.",
+            "family": "Glei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Noreen",
+            "family": "Goldman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Maxine",
+            "family": "Weinstein",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "The Oxford Handbook of Integrative Health Science"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/oxfordhb/9780190676384.013.34",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.2405496",
+        "type": "journal-article",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Do We See Convergence in Institutions? A Cross-Country Analysis"
+        ],
+        "author": [
+          {
+            "given": "Antonio",
+            "family": "Savoia",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kunal",
+            "family": "Sen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSRN Electronic Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.2405496",
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.econedurev.2005.02.001",
+        "type": "journal-article",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Convergence of educational attainment levels in the OECD: More data, more problems?"
+        ],
+        "author": [
+          {
+            "given": "Jesús",
+            "family": "Crespo Cuaresma",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economics of Education Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.econedurev.2005.02.001",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        },
+        "DOI": "10.1353/sof.2011.0025",
+        "type": "journal-article",
+        "is-referenced-by-count": 43,
+        "title": [
+          "Literacy Gaps by Educational Attainment: A Cross-National Analysis"
+        ],
+        "author": [
+          {
+            "given": "Hyunjoon",
+            "family": "Park",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Pearl",
+            "family": "Kyei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Social Forces"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1353/sof.2011.0025",
+        "published": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>The primary aim of this paper is to examine the relationship between school attainment, school completion, and economic development. In doing so it also examines the effect of other macroeconomic variables on school attainment and completion. Estimation is conducted using a panel dataset of 138 countries. Our results show that income levels, government expenditure on education, and political instability all have significant effects on school completion and attainment. In addition these variables have different effects on male and female schooling. Our results have important policy implications and in particular allow policymakers to identify different instruments to target the problem of non‐completion of schooling.</jats:p>",
+        "DOI": "10.1111/j.1467-9361.2008.00430.x",
+        "type": "journal-article",
+        "is-referenced-by-count": 6,
+        "title": [
+          "School Attainment, Completion, and Economic Development: A Cross‐Country Analysis"
+        ],
+        "author": [
+          {
+            "given": "Kausik",
+            "family": "Chaudhuri",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Pushkar",
+            "family": "Maitra",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Review of Development Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/j.1467-9361.2008.00430.x",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.enpol.2006.04.006",
+        "type": "journal-article",
+        "is-referenced-by-count": 160,
+        "title": [
+          "Is there cross-country convergence in carbon dioxide emissions?"
+        ],
+        "author": [
+          {
+            "given": "Roberto",
+            "family": "Ezcurra",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Energy Policy"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.enpol.2006.04.006",
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.7551/mitpress/4269.003.0008",
+        "type": "book-chapter",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The Experimentalist-Convergence Debate on Interpreting China’s Economic Growth: A Cross-Country Perspective"
+        ],
+        "author": [
+          {
+            "given": "Wing Thye",
+            "family": "Woo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Living Standards and the Wealth of Nations"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.7551/mitpress/4269.003.0008",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              7
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

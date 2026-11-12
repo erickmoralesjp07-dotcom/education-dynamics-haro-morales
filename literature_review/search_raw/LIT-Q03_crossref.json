@@ -1,0 +1,2356 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4328707,
+    "items": [
+      {
+        "abstract": "<p>Digital infrastructure has become a fundamental foundation for educational development in the digital era. However, limited evidence is available regarding how different dimensions of digital infrastructure are associated with educational development across countries over time. This study investigates the relationship between digital infrastructure and expected years of schooling using panel data from 131 countries between 2020 and 2023. A total of 524 observations were obtained from Our World in Data. Three key dimensions of digital infrastructure—fixed broadband subscriptions, Internet usage, and secure Internet servers—were examined. Descriptive statistics, Pearson correlation analysis, and multiple linear regression models were employed to assess their associations with expected years of schooling, with GDP per capita included as a control variable. The results indicate that all three indicators are positively associated with expected years of schooling. However, the relationship between secure Internet servers and educational development is comparatively weaker than those of broadband subscriptions and Internet usage. The regression analysis further demonstrates that the inclusion of GDP per capita does not substantially alter the estimated coefficients, suggesting that the observed associations remain robust after controlling for national economic development. Overall, the findings provide cross-country evidence that improvements in digital infrastructure are associated with higher expected years of schooling and highlight the importance of continued investment in broadband infrastructure, Internet accessibility, and digital capacity to support educational development.</p>",
+        "DOI": "10.35542/osf.io/fdytm_v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-4066-8537",
+            "authenticated-orcid": true,
+            "given": "Puti",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.35542/osf.io/fdytm_v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study represents the first comprehensive investigation into the empirical evidence concerning the production effects of cross-border data flows. Drawing upon an extensive panel data set encompassing 201 countries and regions, our findings underscore the significant enhancement in production facilitated by the transnational movement of data. Importantly, the robustness of this outcome is maintained even when altering the metrics employed to gauge data flows and adjusting the scope of the sampled data. Furthermore, our analysis reveals that while the positive impact on production holds true across countries of all types, its magnitude is notably more pronounced in high-income economies. This observation indicates the distinct advantage that data utilization confers upon these nations within the context of the contemporary data-driven era. Remarkably, this finding aligns with conclusions drawn from some earlier theoretical studies, thereby fortifying its credibility. In turn, this empirical evidence offers valuable insights for shaping future policy considerations, particularly in relation to multilateral agreements governing cross-border data flows.</jats:p>",
+        "DOI": "10.2139/ssrn.4544922",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Production Effects of Cross-Border Data Flows: Evidences from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Qing",
+            "family": "Chang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Liyong",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8644-415X",
+            "authenticated-orcid": true,
+            "given": "Longtian",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4544922",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study examines the causal relationship between economic freedom and fertility rates using crosscountry panel data. While fertility determinants are well-researched, the role of economic freedom remains underexplored. Applying fixed-effects instrumental variable (IV) analysis with regulatory quality as an instrument. I find robust evidence that economic freedom negatively impacts fertility, particularly in industrialised and high-income countries. Instrumental variable quantile regression reveals heterogeneous effects, characterised by declines in high-fertility countries, through the identification of three key transmission channels: higher income, lower female unemployment, and increased access to tertiary education. These findings advance understanding of how economic freedom shapes demographic trends, offering insights for sustainable development policies.</jats:p>",
+        "DOI": "10.2139/ssrn.7293178",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Economic Freedom and Fertility Rates: Evidence from Cross-country Panel Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0346-5175",
+            "authenticated-orcid": true,
+            "given": "Mohammad",
+            "family": "Al-Masaeid",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.7293178",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4540678",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the Skill Composition of Trade Drive Educational Attainment? A Cross-Country Panel Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4540678",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5226641",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the Skill Composition of Trade Drive Educational Attainment? A Cross-Country Panel Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5226641",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              27
+            ]
+          ]
+        },
+        "abstract": "<jats:sec><jats:title content-type=\"abstract-subheading\">Purpose</jats:title><jats:p>The main aim of this study is to investigate the role of fathers and mothers in the intergenerational educational persistence for sons and daughters under two dimensions that characterize the clusters of countries: redistributive policy and governance.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title><jats:p>Data from the Global Database of Intergenerational Mobility (GDIM), hierarchical cluster analysis on principal components and panel regression are used in this study to estimate intergenerational educational correlation and to investigate its determinants related to the parents’ and descendants’ education variables in 93 countries grouped in four clusters. The empirical analysis is differentiated by gender combinations of parents and descendants.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Findings</jats:title><jats:p>In the clusters of countries characterized by high inequalities and poor governance, our findings show that the role of the fathers is stronger than that of the mothers in educational transmission; fathers and mothers are more influential for the daughters rather than for the sons; parental educational privilege is the main driver of intergenerational educational persistence; there is an inverse U-curve in the association between educational inequality of the parents and educational correlation for the sons. Differently, in the countries characterized by high income, low redistributive conflict and better governance, the role of the mothers is stronger and education mobility for the daughters is higher than that for the sons.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Social implications</jats:title><jats:p>The authors’ results remark on the importance of social welfare policies aimed to expand a meritocratic public education system including schooling transfers for lower social class students and narrowing the gender gap in educational mobility between daughters and sons. Social welfare policies should also be oriented to spread high quality child care systems that help to foster greater women equality in the labor market, because the strength of educational persistence depends on the position of the mother in the economic hierarchy.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Originality/value</jats:title><jats:p>The distinctiveness of the paper can be found in the fact that this study investigates the parental role differentiating by gender and coupling hierarchical cluster analysis on principal components with panel regression models. This allows us to have a sample of 93 countries aggregated in four groups defined in two dimensions: redistributive policy and governance. Amongst the determinants of educational transmission, we consider not only education’s years of the parents but also other determinants, such as educational inequality and privilege of the parents. We also identify the effects of investment in human capital and educational inequalities for the descendants on education mobility.</jats:p></jats:sec>",
+        "DOI": "10.1108/jes-05-2023-0246",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "The parental role in intergenerational educational persistence: an empirical investigation with cross-country panel data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0008-5047-8017",
+            "authenticated-orcid": false,
+            "given": "Francesco",
+            "family": "Salomone Marino",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2911-1746",
+            "authenticated-orcid": false,
+            "given": "Maria",
+            "family": "Berrittella",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Economic Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1108/jes-05-2023-0246",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study examines how investment freedom is related to wealth inequality across countries. The analysis uses panel data for 170 countries over the period 2010 to 2021 and focuses on nonlinear patterns rather than imposing a linear structure from the start.We apply several complementary methods. These include formal tests for nonlinearity, NARDL models for short-run dynamics, cointegration analysis for longer-run relationships, mutual information, and polynomial specifications. The results show clear evidence that the relationship is not linear. The RESET test rejects linearity, and mutual information is much larger than the squared correlation, which indicates that most of the dependence is nonlinear.The short-run results show similar responses to increases and decreases in investment freedom. The difference between the two is small, and statistical tests do not support strong asymmetry. In contrast, the longer-run results point to a stable negative relationship. A 10 point increase in investment freedom is associated with about a 0.4 percentage point lower Gini coefficient. We also find that the relationship changes across regimes. Around a Investment Freedom score of 50, the slope becomes more negative, which suggests that the effect strengthens at higher levels of instituional development. These results help explain why earlier studies reached different conclusions. The findings show that the relationship depends on the time horizon, the method used, and the institutional setting. The main patterns also remained broadly similar when the analysis was limited to developed countries.</jats:p>",
+        "DOI": "10.2139/ssrn.6844984",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Investment Freedom and Wealth Inequality: Nonlinear Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-5072-2533",
+            "authenticated-orcid": true,
+            "given": "Arie",
+            "family": "Jacobi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4279-8802",
+            "authenticated-orcid": true,
+            "given": "Joseph",
+            "family": "Tzur",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6844984",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5994531",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does Investment Freedom Reduce Wealth Inequality? Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Arie",
+            "family": "Jacobi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Joseph",
+            "family": "Tzur",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5994531",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.dib.2023.109814",
+        "type": "journal-article",
+        "is-referenced-by-count": 60,
+        "title": [
+          "Worldwide governance indicators: Cross country data set 2012–2022"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5894-116X",
+            "authenticated-orcid": false,
+            "given": "Sofik",
+            "family": "Handoyo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Data in Brief"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.dib.2023.109814",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1007/s11135-016-0328-z",
+        "type": "journal-article",
+        "is-referenced-by-count": 18,
+        "title": [
+          "A cross-country panel approach to exploring the determinants of educational equity through PISA data"
+        ],
+        "author": [
+          {
+            "given": "Tommaso",
+            "family": "Agasisti",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1328-691X",
+            "authenticated-orcid": false,
+            "given": "Sergio",
+            "family": "Longobardi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Andrea",
+            "family": "Regoli",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Quality &amp; Quantity"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s11135-016-0328-z",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1007/s42495-022-00081-w",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Effects of adult mortality rate on educational attainment: empirical analysis using cross-country panel data"
+        ],
+        "author": [
+          {
+            "given": "Koji",
+            "family": "Yasuda",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5840-5076",
+            "authenticated-orcid": false,
+            "given": "Tomoko",
+            "family": "Kinugasa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Economic Policy Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s42495-022-00081-w",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>In the tax literature, the tax effort index for any country is usually measured by the ratio of the actual tax ratio to the predicted ratio. This reflects mainly the variance in the taxable capacity of a country. A high value of tax effort index indicates that a particular country is collecting more tax than would be predicted, given its tax structure and prevailing economic and social conditions. This paper estimates the tax effort index for a sample of 75 countries for the period 1985/95. It incorporates the most recently available data and also econometric techniques not used before for such a type of analysis. The results are then compared with previous studies encompassing different periods over the last 30 years. The evidence provided in this paper suggests that per capita income, the ratio of trade to GDP, and the share of agriculture in GDP of the product of the agricultural sector are the most consistent explanatory variables of the tax ratio, while several variables used in previous studies, such as the ratio of mining output to GDP, and the ratio of quasi-money to GDP, are not significant in the recent period under analysis. This paper shows those countries that have improved their tax performance, measured by the tax effort index, as well as those which have a less favourable performance. Tax ratios and tax effort comparisons are also made among the developed and developing countries according to income groups and different continents.</jats:p>",
+        "DOI": "10.2139/ssrn.283758",
+        "type": "posted-content",
+        "is-referenced-by-count": 46,
+        "title": [
+          "Measuring the Tax Effort of Developed and Developing Countries: Cross Country Panel Data Analysis - 1985/95"
+        ],
+        "author": [
+          {
+            "given": "Marcelo",
+            "family": "Piancastelli",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2001
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.283758",
+        "published": {
+          "date-parts": [
+            [
+              2001
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Digital technologies have become a central component of modern economic development, influencing how firms operate, how governments deliver services, and how individuals participate in economic activity. Among these technologies, internet connectivity is commonly used as a proxy for digital adoption. While economic theory predicts a positive relationship between digital adoption and economic growth, empirical evidence at the macroeconomic level remains mixed and, in some cases, contradictory.&lt;/p&gt;\n&lt;p&gt;This study examines the relationship between internet usage and economic growth using cross-country panel data. The empirical strategy employs a two-way panel fixed effects model to control for unobserved country-specific and time-specific heterogeneity. To address potential endogeneity, an instrumental variable approach is implemented using lagged internet usage. Additional robustness checks include non-linearity tests, interaction models, and sub-sample analysis across income groups.&lt;/p&gt;\n&lt;p&gt;The results reveal a statistically significant negative relationship between internet penetration and GDP growth. This finding remains consistent across fixed effects and instrumental variable specifications, suggesting that the observed relationship is not solely driven by reverse causality. There is limited evidence of non-linearity, and interaction effects across income levels are not statistically significant. The negative association persists across both high-income and low-income countries.&lt;/p&gt;\n&lt;p&gt;Rather than indicating that digital adoption reduces economic growth, the results are interpreted as reflecting structural economic dynamics. In particular, convergence effects, cross-country heterogeneity, and measurement limitations associated with proxy variables provide a coherent explanation for the observed pattern.&lt;/p&gt;\n&lt;p&gt;The study contributes by reconciling the divergence between theoretical expectations and macro-level empirical evidence using a unified econometric and conceptual framework. The findings highlight the importance of interpreting digital adoption within broader structural and developmental contexts when evaluating its role in economic growth.&lt;/p&gt;</jats:p>",
+        "DOI": "10.2139/ssrn.6657019",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Revisiting the Digital Growth Puzzle: Internet Usage and Economic Growth in Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-1806-1202",
+            "authenticated-orcid": true,
+            "given": "Rishabh",
+            "family": "Jaiswal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-8159-4395",
+            "authenticated-orcid": true,
+            "given": "Priyanka",
+            "family": "Saxena",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6657019",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.52783/jier.v6i1.4494",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Unlocking Digital Financial Inclusion on Economic Growth: Cross-country study using panel data"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Informatics Education and Research"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.52783/jier.v6i1.4494",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5051722",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does Primary Equity Market Matter for Economic Growth? Analysis from Cross Country Macro-Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Vinod",
+            "family": "Kumar",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ganesh Kumar",
+            "family": "Nidugala",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5051722",
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1596/1813-9450-9776",
+        "type": "book",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Measuring Untapped Revenue Potential in Developing Countries: Cross-Country Frontier and Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Zeljko",
+            "family": "Bogetic",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dominik",
+            "family": "Naeher",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Raghavan",
+            "family": "Narayanan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              17
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1596/1813-9450-9776",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.24987/snuacar.2016.08.6.1.73",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Corruption and Military Expenditure : Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Jae-Hyung",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Asia Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.24987/snuacar.2016.08.6.1.73",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>While many previous studies on temporary work have found disadvantages for temporary workers as compared to workers with a permanent contract, this study compares temporary work to the alternative of unemployment. Specifically, this paper investigates the potential integrative power of taking up a temporary job for unemployed workers as compared to the counterfactual situation of remaining unemployed and searching for another job. Applying a dynamic propensity-score matching approach based on British, (West and East) German, and Swiss panel data during the period of 1991–2009, it is shown that taking up a temporary job increases the employment chances during the subsequent five years in (West and East) Germany and the UK. Moreover, the chances of having a permanent contract remain higher and a persistent wage premium can be found during the subsequent five years of the career. Advantages of taking up a temporary job are slightly stronger in West Germany compared to East Germany, where temporary contracts are often based on public job creation measures with limited integration potential. Neither long-run advantages nor disadvantages of taking up a temporary job can be found in the case of the flexible Swiss labour market.</jats:p>",
+        "DOI": "10.2139/ssrn.2228073",
+        "type": "posted-content",
+        "is-referenced-by-count": 11,
+        "title": [
+          "Is a Temporary Job Better than Unemployment? A Cross-Country Comparison Based on British, German, and Swiss Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Michael",
+            "family": "Gebel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.2228073",
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1007/s11205-018-2043-8",
+        "type": "journal-article",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Social and Political Factors Affect the Index of Public Management Efficiency: A Cross-Country Panel Data Study"
+        ],
+        "author": [
+          {
+            "given": "María del Rocío",
+            "family": "Moreno-Enguix",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Laura Vanesa",
+            "family": "Lorente-Bayona",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ester",
+            "family": "Gras-Gil",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              12,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Social Indicators Research"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              12,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s11205-018-2043-8",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              12,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/13504851.2024.2332555",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Internet use and educational outcomes – a cross-country panel study"
+        ],
+        "author": [
+          {
+            "given": "Patrick",
+            "family": "Bala",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Helmut-Schmidt-University Hamburg",
+                "place": [
+                  "Hamburg, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              29
+            ]
+          ]
+        },
+        "container-title": [
+          "Applied Economics Letters"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/13504851.2024.2332555",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study delves into the intricate interplay between trade facilitation and global warming, emphasising the ramifications of trade facilitation on climate change dynamics. To quantify the effects of trade facilitation on global warming, this research employed both spatial econometric and traditional econometric models, leveraging data spanning 129 countries from 2010 to 2019. The empirical findings reveal a notable direct negative correlation between trade facilitation and global warming. This negative impact arises from optimised resource allocation, the acceleration of green technology development, and the facilitation of industrial green transformation. Intriguingly, the study also indicates an absence of significant spillover effects from trade facilitation on neighbouring regions. Moreover, the relationship between trade facilitation and global warming is linear, devoid of any non-linear associations. A deeper mechanism analysis elucidates that trade facilitation primarily mitigates global warming by reducing carbon emissions and fostering technological innovation, particularly in developed economies. In stark contrast, this impact is less pronounced in developing countries, primarily due to constraints in technology and policy frameworks. This nuanced understanding underscores the importance of context-specific considerations when assessing the environmental implications of trade facilitation. The study culminates in a series of policy prescriptions aimed at bolstering green trade facilitation measures, fostering innovation, enhancing regional cooperation, and formulating policies tailored to the needs of developing countries. These recommendations strive to strike a delicate balance between mitigating global warming and promoting economic growth, thereby illustrating the potential for trade facilitation to serve as a dual catalyst for environmental sustainability and economic prosperity.</jats:p>",
+        "DOI": "10.3389/fenvs.2025.1596893",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Trade facilitation and global warming: based on cross-country panel data"
+        ],
+        "author": [
+          {
+            "given": "Ying",
+            "family": "Jiang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Frontiers in Environmental Science"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.3389/fenvs.2025.1596893",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4389576",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impact of Digital Service Trade on Carbon Total Factor Productivity: Empirical Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Yi",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xuliang",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4389576",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper uses fossil CO2 emissions data from EDGAR v8.0, World Bank World Development Indicators (WDI) data, and export data, combined with official WTO accession dates, to construct an unbalanced panel of 173 economies for 2000-2020. Using difference-indifferences (DiD) and event-study methods, it examines the dynamic effect of WTO membership on a country's export carbon emission intensity. The findings show that under pooled OLS, WTO membership is significantly negatively correlated with export carbon intensity; however, after controlling for country and year fixed effects, this effect is no longer significant, and this conclusion remains robust under propensity score matching (PSM), exclusion of the China sample, winsorization, and placebo tests. Heterogeneity analysis finds no significant \"pollution haven\" or \"technology transfer\" effect, and mechanism tests show that WTO accession significantly reduced only the structural channel of industrial value-added share. These results suggest that trade liberalization per se is not the primary driver of changes in carbon intensity, and that the multilateral trading system needs to embed clearer environmental rules in order to genuinely serve green development goals.</jats:p>",
+        "DOI": "10.2139/ssrn.7487241",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "WTO Membership and Export Carbon Emission Intensity - A Difference-in-Differences Analysis Based on Cross-Country Panel Data, 2000-2020"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0002-7965-9299",
+            "authenticated-orcid": true,
+            "given": "Olesia",
+            "family": "Beloborodova",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.7487241",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>&lt;p&gt;&lt;span&gt;&lt;a href=\"https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data\" rel=\"nofollow\"&gt;https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</jats:p>",
+        "DOI": "10.2139/ssrn.6731360",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impact of Natural Disasters on Educational Attainment: Cross Country Evidence from Macro Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3216-7580",
+            "authenticated-orcid": true,
+            "given": "Lois",
+            "family": "Onigbinde Jacob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6731360",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.energy.2025.135077",
+        "type": "journal-article",
+        "is-referenced-by-count": 24,
+        "title": [
+          "Digitalization and renewable energy development: Analysis based on cross-country panel data"
+        ],
+        "author": [
+          {
+            "given": "Mingbo",
+            "family": "Zheng",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xinyu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Energy"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.energy.2025.135077",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Do natural disasters impact educational attainment? Education as a paramount factor of economic development suffers from the uncontrollable effects of these increasing events from storms to floods, earthquakes to wildfires. Globally, educational resources are destroyed, directly and indirectly, students and teachers are displaced or killed, and parents’ income is affected because of natural disasters. Investments in human capital for rich- and low-income countries are exposed to the uneven impact of natural disasters that adjust household and country-level decisions, leaving them to short and long-run losses. Exploring the influence of natural disasters on secondary school attainment across a sample of 85 countries from 1960 to 1990, we employ a panel data set from the Emergency Events dataset and Barro-Lee dataset. Using year and country-fixed effects, the data shows that the intensity of deaths from natural disasters has a greater effect on secondary school attainment than the intensity of damages from these disasters. Data also suggests that damages per capita have a slightly significant effect on the secondary school repetition rate. Psychological and behavioral effects caused by deaths from disasters lead to disinvestments in human capital and these degenerate into long-term effects on economic development. Consequently, while natural disasters cannot be averted, their damages can be curtailed, therefore, it is crucial to inform policies that drive countries to a conscientious effort for high-performance social intervention programs; and motivate an urgency for climate change conversation.</jats:p>",
+        "DOI": "10.2139/ssrn.4594252",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impacts of Natural Disasters on Educational Attainment: Cross-Country Evidence from Macro Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3216-7580",
+            "authenticated-orcid": true,
+            "given": "Lois",
+            "family": "Onigbinde Jacob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4594252",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              17
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Type of the article: Research ArticleAbstractAs emphasized by the FATF, IMF, and World Bank, technological readiness and institutional quality are increasingly decisive in shaping AML effectiveness. By mitigating money-laundering vulnerabilities, strengthening AI readiness, and enhancing institutional quality, tax collection efficiency can be improved and fiscal leakages reduced. These improvements expand the fiscal space available for national budgets, strengthening the financial foundations of public administration. The study aims to examine the impact of Government AI Readiness on AML risk, measured by the Basel AML Index, and the moderating role of institutional quality as captured by the Rule of Law Index. An unbalanced panel dataset that covers up to 168 countries for 2020–2024 was analyzed using fixed effects and random effects models, with variable transformations applied where necessary. All estimations were performed in R Studio. The results indicate that a one-point increase in the Government AI Readiness Index is associated with a 0.048–0.040 point reduction in the Basel AML Index, while a one-unit increase in log GDP per capita decreases the Basel AML Index by 0.54–0.34 points, holding other factors constant. The interaction term between AI readiness and the Rule of Law Index is positive (0.067–0.072), confirming that the risk-reducing effect of AI readiness diminishes as institutional quality strengthens. These findings support the hypotheses and confirm the complementary roles of technological preparedness and institutional integrity in shaping AML outcomes. Fixed effects analysis reveals structural vulnerabilities in AML in Gabon and China, while Sweden exhibits the lowest residual risk after accounting for AI readiness and institutional strength.AcknowledgmentThis article was supported by the Ministry of Education and Science of Ukraine (project No. 0123U101945 – National security of Ukraine through prevention of financial fraud and money laundering: war and post-war challenges).</jats:p>",
+        "DOI": "10.21511/pmf.14(4).2025.05",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Can AI readiness and strong institutions curb AML risk? Cross-country evidence from panel data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1059-4917",
+            "authenticated-orcid": false,
+            "given": "Oxana",
+            "family": "Kirichok",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Ph.D. in Management, Vice-rector, Caspian University, Kazakhstan"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8869-0189",
+            "authenticated-orcid": false,
+            "given": "Viktoriia",
+            "family": "Hurochkina",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Dr. Hab., D.Sc., Professor, Researcher, Center for Ukrainian Research Studies at the Warsaw School of Economics, Poland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6919-3283",
+            "authenticated-orcid": false,
+            "given": "Gulnara",
+            "family": "Zhanseitova",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ph.D. in Economics, Acting Associate Professor of the Management Department, Eurasian National University by name Gumilyov, Kazakhstan"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0054-8362",
+            "authenticated-orcid": false,
+            "given": "Viktoria",
+            "family": "Dudchenko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "D.Sc., Associate Professor, Department of International Economic Relations, Sumy State University, Ukraine"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9415-8786",
+            "authenticated-orcid": false,
+            "given": "Pavlo",
+            "family": "Rubanov",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "D.Sc. (Economics), Associate Professor, Department of Financial Technologies and Entrepreneurship, Sumy State University, Ukraine"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0000-5052-9939",
+            "authenticated-orcid": false,
+            "given": "Denys",
+            "family": "Babaiev",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "M.B.A., CEO, Co-founder, Scale Your Web LLC, Philadelphia, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5639-3008",
+            "authenticated-orcid": false,
+            "given": "Serhiy",
+            "family": "Lyeonov",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "D.Sc., Professor, Department of Applied Social Sciences, Silesian University of Technology, Poland; Economic Cybernetics Department, Sumy State University, Ukraine"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Public and Municipal Finance"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              17
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21511/pmf.14(4).2025.05",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.30546/09090.2026.001.20.2052",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Stacked Ensemble Learning for Economic Growth Forecasting: A Cross-Country Panel Data Analysis"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Baku Engineering University Mathematics and Computer Science"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.30546/09090.2026.001.20.2052",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.4337/9781845424558.00023",
+        "type": "book-chapter",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Defense Expenditure and Economic Growth: Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Rati",
+            "family": "Ram",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "The Elgar Companion to Public Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.4337/9781845424558.00023",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This paper analyses the long-run influence of domestic and of foreign R&amp;D efforts on countries' manufacturing total factor producti¬ vity. A cointegration analysis is performed on annual panel data with respect to 22 manufacturing sectors in 14 OECD countries over the period 1972-1994. The results indicate that there are important cross¬ sector and cross-country technical knowledge spillover effects, and this is shown to be especially the case in research intensive sectors.</jats:p>",
+        "DOI": "10.3406/ecoap.2002.3059",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Cross-Sector and Cross-Country Technical Knowledge Spillovers and the Evolution of Manufacturing Productivity: A Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Dirk",
+            "family": "Frantzen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Économie appliquée"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.3406/ecoap.2002.3059",
+        "published": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>This study investigates the key determinants of food price inflation across five Gulf Cooperation Council countries, such as Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, and Bahrain, using panel data from 2000 to 2023. Employing both fixed effects and random effects models, the analysis explores the impact of macroeconomic, agricultural, and demographic factors on food price volatility. The results indicate that food imports, food exports, urban population growth, and the prevalence of undernourishment are significant contributors to rising food prices, reflecting the region’s dependence on external markets and the pressures of rapid urbanization. Conversely, agricultural productivity and employment in agriculture are negatively associated with food price inflation, highlighting the potential benefits of improving domestic production capacity. The fixed effects model outperforms the random effects model in explanatory power, a finding confirmed by the Hausman test, which supports the presence of unobserved country-level effects correlated with the explanatory variables. These results emphasize the importance of tailored, nationally specific policy responses over generalized regional strategies. The study concludes with recommendations to invest in sustainable agriculture, strengthen food logistics and social protection systems, and reduce reliance on oil-financed food imports by building resilient and inclusive food systems across the region.</p>",
+        "DOI": "10.21203/rs.3.rs-6844186/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Exploring the structural determinants of food security in the GCC region: Evidence from cross-country panel data analysis"
+        ],
+        "author": [
+          {
+            "given": "Morouj",
+            "family": "Dardeer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Effat University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rozina",
+            "family": "Shaheen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Effat University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-6844186/v1",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.euroecorev.2026.105284",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the skill composition of trade drive educational attainment? A cross-country panel analysis"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3938-5959",
+            "authenticated-orcid": false,
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "European Economic Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.euroecorev.2026.105284",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n        <p>We evaluate how different methodological choices affect the conclusions drawn about the effect of tax policy on economic growth using cross-country panel data. These analyses do not credibly support claims that tax rate changes have a statistically robust medium-term impact on national income. We then re-assess this literature in light of the recent econometric insights on estimation with staggered treatments, and find that a causal estimate of the effect of the first tax change again yields no statistically significant effect of taxes on economic growth.\nJEL Classification: H24, H25, E62, N10, O47</p>",
+        "DOI": "10.21203/rs.3.rs-4939899/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Transparent Look at How Taxes Affect Growth: Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Laura",
+            "family": "Kawano",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Michigan–Ann Arbor"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "John",
+            "family": "Olson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Northwestern University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Joel",
+            "family": "Slemrod",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Michigan–Ann Arbor"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Meng Hsuan",
+            "family": "Hsieh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Michigan–Ann Arbor"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-4939899/v1",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1353/apr.2022.0029",
+        "type": "journal-article",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Sources of Corruption in Authoritarian Regimes: A Cross-Country Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Suehyun",
+            "family": "Jung",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Asian Perspective"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1353/apr.2022.0029",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The impact of soft drinks on obesity has been widely investigated during the last decades. Conversely, the role of obesity as a factor influencing the demand for soft drinks remains largely unexplored. However, understanding potential changes in the demand for soft drinks, as a result of changes in the spread of obesity, may be useful to better design a comprehensive strategy to curb soft drink consumption. In this paper, we aim to answer the following research question: Does the prevalence of obesity affect the demand for soft drinks? For this purpose, we collected data in a sample of 97 countries worldwide for the period 2005–2019. To deal with problems of reverse causality, an instrumental variable approach, and a two-stage least squares method were used to estimate the impact of the age-standardized obesity rate on the market demand for soft drinks. After controlling for several demographic and socio-economic confounding factors, we found that a one percent increase in the prevalence of obesity increases the consumption of soft drinks and carbonated soft drinks by about 2.37 and 1.11 L per person/year, respectively. Our findings corroborate the idea that the development of an obesogenic food environment is a self-sustaining process, in which obesity and unhealthy lifestyles reinforce each other, and further support the need for an integrated approach to curb soft drink consumption by combining sugar taxes with bans, regulations, and nutrition education programs.</jats:p>",
+        "DOI": "10.2139/ssrn.4014539",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Does the Prevalence of Obesity Affect the Demand for Soft Drinks? Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-7865-9572",
+            "authenticated-orcid": true,
+            "given": "Fabrizio Ferro",
+            "family": "Ferretti",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-6215-2143",
+            "authenticated-orcid": true,
+            "given": "Michele",
+            "family": "Mariani",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8926-451X",
+            "authenticated-orcid": true,
+            "given": "Elena",
+            "family": "Sarti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4014539",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1016/b978-0-12-411549-1.00004-1",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Determinants of the Real Rate of Return: Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Marcelo",
+            "family": "Sánchez",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Emerging Markets and the Global Economy"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/b978-0-12-411549-1.00004-1",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The study complements the existing literature on the role of credit constraints in the interplay between income inequality and economic growth. The question \"what type of financial development matters for inequality-growth relationship\" is answered empirically by adopting a multi-dimensional index of financial development. The analysis covers 35 OECD member countries and 34 non-OECD economies starting from the year 1980 with varying coverage across countries. The results of the panel estimation techniques suggest that in the non-OECD countries, income inequality is positively associated with subsequent growth of per capita GDP under sufficiently developed financial markets. If the markets are poorly developed, the partial correlation between inequality and growth is statistically insignificant. For OECD countries, the association seems to be non-existent although weak evidence for growth-dampening inequality is found if both the level of inequality is high and the financial markets are highly developed. The results imply that promoting the development of financial markets, rather than institutions, may alleviate the adverse effects of income inequality on economic growth in under-developed countries.</jats:p>",
+        "DOI": "10.2139/ssrn.3575634",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The Role of Financial Development in the Relationship Between Income Inequality and Economic Growth: An Empirical Approach Using Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Toni",
+            "family": "Juuti",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.3575634",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "DOI": "10.7551/mitpress/9388.003.0013",
+        "type": "book-chapter",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Why Is China’s Saving Rate So High? A Comparative Study of Cross-Country Panel Data"
+        ],
+        "container-title": [
+          "The Evolving Role of China in the Global Economy"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.7551/mitpress/9388.003.0013",
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>Occupational hazards in the healthcare sector impose a significant, yet often imprecisely quantified, economic burden on national economies. Comparative, cross-country evidence remains scarce, and existing studies often use overly broad proxies that fail to isolate the specific costs of occupational risk. This paper aims to bridge this gap by developing and validating a generalizable panel data framework to assess the economic burden of occupational hazards (EBOH) across a diverse panel of 45 countries over the period 2008–2022. We employ a Fixed Effects (FE) model using Public Health Expenditure on Employment Injury (% of GDP) as our dependent variable and a composite Occupational Hazard Index (OHI) as our primary explanatory variable. The model indicates that a one-unit increase in the OHI is associated with a statistically significant 0.085 percentage point increase in public expenditure on employment injury as a share of GDP (p&lt;0.01). The result is robust to alternative specifications, simulation-based sensitivity analysis, and a lagged-variable model to address endogeneity. Our findings demonstrate that a higher prevalence of occupational hazards is demonstrably linked to a greater direct economic burden on public finances. The framework provides a robust tool for policymakers, underscoring that investing in occupational hazard prevention is not merely a social imperative but a fiscally prudent, cost-effective strategy for preserving public resources and enhancing healthcare system sustainability [1,2,3].</p>",
+        "DOI": "10.21203/rs.3.rs-8386995/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Assessing the Economic Burden of Occupational Hazards in Healthcare Administration: A Cross-Country Panel Data Analysis"
+        ],
+        "author": [
+          {
+            "given": "Mohannad M.",
+            "family": "Alarqan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Medicajo.org"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shaker Q. M.",
+            "family": "Nawasreh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Hamad Medical Corporation"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-8386995/v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4669075",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Transparent Look at How Taxes Affect Growth: Evidence from Cross-Country Panel Data"
+        ],
+        "author": [
+          {
+            "given": "Laura",
+            "family": "Kawano",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "John  S.",
+            "family": "Olson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Joel B.",
+            "family": "Slemrod",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Meng  Hsuan",
+            "family": "Hsieh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4669075",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

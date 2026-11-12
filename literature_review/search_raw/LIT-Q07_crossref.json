@@ -1,0 +1,2505 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 8008584,
+    "items": [
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-5",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Laird-Ware Model in State Space Form"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-5",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-2",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A General Linear Mixed Model"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-2",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-4",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "State Space Representations"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-4",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              16
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511790928.016",
+        "type": "other",
+        "is-referenced-by-count": 0,
+        "title": [
+          "State Space Model and the Kalman Filter"
+        ],
+        "container-title": [
+          "Longitudinal and Panel Data"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1017/cbo9780511790928.016",
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1201/9780203748640",
+        "type": "book",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_2",
+        "type": "book-chapter",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Model Predictive Control Based on Extended State Space Model"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_2",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_4",
+        "type": "book-chapter",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Model Predictive Control Based on Extended Non-minimal State Space Model"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_4",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_3",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Predictive Functional Control Based on Extended State Space Model"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_3",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_5",
+        "type": "book-chapter",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Predictive Functional Control Based on Extended Non-minimal State Space Model"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_5",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_7",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "PID Control Using Extended Non-minimal State Space Model Optimization"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_7",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_6",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "State Estimation in the State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_6",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_5",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_5",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "DOI": "10.1016/bs.host.2023.10.006",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Longitudinal data analysis by hierarchical state space models"
+        ],
+        "container-title": [
+          "Handbook of Statistics",
+          "Modeling and Analysis of Longitudinal Data"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/bs.host.2023.10.006",
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-1",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Introduction"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-1",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7",
+        "type": "book",
+        "is-referenced-by-count": 11,
+        "title": [
+          "Model Predictive Control"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-7",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Nonlinear Models"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-7",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-8",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Multivariate Models"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-8",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.mbs.2005.12.002",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "An application of a two-level non-Gaussian state-space model in the analysis of longitudinal papilloma count data"
+        ],
+        "author": [
+          {
+            "given": "Lie-Jane",
+            "family": "Kao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Mathematical Biosciences"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.mbs.2005.12.002",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_10",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Batch Solution for General State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_10",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_11",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Sequential Solution for General State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_11",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_1",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Introduction"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_1",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_8",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Sequential Solution for Linear Gaussian State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_8",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_7",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Batch Solution for Linear Gaussian State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_7",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_6",
+        "type": "book-chapter",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Model Predictive Control Under Constraints"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_6",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-319-28599-3_4",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The State Space Model"
+        ],
+        "author": [
+          {
+            "given": "Víctor",
+            "family": "Gómez",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Multivariate Time Series With Linear State Space Structure"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-3-319-28599-3_4",
+        "published": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_10",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Industrial Application"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_10",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.neucom.2026.134531",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Dynamic survival prediction using longitudinal images based on selective state space model with application on Alzheimer’s study"
+        ],
+        "author": [
+          {
+            "given": "Bingfan",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3848-7232",
+            "authenticated-orcid": false,
+            "given": "Kai",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haolun",
+            "family": "Shi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Liangliang",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7417-6330",
+            "authenticated-orcid": false,
+            "given": "Jiguo",
+            "family": "Cao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Neurocomputing"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.neucom.2026.134531",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_12",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Example of Applied Analysis in General State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_12",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-6",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Autoregressive Moving Average Errors"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-6",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203748640-3",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "First Order Autoregressive Errors"
+        ],
+        "author": [
+          {
+            "given": "R.H.",
+            "family": "Jones",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal Data with Serial Correlation: A State-space Approach"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780203748640-3",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_9",
+        "type": "book-chapter",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Model Predictive Control Performance Optimized by Genetic Algorithm"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_9",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-13-0083-7_8",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Closed-Loop System Performance Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ridong",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anke",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Furong",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Model Predictive Control"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-13-0083-7_8",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-16-0711-0_9",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Introduction and Analysis Examples of a Well-Known Component Model in the Linear Gaussian State-Space Model"
+        ],
+        "author": [
+          {
+            "given": "Junichiro",
+            "family": "Hagiwara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Time Series Analysis for the State-Space Model with R/Stan"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-16-0711-0_9",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>A longitudinal study for 847 bladder cancer patients for a period of fifteen years is presented. After the first surgery, the patients undergo successive ones (recurrences). A state-model is selected for analyzing the evolution of the cancer, based on the distribution of the times between recurrences. These times do not follow exponential distributions, and are approximated by phase-type distributions. Under these conditions, a multidimensional Markov process governs the evolution of the disease. The survival probability and mean times in the different states (levels) of the disease are calculated empirically and also by applying the Markov model, the comparison of the results indicate that the model is well-fitted to the data to an acceptable significance level of 0.05. Two sub-cohorts are well-differenced: those reaching progression (the bladder is removed) and those that do not. These two cases are separately studied and performance measures calculated, and the comparison reveals details about the characteristics of the patients in these groups.</jats:p>",
+        "DOI": "10.3390/math9040363",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Longitudinal Study of the Bladder Cancer Applying a State-Space Model with Non-Exponential Staying Time in States"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0904-5315",
+            "authenticated-orcid": false,
+            "given": "Delia",
+            "family": "Montoro-Cazorla",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Statistics and Operational Research, University of Jaén, 23071 Jaén, Spain"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rafael",
+            "family": "Pérez-Ocón",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Statistics and Operational Research, University of Granada, 18071 Granada, Spain"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Alicia",
+            "family": "Pereira das Neves-Yedig",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Statistics and Operational Research, University of Granada, 18071 Granada, Spain"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Mathematics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.3390/math9040363",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1109/icnere.2018.8642594",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "State Space Event Based Model for Simulation of Power Electronics System"
+        ],
+        "author": [
+          {
+            "given": "Feri",
+            "family": "Yusivar",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2018 4th International Conference on Nano Electronics Research and Education (ICNERE)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/icnere.2018.8642594",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1177/27000710251327744/v1/review1",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Longitudinal stability in dispositional awe during emerging adulthood: A trait-state-occasion model\""
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1177/27000710251327744/v1/review1",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1177/27000710251327744/v1/review2",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Longitudinal stability in dispositional awe during emerging adulthood: A trait-state-occasion model\""
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1177/27000710251327744/v1/review2",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              11
+            ]
+          ]
+        },
+        "abstract": "<jats:p>In this commentary Gordon introduces relational reflexivity and discusses how researchers, participants and the research encounter can be involved in the creation of new knowledge.</jats:p>",
+        "DOI": "10.1111/medu.14626",
+        "type": "journal-article",
+        "is-referenced-by-count": 10,
+        "title": [
+          "Making space for relational reflexivity in longitudinal qualitative research"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4986-1501",
+            "authenticated-orcid": false,
+            "given": "Lisi",
+            "family": "Gordon",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centre for Medical Education University of Dundee  Dundee UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "Medical Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/medu.14626",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1177/27000710251327744/v2/review1",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Longitudinal stability in dispositional awe during emerging adulthood: A trait-state-occasion model\""
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1177/27000710251327744/v2/review1",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.36907/krivet.2007.10.3.67",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Equilibrium Unemployment Using State-Space Model and Implications on Employment Policies"
+        ],
+        "author": [
+          {
+            "family": "박재민",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "전재식",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Vocational Education &amp; Training"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.36907/krivet.2007.10.3.67",
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              12
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,2647 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4082992,
+    "items": [
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "DOI": "10.5220/0009396100470057",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Learner Performance Prediction Indicators based on Machine Learning"
+        ],
+        "author": [
+          {
+            "given": "Karim",
+            "family": "Sehaba",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Université de Lyon, CNRS. Université Lyon 2, LIRIS, UMR5205, F-69676, France, --- Select a Country ---"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of the 12th International Conference on Computer Supported Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5220/0009396100470057",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.52783/eel.v15i3.3651",
+        "type": "journal-article",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Integrating Macroeconomic Indicators into Machine Learning Models for Used Car Price Prediction"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "European Economic Letters"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.52783/eel.v15i3.3651",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.mlwa.2025.100631",
+        "type": "journal-article",
+        "is-referenced-by-count": 34,
+        "title": [
+          "Key technical indicators for stock market prediction"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0009-8049-3469",
+            "authenticated-orcid": false,
+            "given": "Seyed Mostafa",
+            "family": "Mostafavi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ali Reza",
+            "family": "Hooman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Machine Learning with Applications"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.mlwa.2025.100631",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecolind.2026.115656",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "From upstream to downstream: Ensemble machine learning uncovers for River Water Quality Prediction"
+        ],
+        "author": [
+          {
+            "given": "Ali",
+            "family": "Haghizadeh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Leila",
+            "family": "Ghasemi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Ecological Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ecolind.2026.115656",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>We present a few case studies demonstrating the application of a neural network (NN) model for detecting overshooting tops (OTs) using high-resolution visible (HRV) channel from the SEVIRI instrument on MSG satellites. The model was trained on manually labeled data using OT shadows (database created by Ján Kaňák) and the product of this model provides per-pixel probabilities of OT presence.To assess the model's relevance for severe weather forecasting, we compared the detected OTs with reports from the European Severe Weather Database (ESWD). The comparison showed varying levels of agreement - several OTs corresponded well with hail or another type of events, while in other cases, strong convection was detected without reported impacts, and vice versa. This may be due to multiple factors on both sides - limitations in our model’s predictions as well as in the event database (e.g., missed reports).This variability highlights both the usefulness and the limitations of OT detection as a proxy for severe weather. The model performs well in identifying deep convective features but should be interpreted alongside other data sources for operational use.Our results suggest that ML-based OT detection from HRV imagery can contribute to nowcasting applications, especially when integrated with additional observational and model data.</jats:p>",
+        "DOI": "10.5194/ecss2025-88",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Application of Machine Learning to Severe Weather Prediction from Storm Top Indicators"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-8907-6719",
+            "authenticated-orcid": false,
+            "given": "Anežka",
+            "family": "Doležalová",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jakub",
+            "family": "Seidl",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jindřich",
+            "family": "Šťástka",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5194/ecss2025-88",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Purpose This study develops and evaluates a machine learning framework for predicting residential property prices in Ireland using the complete Irish Property Price Register, a populationcomplete dataset of 736,002 arm's-length transactions spanning January 2010 to March 2026. It formally quantifies the marginal contribution of geospatial, structural, and macroeconomic data modalities.&amp;nbsp;\n&lt;div&gt;\n Design/methodology/approach A multi-modal predictive framework integrates structural transaction data, address-derived geospatial location signals via Bayesian out-of-fold target encoding, and macroeconomic indicators from the Central Statistics Office. Five models are trained and evaluated including Ridge Regression, Random Forest, and three HistGradientBoosting variants on an 80/20 traintest split.&amp;nbsp;\n&lt;/div&gt;\n&lt;div&gt;\n Findings Geospatial location features increase R² by 0.2552, from 0.3494 to 0.6046, reducing mean absolute error by €28,271 per property. Macroeconomic lag features covering CPI, unemployment, and earnings change R² by less than 0.0001. The best model, HistGradientBoosting v3, achieves R² = 0.6046 and MAE = €80,755 on 144,470 held-out observations.&amp;nbsp;\n&lt;/div&gt;\n&lt;div&gt;\n Originality This is the first population-scale machine learning study applied to the complete Irish Property Price Register. It introduces Bayesian out-of-fold target encoding of raw address strings as a geocoding-free geospatial method generalisable to any national transaction register, and delivers an ablation study isolating geospatial and macroeconomic modality contributions in the Irish residential market.\n&lt;/div&gt;\n&lt;div&gt;\n Research limitations/implications The study is constrained by the absence of floor area, bedroom count, and BER information for most transactions in the Irish Property Price Register.\n&lt;/div&gt;</jats:p>",
+        "DOI": "10.2139/ssrn.7244318",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Housing Price Prediction in Ireland: A Machine Learning Framework Integrating Geospatial Encodings and Macroeconomic Indicators"
+        ],
+        "author": [
+          {
+            "given": "Emmanuel",
+            "family": "Odedele",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Oladele",
+            "family": "Ajayi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.7244318",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>With the rise of Blockchain technology, the cryptocurrency market has been gaining significant interest. In particular, the number of cryptocurrency traders and the market capitalization have grown tremendously. However, predicting cryptocurrency price is very challenging and difficult due to the high price volatility. In this paper, we propose a classification machine learning approach in order to predict the direction of the market (i.e., if the market is going up or down). We identify key features such as Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) to feed the machine learning model. We illustrate our approach through the analysis of Bitcoin close price. We evaluate the proposed approach via different simulations. Particularly, we provide a backtesting strategy. The evaluation results show that the proposed machine learning approach provides buy and sell signals with more than 86% accuracy.</jats:p>",
+        "DOI": "10.20944/preprints202212.0188.v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Bitcoin Price Prediction using Machine Learning and Technical Indicators"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1377-1387",
+            "authenticated-orcid": false,
+            "given": "Abdelatif",
+            "family": "Hafid",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Abdelhakim",
+            "family": "Senhaji Hafid",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dimitrios",
+            "family": "Makrakis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.20944/preprints202212.0188.v1",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study presents a data-driven framework for analyzing the relationship between geopolitical risk and tourism demand using the Saudi Arabia Tourism Dataset (2015–2024). Due to the absence of explicit geopolitical indicators, the research constructs a tourism-instability proxy index derived from tourism volatility, spending fluctuations, and disruption periods to represent uncertainty conditions affecting tourism demand, including volatility in tourist arrivals, spending fluctuations, and shock indicators such as disruption periods. A two-stage machine learning pipeline is implemented to (i) predict the engineered GRI and (ii) evaluate its impact on tourism demand, measured by tourist numbers. Five algorithms—Extra Trees, Gradient Boosting, AdaBoost, K-Nearest Neighbors, and Ridge Regression—are applied and evaluated using MAE, RMSE, and R2. In Stage 1, predicting the GRI remains challenging, with the best model (Extra Trees) achieving R2 = 0.184, MAE = 0.168, and RMSE = 0.209, reflecting the complexity of modeling indirectly constructed risk. In Stage 2, performance improves significantly, with Extra Trees achieving R2 = 0.577, MAE = 1120.57, and RMSE = 2749.10, demonstrating strong predictive capability. The findings suggest that instability-sensitive tourism indicators may contain predictive information associated with tourism demand variations. Compared to existing studies that rely on external risk indices or normalized datasets, this research contributes a novel approach by engineering risk directly from tourism data and validating its predictive influence. The proposed framework provides practical insights for policymakers and tourism planners in managing uncertainty and supporting sustainable tourism development under dynamic geopolitical conditions.</jats:p>",
+        "DOI": "10.3390/su18115503",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Machine Learning-Based Tourism Demand Prediction Using Tourism Instability Indicators"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3298-6866",
+            "authenticated-orcid": false,
+            "given": "Ikhlas Fuad",
+            "family": "Zamzami",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Management Information Systems, College of Business Rabigh, King Abdulaziz University, Jeddah 21991, Saudi Arabia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Sustainability"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.3390/su18115503",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Construction project delays represent a complex issue driven by multiple interacting risk factors, making them difficult to predict using traditional approaches. This study develops a machine learning–based prediction model by incorporating various risk indicators related to cost, schedule, quality, and operational conditions. Historical project data are used to train multiple algorithms, including Decision Tree, Random Forest, and Support Vector Machine, which are evaluated using classification performance metrics. The results demonstrate that the Random Forest model achieves the highest accuracy among the tested algorithms. Feature importance analysis reveals that work progress deviation and payment delays are the most influential factors contributing to project delays. The proposed approach not only improves predictive performance but also enhances the understanding of critical risk drivers, enabling more proactive decision-making in construction project management.</jats:p>",
+        "DOI": "10.51903/g8dtmg04",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Machine Learning–Driven Prediction of Construction Project Delays Using Multi-Factor Risk Indicators in Infrastructure Development"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0005-3850-5842",
+            "authenticated-orcid": false,
+            "given": "Joseflim",
+            "family": "Marchel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0004-7742-4992",
+            "authenticated-orcid": false,
+            "given": "Budi",
+            "family": "Hartono",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-1895-7657",
+            "authenticated-orcid": false,
+            "given": "Agustinus Budi",
+            "family": "Santoso",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "Jurnal Rekayasa Sipil dan Arsitektur"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.51903/g8dtmg04",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              19
+            ]
+          ]
+        },
+        "DOI": "10.1109/amlds63918.2025.11159416",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Advancing Stock Price Prediction with Hybrid Machine Learning: A mixer of Sentiment and Financial Indicators"
+        ],
+        "author": [
+          {
+            "given": "Parth",
+            "family": "Monpara",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Nirma University,Institute of Technology,Electronics and Communication Engineering Department,Ahmedabad,Gujarat"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Nensi",
+            "family": "Thummar",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Nirma University,Institute of Technology,Electronics and Communication Engineering Department,Ahmedabad,Gujarat"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2025 International Conference on Advanced Machine Learning and Data Science (AMLDS)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/amlds63918.2025.11159416",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-981-99-9379-6_9",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Improving Students’ Achievement Prediction in Blended Learning Environments with Integrated Machine Learning Methods"
+        ],
+        "author": [
+          {
+            "given": "Yangyang",
+            "family": "Luo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yiran",
+            "family": "Cui",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Machine Learning in Educational Sciences"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-981-99-9379-6_9",
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n        <p>Paying attention to human activities in terms of land grazing infrastructure, crops, forest products and carbon impact, the so-called ecological impact (EF) is one of the most important economic issues in the world. In the present study, data from global databases were used. The ability of the penalized regression approach (PR including Ridge, Lasso and Elastic Net) and artificial neural network (ANN) to predict EF indices in the G-20 over the past two decades (1999–2018) was depicted and compared. For this purpose, 10-fold cross-validation was used to assess predictive performance and to specify a penalty parameter for PR models. Based on the results, a slight improvement in prediction performance was observed over linear regression. Using the Elastic Net model, more global macro indices were selected than Lasso. Although Lasso included only some indicators, it still had better predictive performance among PR models. Although the findings using PR methods were only slightly better than linear regression, their interest in selecting a subset of controllable indicators by shrinking the coefficients and creating a parsimonious model was apparent. As a result, penalized regression methods would be preferred, using feature selectivity and interpretive considerations rather than predictive performance alone. On the other hand, neural network-based models with higher values of coefficients of determination (R2) and values lower of RMSE than PR and OLS had significant performance and showed that they are more accurate in predicting EF. The results showed that the ANN network could provide considerable and appropriate predictions for EF indicators in the G-20 countries. predictions</p>",
+        "DOI": "10.21203/rs.3.rs-489246/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Ecological Footprint Prediction based on Global Macro Indicators in G-20 Countries using Machine Learning Approaches"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-2818-9277",
+            "authenticated-orcid": false,
+            "given": "Ahmad",
+            "family": "Roumiani",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Ferdowsi University of Mashhad"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Abbas",
+            "family": "Mofidi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ferdowsi University of Mashhad"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              24
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-489246/v1",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              24
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Stock price prediction is a challenging task, but machine learning methods have recently been used successfully for this purpose. In this paper, we extract over 270 hand-crafted features (factors) inspired by technical and quantitative analysis and tested their validity on short-term mid-price movement prediction. We focus on a wrapper feature selection method using entropy, least-mean squares, and linear discriminant analysis. We also build a quantitative feature based on adaptive logistic regression for online learning, which is constantly selected first among the majority of the proposed feature selection methods. This study examines the best combination of features using high frequency limit order book data from Nasdaq Nordic. Our results suggest that sorting methods and classifiers can be used in such a way that one can reach the best performance with a combination of only very few informative features. This paper opens avenues for developing more advanced features combined with more sophisticated feature selection methods. It also provides helpful insight to market makers and traders in general by providing useful results that can be used to gain an information edge in trading.</jats:p>",
+        "DOI": "10.2139/ssrn.3213389",
+        "type": "posted-content",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Mid-Price Prediction Based on Machine Learning Methods with Technical and Quantitative Indicators"
+        ],
+        "author": [
+          {
+            "given": "Adamantios",
+            "family": "Ntakaris",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7737-659X",
+            "authenticated-orcid": true,
+            "given": "Juho",
+            "family": "Kanniainen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Moncef",
+            "family": "Gabbouj",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alexandros",
+            "family": "Iosifidis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.3213389",
+        "published": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        },
+        "DOI": "10.1109/aimla59606.2024.10531454",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "A Machine Learning Approach to GDP Prediction by Analyzing Economic Indicators"
+        ],
+        "author": [
+          {
+            "given": "A.",
+            "family": "Thilaka",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "SRMIST,Faculty of Science and Humanities,Department of Computer Application,Chennai"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Sundaravalli",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Thavathiru Santhalinga Adigalar Arts and Science College,Coimbatore"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/aimla59606.2024.10531454",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The domain of dwelling prediction is historically done by exploiting typical linear regression methods; however, the relationship between price and property features exhibits complexity and non-linearity, which are not handled robustly by the existing research. Therefore, our study introduces various advanced regression techniques, including ensemble models that can learn non-linear data, handle outliers, and strongly predict residential prices. In the paper, we considered an open-source data record that includes 20 descriptive attributes and 21,613 records of property transactions in King County, USA, from May 2014 to May 2015. Data To provide a structured, correlated, and comprehensive dataset for training and testing, our data are subjected to pre-processing, feature engineering, data normalization, standardization, and exploratory data analysis. Furthermore, to increase the accuracy of the proposed model, hyperparameters are used to enforce the tuning of ensemble models. Finally, our results show that while doing automatic parameter tuning, XG-Boost provides the most optimum answer, having an accuracy of 90.18%. In comparison, the Cat-Boost method yielded an accuracy of 91.45%, outperforming other models by a small margin.</jats:p>",
+        "DOI": "10.2139/ssrn.4578707",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Residential Property Price Prediction Using Machine Learning by Social, Economic, and Physical Indicators"
+        ],
+        "author": [
+          {
+            "given": "Jaskirat",
+            "family": "Singh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0822-1532",
+            "authenticated-orcid": true,
+            "given": "Pranshu",
+            "family": "Saxena",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Puneet  Kumar",
+            "family": "Aggarwal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Parita",
+            "family": "Jain",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4578707",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.mlwa.2026.100883",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Dual stream deep learning for fake news-aware stock prediction: Integrating technical indicators and sentiment analysis"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5902-2907",
+            "authenticated-orcid": false,
+            "given": "Ahmed",
+            "family": "Arafa",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ahmed",
+            "family": "Fathi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mohamed A.",
+            "family": "El-Rashidy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nawal",
+            "family": "El-Fishawy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Machine Learning with Applications"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.mlwa.2026.100883",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The rapid digitalization of higher education has generated extensive datasets encompassing academic performance, behavioral patterns, and socio-emotional indicators. Traditional assessment frameworks fail to fully leverage these data streams, limiting the ability to anticipate student success, retention, and engagement. Predictive analytics and machine learning provide robust methodologies for modeling complex, nonlinear relationships among diverse educational variables, enabling proactive interventions and evidence-based decision-making. This chapter presents a comprehensive exploration of predictive models, including supervised, unsupervised, and ensemble techniques, and examines their application in forecasting academic performance, identifying at-risk students, and enhancing institutional strategies. Special emphasis is placed on feature engineering, data preprocessing challenges, and the integration of multimodal datasets, encompassing behavioral, cognitive, and contextual factors. The chapter also addresses model interpretability and ethical considerations, demonstrating the use of explainable AI frameworks to ensure transparency, fairness, and actionable insights for educators and administrators. Comparative analyses of model performance highlight the trade-offs between predictive accuracy and interpretability, while case studies illustrate practical implementation across diverse higher education settings. By bridging pedagogical theories with computational methodologies, this work establishes a holistic framework for leveraging data-driven intelligence to improve learning outcomes and institutional effectiveness. The insights provided offer guidance for researchers, policymakers, and educational practitioners seeking to implement scalable and ethical predictive systems in modern academic environments.</jats:p>",
+        "DOI": "10.71443/9789349552258-11",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Predictive Analytics and Machine Learning Models for Assessing Educational Outcomes in Higher Education"
+        ],
+        "author": [
+          {
+            "given": "E",
+            "family": "Manigandan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "K.A",
+            "family": "Dhamotharan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "AI, Machine Learning, and IoT Applications for Academic Performance Prediction, Faculty Well-Being, and Educational Outcomes in Higher Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.71443/9789349552258-11",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Predicting student placement and forecasting career trajectories have become critical challenges in higher education due to the increasing complexity of skill requirements and dynamic labor market demands. Traditional statistical approaches often fail to capture the multifactorial determinants of employability, including academic performance, behavioral traits, and industry-aligned competencies. Machine learning (ML) and hybrid modeling frameworks provide advanced solutions by integrating multiple algorithms to handle nonlinear relationships, heterogeneous datasets, and temporal variations in student development. This chapter presents a comprehensive analysis of ML and hybrid models for placement prediction, emphasizing ensemble learning, deep neural networks, and graph-based architectures. Techniques for feature selection, importance evaluation, and model interpretability are explored to ensure actionable insights for academic administrators and career counselors. Comparative evaluation highlights the advantages of hybrid frameworks in achieving higher accuracy, robustness, and generalizability across diverse institutional contexts. The chapter also examines the integration of explainable AI for transparent decision-making and dynamic adaptation to evolving skill requirements, supporting evidence-based interventions for personalized career guidance. The proposed framework establishes a foundation for AI-driven educational analytics, offering scalable and interpretable solutions that align student potential with professional opportunities.</jats:p>",
+        "DOI": "10.71443/9789349552258-05",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Machine Learning and Hybrid Models for Placement Prediction and Career Path Forecasting"
+        ],
+        "author": [
+          {
+            "given": "Rohini",
+            "family": "Chittakula",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "C.",
+            "family": "Senthilkumar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "AI, Machine Learning, and IoT Applications for Academic Performance Prediction, Faculty Well-Being, and Educational Outcomes in Higher Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.71443/9789349552258-05",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Reliable prediction of water quality can strengthen environmental monitoring by integrating conventional measurements with data-driven analytical approaches. This study evaluated the capacity of physicochemical, environmental, spatial, and hydrological indicators to predict an integrated water-quality score using machine-learning regression. The analysis included 36 complete observations from Anuppur, Dindori, and Jabalpur and incorporated indicators of oxygen conditions, organic loading, nutrients, ionic composition, microbiological contamination, rainfall, water level, season, and location. Four algorithms—Ridge Regression, Random Forest, Gradient Boosting, and Decision Tree Regression—were evaluated using six-fold cross-validation. Distinct spatial patterns were observed, with Jabalpur recording the highest mean water-quality impairment score and Anuppur the lowest. Total coliform, phosphate, BOD, conductivity, dissolved solids, and COD showed strong positive associations with the integrated outcome. Ridge Regression achieved the strongest overall predictive performance (R² = 0.603; RMSE = 6.98; MAE = 5.01), while Random Forest produced the lowest MAE (4.93). The findings demonstrate that a parsimonious machine-learning framework can capture meaningful water-quality variability from multidimensional environmental measurements. Although the limited sample size constrains generalizability, the approach provides a practical basis for identifying influential indicators and supporting targeted water-quality monitoring.</jats:p>",
+        "DOI": "10.69980/as.v12i03.6804",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "MACHINE LEARNING-BASED PREDICTION OF WATER QUALITY USING PHYSICOCHEMICAL AND ENVIRONMENTAL INDICATORS"
+        ],
+        "author": [
+          {
+            "given": "Dr. Rakhi",
+            "family": "Dua",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "container-title": [
+          "IJRDO - Journal of Applied Science"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.69980/as.v12i03.6804",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.62891/8e51a710",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Stroke Risk Prediction Machine Learning Techniques"
+        ],
+        "author": [
+          {
+            "given": "Raj",
+            "family": "Ankit",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.62891/8e51a710",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecolind.2017.10.032",
+        "type": "journal-article",
+        "is-referenced-by-count": 21,
+        "title": [
+          "Dynamic selection of environmental variables to improve the prediction of aphid phenology: A machine learning approach"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-9773-4531",
+            "authenticated-orcid": false,
+            "given": "Paul",
+            "family": "Holloway",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3359-3255",
+            "authenticated-orcid": false,
+            "given": "Daniel",
+            "family": "Kudenko",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1640-6120",
+            "authenticated-orcid": false,
+            "given": "James R.",
+            "family": "Bell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Ecological Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ecolind.2017.10.032",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Writing in L2 is both crucial and difficult for teachers and students since most of the assessment in higher education is in written form. The production of texts as well as providing feedback to them requires time and effort on both sides. For this reason, prediction of future L2 writing performance in advance may prove quite useful both for teachers and students and the information obtained can be used for failure prevention. In this respect, the present study aims to train a machine learning model which used demographic and psychometric data to predict end-of-term L2 writing performance on a Pass/Fail basis. Secondly, the study aimed to find out if synthetically augmenting available data would increase prediction accuracy. The data were collected in the beginning of the semester from 102 students of English Language Teaching in Turkey. L2 writing performance was measured at the end of the semester. The findings indicated that Instance-Bases Learning with Parameter K algorithm could accurately predict L2 writing performance in advance. Moreover, artificial augmentation of the data was seen to increase prediction accuracy. The findings bear implications for the effective prevention of student failure by detecting poor performance in advance.</jats:p>",
+        "DOI": "10.26634/jet.17.2.16840",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Future Prediction Of L2 Writing Performance: A Machine Learning Approach"
+        ],
+        "container-title": [
+          "i-manager's Journal of Educational Technology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.26634/jet.17.2.16840",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1016/b978-0-12-398537-8.00015-8",
+        "type": "book-chapter",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Conformal Prediction for Reliable Machine Learning"
+        ],
+        "container-title": [
+          "Conformal Prediction for Reliable Machine Learning"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/b978-0-12-398537-8.00015-8",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1016/b978-0-12-398537-8.00014-6",
+        "type": "book-chapter",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Conformal Prediction for Reliable Machine Learning"
+        ],
+        "container-title": [
+          "Conformal Prediction for Reliable Machine Learning"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/b978-0-12-398537-8.00014-6",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecolind.2023.110611",
+        "type": "journal-article",
+        "is-referenced-by-count": 51,
+        "title": [
+          "Spatial and temporal variation and prediction of ecological carrying capacity based on machine learning and PLUS model"
+        ],
+        "author": [
+          {
+            "given": "Ze",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Baoqing",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Weiguo",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haihong",
+            "family": "Qiu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Ecological Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ecolind.2023.110611",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This study proposes a predictive framework for forecasting Solana cryptocurrency prices using a Long Short-Term Memory (LSTM) model and compares its performance with several machine learning approaches, including Linear Regression, Ridge Regression, Random Forest, Extra Trees, and Gradient Boosting. Historical price data were enhanced with technical indicators such as moving averages, Relative Strength Index (RSI), and Moving Average Convergence Divergence (MACD) to improve feature representation. Model performance was evaluated using Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), and the coefficient of determination (R²). The results show that Linear Regression achieved the best overall performance, producing the lowest error values and highest R² score, while the LSTM model exhibited the lowest predictive accuracy. These findings indicate that simpler machine learning models can outperform deep learning approaches when the dataset is limited and the features are highly informative. Furthermore, feature importance analysis reveals that fundamental price variables such as Close, Open, High, and Low contribute more significantly to prediction performance than complex technical indicators. Overall, the study highlights the importance of aligning model complexity with data characteristics and demonstrates that effective feature engineering plays a critical role in improving cryptocurrency price prediction accuracy.</jats:p>",
+        "DOI": "10.63913/ftij.v2i4.45",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Comparative Analysis of Machine Learning and LSTM Models for Solana Price Prediction Using Technical Indicators"
+        ],
+        "author": [
+          {
+            "given": "R.",
+            "family": "Elavarasi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "Fintech Innovation Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.63913/ftij.v2i4.45",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1109/icmlt69916.2026.11689186",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Hybrid Deep Learning Approach to Stock Movement Prediction Using Financial LLMS and Market Indicators"
+        ],
+        "author": [
+          {
+            "given": "Ahmed",
+            "family": "Sheikh",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Ontario Tech University",
+                "place": [
+                  "Ontario, Canada"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rehan",
+            "family": "Khan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Engineering & Technology",
+                "place": [
+                  "Taxila, Punjab, Pakistan"
+                ],
+                "department": [
+                  "Department of Computer Science"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2026 11th International Conference on Machine Learning Technologies (ICMLT)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/icmlt69916.2026.11689186",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecolind.2025.114586",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fishery knowledge-guided machine learning for spatial prediction of catch-per-unit-effort"
+        ],
+        "author": [
+          {
+            "given": "Runze",
+            "family": "Shi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mingyang",
+            "family": "Xie",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Bin",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xinjun",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Wei",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jintao",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Ecological Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ecolind.2025.114586",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Introduction: This research focuses on the comprehensive exploration of technical indicators for stock market prediction, leveraging machine learning and reinforcement learning methodologies. The study aims to examine these indicators in detail, evaluate their relevance and utility, and assess their integration into predictive models. The research also investigates the efficacy of machine learning algorithms and reinforcement learning agents in forecasting stock market trends. Accurate stock market prediction is crucial in financial markets, where informed decision-making, risk management, and capital allocation depend on precise and timely forecasts. The complexity of financial markets necessitates advanced computational techniques, positioning the application of machine learning and reinforcement learning as a vital area of study.\r\nThe research involves a rigorous analysis of technical indicators, evaluating their historical performance and predictive capabilities. Machine learning models are empirically tested to determine their effectiveness in leveraging these indicators for enhanced forecast accuracy. Additionally, the study explores the innovative use of reinforcement learning agents, which autonomously navigate market complexities using historical data and reward-driven mechanisms. The findings contribute to a deeper understanding of technical indicators and provide empirical evidence for the effectiveness of machine learning and reinforcement learning models in stock market prediction.\r\nBy emphasizing the empirical nature of the study, this research offers a valuable resource for financial market practitioners and researchers aiming to harness advanced technologies for strategic decision-making. It underscores the potential of these technologies to transform investment strategies in an increasingly data-driven financial environment, marking a significant contribution to the field of financial technology</jats:p>",
+        "DOI": "10.52783/cana.v32.3285",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "In-Depth Exploration of Technical Indicators for Stock Market Prediction Using Machine Learning and Reinforcement Learning"
+        ],
+        "author": [
+          {
+            "family": "Chandrayani Rokde",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Communications on Applied Nonlinear Analysis"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.52783/cana.v32.3285",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Educational data mining has become an effective tool for exploring the hidden relationships in educational data and predicting students' academic achievements. This study proposes a new model based on machine learning algorithms to predict the final exam grades of undergraduate students, taking their midterm exam grades as the source data. The performances of the random forests, nearest neighbour, support vector machines, logistic regression, Naïve Bayes, and k-nearest neighbour algorithms, which are among the machine learning algorithms, were calculated and compared to predict the final exam grades of the students. The dataset consisted of the academic achievement grades of 1854 students who took the Turkish Language-I course in a state University in Turkey during the fall semester of 2019–2020. The results show that the proposed model achieved a classification accuracy of 70–75%. The predictions were made using only three types of parameters; midterm exam grades, Department data and Faculty data. Such data-driven studies are very important in terms of establishing a learning analysis framework in higher education and contributing to the decision-making processes. Finally, this study presents a contribution to the early prediction of students at high risk of failure and determines the most effective machine learning methods.</jats:p>",
+        "DOI": "10.1186/s40561-022-00192-z",
+        "type": "journal-article",
+        "is-referenced-by-count": 633,
+        "title": [
+          "Educational data mining: prediction of students' academic performance using machine learning algorithms"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2911-3909",
+            "authenticated-orcid": false,
+            "given": "Mustafa",
+            "family": "Yağcı",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Smart Learning Environments"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1186/s40561-022-00192-z",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.53555/kuey.v29i2.4230",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Revolutionizing EV Sustainability: Machine Learning Approaches To Battery Maintenance Prediction"
+        ],
+        "author": [
+          {
+            "given": "Srinivas Naveen",
+            "family": "Reddy Dolu Surabhi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Educational Administration Theory and Practices"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.53555/kuey.v29i2.4230",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.64388/irev9i9-1714882",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Student Retention Risk Prediction Using Machine Learning and Educational Analytics"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Iconic Research and Engineering Journals"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.64388/irev9i9-1714882",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecolind.2025.113517",
+        "type": "journal-article",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Decoding Flow-Ecology Relationships: A Machine learning framework for flow regime Characterization and riparian vegetation prediction"
+        ],
+        "author": [
+          {
+            "given": "Yifan",
+            "family": "Huang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiang",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jing",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Liangkun",
+            "family": "Deng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yilun",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Ecological Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ecolind.2025.113517",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5748528",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Enhancing thermal comfort prediction in an educational building via SMOTER and GA-optimized machine learning models"
+        ],
+        "author": [
+          {
+            "given": "paria",
+            "family": "movahed",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ali",
+            "family": "Razban",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5748528",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.indic.2024.100374",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Application of machine learning in sanitation management prediction: Approaches for achieving sustainable development goals"
+        ],
+        "author": [
+          {
+            "given": "Achara",
+            "family": "Taweesan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thammarat",
+            "family": "Koottatep",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thongchai",
+            "family": "Kanabkaew",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chongrak",
+            "family": "Polprasert",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Environmental and Sustainability Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.indic.2024.100374",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.1109/icet67421.2025.11380557",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Machine Learning Driven Undergraduate Thesis Grade Prediction Supporting Educational Decisions"
+        ],
+        "author": [
+          {
+            "given": "Xiang",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Southwest University,School of Artificial Intelligence,Chongqing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lidan",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Southwest University,School of Artificial Intelligence,Chongqing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shukai",
+            "family": "Duan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Southwest University,School of Artificial Intelligence,Chongqing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Feng",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Southwest University,School of Artificial Intelligence,Chongqing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2025 5th International Conference on Educational Technology (ICET)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/icet67421.2025.11380557",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p xml:lang=\"en\">This study explores the use of machine learning techniques to evaluate and predict psychoacoustic noise characteristics associated with pass-by road traffic events. Using a dataset comprising various acoustic and psychoacoustic parameters such as LAeq, FS50, L10, L90, and spectral indicators, a comprehensive analysis was conducted to assess their predictive potential. Gradient Boosting, Random Forest, and ARIMA models were employed for different tasks, including both classification and time-series forecasting. In addition, feature engineering techniques were used to create composite variables and enhance model input quality, while sequence-based learning methods allowed for temporal dynamics to be captured. The best-performing Gradient Boosting model achieved R² = 0.63 and MAE = 0.122 in predicting LAeq and FS50 indicators. The dataset used consisted of 1,200 pass-by noise events from an open-access repository, including both acoustic (LAeq, L10, L90) and psychoacoustic (FS50, R50, N50, S50) metrics. The results highlight the capability of machine learning not only to improve the accuracy of psychoacoustic modeling but also to support real-time, perception-aware urban noise monitoring systems. Such approaches can enable more responsive and adaptive noise management strategies in smart city planning. These findings demonstrate the potential of ML-based models to inform proactive urban noise management and public health strategies.</jats:p>",
+        "DOI": "10.21923/jesd.1675666",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "MACHINE LEARNING-BASED ASSESSMENT AND PREDICTION OF PSYCHOACOUSTIC INDICATORS OF ROAD TRAFFIC NOISE"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7734-2365",
+            "authenticated-orcid": true,
+            "given": "Şebnem",
+            "family": "Karahançer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Isparta Uygulamalı Bilimler Üniversitesi"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Mühendislik Bilimleri ve Tasarım Dergisi"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21923/jesd.1675666",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              15
+            ]
+          ]
+        },
+        "DOI": "10.1201/9781003126898-1",
+        "type": "book-chapter",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Machine Learning"
+        ],
+        "author": [
+          {
+            "given": "S.",
+            "family": "Sowmyayani",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Prediction and Analysis for Knowledge Representation and Machine Learning"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9781003126898-1",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              14
+            ]
+          ]
+        },
+        "DOI": "10.1201/9781351227544-46",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Application of machine learning algorithms to improve stock prediction using technical indicators"
+        ],
+        "author": [
+          {
+            "given": "R.K.",
+            "family": "Dhanya",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "V.S.",
+            "family": "Unnikrishnan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Recent Advances in Materials, Mechanics and Management"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9781351227544-46",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              14
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecolind.2024.112361",
+        "type": "journal-article",
+        "is-referenced-by-count": 38,
+        "title": [
+          "Machine learning and explainable AI for chlorophyll-a prediction in Namhan River Watershed, South Korea"
+        ],
+        "author": [
+          {
+            "given": "Ji Woo",
+            "family": "Han",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "TaeHo",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sangchul",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7138-4046",
+            "authenticated-orcid": false,
+            "given": "Taegu",
+            "family": "Kang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jong Kwon",
+            "family": "Im",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Ecological Indicators"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ecolind.2024.112361",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              9
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

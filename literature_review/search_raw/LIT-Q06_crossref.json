@@ -1,0 +1,2500 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4813669,
+    "items": [
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        },
+        "DOI": "10.1037/e644532007-001",
+        "type": "dataset",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cross-Validation of Indicators of Cognitive Workload"
+        ],
+        "author": [
+          {
+            "given": "Sandra P.",
+            "family": "Marshall",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mike",
+            "family": "Bartels",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "PsycEXTRA Dataset"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1037/e644532007-001",
+        "published": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.31274/cc-20240624-413",
+        "type": "report",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Conformal prediction intervals for neural networks using cross validation"
+        ],
+        "author": [
+          {
+            "given": "Saeed",
+            "family": "Khaki",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.31274/cc-20240624-413",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Cross-validation of methods is an essential component of genome-enabled prediction of complex traits. We develop formulae for computing the predictions that would be obtained when one or several cases are removed in the training process, to become members of testing sets, but by running the model using all observations only once. Prediction methods to which the developments apply include least squares, best linear unbiased prediction (BLUP) of markers, or genomic BLUP, reproducing kernels Hilbert spaces regression with single or multiple kernel matrices, and any member of a suite of linear regression methods known as “Bayesian alphabet.” The approach used for Bayesian models is based on importance sampling of posterior draws. Proof of concept is provided by applying the formulae to a wheat data set representing 599 inbred lines genotyped for 1279 markers, and the target trait was grain yield. The data set was used to evaluate predictive mean-squared error, impact of alternative layouts on maximum likelihood estimates of regularization parameters, model complexity, and residual degrees of freedom stemming from various strengths of regularization, as well as two forms of importance sampling. Our results will facilitate carrying out extensive cross-validation without model retraining for most machines employed in genome-assisted prediction of quantitative traits.</jats:p>",
+        "DOI": "10.1534/g3.116.033381",
+        "type": "journal-article",
+        "is-referenced-by-count": 50,
+        "title": [
+          "Cross-Validation Without Doing Cross-Validation in Genome-Enabled Prediction"
+        ],
+        "author": [
+          {
+            "given": "Daniel",
+            "family": "Gianola",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Animal Sciences, University of Wisconsin-Madison, Wisconsin 53706"
+              },
+              {
+                "name": "Department of Animal Sciences, University of Wisconsin-Madison, Wisconsin 53706"
+              },
+              {
+                "name": "Department of Dairy Science, University of Wisconsin-Madison, Wisconsin 53706"
+              },
+              {
+                "name": "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Wisconsin 53706"
+              },
+              {
+                "name": "Department of Plant Sciences, Technical University of Munich School of Life Sciences, Technical University of Munich, Garching, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chris-Carolin",
+            "family": "Schön",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Plant Sciences, Technical University of Munich School of Life Sciences, Technical University of Munich, Garching, Germany"
+              },
+              {
+                "name": "Institute of Advanced Study, Technical University of Munich, Garching, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "G3 Genes|Genomes|Genetics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1534/g3.116.033381",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "DOI": "10.5220/0014324900004718",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Comprehensive Study on Housing Price Prediction in Beijing: How Validation Strategies and Macroeconomic Indicators Shape Forecasting"
+        ],
+        "author": [
+          {
+            "given": "Huayang",
+            "family": "Bao",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Overseas Chinese College, Capital University of Economics and Business, Beijing, China, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of the 2nd International Conference on Engineering Management, Information Technology and Intelligence"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5220/0014324900004718",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper considers the model averaging prediction in a quasi-likelihood framework that allows for parameter uncertainty and model misspecification. We propose an averaging prediction that selects the data-driven weights by minimizing a K-fold cross-validation. We provide two theoretical justifications for the proposed method. First, when all candidate models are misspecified, we show that the proposed averaging prediction using K-fold cross-validation weights is asymptotically optimal in the sense of achieving the lowest possible prediction risk. Second, when the model set includes correctly specified models, we demonstrate that the proposed K-fold cross-validation asymptotically assigns all weights to the correctly specified models. Monte Carlo simulations show that the proposed averaging prediction achieves lower empirical risk than other existing model averaging methods. As an empirical illustration, the proposed method is applied to credit card default prediction.</jats:p>",
+        "DOI": "10.2139/ssrn.4032249",
+        "type": "posted-content",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Model Averaging Prediction by K-Fold Cross-Validation"
+        ],
+        "author": [
+          {
+            "given": "Xinyu",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0001-6718-2430",
+            "authenticated-orcid": true,
+            "given": "Chu-An",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4032249",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.32388/emr296",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review of: \"CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators\""
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6368-373X",
+            "authenticated-orcid": true,
+            "given": "Cristian",
+            "family": "Cosentino",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32388/emr296",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              28
+            ]
+          ]
+        },
+        "DOI": "10.32388/ppw84z",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review of: \"CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators\""
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3702-3743",
+            "authenticated-orcid": true,
+            "given": "Nadeem",
+            "family": "Malibari",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32388/ppw84z",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.32388/mo17nr",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review of: \"CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators\""
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-4781-312X",
+            "authenticated-orcid": true,
+            "given": "Arati",
+            "family": "Kamat",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32388/mo17nr",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.32388/1fnu7j",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review of: \"CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators\""
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5030-334X",
+            "authenticated-orcid": true,
+            "given": "Krzysztof",
+            "family": "Wołk",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32388/1fnu7j",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Cryptocurrencies fluctuate in markets with high price volatility, which becomes a great challenge for investors. To aid investors in making informed decisions, systems predicting cryptocurrency market movements have been developed, commonly framed as feature-driven regression problems that focus solely on historical patterns favored by domain experts. However, these methods overlook three critical factors that significantly influence the cryptocurrency market dynamics: 1) the macro investing environment, reflected in major cryptocurrency fluctuations, which can affect investors’ collaborative behaviors, 2) overall market sentiment, heavily influenced by news, which impacts investors’ strategies, and 3) technical indicators, which offer insights into overbought or oversold conditions, momentum, and market trends are often ignored despite their relevance in shaping short-term price movements. In this paper, we propose a dual prediction mechanism that enables the model to forecast the next day’s closing price by incorporating macroeconomic fluctuations, technical indicators, and individual cryptocurrency price changes. Furthermore, we introduce a novel refinement mechanism that enhances the prediction through market sentiment-based rescaling and fusion. In experiments, the proposed model achieves state-of-the-art performance (SOTA), consistently outperforming ten comparison methods in most cases. Our code and data can be found at https://github.com/aamitssharma07/SAL-Cryptopulse</jats:p>",
+        "DOI": "10.32388/bgdg23",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0002-5926-0213",
+            "authenticated-orcid": true,
+            "given": "Amit",
+            "family": "Kumar",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Taoran",
+            "family": "Ji",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32388/bgdg23",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1109/icesc51422.2021.9533030",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "Empirical Validation of cross-version and 10-fold cross-validation for Defect Prediction"
+        ],
+        "author": [
+          {
+            "given": "Ruchika",
+            "family": "Malhotra",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shweta",
+            "family": "Meena",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2021 Second International Conference on Electronics and Sustainable Communication Systems (ICESC)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/icesc51422.2021.9533030",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "DOI": "10.5220/0009396100470057",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Learner Performance Prediction Indicators based on Machine Learning"
+        ],
+        "author": [
+          {
+            "given": "Karim",
+            "family": "Sehaba",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Université de Lyon, CNRS. Université Lyon 2, LIRIS, UMR5205, F-69676, France, --- Select a Country ---"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of the 12th International Conference on Computer Supported Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5220/0009396100470057",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781009702799.004",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Prediction Error, Cross-Validation, and Model Selection"
+        ],
+        "container-title": [
+          "All of Regression"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1017/9781009702799.004",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              22
+            ]
+          ]
+        },
+        "DOI": "10.32388/zjkfvf",
+        "type": "peer-review",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review of: \"CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators\""
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-8280-2813",
+            "authenticated-orcid": true,
+            "given": "Guilherme Sousa",
+            "family": "Bastos",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32388/zjkfvf",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Lung cancer is known as lung carcinoma. It is a disease which is malignant tumor leading to the uncontrolled cell growth in the lung tissue. Lung Cancer disease is one of the most prominent cause of death in all over world. Early detection of this disease can assist medical care unit as well as physicians to provide counter measures to the patients. The objective of this paper is to approach an automated tool that takes influential causes of lung cancer as input and detect patients with higher probabilities of being affected by this disease. A neural network classifier accompanied by cross-validation technique is proposed in this paper as a predictive tool. Later, this proposed method is compared with another baseline classifier Gradient Boosting Classifier in order to justify the prediction performance.</jats:p>",
+        "DOI": "10.20944/preprints202006.0333.v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 8,
+        "title": [
+          "Early Lung Cancer Prediction Using Neural Network with Cross-Validation"
+        ],
+        "author": [
+          {
+            "given": "Samir",
+            "family": "Bandyopadhyay",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shawni",
+            "family": "Dutta",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.20944/preprints202006.0333.v1",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Context: Green software engineering has emerged as a response to the growing energy footprint of software systems, yet little work automatically predicts which code commits will regress a project&amp;apos;s energy consumption.Objective: We investigate whether standard, randomly-split evaluation protocols overstate the real-world predictive performance of machine-learning models for this task relative to a realistic, project-disjoint evaluation, and construct the benchmark needed to test this.Method: We build a cross-project benchmark of 3,684 commit transitions across nine open-source projects (seven Java, two Go) by mining diff-based features and combining them with the publicly released EnergyTrackr energy measurements. Regression labels are statistically gated using a Mann-Whitney U test and Cliff&amp;apos;s delta effect size on raw per-commit measurement samples. We compare three evaluation protocols – naive random-split, leakage-aware leave-one-project-out, and a stricter cluster-disjoint redesign – using pooled out-of-fold bootstrap significance testing, a false-discovery-rate correction on the labeling procedure, a feature-ablation study, and a manual audit of a sample of labeled regressions.Results: Naive evaluation overstates predictive performance relative to the leakage-aware protocol (pooled out-of-fold ROC-AUC 0.675 vs. 0.506; bootstrap gap 0.168, 95% CI [0.112, 0.232], p &lt; 0.0001), consistently across Random Forest, XGBoost, and logistic regression. A feature ablation attributes roughly 62% of the gap to one project-identity-correlated feature, with a smaller, still-significant residual gap reflecting genuine cross-project generalization difficulty rather than near-duplicate memorization. Manual verification found only half of a sampled set of labeled regressions correspond to plausible genuine code-efficiency changes, with the remainder attributable to release-metadata commits and test-suite-size growth.Conclusion: We release the benchmark, labeling protocol, and evaluation code, and recommend that project-grouped evaluation, pooled bootstrap significance testing, and label-artifact screening become standard practice for machine-learning-based energy-regression prediction research.</jats:p>",
+        "DOI": "10.2139/ssrn.7299986",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does Naive Cross-Validation Inflate Software Energy-Regression Prediction? A Leakage-Aware, Statistically-Gated, Cross-Project Empirical Study"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0004-0424-1028",
+            "authenticated-orcid": true,
+            "given": "Rahat  Ahmed",
+            "family": "Jobu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.7299986",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Polymorphic malware presents a fundamental identification problem for digital forensic investigation: every replication cycle generates a unique cryptographic hash, so a seized binary that returns no database match cannot be attributed to a known family through conventional means. Execution-free alternatives are needed, yet no systematic cross-family framework has been established for this purpose. This paper addresses that gap directly.We analysed a corpus of 362 PE binaries — 316 malware samples drawn from eight documented families and 46 benign executables — using a static extraction pipeline that computes 99 structural features without loading any file as executable code. Visibility rates with Wilson 95% confidence intervals were computed per family; 1,152 pairwise comparisons underwent Benjamini-Hochberg false discovery rate correction. Thirteen features met the Tier 1 threshold of ≥80% visibility in at least one family.A finding that emerged during baseline validation carries particular methodological weight. Pestudio v9.7, a legitimate PE analysis tool in daily use by forensic practitioners, triggered three Tier 1 indicators simultaneously — unpacking imports, anti-analysis imports, and dynamic API strings. This result was not anticipated at the outset; it arose because Pestudio was included in the benign baseline alongside standard Windows system binaries, and it shares functional import requirements with packed malware. The finding demonstrates empirically that single-feature attribution is insufficient regardless of tier classification, and it motivates the convergent, multi-layer attribution requirement that is the methodological core of this framework.The three-tier operability framework connects feature visibility rates to investigation context, distinguishing Tier 1-Anchor features (FPR ≤10%, causally grounded) from Tier 1-High features (FPR &gt;10%, valid only in convergent profiles). Temporal analysis across compile-year eras revealed measurable profile drift — Emotet&amp;apos;s no_protections rate declined from 92% in 2015–2019 to 15% in 2020–2022 — confirming that profiles require periodic revision. Machine learning validation on a stratified 100,000-sample subsample from SOREL-20M confirmed that the manually identified structural categories carry discriminating power at population scale, with XGBoost achieving ROC-AUC 0.9961. The performance gap between tree-based and linear models independently validates the profile-based attribution premise: it is feature convergence, not additive individual contributions, that discriminates.The framework produces statistically grounded, legally defensible attribution evidence suitable for inclusion in forensic examination reports and expert testimony, providing an execution-free triage-to-attribution pathway for cases in which hash identification has failed.</jats:p>",
+        "DOI": "10.2139/ssrn.6759650",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Structural Packer Invariants as Forensic Indicators for Polymorphic Malware Attribution: A Cross-Family Visibility Framework with Machine Learning Validation"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0008-6933-6377",
+            "authenticated-orcid": true,
+            "given": "Ujjval",
+            "family": "Rana",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6759650",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>Incorporating measurements on correlated traits into genomic prediction models can increase prediction accuracy and selection gain. However, multi-trait genomic prediction models are complex and prone to overfitting which may result in a loss of prediction accuracy relative to single-trait genomic prediction. Cross-validation is considered the gold standard method for selecting and tuning models for genomic prediction in both plant and animal breeding. When used appropriately, cross-validation gives an accurate estimate of the prediction accuracy of a genomic prediction model, and can effectively choose among disparate models based on their expected performance in real data. However, we show that a naive cross-validation strategy applied to the multi-trait prediction problem can be severely biased and lead to sub-optimal choices between single and multi-trait models when secondary traits are used to aid in the prediction of focal traits and these secondary traits are measured on the individuals to be tested. We use simulations to demonstrate the extent of the problem and propose three partial solutions: 1) a parametric solution from selection index theory, 2) a semi-parametric method for correcting the cross-validation estimates of prediction accuracy, and 3) a fully non-parametric method which we call CV2*: validating model predictions against focal trait measurements from genetically related individuals. The current excitement over high-throughput phenotyping suggests that more comprehensive phenotype measurements will be useful for accelerating breeding programs. Using an appropriate cross-validation strategy should more reliably determine if and when combining information across multiple traits is useful.</jats:p>",
+        "DOI": "10.1101/595397",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Pitfalls and Remedies for Cross Validation with Multi-trait Genomic Prediction Methods"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3008-9312",
+            "authenticated-orcid": false,
+            "given": "Daniel",
+            "family": "Runcie",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5146-7231",
+            "authenticated-orcid": false,
+            "given": "Hao",
+            "family": "Cheng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/595397",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.32614/cran.package.popvar",
+        "type": "dataset",
+        "is-referenced-by-count": 4,
+        "title": [
+          "PopVar: Genomic Breeding Tools: Genetic Variance Prediction and Cross-Validation"
+        ],
+        "author": [
+          {
+            "given": "Tyler",
+            "family": "Tiede",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1991-5310",
+            "authenticated-orcid": true,
+            "given": "Jeffrey",
+            "family": "Neyhart",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "CRAN: Contributed Packages"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32614/cran.package.popvar",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1080/03634523.2016.1202994",
+        "type": "journal-article",
+        "is-referenced-by-count": 48,
+        "title": [
+          "Development and validation of the clarity indicators scale"
+        ],
+        "author": [
+          {
+            "given": "San",
+            "family": "Bolkan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Communication Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/03634523.2016.1202994",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              28
+            ]
+          ]
+        },
+        "DOI": "10.32614/cran.package.crossvalidate",
+        "type": "dataset",
+        "is-referenced-by-count": 0,
+        "title": [
+          "CrossValidate: Classes and Methods for Cross Validation of \"Class Prediction\" Algorithms"
+        ],
+        "author": [
+          {
+            "given": "Kevin R.",
+            "family": "Coombes",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "CRAN: Contributed Packages"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32614/cran.package.crossvalidate",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This study tests whether computational text indicators of epistemic norms add out-of-sample predictive value for normalized academic results beyond a weak baseline of directly observed household/resource indicators.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>Data comprise 263 students observed in two waves across five sites. Prediction uses 263 follow-up records. The baseline contains seven observed indicators. Archived epistemic counts were generated through pre-assigned mappings for closed items and LDA/topic-model-assisted processing for open responses. A deterministic 10-fold split (seed 60126) evaluated raw counts, within-fold PCA, and fixed outcome-independent ENA coordinates using pooled OOF R2, RMSE and MAE.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>No epistemic specification reliably improved the baseline. Pooled OOF R2 was −0.009 (M0), −0.065 (M1), −0.032 (M1-PCA) and −0.008 (M2). M1 significantly worsened MAE after Holm correction; H1 and H2 were not supported.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>The baseline is weak, no prior-achievement variable is available, corpus-level reliability of automated epistemic variables is unknown, ENA coordinates were fixed before resampling, and program representation is imbalanced.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>The indicators should not be used for high-stakes decisions without prospective measurement, subgroup-fairness and instructional-utility validation.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The study provides an auditable reporting object linking feature provenance, leakage risk, resampling controls and reporting requirements, and shows why null or adverse predictive results should be retained.</jats:p>\n                  </jats:sec>",
+        "DOI": "10.1108/jarhe-03-2026-0387",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Computational text indicators of epistemic norms in higher education: auditable cross-validated prediction against a weak observed household-resource baseline"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0003-7032-203X",
+            "authenticated-orcid": true,
+            "given": "Eduardo Antonio",
+            "family": "Bautista",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Universidad Salvadoreña Alberto Masferrer , ,",
+                "place": [
+                  "San Salvador, El Salvador"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4261-7178",
+            "authenticated-orcid": true,
+            "given": "Carlos Alberto",
+            "family": "Echeverría Mayorga",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidad Salvadoreña Alberto Masferrer , ,",
+                "place": [
+                  "San Salvador, El Salvador"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "José Miguel",
+            "family": "Esperanza",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidad Salvadoreña Alberto Masferrer , ,",
+                "place": [
+                  "San Salvador, El Salvador"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Applied Research in Higher Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1108/jarhe-03-2026-0387",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "DOI": "10.5220/0011124300003182",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Assess Performance Prediction Systems: Beyond Precision Indicators"
+        ],
+        "author": [
+          {
+            "given": "Amal",
+            "family": "Ben Soussia",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Université de Lorraine, LORIA, France, --- Select a Country ---"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chahrazed",
+            "family": "Labba",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Université de Lorraine, LORIA, France, --- Select a Country ---"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Azim",
+            "family": "Roussanaly",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Université de Lorraine, LORIA, France, --- Select a Country ---"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anne",
+            "family": "Boyer",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Université de Lorraine, LORIA, France, --- Select a Country ---"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of the 14th International Conference on Computer Supported Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5220/0011124300003182",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Bacteriocins offer a promising solution to antibiotic resistance, possessing the ability to target a wide range of bacteria with precision. Thus, there is an urgent need for a computational model to predict new bacteriocins and aid in drug development. This work centers on constructing predictive models with XGBoost machine learning algorithm, using physicochemical structural properties and sequence profiles of protein sequences. We employed correlation analyses, cross-validation, and hypergraph-based techniques to select features. Cross-validation feature evaluation (CVFE) partitions the dataset, selects features within each partition, and identifies common features, ensuring representativeness. On the contrary, hypergraph-based feature evaluation (HFE) focuses on minimizing hypergraph cut conductance, leveraging higher-order data relationships to precisely utilize information regarding feature and sample correlations. The XGBoost models were built using the selected features obtained from these two feature evaluation methods. Our HFE-based approach achieved 99.11% accuracy and an AUC of 0.9974 on the test data, overall outperforming the CVFE-based feature evaluation method and yielding results comparable to existing approaches. We also analyzed the feature contributions directly from the best model using SHapley Additive exPlanations (SHAP). Our web application, accessible at\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://shiny.tricities.wsu.edu/bacteriocin-prediction/\">https://shiny.tricities.wsu.edu/bacteriocin-prediction/</jats:ext-link>\n                  , offers prediction results, probability scores, and SHAP plots using both cross-validation- and hypergraph-based methods, along with previously implemented approaches for feature selection.\n                </jats:p>",
+        "DOI": "10.1101/2025.07.12.664537",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Bacteriocin Prediction Through Cross-Validation-Based and Hypergraph-Based Feature Evaluation Approaches"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-6577-2034",
+            "authenticated-orcid": false,
+            "given": "Suraiya",
+            "family": "Akhter",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "John H.",
+            "family": "Miller",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              17
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/2025.07.12.664537",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>External validation of clinical AI emphasizes discrimination, although deployment requires the endpoint, probability estimates and operating policy to transport. Here we show that these layers diverged in retrospective bidirectional evaluation of five model families across eICU and MIMIC-IV. Coarse-label AUROC fell from 0.87–0.92 internally to 0.66–0.83 during source-only transfer. For assessment-conditioned repeated monitoring of persistence or recurrence, external AUROC reached 0.76–0.94, but removing assessment history reduced it by 0.16–0.32; broader features did not help consistently. Transported scores concentrated future-positive ICU stays 2.4–6.9-fold in the top risk decile. Development-selected cutoffs alerted 0.3–2.0% of prediction rows and captured 9.2–11.0% of future-positive rows; after deduplication, 4.9–12.2% of stays were alerted, capturing 43.9–49.4% of future-positive stays. Thus, ranking can persist while probability and policy transport remain site dependent. Layered validation is a prerequisite for prospective evaluation, not evidence of clinical benefit.</jats:p>",
+        "DOI": "10.64898/2026.07.19.26358409",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cross-database validation reveals distinct layers of transportability in ICU delirium prediction"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0003-8033-4026",
+            "authenticated-orcid": false,
+            "given": "Shengliang",
+            "family": "Ni",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Life Science and Technology, Institute of Science Tokyo, 2-12-1-M6-12, Ookayama, Meguro-ku, 152-8550, Tokyo, Japan"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6744-7390",
+            "authenticated-orcid": false,
+            "given": "Kengo",
+            "family": "Sato",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Life Science and Technology, Institute of Science Tokyo, 2-12-1-M6-12, Ookayama, Meguro-ku, 152-8550, Tokyo, Japan"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.64898/2026.07.19.26358409",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The low accuracy of conventional weather prediction models is often hampered by the complexity of weather data that is dynamic, non-linear, and full of uncertainty. Therefore, it is necessary to evaluate hybrid models such as KNN-Naïve Bayes with cross-validation techniques to test their reliability and effectiveness in producing more accurate and consistent weather predictions. This study evaluates the effectiveness of the hybrid KNN-Naïve Bayes model for weather prediction using cross-validation techniques. Through an experimental quantitative approach, weather data from Kaggle was analyzed to compare the performance of the KNN, Naïve Bayes, and hybrid KNN-Naïve Bayes models. Data preprocessing methods include normalization and dataset partitioning with five variations of data sharing ratios. Model evaluation using 3-fold cross-validation shows that the hybrid KNN-Naïve Bayes model achieves the highest accuracy of 97.20% at ratios of 80:20 and 70:30, outperforming KNN with an accuracy of 96.27% and Naïve Bayes with 96.56%. The implications of this research indicate that the hybrid model can overcome the limitations of each algorithm, particularly in handling class imbalance and the assumption of feature independence. The results of the KNN-Naïve Bayes hybrid model research proved to be a superior alternative in weather prediction that can contribute to the development of a more reliable early warning system in the face of increasingly dynamic climate change. In conclusion, the application of the KNN-Naïve Bayes hybrid model with cross-validation techniques can improve the accuracy of weather prediction compared to the use of either method separately.</jats:p>",
+        "DOI": "10.23887/jst-undiksha.v14i3.91956",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Evaluation of Hybrid KNN-Naïve Bayes Model using Cross Validation for Weather Prediction"
+        ],
+        "author": [
+          {
+            "given": "Saiful Andika",
+            "family": "S. S",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Sugiyarto",
+            "family": "Surono",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Aris",
+            "family": "Thobirin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "JST (Jurnal Sains dan Teknologi)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.23887/jst-undiksha.v14i3.91956",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1109/ited56637.2022.10051450",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Consensus Based Bank Loan Prediction Model Using Aggregated Decision Making and Cross Fold Validation Techniques"
+        ],
+        "author": [
+          {
+            "given": "Ibrahim Hadiza",
+            "family": "Ndanusa",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Federal University of Technology,Department of Computer Science,Minna Niger State,Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Solomon Adelowo",
+            "family": "Adepoju",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Federal University of Technology,Department of Computer Science,Minna Niger State,Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Adeniyi Oluwaseun",
+            "family": "Ojerinde",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Federal University of Technology,Department of Computer Science,Minna Niger State,Nigeria"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2022 5th Information Technology for Education and Development (ITED)"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1109/ited56637.2022.10051450",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780429341830-29",
+        "type": "book-chapter",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Cross validation"
+        ],
+        "author": [
+          {
+            "given": "Rafael A.",
+            "family": "Irizarry",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Introduction to Data Science"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1201/9780429341830-29",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>\n                  <bold>Objective</bold>\n                  This study evaluated the predictive value of novel inflammatory and metabolic composite indices—including NLR, MLR, SIRI, SII, AIP, TyG, and TyG-BMI—for microvascular complications of type 2 diabetes mellitus (DMC) and developed a corresponding risk prediction model.\n                  <bold>Methods</bold>\n                  Clinical data from 964 hospitalized T2DM patients at the First Affiliated Hospital of Xinjiang Medical University (September 2023–September 2025) were retrospectively analyzed and classified according to the presence of DMC. Group differences in demographic and clinical parameters were compared. LASSO regression was used to identify key predictors, after which the dataset was divided into training and validation sets (7:3 ratio). A multivariable Logistic regression nomogram was constructed in the training set and evaluated using ROC curves, calibration curves, and decision curve analysis (DCA).\n                  <bold>Result</bold>\n                  (i) The DMC group showed significantly higher NLR, MLR, SIRI, and SII, and significantly lower AIP, TyG, and TyG-BMI compared with the non-DMC group (all P &lt; 0.05), indicating heightened systemic inflammation and metabolic disturbances.(ii) Multivariate analysis identified hypertension,urea nitrogen,albumin, alanine aminotransferase, osteocalcin, parathyroid hormone, SIRI, and TyG-BMI as independent predictors of DMC.(iii) The LASSO-Logistic model achieved an AUC of 0.80 (95% CI: 0.76–0.83) in the training set and 0.73 (95% CI: 0.67–0.78) in the validation set, outperforming SIRI or TyG-BMI alone. Calibration curves demonstrated good agreement between predicted and observed risks, and DCA confirmed favorable clinical utility across multiple thresholds.\n                  <bold>Conclusion</bold>\n                  Inflammatory and metabolic composite indices play a significant role in identifying DMC risk. SIRI and TyG-BMI were confirmed as key independent predictors. The LASSO-Logistic nomogram demonstrated reliable discrimination and clinical applicability, offering an effective tool for early detection and risk stratification in T2DM patients.\n                </p>",
+        "DOI": "10.21203/rs.3.rs-8346554/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Development and Validation of a Prediction Model for Microvascular Complications of Type 2 Diabetes Based on Inflammation-Metabolism Composite Indicators"
+        ],
+        "author": [
+          {
+            "given": "Title：LI",
+            "family": "Yuting",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "First Affiliated Hospital of Xinjiang Medical University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "minawaer",
+            "family": "HUJIAAIHEMAITI",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "First Affiliated Hospital of Xinjiang Medical University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-8346554/v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Over 17 million fatal deaths globally have been reported due to cardiovascular disease (CVD) each year [1]. Because of this, it is vital to identify those at risk as soon as possible. Early detection helps physicians choose the best treatment plan, take preventive steps, and ultimately improve patient outcomes. Traditional risk scoring systems, such as the Framingham Risk Score, are limited in their ability to capture complex, nonlinear relationships among clinical, demographic, and lifestyle factors [2]. Machine learning could help with this, but it comes with its own challenges: small datasets can lead to overfitting, performance estimates can be biased if models are not evaluated properly, and results are not always easy to interpret, which makes clinicians hesitant to rely on them. In this study, we applied a machine learning framework to the Cleveland Heart Disease dataset. We looked at Logistic Regression, Random Forest, and XGBoost, using repeated nested cross-validation (5 × 10-fold) to get reliable results. We assessed how well the models performed by looking at ROC-AUC, calibration curves, Brier scores, and a few statistical tests. To better understand what was influencing the predictions, we examined SHAP values across all folds to highlight the most important features. We noticed that Random Forest and Logistic Regression performed very well, with a mean AUC of 0.903 (SD 0.054-0.057), while XGBoost was slightly lower at 0.879 (SD 0.052). According to our research, the features that matter most are oldpeak, thalach, ca, cp, and thal. We believe that this approach gives a way to predict cardiovascular risk that is fairly reproducible and interpretable, and it helps show which factors are actually driving the predictions.</jats:p>",
+        "DOI": "10.2139/ssrn.6644743",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Robust and Reproducible Cardiovascular Risk Prediction Using Repeated Nested Cross-Validation and Interpretable Machine Learning"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0002-4944-2566",
+            "authenticated-orcid": true,
+            "given": "Viral",
+            "family": "Patel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bhaavani",
+            "family": "Madabathula",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6644743",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Recent advances in machine learning methods for materials science have significantly enhanced accurate predictions of the properties of novel materials. Here, we explore whether these advances can be adapted to drug discovery by addressing the problem of prospective validation - the assessment of the performance of a method on out-of-distribution data. First, we tested whether k-fold n-step forward cross-validation could improve the accuracy of out-of-distribution small molecule bioactivity predictions. We found that it is more helpful than conventional random split cross-validation in describing the accuracy of a model in real-world drug discovery settings. We also analyzed discovery yield and novelty error, finding that these two metrics provide an understanding of the applicability domain of models and an assessment of their ability to predict molecules with desirable bioactivity compared to other small molecules. Based on these results, we recommend incorporating a k-fold n-step forward cross-validation and these metrics when building state-of-the-art models for bioactivity prediction in drug discovery.</jats:p>",
+        "DOI": "10.1101/2024.07.02.601740",
+        "type": "posted-content",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Step Forward Cross Validation for Bioactivity Prediction: Out of Distribution Validation in Drug Discovery"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-4568-2888",
+            "authenticated-orcid": false,
+            "given": "Udit Surya",
+            "family": "Saha",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3616-1610",
+            "authenticated-orcid": false,
+            "given": "Michele",
+            "family": "Vendruscolo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1555-8261",
+            "authenticated-orcid": false,
+            "given": "Anne E.",
+            "family": "Carpenter",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3150-3025",
+            "authenticated-orcid": false,
+            "given": "Shantanu",
+            "family": "Singh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6683-7546",
+            "authenticated-orcid": false,
+            "given": "Andreas",
+            "family": "Bender",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2790-8679",
+            "authenticated-orcid": false,
+            "given": "Srijit",
+            "family": "Seal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/2024.07.02.601740",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Accurate ship energy consumption prediction is fundamental to maritime operational optimization, yet conventional models are often evaluated under random data splits that cannot reveal their true generalization ability across unseen operating conditions. This study proposes a stacking ensemble framework integrated with sea-condition-based voyage segmentation to address this gap. K-means clustering is applied to partition the voyage into segments of homogeneous sea states, and a customized segment-level validation protocol is designed, employing non-adjacent and cross-regime sampling to test model performance under previously unencountered maritime conditions. A feature ablation analysis exposes the risk that dominant predictors may mask a model&amp;apos;s genuine capacity to capture environmental coupling. Guided by this insight, K-Nearest Neighbors (KNN) and Gaussian Process Regression (GPR) are selected as base learners for their complementary robustness to feature perturbation, and Lasso Regression serves as the meta-model. The meta-feature space is enriched with original features, base model outputs, and interaction terms that emphasize environmental coupling while constraining shortcut learning. Experimental results on real bulk carrier data show that the proposed framework achieves a mean square error (MSE) of 0.0006 and a coefficient of determination (R²) of 0.9905 on the test set, consistently outperforming its base learners even on sea condition segments entirely absent from training. These findings demonstrate that combining a cross-condition evaluation protocol with robustness-driven model selection and interaction feature enhancement yields a ship fuel consumption prediction framework that is both accurate and trustworthy for real world deployment.</jats:p>",
+        "DOI": "10.2139/ssrn.6795470",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Robust Stacking Framework with Cross-Condition Validation for Ship Fuel Consumption Prediction"
+        ],
+        "author": [
+          {
+            "given": "Chao",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ping",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xingyue",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6795470",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Empiricists frequently encounter multiple plausible forecasts for high-frequency data, arising from disparate information sets, alternative statistical approaches, and substantial cross-sectional heterogeneity. We propose a transfer learning approach through high frequency ensemble learning (Transfer-HFEL) that optimally combines forecasts from heterogeneous populations within a state-space framework using a novel local L-fold cross validation criterion. We establish the asymptotic optimality and consistency of the Transfer-HFEL under regularity conditions, and evaluate its performance through simulation studies and an empirical application to ETF data. Empirically, Transfer-HFEL improves predictive accuracy relative to competing methods, delivering an annualized return and Sharpe ratio exceeding the Fama-French three-factor model by 79% and 65%, respectively. Interestingly, transferring idiosyncratic variation across assets yields greater forecasting improvements than transferring common systematic factors. One possible explanation is that model misspecification, time-varying risk premia and microstructure frictions contain valuable information overlooked by parameter-transferred methods. Rather than introducing noise, this idiosyncratic variation provides new insights into return predictability and portfolio performance in high-frequency markets.</jats:p>",
+        "DOI": "10.2139/ssrn.7189238",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Optimal Transfer Learning for High-Frequency Prediction by Local Cross-validation"
+        ],
+        "author": [
+          {
+            "given": "Dachuan",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jia",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9525-7954",
+            "authenticated-orcid": true,
+            "given": "Yuying",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yue",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.7189238",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>Chronic Kidney Disease (CKD) is a progressive condition that can lead to kidney failure, cardiovascular complications, and increased mortality if not detected and treated early. This study compares multiple machine learning approaches for predicting CKD using clinical values and data. Processing the data included filling missing values by inputting the median, converting non numeric data into binary (ex. 1 for present and 0 for not present), and equally weighting features, so the features would be weighted the same and could be used for machine learning analysis. A severity score was made using clinical indicators including hypertension, diabetes mellitus, albumin, blood urea, serum creatinine, blood glucose, hemoglobin, and urine specific gravity. Also, Logistic Regression, Decision Tree, and Random Forest models were trained. To measure model performance, validation was done using two different CKD datasets. In the first experiment, the models were trained on Dataset A (400 patients) and then tested on an independent Dataset B (200 patients). The models did not have any access to the test dataset, in this case Dataset B, but only to the train dataset, to prevent any data leakage. Logistic Regression and Decision Tree each achieved 98.0% accuracy, 97.0% precision, 100.0% recall, 98.5% F1 Score, and 0.999 and 0.972 ROC-AUC values respectively. Random Forest achieved 92.5% accuracy, 89.5% precision, 100.0% recall, and a 0.995 ROC-AUC value, but produced a larger number of false-positive predictions. In the second experiment, the models were trained on Dataset B and tested on Dataset A. Random Forest achieved the strongest overall performance with 97.75% accuracy, 100.0% precision, 96.4% recall, 98.2% F1 Score, and 0.994 ROC-AUC, outperforming Logistic Regression and Decision Tree in overall classification performance. Repeated validation using 30 random seeds demonstrated strong model stability, particularly for Logistic Regression, which showed virtually no variation across repeated runs. Calibration analysis and low Brier Scores further indicated that predicted probabilities corresponded closely to observed CKD outcomes. Feature importance analysis consistently identified hemoglobin, urine specific gravity, albumin, serum creatinine, hypertension, and diabetes mellitus as the strongest predictors across models, aligning with established CKD pathophysiology. The results demonstrate that machine learning models can accurately classify CKD using a relatively small set of clinically meaningful variables while emphasizing the importance of external validation in healthcare machine learning. Overall, Logistic Regression demonstrated the most consistent generalization across datasets, while Random Forest achieved the highest performance under reverse-validation conditions. These findings suggest that dataset structure, feature representation, and data quality may influence predictive performance as much as dataset size itself.</p>",
+        "DOI": "10.21203/rs.3.rs-9862216/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Assessing the Generalizability of Machine Learning Models for Chronic Kidney Disease Prediction Using Cross-Dataset Validation"
+        ],
+        "author": [
+          {
+            "given": "Shaurya",
+            "family": "Singh",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "High School Independent Researcher"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-9862216/v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.52783/jier.v4i2.862",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Exploring Macroeconomic indicators Influence on Capital Market Performance - A Cross-BRICS Analysis."
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Informatics Education and Research"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.52783/jier.v4i2.862",
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1111/eve.15_13211",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Validation of a colic prediction model"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Equine Veterinary Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/eve.15_13211",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study proposes a robust ‐fold cross‐validation model averaging prediction method within the general likelihood framework, which effectively mitigates the impact of outliers in both covariates and responses, and is applicable to both linear and nonlinear regression scenarios. Three key theoretical results are established, namely, asymptotic optimality, weight convergence and B‐robustness. Simulation and real‐world data experiments are conducted to further demonstrate the advantages of the proposed method in handling noisy and nonlinear dataset.</jats:p>",
+        "DOI": "10.1002/sta4.70068",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Robust K‐Fold Cross‐Validation Model Averaging Prediction"
+        ],
+        "author": [
+          {
+            "given": "Yixi",
+            "family": "Dong",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Management University of Science and Technology of China  Hefei China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-8951-6672",
+            "authenticated-orcid": false,
+            "given": "Xingyu",
+            "family": "Yan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Mathematical and Statistics Jiangsu Normal University  Xuzhou China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Stat"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1002/sta4.70068",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1097/01.ede.0000276510.52530.90",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Prediction Validation for the Families of Models of Air-Pollution Health Effect With Forecasting Capability Indicators"
+        ],
+        "author": [
+          {
+            "given": "M",
+            "family": "Friger",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "A",
+            "family": "Khaitin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Epidemiology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1097/01.ede.0000276510.52530.90",
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>\n                    Protein melting temperature (\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>\n                      <jats:italic>m</jats:italic>\n                    </jats:sub>\n                    ) prediction accelerates the discovery of thermostable enzymes which are crucial for industrial biotechnology often requiring harsh reaction conditions. Experimental determination of\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>\n                      <jats:italic>m</jats:italic>\n                    </jats:sub>\n                    remains labour-intensive and varies across techniques, motivating the development of\n                    <jats:italic>in silico</jats:italic>\n                    predictors. Mass-spectrometry datasets such as Meltome Atlas now enable large-scale\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>\n                      <jats:italic>m</jats:italic>\n                    </jats:sub>\n                    prediction with models based on deep learning, but model generalisation across diverse experimental datasets has not been systematically tested.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    We evaluated the generalisability of state-of-the-art deep learning approaches and explored ESM-based embeddings for\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>\n                      <jats:italic>m</jats:italic>\n                    </jats:sub>\n                    prediction. To this end, we assembled the ProMelt training dataset (45 441 proteins) and five independent biophysics-based validation datasets. Our analysis revealed substantial differences between proteomics- and biophysics-based\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>\n                      <jats:italic>m</jats:italic>\n                    </jats:sub>\n                    measurements, highlighting the challenge of cross-domain generalisation. Existing state-of-the-art predictors trained on large-scale proteomics datasets showed reduced performance on biophysics-based validation sets. Our fine-tuned embedding-based models, particularly LoRA-adapted ESM-2 (TmProt 1.0), outperformed state-of-the-art predictors in identifying thermostable proteins (\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>\n                      <jats:italic>m</jats:italic>\n                    </jats:sub>\n                    <jats:italic>≥</jats:italic>\n                    60 °C) across heterogeneous datasets, achieving AUC scores of 0.75–0.77. We also demonstrated that the available models could be used efficiently in the sequence prioritization task.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Availability</jats:title>\n                  <jats:p>\n                    The TmProt web server is available at\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://loschmidt.chemi.muni.cz/tmprot/\">https://loschmidt.chemi.muni.cz/tmprot/</jats:ext-link>\n                    . Source code and data are available at\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/loschmidt/TmProt\">https://github.com/loschmidt/TmProt</jats:ext-link>\n                    .\n                  </jats:p>\n                </jats:sec>",
+        "DOI": "10.64898/2026.05.07.723192",
+        "type": "posted-content",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Investigation of Protein Melting Temperature Prediction with Cross-Method Validation on Biophysical Data"
+        ],
+        "author": [
+          {
+            "given": "Karen",
+            "family": "Pailozian",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Faculty of Science, Masaryk University, 625 00 Brno, Czech Republic"
+              },
+              {
+                "name": "International Clinical Research Centre, St. Anne’s University Hospital, 656 91 Brno, Czech Republic"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0004-3363-8219",
+            "authenticated-orcid": false,
+            "given": "Pavel",
+            "family": "Kohout",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Faculty of Science, Masaryk University, 625 00 Brno, Czech Republic"
+              },
+              {
+                "name": "International Clinical Research Centre, St. Anne’s University Hospital, 656 91 Brno, Czech Republic"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7848-8216",
+            "authenticated-orcid": false,
+            "given": "Jiri",
+            "family": "Damborsky",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Faculty of Science, Masaryk University, 625 00 Brno, Czech Republic"
+              },
+              {
+                "name": "International Clinical Research Centre, St. Anne’s University Hospital, 656 91 Brno, Czech Republic"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3659-4819",
+            "authenticated-orcid": false,
+            "given": "Stanislav",
+            "family": "Mazurenko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Faculty of Science, Masaryk University, 625 00 Brno, Czech Republic"
+              },
+              {
+                "name": "International Clinical Research Centre, St. Anne’s University Hospital, 656 91 Brno, Czech Republic"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.64898/2026.05.07.723192",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              14
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781316286166.020",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cross-Validation and Estimates of Prediction Error"
+        ],
+        "container-title": [
+          "Introduction to Probability and Statistics for Data Science"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1017/9781316286166.020",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              14
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

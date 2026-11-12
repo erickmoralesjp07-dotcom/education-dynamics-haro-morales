@@ -1,0 +1,2246 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 320386,
+    "items": [
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.21125/inted.2020.0287",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "PLAUSIBLE VALUES IN THE PISA REPORT AND THEIR TREATMENT IN EFFICIENCY ANALYSIS USING EDUCATIONAL DATA"
+        ],
+        "author": [
+          {
+            "given": "Juan",
+            "family": "Aparicio",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jose Manuel",
+            "family": "Cordero",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lidia",
+            "family": "Ortiz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Julia",
+            "family": "Sancho",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "INTED Proceedings",
+          "INTED2020 Proceedings"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21125/inted.2020.0287",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              3,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1787/5js4xffhhc30-en",
+        "type": "report",
+        "is-referenced-by-count": 7,
+        "title": [
+          "What Lies Behind Gender Inequality in Education?"
+        ],
+        "container-title": [
+          "PISA in Focus"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              3,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1787/5js4xffhhc30-en",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              3,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Introduction: Academic resilience refers to the ability of socioeconomically disadvantaged students to achieve strong academic outcomes despite structural constraints. However, resilience classifications derived from large-scale assessments may vary because student achievement is represented by multiple plausible values. Methods: This study analyzed PISA 2022 data from 13,439 Indonesian students across 410 schools. Socioeconomic disadvantage was defined using the weighted lowest quartile of the ESCS distribution, while academic resilience was identified separately for each of the ten mathematics plausible values using the weighted highest-quartile achievement threshold. Classification stability was examined across plausible values. Logistic Regression, Random Forest, and XGBoost were evaluated using five-fold school-grouped cross-validation, followed by predictor-domain ablation, SHAP-based importance analysis, and sensitivity testing. Results: An average of 15.20% of disadvantaged students were classified as academically resilient. However, 30.61% showed unstable classifications across plausible values, indicating substantial membership uncertainty. XGBoost achieved the best predictive performance with a weighted AUROC of 0.718 and AUPRC of 0.324. Psychological factors produced the largest incremental predictive gain beyond demographic and socioeconomic characteristics. Growth mindset, disciplinary climate, confidence in 21st-century mathematics skills, family support, and curiosity showed the most consistent predictive importance across plausible-value models. Conclusion: Academic resilience in Indonesia is measurable but not fully invariant across plausible values. Incorporating plausible-value sensitivity provides a more robust framework for identifying resilience and evaluating its associated protective factors.</jats:p>",
+        "DOI": "10.56705/njomi.v1i1.3",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Plausible-Value-Sensitive Academic Resilience Among Socioeconomically Disadvantaged Indonesian Students: Evidence from PISA 2022"
+        ],
+        "author": [
+          {
+            "family": "Riska",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Nusantara Journal of Multidisciplinary Informatics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.56705/njomi.v1i1.3",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>A large body of literature has documented a strong economic gradient of educational outcomes, with pupils from richer households obtaining on average better outcomes than pupils from poorer households. However, there is surprisingly very little evidence on the role of aggregate economic inequality on individual educational attainment, once individual economic status as well as the aggregate economic milieu are controlled for. Using the 2012, 2015 and 2018 waves of multi-country data from the OECD Programme for International Student Assessment (PISA), we find a negative relationship between school-level wealth inequality and test scores. In addition, we observe that school-level inequality interacts with school-level mean wealth. This suggests that the role of inequality may differ depending on the economic milieu – being stronger for schools attended by pupils from richer families. We go beyond the standard econometric interpretation of this interaction term and provide a reading of it in terms of school-level absolute inequality and aggregate relative deprivation. Results hold for the pooled data as well as for each of the three waves alone and are confirmed by a range of robustness checks.</jats:p>",
+        "DOI": "10.21203/rs.3.rs-3709698/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "School-level inequality and learning achievement: evidence from PISA"
+        ],
+        "author": [
+          {
+            "given": "Lucas",
+            "family": "Sempe",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Queen Margaret University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lucio",
+            "family": "Esposito",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of East Anglia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-3709698/v1",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              21
+            ]
+          ]
+        },
+        "DOI": "10.1787/0cdee0c8-en",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The PISA 2015 scorecard: Must do better on inequality"
+        ],
+        "author": [
+          {
+            "name": "OECD",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "OECD Observer"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1787/0cdee0c8-en",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>Digital technology has expanded access to educational resources. In this paper, we investigated the moderating effect of 12 ICT indicators across 5 categories (access, frequency, use, interest, AI usage) on the relationship between students’ socioeconomic status (SES) and academic achievement, using a cleaned PISA 2025 dataset of 335,424 observations across 44 countries. The baseline, additive, and interaction models were estimated using weights and controlling for country and gender. We found that a one-unit increase in SES is associated with a 30- to 32-point increase in students’ science scores. Varying moderating effects were shown from different ICT indicators: 4 negative interactions, 3 positive interactions, and 5 nonsignificant interactions. It further highlighted the importance of analyzing the multidimensional nature of ICT. A key finding of this research is that all 4 indicators with negative interactions show a negative association with science scores controlling for SES, country, and gender. This means the achievement gap is narrowing across different SES groups as ICT increases, but in a way that an ICT increase for high-SES students is associated with a larger science score decrease compared to low-SES students. However, interaction terms added relatively little explanatory power, and this study cannot conclude causation because of the survey nature of PISA. This paper also provides initial insight into large-scale data on AI use in education. We have found AI use for school work negatively associates with science scores and has a negative interaction term.</p>",
+        "DOI": "10.35542/osf.io/wuktm_v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Paradox of Mitigating the Achievement Gap: Digital Technology and Socioeconomic Inequality in PISA 2025"
+        ],
+        "author": [
+          {
+            "given": "Yue",
+            "family": "Jiang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.35542/osf.io/wuktm_v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.5325/j.ctv14gpg0m.9",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "THE INTERACTION OF INSTITUTIONS, VALUES, AND INCOME INEQUALITY:"
+        ],
+        "container-title": [
+          "Income Inequality in Capitalist Democracies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5325/j.ctv14gpg0m.9",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>Background\nBrazil’s participation in PISA 2022 offers a unique opportunity to explore how learning outcomes vary across regions within a decentralized education system.\nObjective\nWe evaluate whether PISA 2022 can generate statistically reliable state-level mathematics estimates in Brazil and identify key student-, school-, and state-level drivers of performance.\nMethods\nWe analysed mathematics scores from 10,798 fifteen-year-olds across 598 schools in all 26 Brazilian states and the Federal District. To assess concurrent validity, state-level PISA means were regressed on mean scores from the 2021 Sistema de Avaliação da Educação Básica (SAEB). We then applied a three-level hierarchical linear model—students nested within schools, nested within states—adding predictors stepwise.\nResults\nState PISA means accounted for 64% of the variance in SAEB scores (R² = 0.64), showing strong concurrent validity with the national grade 9 assessment. At the student level, mathematics preference (β = 0.44), anticipated effort under grading (β = 0.18), and socioeconomic status (β = 0.14) were the strongest positive predictors, while grade repetition had the largest negative effect (β = − 0.43). Attending a private school conferred an advantage equivalent to approximately four years of schooling. At the state level, after controlling for variables at all levels, only the municipal Human Development Index (HDIm; β = 0.13) remained statistically significant.\nConclusions\nPISA 2022 illuminates sub-national indicators of Brazilian educational quality and uncovers globally recognized, multilayered determinants of mathematics performance. Routinely integrating ILSAs with national assessments can help inform equity-oriented education policies.</p>",
+        "DOI": "10.21203/rs.3.rs-7273143/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Beyond the Average: Mapping Educational Inequality in Brazil with PISA 2022"
+        ],
+        "author": [
+          {
+            "given": "Luísa",
+            "family": "Cito",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Universidade Lusófona"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "João",
+            "family": "Marôco",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidade Lusófona"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-7273143/v1",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1920/pd.ifs.2025.0003",
+        "type": "report",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Family values: inheritance, inequality and social mobility"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              10
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1920/pd.ifs.2025.0003",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.1515/9780271036090-007",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "4 The Interaction of Institutions,Values, and Income Inequality:"
+        ],
+        "container-title": [
+          "Income Inequality in Capitalist Democracies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1515/9780271036090-007",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>\n                  <bold>Background</bold>\n                  . Research on international large-scale assessments increasingly uses flexible predictive models to report how accurately student achievement can be predicted and which characteristics matter most. Achievement in these assessments is not observed but represented by plausible values drawn from a posterior distribution, so part of the analysed variance is measurement noise that no predictor can explain. This study asks how large the resulting bound on attainable predictive accuracy is, whether it differs across domains and education systems, and whether it also governs the stability of the predictor rankings that applied studies report.\n                  <bold>Methods</bold>\n                  . Using the PISA 2022 international database, covering 80 education systems for mathematics, reading and science and 63 for creative thinking, we estimated a measurement-precision ceiling for each domain in each system as the intraclass correlation of the ten released plausible values, applying a finite-draw correction and a school-cluster bootstrap computed jointly across systems to obtain rank intervals. A weighted linear baseline and a gradient boosting model were fitted on identical school-disjoint cross-validation folds, refitted once per plausible value, and predictor rankings were compared across those refits. A paired design compared domains within system, holding students, schools, predictors and folds fixed so that only the measured construct varied.\n                  <bold>Results</bold>\n                  . The ceiling ranged from 0.654 to 0.933 across domains and systems, and correlated only weakly across domains within the same students. Attainable accuracy and ranking stability both scaled with the ceiling in a graded manner across six paired domain comparisons, with the relationship approaching zero as the ceiling difference approached zero. In the least precisely measured domain, over 40 per cent of a five-predictor list changed between two plausible values of the same data. Random student-level splits inflated performance in 604 of 606 analyses, by an amount governed by the number of sampled schools.\n                  <bold>Conclusions</bold>\n                  . Predictive performance from these databases is not comparable across domains or systems without reference to the measurement bound, and predictor rankings from a single plausible value are one realisation of a wide distribution. Both problems can be addressed with quantities computable from the released data.\n                </p>",
+        "DOI": "10.21203/rs.3.rs-10732065/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Measurement-bounded predictive inference in international large-scale assessment: how the plausible-value ceiling governs attainable accuracy and the stability of predictor rankings in PISA 2022"
+        ],
+        "author": [
+          {
+            "given": "Jonas A.",
+            "family": "Mandalunes",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "AMA Computer University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-10732065/v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.14712/23363177.2018.235",
+        "type": "journal-article",
+        "is-referenced-by-count": 11,
+        "title": [
+          "Using PISA to examine educational inequality"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-4252-2379",
+            "authenticated-orcid": false,
+            "given": "Laura B.",
+            "family": "Perry",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              2,
+              23
+            ]
+          ]
+        },
+        "container-title": [
+          "ORBIS SCHOLAE"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              2,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.14712/23363177.2018.235",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              2,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9789087901677_019",
+        "type": "book-chapter",
+        "is-referenced-by-count": 10,
+        "title": [
+          "Values in the measurement of students' science achievement in TIMSS and PISA"
+        ],
+        "author": [
+          {
+            "given": "Peter",
+            "family": "Fensham",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "The Re-Emergence of Values in Science Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1163/9789087901677_019",
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Brazil is known for being one of the most unequal countries in the world. Since the 1990s many scholars, both in Brazil and those analyzing the country¹s trajectories from abroad, have been describing a decrease in country¹s inequalities. In this article we discuss the possible role of expanding citizen participation in policy making processes and overseeing their implementation in inequality reduction. To do so we explore the connections between the participatory mechanisms and the implementation of policies that are expected to reduce inequalities in two different participatory experiments that have taken place in Brazil: São Paulo municipal health councils and the country¹s participation in the Open Government Partnership (OGP). We argue that, despite their thematic and historical differences, there are good reasons to believe that these two participatory experiences sustained the expectations concerning their role in contributing to reduced inequalities. However, these cases suggest that their contributions were less determined by the quality of the participatory process, as defined by the deliberative democracy literature, than by the nature of political alliances and mobilization processes that supported these spaces.</jats:p>",
+        "DOI": "10.16997/jdd.265",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Participatory mechanisms and inequality reduction: searching for plausible relations"
+        ],
+        "author": [
+          {
+            "given": "Vera",
+            "family": "Schattan Ruas Pereira Coelho",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Centro Brasileiro de Analise e Planejamento"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Laura",
+            "family": "Waisbich",
+            "sequence": "additional",
+            "affiliation": [
+              {}
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Deliberative Democracy"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              13
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.16997/jdd.265",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              13
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper examines the relationship between inequality and happiness through the lens of heterogeneous values, beliefs and inclinations. Drawing upon opinion data from the European Social Survey for twenty-three countries, we find that individual views on a wide range of themes can be effectively summarized by two orthogonal dimensions: moderation and inclusiveness. The former is defined as a tendency to take mild stands on issues rather than extreme ones; the latter is defined as the degree of support for a social model that grants equal rights to everyone who willingly subscribes to a shared set of rules, regardless of background and circumstances. These traits matter when it comes to how inequality affects subjective well-being; specifically, those who are either more moderate or more inclusive than their average compatriots prefer lower levels of inequality. In the case of moderation, inequality aversion can be read in terms of a desire for stability: people who are reluctant to take strong stands are especially wary of conflict, tension and unrest, which often go hand-in-hand with disparities. In the case of inclusiveness, the main element at play is likely to be distress accruing on a perception of  unfairness.</jats:p>",
+        "DOI": "10.2139/ssrn.1156304",
+        "type": "posted-content",
+        "is-referenced-by-count": 22,
+        "title": [
+          "Values, Inequality and Happiness"
+        ],
+        "author": [
+          {
+            "given": "Giovanni",
+            "family": "D'Alessio",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Claudia",
+            "family": "Biancotti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1156304",
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>\n                      The recently introduced highly adaptive testing (HAT) design allows for a transparent and straightforward construction of the testing design of the Programme for International Student Assessment (PISA). It outperformed the multistage testing (MST) design used in PISA 2018 regarding test information and\n                      <jats:italic>RMSE</jats:italic>\n                      of individual ability estimates, but it is yet unknown whether it can also promote the estimation of population statistics which are used for reporting PISA results. The present paper thus examines the impact of HAT on plausible value-based estimates of population statistics (country means, standard deviations, proportions of students on proficiency levels) and the error variance components associated with these estimates.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>\n                      The study involved simulating the PISA 2018 Reading assessment under both the MST design used in PISA 2018 and the HAT design across 18 OECD countries (\n                      <jats:italic>N</jats:italic>\n                       = 110,958 students), utilizing the publicly available assessment and background data, and the official PISA item pools for Reading, Mathematics, and Science. Data generation, item administration, and population modeling, including the drawing of the PVs, followed the official PISA 2018 procedures.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The HAT design significantly reduced the mean imputation variance of the country-specific mean reading proficiency by 19%, compared to the MST design. With regard to the proportions on the proficiency levels, the HAT design led to significant reductions in the imputation variance (− 8 to − 13%) and the total error variance (up to − 9%) compared to the MST design. In most countries and on average, the proportions on the proficiency Levels V and VI were significantly smaller for the HAT design; this indicates an overestimation of these proportions with the MST design.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>The HAT significantly increases the measurement precision of population statistics. Moreover, it seems to make a more nuanced categorizations of individuals into proficiency levels possible. These results on population level illustrate the importance of using the best possible design. This will become even more important if future PISA assessments utilize improved stratification schemes that reduce the sampling variance, as the influence of the design on the precision of the reported population statistics will increase.</jats:p>\n                  </jats:sec>",
+        "DOI": "10.1186/s40536-026-00309-7",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Effects of the “highly adaptive testing design for PISA” on plausible value-based population estimates"
+        ],
+        "author": [
+          {
+            "given": "Christoph",
+            "family": "König",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Aron",
+            "family": "Fink",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Andreas",
+            "family": "Frey",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Large-scale Assessments in Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1186/s40536-026-00309-7",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>Background\n PISA 2025 reports that 43.9% of students represented in Colombia were below Level 2 simultaneously in mathematics, reading, and science. We examine how this concurrent low performance is socioeconomically structured within and between schools, whether within-school gradients vary across schools, and whether the joint outcome differs from the three domains analysed separately.\nMethods\n We analysed PISA 2025 public-use microdata for Colombia (7,268 students, 266 schools; analytic sample with observed PISA index of economic, social and cultural status [ESCS]: 6,829 students, 265 schools). Ten matched plausible values were analysed separately and combined. ESCS was decomposed into within-school position and school mean. The principal weighted logistic mixed model used random intercepts and slopes with unstructured covariance; the contextual effect was the between-school minus within-school coefficient. Inference used 80 replicate weights with Fay’s balanced repeated replication. WeMix independently replicated the estimator and 80 exact replicate refits for the first plausible value. Sensitivities addressed missing ESCS, PISA school-selection weighting, school-mean reliability, grade/sector/location, and domain-specific outcomes.\nResults\n Concurrent prevalence was 43.94% (95% confidence interval 40.86–47.02), matching the official statistic. The within-school odds ratio was 0.724 (95% confidence interval 0.650–0.805), the between-school odds ratio 0.183 (0.144–0.233), and the contextual odds ratio 0.253 (0.198–0.324). WeMix reproduced fixed and random effects essentially to the third decimal. The contextual association remained large with PISA school-selection weighting (odds ratio 0.269), reliability-calibrated school means (0.226), and grade/sector/location adjustment (0.265; 95% confidence interval 0.190–0.369). Random-slope heterogeneity was supported by multiple diagnostics but decreased under school-selection weighting (standard deviation 0.249 to 0.216). A cross-level interaction was imprecise (odds ratio 0.885; 95% confidence interval 0.712–1.100) and reduced mean slope variance by about 5.5%. Paired comparisons detected no differences in socioeconomic gradients between the concurrent outcome and mathematics, reading, or science.\nConclusions\n Concurrent low performance captures accumulated difficulty; its socioeconomic structure was not detectably distinct from that of the separate domains. Socioeconomic inequality is evident within schools and substantially stronger across socially different schools. Gradient heterogeneity is also evident, but its magnitude is more sensitive to weighting and remains largely unexplained.</p>",
+        "DOI": "10.21203/rs.3.rs-11021638/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Within- and between-school socioeconomic inequality in concurrent low performance. Evidence from PISA 2025 Colombia"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4615-8829",
+            "authenticated-orcid": false,
+            "given": "Jorge Eliécer",
+            "family": "Villarreal-Fernández",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Alfonso López Pumarejo Educational Institution"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-11021638/v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n                <p>Inequality research is handicapped by a lack of instruments to communicate the high level of prevailing inequality to the general public. This paper offers a promising solution to this shortcoming. Building on the classic cake-sharing framework yields not only a novel interpretation of the Gini coefficient as the excess share of the richest person in an n-way partition, but also a powerful way of portraying inequality levels in a diagram. This new inequality metric can also be applied to inequality measures other than the Gini, providing opportunities to resurrect indices which have fallen into disuse in recent years.</p>",
+        "DOI": "10.21203/rs.3.rs-9313086/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Inequality values as excess shares"
+        ],
+        "author": [
+          {
+            "given": "Anthony",
+            "family": "Shorrocks",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "London School of Economics and Political Science"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-9313086/v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>We provide a measure of inequality of educational opportunity for 72 countries, estimated as a share of the variation in the 2009 PISA test scores that is explained by pre-determined family characteristics. Inequality of opportunity accounts for up to 40 percent of the variation in educational achievement and different measures (for example in math, science, and reading) are highly correlated. Cross-country variation in the inequality of educational opportunity is unrelated to financial indicators, such as expenditure per student or public spending on education as a share of GDP, but depends on pre-school enrollment, overall economic inequality, and the availability of basic medical services. We also document the negative relationship between the inequality of educational opportunity and educational achievement: average educational achievement is lower in countries where family background plays a major role in determining individual progress.</jats:p>",
+        "DOI": "10.2139/ssrn.2179525",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Inequality of Educational Opportunity in a Cross-Section of Countries: Empirical Analysis of 2009 PISA Data"
+        ],
+        "author": [
+          {
+            "given": "Timur",
+            "family": "Natkhov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Natalia",
+            "family": "Kozina",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.2179525",
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              2,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1080/01443410.2014.946890",
+        "type": "journal-article",
+        "is-referenced-by-count": 38,
+        "title": [
+          "Exploring plausible causes of differential item functioning in the PISA science assessment: language, curriculum or culture"
+        ],
+        "author": [
+          {
+            "given": "Xiaoting",
+            "family": "Huang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mark",
+            "family": "Wilson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lei",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              8,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "Educational Psychology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              8,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/01443410.2014.946890",
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              8,
+              14
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              9,
+              30
+            ]
+          ]
+        },
+        "DOI": "10.46967/jefe.2018.27.3.131",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does educational policies reduce educational inequality? Evidence from PISA 2003 through PISA 2015"
+        ],
+        "author": [
+          {
+            "given": "Ho Jun",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Korean Society for the Economics  and Finance of Education"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.46967/jefe.2018.27.3.131",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              9,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p> Software limitations and difficulty of use have led to some using averaged values instead of plausible values. This study compared the results of plausible values using AM Statistical Software with averaged values using SPSS for descriptive statistics multiple regressions using the 2009 4th and 8th grade math and reading National Assessment of Educational Progress (NAEP) for the total sample in addition to a subsample of Native American students. Gender and poverty and absenteeism and enjoyment of the subject material were used in separate equations to predict achievement. The subgroup means were almost identical, but differences were evident in the standard deviations. The regressions yielded similar results for both approaches. The results suggested that averaged values might present a viable, although not ideal, approach to plausible values. </jats:p>",
+        "DOI": "10.2466/03.cp.4.1",
+        "type": "journal-article",
+        "is-referenced-by-count": 9,
+        "title": [
+          "How Plausible is Using Averaged NAEP Values to Examine Student Achievement?"
+        ],
+        "author": [
+          {
+            "given": "Gregory J.",
+            "family": "Marchant",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Educational Psychology, Ball State University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Comprehensive Psychology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2466/03.cp.4.1",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>I study inequality in job values, both in terms of wages and non-wage values, in Austria over the period 1996 to 2011. I show that differences in non-wage job value between firms are non-parametrically identified from data on worker flows and wage differentials. Intuitively, firms with high non-wage value attract workers without paying a wage premium. I study the distribution of job value among workers and find a positive correlation between wage and non-wage value. Inequality in job value is thus considerably greater than wage inequality, reflected in the standard deviation of job value being more than twice as large as the standard deviation of wage. Job value inequality increases between 1996 and 2011, although wage inequality remains constant. An important reason is that, over time, dispersion of rents offered by firms increases, while compensating differentials lose importance.</jats:p>",
+        "DOI": "10.2139/ssrn.4373816",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Non-Wage Job Values and Implications for Inequality"
+        ],
+        "author": [
+          {
+            "given": "Tobias",
+            "family": "Lehmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4373816",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The conventional p-value is an inequality: it includes the probability of outcomes more extreme than those observed, making significance tests overly permissive. Using a Minimum Bayes Factor framework, this paper corrects for this inequality and derives adjusted critical t-statistic thresholds. The rule of thumb t ≈ ±2 (two-tailed, p ≈ 0.05) should be replaced by |t| ≥ 2.5, corresponding to a discrete probability of 0.015. The correction is prospective: it reduces the false positive rate for new research rather than explaining past replication failures. Roughly half of the gap between t ≥ 1.96 and the Harvey, Liu, and Zhu (2016) recommendation of t ≥ 3.0 is attributable to the inequality bias corrected here rather than to multiple testing.</jats:p>",
+        "DOI": "10.2139/ssrn.6759380",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Correcting for the Inequality of p-Values"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1166-0261",
+            "authenticated-orcid": true,
+            "given": "Paul",
+            "family": "van Rensburg",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6759380",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>I study inequality in job values, both in terms of wages and non-wage values, in Austria over the period 1996 to 2011. I show that differences in non-wage job value between firms are non-parametrically identified from data on worker flows and wage differentials. Intuitively, firms with high non-wage value attract workers without paying a wage premium. I study the distribution of job value among workers and find a positive correlation between wage and non-wage value. Inequality in job value is thus considerably greater than wage inequality, reflected in the standard deviation of job value being more than twice as large as the standard deviation of wage. Job value inequality increases between 1996 and 2011, although wage inequality remains constant. An important reason is that, over time, dispersion of rents offered by firms increases, while compensating differentials lose importance.</jats:p>",
+        "DOI": "10.2139/ssrn.4668593",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Non-Wage Job Values and Implications for Inequality"
+        ],
+        "author": [
+          {
+            "given": "Tobias",
+            "family": "Lehmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4668593",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9789087900953_002",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "From Picht to Pisa: Bildung and Social Inequality"
+        ],
+        "author": [
+          {
+            "given": "Heinz",
+            "family": "Sünker",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Politics, Bildung and Social Justice"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1163/9789087900953_002",
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.22596/cresjournal.0102.85.98",
+        "type": "journal-article",
+        "is-referenced-by-count": 4,
+        "title": [
+          "PISA Sonuçları Türkiye’deki Eğitim Eşitsizliği Hakkında Neler Söylüyor?"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4472-1403",
+            "authenticated-orcid": false,
+            "given": "Özlem",
+            "family": "Özbey Demir",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "ALANYAZIN EĞİTİM BİLİMLERİ ELEŞTİREL İNCELEME DERGİSİ - CRITICAL REVIEWS IN EDUCATIONAL SCIENCES"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.22596/cresjournal.0102.85.98",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The data from the PISA survey show that student performance correlates with socio-economic background, that private schools have higher results and more privileged students, and that this varies between countries. We explore this further and analyze the PISA data using methods from network theory and find clusters of countries whose students have similar performance and socio-economic background. Interestingly, we find a cluster of countries, including China, Spain and Portugal, characterized by less privileged students performing well. When considering private schools only, some countries, such as Portugal and Brazil, are in a cluster with mostly wealthy countries characterized by privileged students. Swedish grades are compared to PISA results, and we see that the higher grades in private schools are in line with the PISA results, suggesting that there is no grade inflation in this case, but differences in socio-economic background suggest that this is due to school segregation.</jats:p>",
+        "DOI": "10.1371/journal.pone.0267040",
+        "type": "journal-article",
+        "is-referenced-by-count": 11,
+        "title": [
+          "PISA data clusters reveal student and school inequality that affects results"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3599-9374",
+            "authenticated-orcid": true,
+            "given": "Magnus",
+            "family": "Neuman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "PLOS ONE"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1371/journal.pone.0267040",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783111194158-012",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "306Chapter 11 Cultures of Inequality: Perceptions and Values"
+        ],
+        "container-title": [
+          "Pathologies of inequality in Latin America"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1515/9783111194158-012",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>The aim of the study is to compare whether there is a significant difference between the PISA exam averages of countries with the highest income inequality and countries with the lowest income inequality and to determine whether there is a significant relationship between income inequality and PISA success. The study group was selected from among the countries with the highest and lowest income inequality according to the GINI index using the contrast sampling technique, which is a purposive sampling technique. T-test, correlation and simple linear regression analyses were conducted on income inequality and PISA scores. The average PISA scores of the 12 countries with the highest income inequality and the 12 countries with the lowest income inequality were compared with the average scores of the same countries regarding income inequality. There is a significant difference between the average PISA scores of the countries with the highest and lowest income inequality. There is a significant and inverse relationship between income inequality and PISA success. While income inequality increases, PISA success decreases, while PISA success increases as income inequality decreases. According to the simple linear regression model, income inequality predicts PISA success significantly as the only independent variable. Income inequality is a determinant of students' academic success.</jats:p>",
+        "DOI": "10.18316/rcd.v17i45.12345",
+        "type": "journal-article",
+        "is-referenced-by-count": 1,
+        "title": [
+          "HOW DOES INCOME INEQUALITY AFFECT ACADEMIC SUCCESS ACROSS COUNTRIES?"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1635-7392",
+            "authenticated-orcid": false,
+            "given": "İbrahim",
+            "family": "Çankaya",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "Conhecimento &amp; Diversidade"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              13
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.18316/rcd.v17i45.12345",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              13
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        },
+        "abstract": "<jats:p> Zusammenfassung. In der psychologischen Forschung durchgeführte Messungen zur Erfassung von Konstrukten sind meistens mit einem Messfehler behaftet. Diese Messfehler führen zu verzerrten Schätzern von Populationsparametern und deren Standardfehlern. In den letzten Jahrzehnten hat sich im Bereich der Large-Scale-Assessments mit der Plausible-Values-Technik ein Verfahren zur Korrektur von messfehlerbehafteten Zusammenhängen zwischen latenten Variablen und beobachteten Kovariaten etabliert. Der vorliegende Beitrag führt anhand eines einfachen Beispiels aus der Klassischen Testtheorie in dieses komplexe statistische Verfahren ein. Es wird gezeigt, dass alternative Verfahren zur Schätzung von Personenwerten im Allgemeinen zu verzerrten Schätzungen von Zusammenhängen auf Populationsebene führen. In einer Simulationsstudie werden diese Befunde auf ein IRT-Modell für dichotome Indikatoren übertragen. Aus diagnostischer Sicht wird betont, dass Plausible Values nicht zur Schätzung von individuellen Fähigkeitsausprägungen verwendet werden sollen. Abschließend werden methodische Herausforderungen bei der Anwendung der Plausible-Values-Technik sowie das Potential für die psychologische Forschung diskutiert. </jats:p>",
+        "DOI": "10.1026/0012-1924/a000175",
+        "type": "journal-article",
+        "is-referenced-by-count": 27,
+        "title": [
+          "Eine Einführung in die Plausible-Values-Technik für die psychologische Forschung"
+        ],
+        "author": [
+          {
+            "given": "Oliver",
+            "family": "Lüdtke",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Leibniz-Institut für Pädagogik der Naturwissenschaften und Mathematik, Kiel"
+              },
+              {
+                "name": "Zentrum für internationale Bildungsvergleichsstudien (ZIB), München"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alexander",
+            "family": "Robitzsch",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Leibniz-Institut für Pädagogik der Naturwissenschaften und Mathematik, Kiel"
+              },
+              {
+                "name": "Zentrum für internationale Bildungsvergleichsstudien (ZIB), München"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Diagnostica"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1026/0012-1924/a000175",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.1515/9780271036090-005",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "2 Political Justice Versus Market Justice:Why Values Matter"
+        ],
+        "container-title": [
+          "Income Inequality in Capitalist Democracies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1515/9780271036090-005",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<title>Abstract</title>\n        <p>In this study we utilized data from the Programme for International Student Assessment (PISA) to investigate differences in schools’ average mathematics scores by treating intraclass correlation coefficient (ICC) as a measure of educational inequality. We computed ICCs both with unconditional and conditional multilevel models for 79 PISA 2018 participating countries and meta-analyzed the results. There are two main purposes of this study; to quantify the inequality after controlling for common PISA-variables across countries and try to explain heterogeneity at the country level, to investigate the school differences in Türkiye due to its large ICCs and the authors’ familiarity with its educational system. The results showed that PISA variables that are common across countries reduced the unconditional ICC by 5% to 73%, further at least 50% of the heterogeneity in conditional ICCs was explained by the country level non-PISA variables. The tracking age, cultural differences and Gross Domestic Product variables were particularly important to explain differences in conditional ICCs. The Türkiye specific model, consistent with the meta-analysis results, indicated that the school type is a substantial predictor to understand ICC. Overall, we briefly explained the important variables that might be helpful to investigate ICC for researchers, administrators and policy makers who are interested in studying educational inequality from a quantitative perspective.</p>",
+        "DOI": "10.21203/rs.3.rs-4066275/v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "The Intraclass Correlation Coefficient as a Measure of Educational Inequality: An Empirical Study with Data from PISA 2018"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6897-0850",
+            "authenticated-orcid": false,
+            "given": "Yasemin",
+            "family": "YARDIM",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Ege University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7123-1987",
+            "authenticated-orcid": false,
+            "given": "Gürkan",
+            "family": "CÜVİTOĞLU",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ege University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4462-1784",
+            "authenticated-orcid": false,
+            "given": "Burak",
+            "family": "AYDIN",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Leuphana University & Ege University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21203/rs.3.rs-4066275/v1",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              6
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>In this paper, we show that the marginal distribution of plausible values is a consistent estimator of the true latent variable distribution, and, furthermore, that convergence is <jats:italic>monotone</jats:italic> in an embedding in which the number of items tends to infinity. We use this result to clarify some of the misconceptions that exist about plausible values, and also show how they can be used in the analyses of educational surveys.</jats:p>",
+        "DOI": "10.1007/s11336-016-9497-x",
+        "type": "journal-article",
+        "is-referenced-by-count": 50,
+        "title": [
+          "What can we learn from Plausible Values?"
+        ],
+        "author": [
+          {
+            "given": "Maarten",
+            "family": "Marsman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gunter",
+            "family": "Maris",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Timo",
+            "family": "Bechger",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Cees",
+            "family": "Glas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Psychometrika"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s11336-016-9497-x",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              11,
+              20
+            ]
+          ]
+        },
+        "abstract": "<p>This chapter tracks the economy of the 1970s as it began to decline after the prosperity of previous decades. Economic growth had defined human history for two hundred years, reaching a peak in the generation after 1945 when world economic growth averaged an extraordinary 5–7 percent per year. Americans rode that growth to a higher standard of living than anyone else. But in the 1970s it all seemed to be flowing away. Unemployment, oil shortages, a plunging stock market, recession, and, above all, inflation were apparently ending these golden years of unparalleled prosperity. Inflation hit everyone, and it hit the poor hardest of all. Persistent inflation undercut dreams and hopes for the future. The economic trauma of the 1970s threatened to destabilize Americans' understanding of how the world worked.</p>",
+        "DOI": "10.23943/princeton/9780691141565.003.0004",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Spread of Market Values"
+        ],
+        "author": [
+          {
+            "given": "Thomas",
+            "family": "Borstelmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "The 1970s"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              11,
+              20
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.23943/princeton/9780691141565.003.0004",
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              11,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.17513/vaael.1480",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "THE INEQUALITY OF OPORTUNITY IN RUSSIAN SCHOOL EDUCATION: MEASURING ON PISA DATABASE"
+        ],
+        "author": [
+          {
+            "given": "Z.F.",
+            "family": "Ibragimova",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "M.V.",
+            "family": "Frants",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "container-title": [
+          "Вестник Алтайской академии экономики и права"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.17513/vaael.1480",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-90-481-9615-9_9",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Innovation, Growth, and Inequality: Plausible Scenarios of Wage Disparities in a World with Nanotechnologies"
+        ],
+        "author": [
+          {
+            "given": "Walter D.",
+            "family": "Valdivia",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Nanotechnology and the Challenges of Equity, Equality and Development"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/978-90-481-9615-9_9",
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.stueduc.2005.05.005",
+        "type": "journal-article",
+        "is-referenced-by-count": 306,
+        "title": [
+          "The role of plausible values in large-scale surveys"
+        ],
+        "author": [
+          {
+            "given": "Margaret",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Studies in Educational Evaluation"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2005,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.stueduc.2005.05.005",
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "DOI": "10.1037/e502102013-078",
+        "type": "dataset",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Income inequality and self-reported values"
+        ],
+        "author": [
+          {
+            "given": "Giacomo",
+            "family": "Corneo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Frank",
+            "family": "Neher",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "PsycEXTRA Dataset"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1037/e502102013-078",
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.5325/j.ctv14gpg0m.7",
+        "type": "book-chapter",
+        "is-referenced-by-count": 0,
+        "title": [
+          "POLITICAL JUSTICE VERSUS MARKET JUSTICE:"
+        ],
+        "container-title": [
+          "Income Inequality in Capitalist Democracies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.5325/j.ctv14gpg0m.7",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              26
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

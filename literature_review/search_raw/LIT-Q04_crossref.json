@@ -1,0 +1,2386 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1764004,
+    "items": [
+      {
+        "abstract": "<jats:p>Do natural disasters impact educational attainment? Education as a paramount factor of economic development suffers from the uncontrollable effects of these increasing events from storms to floods, earthquakes to wildfires. Globally, educational resources are destroyed, directly and indirectly, students and teachers are displaced or killed, and parents’ income is affected because of natural disasters. Investments in human capital for rich- and low-income countries are exposed to the uneven impact of natural disasters that adjust household and country-level decisions, leaving them to short and long-run losses. Exploring the influence of natural disasters on secondary school attainment across a sample of 85 countries from 1960 to 1990, we employ a panel data set from the Emergency Events dataset and Barro-Lee dataset. Using year and country-fixed effects, the data shows that the intensity of deaths from natural disasters has a greater effect on secondary school attainment than the intensity of damages from these disasters. Data also suggests that damages per capita have a slightly significant effect on the secondary school repetition rate. Psychological and behavioral effects caused by deaths from disasters lead to disinvestments in human capital and these degenerate into long-term effects on economic development. Consequently, while natural disasters cannot be averted, their damages can be curtailed, therefore, it is crucial to inform policies that drive countries to a conscientious effort for high-performance social intervention programs; and motivate an urgency for climate change conversation.</jats:p>",
+        "DOI": "10.2139/ssrn.4594252",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impacts of Natural Disasters on Educational Attainment: Cross-Country Evidence from Macro Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3216-7580",
+            "authenticated-orcid": true,
+            "given": "Lois",
+            "family": "Onigbinde Jacob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4594252",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>&lt;p&gt;&lt;span&gt;&lt;a href=\"https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data\" rel=\"nofollow\"&gt;https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</jats:p>",
+        "DOI": "10.2139/ssrn.6731360",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Impact of Natural Disasters on Educational Attainment: Cross Country Evidence from Macro Data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3216-7580",
+            "authenticated-orcid": true,
+            "given": "Lois",
+            "family": "Onigbinde Jacob",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.6731360",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.5226641",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the Skill Composition of Trade Drive Educational Attainment? A Cross-Country Panel Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.5226641",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2139/ssrn.4540678",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the Skill Composition of Trade Drive Educational Attainment? A Cross-Country Panel Analysis"
+        ],
+        "author": [
+          {
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.4540678",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Introduction</jats:title><jats:p>Educational attainment is associated with important life outcomes including labour market performance, health status, well‐being, civic and political participation. An important question is whether it is possible to identify early those students who lack the achievement motivation that is needed to complete a higher education degree.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Longitudinal follow‐ups of representative samples of participants in the 2000 and 2003 Programme for International Student Assessment (PISA) from Australia, Denmark and Switzerland (N = 3110; 1130; and 1962; age = 15 to 27; % females 51%, 51%, 49%; ethnicity/race unknown) were used to identify the association between a measure of effort on a cognitively demanding low‐stake task at age 15 – performance decline during the test – and educational attainment at age 25–27.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>A one SD difference in performance decline was associated with a 5–6 percentage point difference in the probability of obtaining tertiary‐level qualifications (<jats:italic>r</jats:italic> = −0.15 in Australia; −0.11 in Denmark and −0.11 in Switzerland). We find no evidence of differences in this relationship across genders, socio‐economic status and baseline levels of ability in the three countries. The association between performance decline and educational attainment is homogeneous across these groups. Self‐reported measures of achievement motivation were not predictive of educational attainment in the three countries.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Our work contributes new longitudinal evidence to the body of research in education employing behavioural measures of motivation and engagement. It can be used to understand the potential long‐term consequences of disparities in students' preparation to sustain effort over cognitively demanding tasks.</jats:p></jats:sec>",
+        "DOI": "10.1016/j.adolescence.2021.08.011",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Performance decline in a low‐stakes test at age 15 and educational attainment at age 25: Cross‐country longitudinal evidence"
+        ],
+        "author": [
+          {
+            "given": "F.",
+            "family": "Borgonovi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Social Research Institute Institute of Education University College London United Kingdom"
+              },
+              {
+                "name": "Organisation for Economic Cooperation and Development France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "A.",
+            "family": "Ferrara",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "European University Institute Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Piacentini",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Organisation for Economic Cooperation and Development France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Adolescence"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.adolescence.2021.08.011",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.euroecorev.2026.105284",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does the skill composition of trade drive educational attainment? A cross-country panel analysis"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3938-5959",
+            "authenticated-orcid": false,
+            "given": "Ida",
+            "family": "Ferrara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrey",
+            "family": "Stoyanov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "European Economic Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.euroecorev.2026.105284",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.econedurev.2006.09.003",
+        "type": "journal-article",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Educational attainment and HIV/AIDS prevalence: A cross-country study"
+        ],
+        "author": [
+          {
+            "given": "Manisha",
+            "family": "Lakhanpal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rati",
+            "family": "Ram",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Economics of Education Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.econedurev.2006.09.003",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10887-010-9055-9",
+        "type": "journal-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "Cross-country variation in educational attainment: structural change or within-industry skill upgrading?"
+        ],
+        "author": [
+          {
+            "given": "Lutz",
+            "family": "Hendricks",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Economic Growth"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s10887-010-9055-9",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1007/s12110-010-9092-2",
+        "type": "journal-article",
+        "is-referenced-by-count": 39,
+        "title": [
+          "Examining the Relationship between Life Expectancy, Reproduction, and Educational Attainment"
+        ],
+        "author": [
+          {
+            "given": "Nicola L.",
+            "family": "Bulled",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard",
+            "family": "Sosis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Human Nature"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s12110-010-9092-2",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Gene-environment interaction with regards to educational attainment has received increasing attention during the last few years. However, the potential interdependence between different types of environments in gene-environment interaction models has mostly been neglected. Using high-quality register data for an extensive panel of Swedish twins, born during most of the twentieth century, this study explores how genetic propensities for educational attainment, as measured by a polygenic index, interact with both macro-level institutional and sociopolitical context, and with socioeconomic background. The analyses, which combine between-family and causally robust within-family models, suggest that the average association between genetic propensities and educational attainment has increased in Sweden during the twentieth century, along with the expansion of the educational system and decreased economic inequality. There is also evidence of a positive interaction between genetic propensities and socioeconomic background, but only in the oldest cohorts in the sample, and that were born before the Swedish welfare state had been fully established. This implies that micro-level gene-environment interactions can be significantly dependent on macro-level context, an insight that has arguably not yet been given sufficient attention in the literature. Acknowledging limitations of polygenic indices, and the arbitrariness of the genetic lottery, the results may nevertheless indicate a development towards higher equality of opportunity in Sweden during the twentieth century.</jats:p>",
+        "DOI": "10.1101/2023.11.02.565287",
+        "type": "posted-content",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Genetic Influences on Educational Attainment Through the Lens of the Evolving Swedish Welfare State: A cross-level gene-environment interaction study based on polygenic indices and longitudinal register data"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-6540-2790",
+            "authenticated-orcid": false,
+            "given": "Oskar",
+            "family": "Pettersson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/2023.11.02.565287",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1007/s42495-022-00081-w",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Effects of adult mortality rate on educational attainment: empirical analysis using cross-country panel data"
+        ],
+        "author": [
+          {
+            "given": "Koji",
+            "family": "Yasuda",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5840-5076",
+            "authenticated-orcid": false,
+            "given": "Tomoko",
+            "family": "Kinugasa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Economic Policy Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s42495-022-00081-w",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.14301/llcs.v2i2.133",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Educational attainment, labour market conditions and the timing of births"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Longitudinal and Life Course Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.14301/llcs.v2i2.133",
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>I describe the extent and structure of cross-border commuting in the EU 27 to show that this is important only in a small number of border regions with strong linguistic, historic or institutional ties. Cross-border commuters are mostly medium skilled, male manufacturing workers, who have higher over- but lower under-education rates than non-commuters, internal commuters and established migrants. These findings can mostly be attributed to cross-border commuters from the 12 new EU member countries. Cross-border commuters from the EU 15 have higher under- and lower over-education rates than non-commuters.</jats:p>",
+        "DOI": "10.2139/ssrn.1878331",
+        "type": "posted-content",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Educational Attainment and Education-Job Mismatch of Cross-Border Commuters in the EU"
+        ],
+        "author": [
+          {
+            "given": "Peter",
+            "family": "Huber",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1878331",
+        "published": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>We model schooling as a sequential process and examine why some children are left behind. We focus on the factors that explain selection at early stages of the education system. Our findings for Uruguay suggest that long-term factors, such as parental background or ethnicity matter across all education stages while the effect of short-term factors, such as family income, wear out as individuals progress in the education system, suggesting a severe selection process at early stages.</jats:p>",
+        "DOI": "10.2139/ssrn.3390106",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Selection and Educational Attainment: Why Some Children are Left Behind? Evidence from a Middle-Income Country"
+        ],
+        "author": [
+          {
+            "given": "Luciana",
+            "family": "Méndez-Errico",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1947-4057",
+            "authenticated-orcid": true,
+            "given": "Xavier",
+            "family": "Ramos",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.3390106",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              3
+            ]
+          ]
+        },
+        "abstract": "<jats:p> Integration of the global economy through trade has enabled firms to adopt new production strategies. Rather than producing in a single country, stages of production are performed in multiple countries to exploit inherent locational advantages. This practice gives rise to vertical specialization across national boundaries. Here, the U.S. exports components to a foreign (host) country that uses them to produce a product that is returned to the U.S. or is exported to other countries. This paper investigates the relationship between host country educational attainment and the extent of vertical specialization. Despite the general finding that educational attainment exerts a decreasingly negative effect on such activity in host countries, a detailed analysis suggests there may be a positive relationship between educational attainment and vertical specialization over some parts of the educational attainment scale. A country can become more attractive as a production location when its workforce is educated. </jats:p>",
+        "DOI": "10.2202/1524-5861.1317",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Host Country Educational Attainment and Vertical Specialization"
+        ],
+        "author": [
+          {
+            "given": "Don P.",
+            "family": "Clark",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Tennessee"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Global Economy Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2202/1524-5861.1317",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1080/0013188042000222412",
+        "type": "journal-article",
+        "is-referenced-by-count": 15,
+        "title": [
+          "An investigation into using national longitudinal studies to examine trends in educational attainment and development"
+        ],
+        "author": [
+          {
+            "given": "Rosie",
+            "family": "McNiece",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "a    Kingston University, Kingston upon Thames, UK"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Penelope",
+            "family": "Bidgood",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "a    Kingston University, Kingston upon Thames, UK"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Peter",
+            "family": "Soan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "a    Kingston University, Kingston upon Thames, UK"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Educational Research"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/0013188042000222412",
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              20
+            ]
+          ]
+        },
+        "DOI": "10.1080/00131911.2017.1281227",
+        "type": "journal-article",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Ethnicity, disadvantage and other variables in the analysis of Birmingham longitudinal school attainment datasets"
+        ],
+        "author": [
+          {
+            "given": "Carl",
+            "family": "Parsons",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Faculty of Education and Health, University of Greenwich, London, UK"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Trevor",
+            "family": "Thompson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Faculty of Education and Health, University of Greenwich, London, UK"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Educational Review"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00131911.2017.1281227",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              4
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This article examines the role of language skills in socially stratified educational attainment. Using essays written at the age of 11 in a large British cohort study, the National Child Development Study (NCDS), two measures of written language skills are derived: lexical diversity and the number of spelling and grammar errors. Results show that participants from the lower social strata misspelt more words and used a smaller variety of words in their essays than more socially privileged cohort members. Those language skills mediate part of the association between social origin and the highest level of educational attainment achieved. An even higher mediation of about half can be observed if standardised test measures for verbal and non-verbal cognitive abilities are included in the model. The models show that language skills mediate the social origin effect on educational attainment by about a quarter.</jats:p>",
+        "DOI": "10.1332/175795921x16244506861047",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Language skills in student essays: social disparities and later educational attainment"
+        ],
+        "author": [
+          {
+            "given": "Maximilian",
+            "family": "Weber",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Goethe University Frankfurt, Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal and Life Course Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1332/175795921x16244506861047",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ijedudev.2022.102722",
+        "type": "journal-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "The attainment of gender education equality: A preliminary assessment of country performance in sub-Saharan Africa"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0096-3141",
+            "authenticated-orcid": false,
+            "given": "Paul",
+            "family": "Bennell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Educational Development"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ijedudev.2022.102722",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>This Data Note has been prepared for the research project ‘Primary and Secondary Effects of Social Origins on Educational Attainment: A New Approach’, conducted at the Department of Social Policy and Intervention, University of Oxford. The purpose of this project is to examine how different components of social origins affect people’s educational achievement and attainment. To achieve this aim, we use data from the Longitudinal Study of Young People in England (LSYPE) and the National Pupil Database (NPD). This document describes the construction of key variables that have been be used in the project. Specifically, it provides information on the focal independent variables – parental class, status, education and income – as recorded in the LSYPE survey, as well as the dependent variable(s) of educational achievement and attainment, as recorded in the National Pupil Database (NPD) and the latest available wave of the LSYPE survey.</p>",
+        "DOI": "10.31235/osf.io/pj9bf",
+        "type": "posted-content",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Measuring social origins and educational attainment in the Longitudinal Study of Young People in England (LSYPE), [Waves 1–8]"
+        ],
+        "author": [
+          {
+            "given": "Yizhang",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8277-2829",
+            "authenticated-orcid": true,
+            "given": "Erzsebet",
+            "family": "Bukodi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.31235/osf.io/pj9bf",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper studies the impact of teachers training on primary and secondary school enrollment in a least developed country (LDC) Nepal, where a large portion of population are living below the poverty line. In this study a time series dataset based on World Development Indicators of the past fifty years and Nepal Government’s data is used. The analysis has found that trained primary teachers’ portion does have a statistically significant impact on primary and secondary school enrollment. Besides, a number of control variables are analyzed, in which unemployment and internet access have a statistically significant impact on school enrollment. In brief, the studies conclude that in Nepal, which is about to graduate from LDC to a developing country, trained primary teachers do have statistically significant impact on primary and secondary school enrollment, considering a set of control variables.</jats:p>",
+        "DOI": "10.54536/ajelps.v1i1.5183",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Determinants of Educational Attainment in Least Developed Country: Case of Nepal"
+        ],
+        "author": [
+          {
+            "given": "Sahanshila",
+            "family": "Pudasaini",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "American Journal of Educational Leadership &amp; Policy Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.54536/ajelps.v1i1.5183",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This study investigates native–migrant differences in engagement in post-school education. Using a longitudinal survey of youth in Australia, we find that immigrants originating from non-English-speaking countries are significantly more likely to continue with further study between the ages of 18 and 23 years. On the other hand, there are no significant differences between immigrants from English-speaking countries and native youth. We find several important factors influencing study decisions, including parents and family background, academic ability, aspirations and age at migration; however, accounting for these factors does not fully explain the higher probability of pursuing higher education for immigrants from non-English-speaking countries. Exploring the country of origin effect, we find that immigrants from countries with low tertiary education levels are more likely to study in Australia, while differences in parental attitudes in their origin countries do not have a significant effect. The results show the importance of country of origin on the study decisions of youth, underlining the impact of migration settings on education of next generation.</jats:p>",
+        "DOI": "10.1093/migration/mnz008",
+        "type": "journal-article",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Differences in educational attainment by country of origin: Evidence from Australia"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0359-7477",
+            "authenticated-orcid": false,
+            "given": "Jaai",
+            "family": "Parasnis",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jemma",
+            "family": "Swan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Migration Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/migration/mnz008",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper investigates the influence of women's participation in politics on decision making. I take public educational expenditures as the outcome of interest. The results suggest that an increase by one percentage point in the share of female legislators increases by 0.034 percentage points the ratio of educational expenditures to GDP. Moreover, one percentage point increases in the fraction of female legislators would lead to an estimated 0.54% rise in educational expenditures per capita. The positive effect of female legislators on educational policies is strengthened by forms of government. This study also supports the hypothesis that the identity of legislator matters for policy.</jats:p>",
+        "DOI": "10.2139/ssrn.1117552",
+        "type": "posted-content",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Female Policymakers and Educational Expenditures: Cross-Country Evidence"
+        ],
+        "author": [
+          {
+            "given": "Li-Ju",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.1117552",
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Previous research has shown that parental educational aspirations for their children are an important predictor of children’s academic attainment. However, recent studies have pointed to potential negative effects, in particular if there is a mismatch between parental educational aspirations and the aspirations of their children. This study examines (1) the role of socio-demographic and school achievement–related factors in shaping a potential (mis)match between parental educational aspirations and the aspirations of their children, and (2) whether incongruence between parental and their children’s educational aspirations hinders academic attainment in times of social change. We use data collected for the 1970 British Birth Cohort Study (BCS70) and Next Steps (formerly known as the Longitudinal Study of Young People in England), a cohort of young people born in 1989/90. We find that in both cohorts socio-demographic and achievement-related characteristics are associated with incongruent aspirations, and that incongruent aspirations between parents and their children are associated with a decreased likelihood of participating in and completing higher education. The study contributes to current debates regarding the causes and correlates of discrepancies in educational aspirations and how such discrepancies affect later life chances.</jats:p>",
+        "DOI": "10.1332/175795921x16324800210845",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Incongruence between parental and adolescent educational aspirations hinders academic attainment"
+        ],
+        "author": [
+          {
+            "given": "Ingrid",
+            "family": "Schoon",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University College London, UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kaspar",
+            "family": "Burger",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Zurich, Switzerland"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Longitudinal and Life Course Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1332/175795921x16324800210845",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ssmmh.2023.100294",
+        "type": "journal-article",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Child mental health and educational attainment: Longitudinal evidence from the UK"
+        ],
+        "author": [
+          {
+            "given": "Matthew",
+            "family": "van Poortvliet",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "SSM - Mental Health"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ssmmh.2023.100294",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.14301/llcs.v2i1.147",
+        "type": "journal-article",
+        "is-referenced-by-count": 10,
+        "title": [
+          "Children’s educational attainment and the aspirations, attitudes and behaviours of parents and children through childhood"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Longitudinal and Life Course Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.14301/llcs.v2i1.147",
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>This paper examines differences in educational achievement between immigrants andnatives in ten countries with a high population of immigrant pupils: Australia, Canada, France,Germany, the Netherlands, New Zealand, Sweden, Switzerland, the UK and the USA. Thefirst step of the analysis shows how far countries differ regarding immigrants educationaldisadvantage. In a second step, the paper compares immigrants characteristics acrosscountries focusing predominantly on socioeconomic status, language proficiency, immigrantstime spent in the host country and patterns of school segregation. Using a regressionframework the last step of the analysis investigates how far these determinants ofeducational achievement can explain immigrants educational disadvantage in the countriesexamined. The paper evaluates whether results found are robust across different sources ofachievement data: the Trends in International Maths and Science Study (TIMSS), theProgramme of International Student Assessment (PISA) and the Programme of InternationalReading Literacy Study (PIRLS).</jats:p>",
+        "DOI": "10.2139/ssrn.621062",
+        "type": "posted-content",
+        "is-referenced-by-count": 29,
+        "title": [
+          "How Different are Immigrants? A Cross-Country and Cross-Survey Analysis of Educational Achievement"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0768-5682",
+            "authenticated-orcid": true,
+            "given": "Sylke V.",
+            "family": "Schnepf",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2139/ssrn.621062",
+        "published": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1007/s00712-019-00682-8",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Exploring the robustness of country rankings by educational attainment"
+        ],
+        "author": [
+          {
+            "given": "Carsten",
+            "family": "Schroeder",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shlomo",
+            "family": "Yitzhaki",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s00712-019-00682-8",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>This data note presents and discussed descriptive statistics of the key variables on individuals’ social origin, cognitive ability and educational attainment that have been constructed based on the information contained in the Longitudinal Study of Young People in England (LSYPE). The main sets of variables presented are (1) measures of respondents’ cognitive ability in childhood, (2) parental education, class, status and income, and (3) respondents’ highest qualification and measures indicating whether respondents have crossed different educational qualification thresholds.</p>",
+        "DOI": "10.31235/osf.io/nqd5s",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Measuring social origin, cognitive ability and educational attainment in the Longitudinal Study of Young People in England (LSYPE)"
+        ],
+        "author": [
+          {
+            "given": "Mollie",
+            "family": "Bourne",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4544-4073",
+            "authenticated-orcid": true,
+            "given": "Bastian Andreas",
+            "family": "Betthäuser",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8277-2829",
+            "authenticated-orcid": true,
+            "given": "Erzsebet",
+            "family": "Bukodi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.31235/osf.io/nqd5s",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              2
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Government statistics show that children with special educational needs and disabilities do not achieve as well academically as their peers, which impacts on later employment and socioeconomic circumstances. Addressing these inequalities is a key policy area which currently lacks a satisfactory evidence base. To explore the issue, the present study used data from the Scottish Longitudinal Study which contains data from the 1991, 2001 and 2011 censuses along with other administrative data, from a representative sample of the Scottish population. Using this large and longitudinal sample, the present study examines educational engagement, expectations and attainment for children with self‐reported disability, controlling for other early childhood factors. The results show that children with mental health problems were at higher risk of leaving school early, and that children with learning difficulties were less likely to gain advanced qualifications. Neither limiting long‐term illness in early childhood nor disability in adolescence were significant predictors of engagement, however, they did predict measures of academic expectation and attainment. Results suggest there is a critical phase for attainment, with area deprivation in early childhood but not adolescence being important for later educational inequalities.</jats:p>",
+        "DOI": "10.1002/berj.3576",
+        "type": "journal-article",
+        "is-referenced-by-count": 14,
+        "title": [
+          "Educational engagement, expectation and attainment of children with disabilities: Evidence from the Scottish Longitudinal Study"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9745-9018",
+            "authenticated-orcid": false,
+            "given": "Fiona M.",
+            "family": "Cox",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of St Andrews St Andrews UK"
+              },
+              {
+                "name": "Delft University of Technology Delft The Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alan D.",
+            "family": "Marshall",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Edinburgh Edinburgh UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "British Educational Research Journal"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1002/berj.3576",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1080/13545701.2016.1198044",
+        "type": "journal-article",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Gender Empowerment and Educational Attainment of US Immigrants and Their Home-Country Counterparts"
+        ],
+        "author": [
+          {
+            "given": "Yunsun",
+            "family": "Huh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Feminist Economics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/13545701.2016.1198044",
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.21125/edulearn.2019.0185",
+        "type": "proceedings-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "EXPOSURE TO TRAUMATIC EVENTS AND PTSD AMONG UNDERGRADUATE STUDENTS IN A DEVELOPING COUNTRY: POTENTIAL IMPACT ON EDUCATIONAL ATTAINMENT"
+        ],
+        "author": [
+          {
+            "given": "Anita",
+            "family": "Padmanabhanunni",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "EDULEARN Proceedings",
+          "EDULEARN19 Proceedings"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.21125/edulearn.2019.0185",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>This study empirically assessed the influence of educational inequality on national intelligence quotient (IQ) using aggregated data from 139 countries. This relationship was analyzed while controlling for components of the Human Development Index (mean and expected years of schooling, life expectancy at birth, gross national income per capita), and other inequity factors (inequality in income, gender, and life expectancy at birth). These results provide evidence that educational inequality is the strongest predictor of national IQ. The findings demonstrate that countries with greater educational and gender inequalities and lower gross national income have lower national IQ. The current results provide unique insight into the processes shaping national IQ by demonstrating novel and strong determinants, that is, educational inequality. These findings are discussed in the context of possible practical implications for reducing educational inequality with the aim of increasing national IQ.</p>",
+        "DOI": "10.31235/osf.io/r92xb",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Educational inequality predicts intelligence quotient: A cross-country analysis"
+        ],
+        "author": [
+          {
+            "given": "Radosław",
+            "family": "Trepanowski",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5697-892X",
+            "authenticated-orcid": true,
+            "given": "Dariusz",
+            "family": "Drążkowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              20
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.31235/osf.io/r92xb",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1037/edu0000313.supp",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Supplemental Material for Longitudinal Relations Among Self-Concept, Intrinsic Value, and Attainment Value Across Secondary School Years in Three Academic Domains"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Educational Psychology"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1037/edu0000313.supp",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ijer.2012.05.001",
+        "type": "journal-article",
+        "is-referenced-by-count": 9,
+        "title": [
+          "Longitudinal effects of class size reductions on attainment: Results from Hong Kong primary classrooms"
+        ],
+        "author": [
+          {
+            "given": "Maurice",
+            "family": "Galton",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tony",
+            "family": "Pell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Educational Research"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.ijer.2012.05.001",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2000,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1080/00220670009598739",
+        "type": "journal-article",
+        "is-referenced-by-count": 13,
+        "title": [
+          "A Longitudinal Assessment of Antecedent Course Work in Mathematics and Subsequent Mathematical Attainment"
+        ],
+        "author": [
+          {
+            "given": "Xin",
+            "family": "Ma",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "a University of Alberta , Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              4,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Educational Research"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2000,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1080/00220670009598739",
+        "published": {
+          "date-parts": [
+            [
+              2000,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.14301/llcs.v9i2.436",
+        "type": "journal-article",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Dimensions of family disruption: Coincidence, interactions, and impacts on children’s educational attainment"
+        ],
+        "author": [
+          {
+            "given": "Juli",
+            "family": "Simon Thomas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Longitudinal and Life Course Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.14301/llcs.v9i2.436",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<jats:p>Prior research has shown that deprived neighbourhoods negatively impact educational attainment, including when individual and family characteristics are controlled for, but still remains unclear on the temporal dimensions of this effect. Using Swedish administrative data over 20 years, and drawing on bespoke neighbourhoods, we examine two questions on the relationship between residential context and high school graduation: 1) Does enduring exposure to disadvantaged neighbourhoods matter more than brief exposure? And 2) During which childhood period does it matter the most? We address the challenge of dynamic residential selection using inverse probability weighting within a marginal structural model of high school graduation and neighbourhood exposure. To flexibly model the complex, non-linear processes underlying residential selection, we use Bayesian additive regression trees to estimate propensity scores, providing a more flexible alternative to conventional parametric models. Findings suggest that cumulative exposure to disadvantaged neighbourhoods linearly reduces the likelihood of high school graduation, with effects varying across childhood stages. The negative effect is strongest during late adolescence and, to a lesser extent, in early childhood, with prolonged exposure reducing graduation rates by up to 34 percent. These findings indicate that both the duration and developmental timing of neighbourhood exposure are consequential for educational attainment, even in the context of Sweden’s strong welfare state. More broadly, the study highlights how longitudinal approaches that integrate flexible machine-learning methods with causal inference can improve our understanding of how residential trajectories contribute to educational inequality.\n* This article belongs to a special issue on “Migration Trajectories Across the Life Course”.</jats:p>",
+        "DOI": "10.12765/cpos-2026-21",
+        "type": "journal-article",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Childhood Trajectories of Neighbourhood Disadvantage and Educational Attainment: Towards a Longitudinal Machine-Learning Approach"
+        ],
+        "author": [
+          {
+            "given": "Maël",
+            "family": "Lecoursonnais",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haley",
+            "family": "McAvay",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Comparative Population Studies"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.12765/cpos-2026-21",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "abstract": "<p>Digital infrastructure has become a fundamental foundation for educational development in the digital era. However, limited evidence is available regarding how different dimensions of digital infrastructure are associated with educational development across countries over time. This study investigates the relationship between digital infrastructure and expected years of schooling using panel data from 131 countries between 2020 and 2023. A total of 524 observations were obtained from Our World in Data. Three key dimensions of digital infrastructure—fixed broadband subscriptions, Internet usage, and secure Internet servers—were examined. Descriptive statistics, Pearson correlation analysis, and multiple linear regression models were employed to assess their associations with expected years of schooling, with GDP per capita included as a control variable. The results indicate that all three indicators are positively associated with expected years of schooling. However, the relationship between secure Internet servers and educational development is comparatively weaker than those of broadband subscriptions and Internet usage. The regression analysis further demonstrates that the inclusion of GDP per capita does not substantially alter the estimated coefficients, suggesting that the observed associations remain robust after controlling for national economic development. Overall, the findings provide cross-country evidence that improvements in digital infrastructure are associated with higher expected years of schooling and highlight the importance of continued investment in broadband infrastructure, Internet accessibility, and digital capacity to support educational development.</p>",
+        "DOI": "10.35542/osf.io/fdytm_v1",
+        "type": "posted-content",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-4066-8537",
+            "authenticated-orcid": true,
+            "given": "Puti",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.35542/osf.io/fdytm_v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1076/edre.9.3.289.15571",
+        "type": "journal-article",
+        "is-referenced-by-count": 39,
+        "title": [
+          "Student Background and Teacher Effects on Achievement and Attainment in Mathematics: A Longitudinal Study"
+        ],
+        "author": [
+          {
+            "given": "Daniel",
+            "family": "Muijs",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Reynolds",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Educational Research and Evaluation"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1076/edre.9.3.289.15571",
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              9
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 40,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}
