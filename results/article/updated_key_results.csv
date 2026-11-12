@@ -1,0 +1,15 @@
+﻿RESULT_GROUP,SAMPLE,TARGET_COLUMN,EQUATION,MODEL,RMSE,REFERENCE_RMSE,GAIN_PERCENT,CLASSIFICATION
+Global Ridge vs zero,consecutive,DA_DT,dA/dt,Ridge,1.550217210188852,1.5321697661355351,-1.1779010689420208,no_improvement
+Global Ridge vs zero,consecutive,DC_DT,dC/dt,Ridge,2.8166193165809545,2.975553971170068,5.341346724980293,moderate
+Global Ridge vs zero,consecutive,DF_DT,dF/dt,Ridge,0.3634930704888453,0.3622003363835142,-0.3569113486306497,no_improvement
+Global Ridge vs zero,consecutive,DL_DT,dL/dt,Ridge,1.4966916712632223,1.0147294994815188,-47.49661580036498,no_improvement
+Global Ridge vs zero,gap_max_2,DA_DT,dA/dt,Ridge,1.566724810526307,1.548809376358732,-1.156722992579906,no_improvement
+Global Ridge vs zero,gap_max_2,DC_DT,dC/dt,Ridge,2.547793312031227,2.731532807338894,6.726607669291336,moderate
+Global Ridge vs zero,gap_max_2,DF_DT,dF/dt,Ridge,0.36631349873965774,0.36385438413826343,-0.6758513044217855,no_improvement
+Global Ridge vs zero,gap_max_2,DL_DT,dL/dt,Ridge,1.272016557878995,1.245614628749611,-2.119590483285117,no_improvement
+Ecuador Ridge vs zero,Ecuador annual series,DA_DT,dA/dt,Ridge,1.0622721342514407,1.028779918657728,-3.2555277359428607,no_improvement
+Ecuador Ridge vs zero,Ecuador annual series,DC_DT,dC/dt,Ridge,1.3803985397810052,1.5601733529285837,11.522746033966369,substantial
+Ecuador Ridge vs zero,Ecuador annual series,DF_DT,dF/dt,Ridge,0.30921650335755013,0.2913763733260358,-6.122709891632885,no_improvement
+Ecuador Ridge vs zero,Ecuador annual series,DL_DT,dL/dt,Ridge,0.3384997928430273,0.3279586851429242,-3.214157202609003,no_improvement
+Nested ML benchmark,consecutive,DC_DT,dC/dt,ridge,2.815657762708442,2.975553971170068,5.373661846192308,best_nested_model
+Nested ML benchmark,gap_max_2,DC_DT,dC/dt,elastic_net,2.5447272741249813,2.7315328073388936,6.838853727548724,best_nested_model
