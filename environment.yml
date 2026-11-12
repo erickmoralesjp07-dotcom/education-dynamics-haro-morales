@@ -19,6 +19,7 @@ dependencies:
   - openpyxl
   - requests
   - pyyaml
+  - pypdf2
   - tqdm
   - pytest
   - pip
