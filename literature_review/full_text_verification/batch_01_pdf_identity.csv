@@ -1,7 +1,8 @@
-SCREENING_ID,IDENTITY_STATUS,TITLE_MATCH,AUTHOR_MATCH,DOI_IN_TEXT,VERSION_TYPE,USABLE_FOR_FULL_TEXT_ASSESSMENT,CITATION_ACTION,NOTES
-SCR-0008,IDENTITY_CONFIRMED,True,True,True,Published article,True,Cite published article,"Title authors journal year and DOI match."
-SCR-0010,IDENTITY_CONFIRMED_MANUSCRIPT,True,True,False,Institutional manuscript,True,Cite published journal version,"Title and authors match. Use manuscript for assessment but verify pagination and cite Journal of Adolescence version."
-SCR-0018,IDENTITY_CONFIRMED_WORKING_PAPER,True,True,False,Working paper,True,Cite published journal version,"Title and authors match. Working paper dated 2018 precedes the 2019 journal article."
-SCR-0020,IDENTITY_CONFIRMED,True,True,False,Published article,True,Cite published article,"Title authors journal volume issue year and pages match. DOI not printed in extracted first page."
-SCR-0015,IDENTITY_CONFIRMED,True,True,False,Published article,True,Verify DOI and journal quality before final inclusion,"Title and five listed authors match. Evaluate dataset target leakage validation and reproducibility."
-SCR-0025,IDENTITY_CONFIRMED,True,True,True,Published article,True,Verify year journal quality and methodology before final inclusion,"Title authors journal year and DOI match. Evaluate target definition leakage and validation design."
+﻿SCREENING_ID,IDENTITY_STATUS,TITLE_MATCH,AUTHOR_MATCH,DOI_IN_TEXT,VERSION_TYPE,USABLE_FOR_FULL_TEXT_ASSESSMENT,CITATION_ACTION,NOTES
+SCR-0008,IDENTITY_CONFIRMED,True,True,True,Published article,True,Cite published article,Title authors journal year and DOI match.
+SCR-0010,IDENTITY_CONFIRMED_MANUSCRIPT,True,True,False,Institutional manuscript,True,Cite published journal version,Title and authors match. Use manuscript for assessment but verify pagination and cite Journal of Adolescence version.
+SCR-0018,IDENTITY_CONFIRMED_WORKING_PAPER,True,True,False,Working paper,True,Cite published journal version,Title and authors match. Working paper dated 2018 precedes the 2019 journal article.
+SCR-0020,IDENTITY_CONFIRMED,True,True,False,Published article,True,Cite published article,Title authors journal volume issue year and pages match. DOI not printed in extracted first page.
+SCR-0015,IDENTITY_CONFIRMED,True,True,False,Published article,True,Verify DOI and journal quality before final inclusion,Title and five listed authors match. Evaluate dataset target leakage validation and reproducibility.
+SCR-0025,IDENTITY_CONFIRMED,True,True,True,Published article,True,Verify year journal quality and methodology before final inclusion,Title authors journal year and DOI match. Evaluate target definition leakage and validation design.
+SCR-0002,IDENTITY_CONFIRMED,True,True,True,Published article,True,Cite published article,"Manual ScienceDirect PDF. Title, author surnames and DOI verified in extracted text."
