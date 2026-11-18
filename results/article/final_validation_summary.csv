@@ -1,0 +1,6 @@
+﻿VALIDATION_COMPONENT,TESTS,POSITIVE_TESTS,POSITIVE_PERCENT,MAIN_RESULT,STATUS
+Temporal-origin validation,5,4,80.0,Ridge supera cambio cero en 4 de 5 pruebas,OK
+Temporal-window sensitivity,15,12,80.0,12 de 15 pruebas positivas,OK
+Gap maximum two years,9,9,100.0,9 de 9 pruebas positivas,OK
+Annual transitions,6,3,50.0,3 de 6 pruebas positivas; estabilidad limitada,CAUTION
+Coefficient sign stability,20,16,80.0,C y L mantienen el signo en todos los modelos,OK_WITH_LIMITATIONS
