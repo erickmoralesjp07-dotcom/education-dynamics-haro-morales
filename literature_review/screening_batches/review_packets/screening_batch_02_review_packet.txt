@@ -1,0 +1,547 @@
+==============================================================================
+FICHA DE REVISION POR TITULO Y RESUMEN
+LOTE 02
+==============================================================================
+
+ARCHIVO_ORIGEN: C:\Users\ERICK\OneDrive\Documents\Tercer Semestre CDIA\ECUACIONES DIFERENCIALES\Articulo\education_dynamics_starter\literature_review\screening_batches\screening_batch_02.csv
+TOTAL_REGISTROS: 25
+REGISTROS_CON_RESUMEN: 25
+REGISTROS_SIN_RESUMEN: 0
+
+CRITERIOS DE INCLUSION:
+1. Estudio empirico o metodologico sobre educacion, logro, desigualdad, convergencia, dinamica o prediccion.
+2. Comparacion entre paises, regiones, periodos, sistemas educativos o grupos.
+3. Uso potencial de panel, series de tiempo, PISA, UNESCO, World Bank, modelos estadisticos o dinamicos.
+
+CRITERIOS DE EXCLUSION:
+1. Tema sin relacion directa con educacion o resultados educativos.
+2. Editorial, comentario, noticia, presentacion o registro sin contenido cientifico suficiente.
+3. Estudio puramente local sin aporte metodologico o comparativo relevante.
+4. Registro duplicado de una version publicada ya conservada.
+
+REGLA DE SEGURIDAD:
+Si el titulo o resumen no permite una decision firme, usar Unclear. No excluir por falta de informacion.
+==============================================================================
+REGISTRO 01 DE 25
+SCREENING_ID: SCR-0026
+TITLE: Scientific Literacy and Socio-Educational Inequality: The Philippines in Comparative Perspective Across PISA Results
+YEAR: 2026
+AUTHORS: Divine Manliguez
+SOURCE: Ennoia Advances in Social Science, Technology and Education
+DOCUMENT_TYPE: article
+DOI: 10.5281/zenodo.23205601
+URL: https://doi.org/10.5281/zenodo.23205601
+THEMATIC_BLOCK: pisa_inequality
+VERIFICATION_FLAGS: YEAR_2026_VERIFY
+
+ABSTRACT:
+Abstract Scientific literacy supports evidence-based decision-making, technological participation, and informed engagement with social and environmental issues. This study examined Philippine science performance across the 2018, 2022, and 2025 PISA cycles and compared the results with OECD averages and selected high-performing systems. Using comparative secondary-data and policy-document analyses, the study examined mean scores, proficiency distributions, learner and school indicators, and relevant science-education policies. Philippine performance remained nearly unchanged from 357 points in 2018 to 356 in 2022 but increased to 373 in 2025. Although the Philippine–OECD gap narrowed from 132 to 109 points, 68.4% of Filipino learners remained below baseline science proficiency, and only 0.2% attained the highest proficiency levels in 2025. Science performance was associated with socioeconomic conditions, home resources, reading and metacognitive strategies, self-efficacy, school climate, digital access, instructional support, and educational investment. Favorable learner motivation and school belonging coexisted with low proficiency, indicating that willingness to learn was not consistently translated into scientific competence. The findings emphasize coherent curriculum, assessment, teacher development, language support, contextualized inquiry, and equity-sensitive resource allocation as essential to improving scientific literacy.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 02 DE 25
+SCREENING_ID: SCR-0027
+TITLE: The geography of tertiary education inequality in Europe: a within- and cross-country analysis over time
+YEAR: 2025
+AUTHORS: Fabrizio Bernardi; Ilaria Lievore; Manuel Tomás Valdés
+SOURCE: European Societies
+DOCUMENT_TYPE: article
+DOI: 10.1162/euso.a.37
+URL: https://doi.org/10.1162/euso.a.37
+THEMATIC_BLOCK: convergence_regimes
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+ABSTRACT In this article we study differences in levels of educational inequality across European countries and regions. We address two research questions. First, we ask whether educational inequality in geographical Europe is shaped to a larger extent by the country or the region within the country where an individual resides. Second, we investigate whether convergence in levels of educational inequality has occurred across territorial units in Europe. Such convergence could take three different forms: (1) convergence across regions within each country (intra-country convergence), (2) convergence across countries but not regions (inter-country convergence), or (3) convergence across countries and regions within countries (full convergence). To address these questions, we analyze data from the European Social Survey (years 2002 to 2020) covering 248 regions in 25 countries. We estimate a three-level hierarchical linear probability model, with individuals (level 1) nested in regions (level 2) nested in countries (level 3). The model allows random slopes for parental education to vary across regions and countries. Our findings show that regional variation within countries accounts for about 15% to 33% of overall spatial variation in educational inequalities across Europe. Furthermore, we find evidence of persistent differences in levels of educational inequality across countries over time (no inter-country convergence), alongside a decline in regional disparities within countries (intra-country convergence).
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 03 DE 25
+SCREENING_ID: SCR-0028
+TITLE: The Century of Education
+YEAR: 2009
+AUTHORS: Christian Morrisson; Fabrice Murtin
+SOURCE: Journal of Human Capital
+DOCUMENT_TYPE: article
+DOI: 10.1086/600102
+URL: https://doi.org/10.1086/600102
+THEMATIC_BLOCK: convergence_regimes
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+This paper presents a historical database on educational attainment in 74 countries for the period 1870–2010, using perpetual inventory methods before 1960 and then the Cohen and Soto database. We use a measurement error framework to merge the two databases, while correcting for a systematic measurement bias in Cohen and Soto's study linked to differential mortality across educational groups. Descriptive statistics show a continuous spread of education that has accelerated in the second half of the twentieth century. We find evidence of fast convergence in years of schooling for a subsample of advanced countries during the 1870–1914 globalization period and of modest convergence since 1980. Less advanced countries have been excluded from the convergence club in both cases.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 04 DE 25
+SCREENING_ID: SCR-0029
+TITLE: Does schooling actually perpetuate educational inequality in mathematics performance? A validity question on the measures of opportunity to learn in PISA
+YEAR: 2018
+AUTHORS: Kajsa Yang Hansen; Rolf Strietholt
+SOURCE: ZDM
+DOCUMENT_TYPE: article
+DOI: 10.1007/s11858-018-0935-3
+URL: https://doi.org/10.1007/s11858-018-0935-3
+THEMATIC_BLOCK: pisa_inequality
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+International assessments of mathematics have shown persistent and widely intensified socioeconomic inequalities in achievement worldwide over the last decades. Such achievement gaps may partly be due to the differences in students’ personal and family characteristics. They may also be attributed to the schooling itself if school systems provide differentiated opportunity to learn (OTL) for children from privileged versus disadvantaged backgrounds. Previous research on the mechanism of the joint relationship among socioeconomic status (SES), academic achievement, and OTL produced inconclusive results. The main aim of the present study is to test whether schooling actually perpetuates social inequality in achievement, by reanalyzing PISA data. Specifically, we scrutinize the construct validity of the OTL measure in PISA that has been used in previous research. Our analyses reveal two latent dimensions of the OTL indicators in PISA, namely an unbiased OTL dimension and a self-concept dimension. The relationship between social background and mathematics achievement was only weakly mediated by OTL, when effect of students’ self-concept was controlled for. Our results suggest that the previous research finding that schooling perpetuates social gaps in mathematics performance suffers from a construct validity problem.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 05 DE 25
+SCREENING_ID: SCR-0030
+TITLE: Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results
+YEAR: 2010
+AUTHORS: José Manuel Cordero Ferrera; Eva Crespo Cebada; Daniel Santín González
+SOURCE: RePEc: Research Papers in Economics
+DOCUMENT_TYPE: article
+DOI: 
+URL: https://openalex.org/W1532502227
+THEMATIC_BLOCK: adult_attainment
+VERIFICATION_FLAGS: NO_DOI
+
+ABSTRACT:
+Recently published results from PISA 2006 Report show the existence of significant divergences in test scores among students from different Spanish regions participating in this evaluation. The aim of this paper is to investigate the potential causes of those divergences. For this purpose, an efficiency approach is adopted in order to determine in what extent the students make the most of the resources they have at their disposal. Subsequently, the effect of multiple variables on results is tested through a two-stage procedure. Results show that students enrolled in private or subsidized schools have lower levels of efficiency. In contrast, neither class nor school size has influence on students´ efficiency levels. Galicia and La Rioja are identified as the most efficient regions, while the Basque Country and Catalonia are considered the most inefficient ones. However, those divergences cannot be only attributable to schools, which only account for an average of 15 percent of inefficiency with no significant divergences among regions.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 06 DE 25
+SCREENING_ID: SCR-0031
+TITLE: Educational engagement, expectation and attainment of children with disabilities: Evidence from the Scottish Longitudinal Study
+YEAR: 2020
+AUTHORS: Fiona M. Cox; Alan D. Marshall
+SOURCE: British Educational Research Journal
+DOCUMENT_TYPE: journal-article
+DOI: 10.1002/berj.3576
+URL: https://doi.org/10.1002/berj.3576
+THEMATIC_BLOCK: adult_attainment
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+<jats:p>Government statistics show that children with special educational needs and disabilities do not achieve as well academically as their peers, which impacts on later employment and socioeconomic circumstances. Addressing these inequalities is a key policy area which currently lacks a satisfactory evidence base. To explore the issue, the present study used data from the Scottish Longitudinal Study which contains data from the 1991, 2001 and 2011 censuses along with other administrative data, from a representative sample of the Scottish population. Using this large and longitudinal sample, the present study examines educational engagement, expectations and attainment for children with self‐reported disability, controlling for other early childhood factors. The results show that children with mental health problems were at higher risk of leaving school early, and that children with learning difficulties were less likely to gain advanced qualifications. Neither limiting long‐term illness in early childhood nor disability in adolescence were significant predictors of engagement, however, they did predict measures of academic expectation and attainment. Results suggest there is a critical phase for attainment, with area deprivation in early childhood but not adolescence being important for later educational inequalities.</jats:p>
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 07 DE 25
+SCREENING_ID: SCR-0032
+TITLE: Education, material condition and physical functioning trajectories in middle-aged and older adults in Central and Eastern Europe: a cross-country comparison
+YEAR: 2016
+AUTHORS: Yaoyue Hu; Hynek Pikhart; Andrzej Pająk; Růžena Kubínová; Sofia K. Malyutina; Agnieszka Besala; Anne Peasey; Michael Gideon Marmot; Martin Bobák
+SOURCE: Journal of Epidemiology & Community Health
+DOCUMENT_TYPE: article
+DOI: 10.1136/jech-2015-206548
+URL: https://doi.org/10.1136/jech-2015-206548
+THEMATIC_BLOCK: adult_attainment
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+BACKGROUND: Two competing hypotheses, cumulative advantage/disadvantage and age-as-leveller, have been proposed to explain the contradictory findings on socioeconomic differences in health over the lifespan. To test these hypotheses, this investigation examined the influence of educational attainment and material condition on individual trajectories of physical functioning (PF) in unexplored ageing populations in Central and Eastern Europe. METHODS: 28 783 men and women aged 45-69 years selected from populations in seven Czech towns, Krakow (Poland) and Novosibirsk (Russia). PF was measured by the Physical Functioning Subscale (PF-10) of the Short-Form-36 questionnaire (SF-36) at baseline and three subsequent occasions. The highest educational attainment was self-reported at baseline, and material condition was captured by the sum score of 12 household amenities and assets. RESULTS: In all cohorts, participants with a university degree had the highest PF-10 score at baseline and slowest rate of decline in the score during follow-up, while the lowest baseline scores and fastest decline rate were found in participants with less than secondary education in all cohorts and in Russians with secondary education. Similar disparities in the baseline PF-10 score and decline rate were observed across tertiles of material condition, but differences in decline rates across the three tertiles among Czechs or between the lower two tertiles among Russians were not statistically significant. CONCLUSIONS: Disparities in PF by educational attainment and material condition among middle-aged and older adults in Central and Eastern Europe existed at baseline and widened during ∼10 years of follow-up, supporting the cumulative advantage/disadvantage hypothesis.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 08 DE 25
+SCREENING_ID: SCR-0033
+TITLE: Spending on Education, Human Capital, and Economic Growth in Central America: A Panel Data Analysis with Driscoll-Kraay Standard Errors
+YEAR: 2026
+AUTHORS: José Rodolfo Sorto-Bueso; Juan Jacobo Paredes Heller; Roldán Villela
+SOURCE: Economies
+DOCUMENT_TYPE: article
+DOI: 10.3390/economies14010028
+URL: https://doi.org/10.3390/economies14010028
+THEMATIC_BLOCK: education_finance
+VERIFICATION_FLAGS: YEAR_2026_VERIFY
+
+ABSTRACT:
+The main purpose of this study is to assess the effect of current public expenditure on education and human capital on economic growth in Central America between 1992 and 2021. In this context, data on education spending and human capital for Guatemala, Honduras, El Salvador, Nicaragua, and Costa Rica were analyzed using a panel data approach with Driscoll–Kraay standard errors. The time series were primarily obtained from the online databases of the World Bank, UNESCO, and national public sources. The results show a positive and significant effect of current education expenditure and human capital formation on the economic growth of Central America. This research provides empirical evidence on a topic that has been scarcely examined in the Central American regional context, and its findings constitute relevant input for scholars, practitioners, and policymakers.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 09 DE 25
+SCREENING_ID: SCR-0034
+TITLE: Technology adoption and human capital: exploring the gender and cross-country impact 1870–2010
+YEAR: 2021
+AUTHORS: Marinko Škare; Sanja Blažević Burić
+SOURCE: Technology Analysis and Strategic Management
+DOCUMENT_TYPE: article
+DOI: 10.1080/09537325.2021.1948988
+URL: https://doi.org/10.1080/09537325.2021.1948988
+THEMATIC_BLOCK: convergence_regimes
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+Technology adoption and human capital are crucial determinants of economic growth. Here we use a fixed-effect panel model to measure the link between technology adoption and human capital for a sample of 104 countries since 1870–2010 using (HCCTA) and long-run enrolment ratios and educational attainment datasets. Unobserved heterogeneity factors (institutional, tradition, culture, economy type, educational system, migration, innovation, patents) account for the observed difference across countries/regions. Gender difference plays a role in the technology diffusion–human capital relationship, not a vital one. Advanced economies rode on the first three industrial revolutions, with Eastern Europe catching up on the third and fourth industrial waves. The economies of the East used the fourth industrial revolution to converge and surpass other regions. The results show that technology is necessary but not a sufficient determinant of human capital growth. Selective technology adoption policy, accompanied by supporting educational policy (entrepreneurial and research universities) stimulates technology, diffusion, and knowledge spillover. Our results are robust for including population and growth as significant technology adoption and human capital determinants (conditioning variables). Technology, diffusion, and a human capital link is a two-way street with many constraints.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 10 DE 25
+SCREENING_ID: SCR-0035
+TITLE: Education–Technology–Economy Nexus: Empirical Evidence from Developing Countries
+YEAR: 2026
+AUTHORS: Muxtar Mammadov; Sevgi Alizade; Akbar Ibrahımov; Nurid Mammadov
+SOURCE: Porta Universorum
+DOCUMENT_TYPE: article
+DOI: 10.69760/portuni.26020004
+URL: https://doi.org/10.69760/portuni.26020004
+THEMATIC_BLOCK: international_education_panels
+VERIFICATION_FLAGS: YEAR_2026_VERIFY
+
+ABSTRACT:
+The interaction between education, technology, and economic development has become a critical determinant of competitiveness and sustainable growth in developing countries. This study empirically examines how educational attainment and technological readiness jointly influence macroeconomic performance. Using multi-country panel data and indicators related to human capital, digital infrastructure, innovation capacity, and productivity, the research analyzes the structural links between these variables. The findings reveal a strong and statistically significant relationship between improvements in education systems, technological adoption, and economic growth. Countries that invest in human capital and digital transformation demonstrate higher productivity, stronger innovation capacity, and more diversified economic structures. The integration of digital tools into education enhances workforce skills and supports participation in technology-intensive sectors. The study concludes that coordinated policies linking educational reform with technological strategies are essential for achieving sustainable economic development and strengthening global competitiveness in developing economies.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 11 DE 25
+SCREENING_ID: SCR-0036
+TITLE: The impact of education expenditures on income inequality: Evidence from US states
+YEAR: 2018
+AUTHORS: Bryanna Seefeldt
+SOURCE: Bryant Digital Repository (Bryant University)
+DOCUMENT_TYPE: article
+DOI: 
+URL: https://openalex.org/W2803474572
+THEMATIC_BLOCK: education_finance
+VERIFICATION_FLAGS: NO_DOI
+
+ABSTRACT:
+While the effect of various types of government expenditures on income inequality has been studied extensively, whether education expenditures impacts income inequality is less clear. The purpose of this paper is to examine the relationship between education expenditures and income inequality. Specifically, I explore the impact of tertiary versus primary and secondary education spending on income inequality using panel data for 50 US states over the period 1987-2015. Using an ordinary least squares model with time and state fixed effects, I find that total and disaggregated education expenditures have a significant inequality-reducing effect on the income distribution. The findings support continued spending policies at all levels of education as a way to reduce income inequality.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 12 DE 25
+SCREENING_ID: SCR-0037
+TITLE: Trends and Determinants of Intergenerational Educational Inequality in Sub-Saharan Africa for Birth Cohorts 1974 to 2003
+YEAR: 2023
+AUTHORS: Ilze Plavgo; Fabrizio Bernardi
+SOURCE: Sociology of Education
+DOCUMENT_TYPE: article
+DOI: 10.1177/00380407231210279
+URL: https://doi.org/10.1177/00380407231210279
+THEMATIC_BLOCK: international_education_panels
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+This article expands the scope of comparative social stratification research in education to rapidly developing, largely low-income sub-Saharan Africa. First, we investigate trends in the association between parental socioeconomic status (SES) and children’s chances to attend and complete primary education, exploring whether and where educational expansion of the early twenty-first century led to equalization of educational opportunities. Drawing on data from 153 Demographic and Health Surveys and Multiple Indicator Cluster Surveys (1990–2017) from 40 countries, findings indicate that inequality in attendance declined, but inequality in completing six grades largely persisted. Cross-country analyses reveal a large variation in inequality levels and trends. We explore the role of national contextual factors and find that underweight prevalence, fertility rates, school fees, public spending on education, and the ratio of pupils to teaching staff systematically explain variation in SES gaps across countries and cohorts. Findings underline the importance of absolute material deprivation and school teaching resources in the stratification of educational opportunities in this region.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 13 DE 25
+SCREENING_ID: SCR-0038
+TITLE: Improving the estimation of educational attainment: New methods for assessing average years of schooling from binned data
+YEAR: 2018
+AUTHORS: Joseph R. Friedman; Nicholas Graetz; Emmanuela E. Gakidou
+SOURCE: PLoS ONE
+DOCUMENT_TYPE: article
+DOI: 10.1371/journal.pone.0208019
+URL: https://doi.org/10.1371/journal.pone.0208019
+THEMATIC_BLOCK: predictive_validation
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+BACKGROUND: The accurate measurement of educational attainment is of great importance for population research. Past studies measuring average years of schooling rely on strong assumptions to incorporate binned data. These assumptions, which we refer to as the standard duration method, have not been previously evaluated for bias or accuracy. METHODS: We assembled a database of 1,680 survey and census datasets, representing both binned and single-year education data. We developed two models that split bins of education into single year values. We evaluate our models, and compare them to the standard duration method, using out-of-sample predictive validity. RESULTS: Our results indicate that typical methods used to split bins of educational attainment introduce substantial error and bias into estimates of average years of schooling, as compared to new approaches. Globally, the standard duration method underestimates average years of schooling, with a median error of -0.47 years. This effect is especially pronounced in datasets with a smaller number of bins or higher true average attainment, leading to irregular error patterns between geographies and time periods. Both models we developed resulted in unbiased predictions of average years of schooling, with smaller average error than previous methods. We find that one approach using a metric of distance in space and time to identify training data, had the best performance, with a root mean squared error of mean attainment of 0.26 years, compared to 0.92 years for the standard duration algorithm. CONCLUSIONS: Education is a key social indicator and its accurate estimation should be a population research priority. The use of a space-time distance bin-splitting model drastically improved the estimation of average years of schooling from binned education data. We provide a detailed description of how to use the method and recommend that future studies estimating educational attainment across time or geographies use a similar approach.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 14 DE 25
+SCREENING_ID: SCR-0039
+TITLE: Differences in educational attainment by country of origin: Evidence from Australia
+YEAR: 2020
+AUTHORS: Jaai Parasnis; Jemma Swan
+SOURCE: Migration Studies
+DOCUMENT_TYPE: journal-article
+DOI: 10.1093/migration/mnz008
+URL: https://doi.org/10.1093/migration/mnz008
+THEMATIC_BLOCK: convergence_regimes
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+<jats:title>Abstract</jats:title> <jats:p>This study investigates native–migrant differences in engagement in post-school education. Using a longitudinal survey of youth in Australia, we find that immigrants originating from non-English-speaking countries are significantly more likely to continue with further study between the ages of 18 and 23 years. On the other hand, there are no significant differences between immigrants from English-speaking countries and native youth. We find several important factors influencing study decisions, including parents and family background, academic ability, aspirations and age at migration; however, accounting for these factors does not fully explain the higher probability of pursuing higher education for immigrants from non-English-speaking countries. Exploring the country of origin effect, we find that immigrants from countries with low tertiary education levels are more likely to study in Australia, while differences in parental attitudes in their origin countries do not have a significant effect. The results show the importance of country of origin on the study decisions of youth, underlining the impact of migration settings on education of next generation.</jats:p>
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 15 DE 25
+SCREENING_ID: SCR-0040
+TITLE: Panel estimation for the relationship between education expenditure and economic growth for OECD countries
+YEAR: 2019
+AUTHORS: Zeynep ÖZTÜRK KARAÇOR; Burcu Güvenek; Esra Ekinci; Sevilay Konya
+SOURCE: Forum Scientiae Oeconomia
+DOCUMENT_TYPE: article
+DOI: 10.23762/fso_vol6no2_18_1
+URL: https://doi.org/10.23762/fso_vol6no2_18_1
+THEMATIC_BLOCK: education_finance
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+Abstract. Education, which is one of the important dynamics of human capital along with health, plays an important role in this context. Increasing the level of success comes through higher standards of education, recruitment of qualified workers, better employment opportunities and increased earnings which are significant contributors to growth and prosperity in OECD countries. In this study, the relationship between educational expenditures and economic growth for 19 selected OECD countries is analysed using the panel data method.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 16 DE 25
+SCREENING_ID: SCR-0041
+TITLE: The Intraclass Correlation Coefficient as a Measure of Educational Inequality: An Empirical Study with Data from PISA 2018
+YEAR: 2024
+AUTHORS: Yasemin YARDIM; Gürkan CÜVİTOĞLU; Burak AYDIN
+SOURCE: 
+DOCUMENT_TYPE: posted-content
+DOI: 10.21203/rs.3.rs-4066275/v1
+URL: https://doi.org/10.21203/rs.3.rs-4066275/v1
+THEMATIC_BLOCK: pisa_inequality
+VERIFICATION_FLAGS: PREPRINT_OR_REPOSITORY
+
+ABSTRACT:
+<title>Abstract</title> <p>In this study we utilized data from the Programme for International Student Assessment (PISA) to investigate differences in schools’ average mathematics scores by treating intraclass correlation coefficient (ICC) as a measure of educational inequality. We computed ICCs both with unconditional and conditional multilevel models for 79 PISA 2018 participating countries and meta-analyzed the results. There are two main purposes of this study; to quantify the inequality after controlling for common PISA-variables across countries and try to explain heterogeneity at the country level, to investigate the school differences in Türkiye due to its large ICCs and the authors’ familiarity with its educational system. The results showed that PISA variables that are common across countries reduced the unconditional ICC by 5% to 73%, further at least 50% of the heterogeneity in conditional ICCs was explained by the country level non-PISA variables. The tracking age, cultural differences and Gross Domestic Product variables were particularly important to explain differences in conditional ICCs. The Türkiye specific model, consistent with the meta-analysis results, indicated that the school type is a substantial predictor to understand ICC. Overall, we briefly explained the important variables that might be helpful to investigate ICC for researchers, administrators and policy makers who are interested in studying educational inequality from a quantitative perspective.</p>
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 17 DE 25
+SCREENING_ID: SCR-0042
+TITLE: The Link between Structural Quality Indicators in Pre-primary and PISA Science Literacy Skills: A Cross-Country Comparison
+YEAR: 2020
+AUTHORS: Elif Buldu; Refika Olgan
+SOURCE: Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi
+DOCUMENT_TYPE: article
+DOI: 10.17522/balikesirnef.618977
+URL: https://doi.org/10.17522/balikesirnef.618977
+THEMATIC_BLOCK: international_education_panels
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+The main aim of this study was to make a comparison across distinct countries to investigate the relationship between several quality indicators in pre-primary education and children’s subsequent science competency in the Program for International Student Assessment (PISA) between 2000-2015 years. The cross-national indicators that were used were obtained from previous records, including public and private expenditure, pupil-teacher ratio, enrollment rate, duration, age of beginning in pre-primary education, individual countries' adult literacy rates, and income per capita. The results showed that the relationship between public expenditure, pupil-teacher ratio, income per capita, adult literacy rate and children’s subsequent science performance on the PISA were positively statistically significant at a country-level. One of the important implications of the current study is that countries that spend less (which include Turkey) should plan a detailed pre-primary expenditure agenda for the public sector and raise their current level of public spending.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 18 DE 25
+SCREENING_ID: SCR-0043
+TITLE: The Impact of Natural Disasters on Educational Attainment: Cross Country Evidence from Macro Data
+YEAR: 2026
+AUTHORS: Lois Onigbinde Jacob
+SOURCE: 
+DOCUMENT_TYPE: posted-content
+DOI: 10.2139/ssrn.6731360
+URL: https://doi.org/10.2139/ssrn.6731360
+THEMATIC_BLOCK: convergence_regimes
+VERIFICATION_FLAGS: PREPRINT_OR_REPOSITORY|YEAR_2026_VERIFY
+
+ABSTRACT:
+<jats:p>&lt;p&gt;&lt;span&gt;&lt;a href="https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data" rel="nofollow"&gt;https://www.researchgate.net/publication/344297502_The_Impacts_of_Natural_Disasters_on_Educational_Attainment_Cross-Country_Evidence_from_Macro_Data&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</jats:p>
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 19 DE 25
+SCREENING_ID: SCR-0044
+TITLE: Socioeconomic Inequalities in Reading Literacy and Learning-Related Characteristics: Evidence from PISA 2022
+YEAR: 2026
+AUTHORS: Rufei Yang
+SOURCE: Journal of Education Research
+DOCUMENT_TYPE: article
+DOI: 10.37985/jer.v7i3.3480
+URL: https://doi.org/10.37985/jer.v7i3.3480
+THEMATIC_BLOCK: pisa_inequality
+VERIFICATION_FLAGS: YEAR_2026_VERIFY
+
+ABSTRACT:
+Socioeconomic status (SES) is widely recognized as a key factor in educational inequality, yet comparative evidence on its relationship with students' learning-related characteristics remains limited, particularly in Asian contexts. This study aims to examine associations among SES, reading literacy, and three learning-related characteristics: metacognitive monitoring, learning time, and career aspirations. PISA 2022 data from ten Asian economies were analyzed following PISA technical standards, incorporating plausible values and sampling weights. Results indicate that SES is positively associated with reading literacy across all economies, although the strength of this association varies substantially. Associations between learning-related characteristics and reading literacy are generally weak and differ across contexts. These findings underscore cross-context variation in socioeconomic stratification of reading achievement, offering a comparative and descriptive perspective that contributes to a more nuanced understanding of educational inequality across diverse Asian sociocultural contexts.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 20 DE 25
+SCREENING_ID: SCR-0045
+TITLE: Healthcare Accessibility and Inclusive Human Capital Development in ECOWAS Member State: A Dynamic Panel Data Analysis
+YEAR: 2026
+AUTHORS: N. Ozoh Joan; Collins Uchenna Udedi; Geraldine Ejiaka Nzeribe; Irene Nkechi Onwuka; Chinwe Monica Madueke
+SOURCE: Journal of African Innovation and Advanced Studies
+DOCUMENT_TYPE: article
+DOI: 10.70382/ajaias.v12i2.085
+URL: https://doi.org/10.70382/ajaias.v12i2.085
+THEMATIC_BLOCK: education_finance
+VERIFICATION_FLAGS: YEAR_2026_VERIFY
+
+ABSTRACT:
+Health is a direct determinant of human well-being and an essential input to economic productivity and societal resilience. In the Economic Community of West African States, persistent deficits in equitable access to healthcare and inclusive human capital development are caused by socioeconomic inequalities, financial barriers, and a fragmented healthcare system. These factors lead to low economic productivity and a continuous cycle of poverty and also violate people’s fundamental right to health and education. This research examined the impact of healthcare accessibility on inclusive human capital development among ECOWAS countries using a time series data from 1980 to 2023. Human capital theory is the theoretical framework for this study. The variables used are the inequality human development index (IHDI) (dependent variable) and other independent variables, such as education expenditure (EDEx), public health expenditure (PHEx), real GDP per capita (GDPp), poverty headcount ratio, and institutional quality (INSQ). An instrumental variables (IV) estimator of dynamic panel models based on the System Generalized Method of Moments (SGMM) was used in the estimation. The study found that public health expenditure, GDP per capita, and institutional quality have a negative and significant impact on the inclusive development of the region due to structural corruption lag, high administrative overhead and systemic leakages. Education expenditure and poverty headcount ratio have a negative and insignificant impact. This study recommends, amongst others, that access to health care such as county or community hospitals, mobile clinics, and Ward ambulance services should be provided to increase health accessibility. The government can also promote inclusive growth policies, such as free or sponsored access to education and health care, to ensure that economic gains reach the poor in ECOWAS countries.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 21 DE 25
+SCREENING_ID: SCR-0046
+TITLE: MODELLING EDUCATIONAL AND FAMILY INTERACTIONS IN AUTISM SUPPORT USING SYSTEM DYNAMICS
+YEAR: 2026
+AUTHORS: Jasim Mohammed Dahr; Alaa Khalaf Hamoud
+SOURCE: Journal of International Health Sciences and Management
+DOCUMENT_TYPE: article
+DOI: 10.48121/jihsam.2014299
+URL: https://doi.org/10.48121/jihsam.2014299
+THEMATIC_BLOCK: dynamic_systems_education
+VERIFICATION_FLAGS: YEAR_2026_VERIFY
+
+ABSTRACT:
+This study applies a System Dynamics approach to model how educational and family systems interact over time to influence autism support outcomes. Autism inclusion relies on sustained collaboration between teachers and caregivers, yet existing studies often treat these domains separately and linearly. The present model integrates both domains to capture feedback-driven behaviour, adaptation, and time delays that affect Individualized Education Plan (IEP) implementation. Key variables include teacher competence, inclusion policy strength, learning resource availability, parental education, emotional stability, and home–school coordination. Using Vensim DSS, the system was simulated over a ten-year period with parameter values derived from empirical literature. Under baseline conditions, Educational Support Capacity rose from 0.45 to 0.53 (+17.8%), Family Support Capacity from 0.50 to 0.58 (+16.0%), and overall IEP Implementation Effectiveness improved from 0.47 to 0.55 (+17.0%). When isolated interventions were introduced, educational enhancement produced a 26% gain in teacher capacity but limited overall improvement (IEP +20%), while family empowerment increased family capacity by 30% yet plateaued at 22% IEP improvement. The combined intervention yielded the strongest outcome, raising IEP Implementation Effectiveness by approximately 38% relative to baseline. Sensitivity analysis identified Parental Engagement Rate and Teacher Training Effectiveness as the most influential parameters, with ±20% variation in either producing an 18–22% change in system output. The results indicate that inclusion outcomes emerge from co-evolution rather than independent progress. Coordinated investments in teacher development and caregiver engagement produce synergistic, self-reinforcing improvement, while unbalanced efforts risk stagnation. Sustainable autism support therefore depends on maintaining equilibrium between institutional readiness and family resilience, guided by adaptive feedback and continuous communication.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 22 DE 25
+SCREENING_ID: SCR-0047
+TITLE: The Influence of Education Expenditure, Health Expenditure, and the Gini Ratio on Human Development
+YEAR: 2025
+AUTHORS: Tri Setya Aulia; Devanto Shasta Pratomo
+SOURCE: Journal of Development Economic and Social Studies.
+DOCUMENT_TYPE: article
+DOI: 10.21776/jdess.2025.04.4.08
+URL: https://doi.org/10.21776/jdess.2025.04.4.08
+THEMATIC_BLOCK: education_finance
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+Regional development can be assessed by the extent of human development within the area. High-quality human resources are expected to contribute positively to increased productivity. In this regard, the commitment of local governments to promoting human development is crucial, particulary through the allocation of public expenditure to key sectors. This study investigates the impact of education expenditure sourced from the Early Childhood Education Operational Assistance (BOP PAUD), health expenditure sourced from the health Operational Assistance (BOK), and income inequality as measured by the gini ratio on the Human Development in the Special Region of Yogyakarta (DIY). The analysis is based on secondary data from five districts and municipalities within the province. A quantitive approach using panel data regression is employed. The results show that education expenditure sourced from BOP PAUD has a statistically significant negative effect on HDI, health expenditure sourced from BOK has a statistically significant positive effect, while the gini ratio has no significant effect on HDI.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 23 DE 25
+SCREENING_ID: SCR-0048
+TITLE: Does General Education Lead to Higher Educational Attainment? Nuanced Insights From French Retrospective Longitudinal Data
+YEAR: 2025
+AUTHORS: Célia Bouchet
+SOURCE: Journal of Disability Policy Studies
+DOCUMENT_TYPE: article
+DOI: 10.1177/10442073251370993
+URL: https://doi.org/10.1177/10442073251370993
+THEMATIC_BLOCK: adult_attainment
+VERIFICATION_FLAGS: 
+
+ABSTRACT:
+This article used regression analysis of retrospective longitudinal data from the 2011 French Employment Survey to estimate the effect on educational attainment of different school settings across facilities and subgroups of children with disabilities. Controlling for impairments and sociodemographics, educational achievement was significantly lower for individuals who attended a special classroom, a special school, or, more markedly, did not attend any school as compared to those who attended only a general education classroom. However, interaction effects revealed that it was primarily for those with a cognitive impairment and those from higher socioeconomic backgrounds that special school outcomes were lower than general education outcomes. There was little or no difference for those with a major hearing impairment, a major mobility impairment, or disadvantaged backgrounds. These results call for careful attention to the diversity of facilities and audiences when evaluating the direct and indirect effects of educational policies on people with disabilities.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 24 DE 25
+SCREENING_ID: SCR-0049
+TITLE: Correlation Between Corruption and Education in Developing Countries
+YEAR: 2017
+AUTHORS: Nathalie De La Cruz Aquino
+SOURCE: Digital Commons - USU (Utah State University)
+DOCUMENT_TYPE: conference-paper
+DOI: 
+URL: https://openalex.org/W2615446926
+THEMATIC_BLOCK: international_education_panels
+VERIFICATION_FLAGS: NO_DOI
+
+ABSTRACT:
+Title: Correlation Between Corruption and Education in Developing Countries Abstract: Cross-country empirical studies that analyze the relationship between corruption perception and education indicators are abundant. In this study, I use the PISA outcomes to proxy for education quality as well as other education indicators and regress them with two different corruption measures and control variables. Running GLS on the standardized mean values of the PISA results shows that lower corruption is associated with an increase in the PISA scores for math (0.23 σ), science (0.20 σ), and reading (0.29 σ) across countries; however, these coefficients are not statistically significant after controlling for fixed effects and other control variables. Dropout rates show a stronger relationship (-3.15). In addition, I use other educational indicators such as enrollment and schooling years to study the effect of corruption in the access to education and human capital stock. Using interactions in my regressions show worse PISA outcomes for developing countries in general.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
+
+==============================================================================
+REGISTRO 25 DE 25
+SCREENING_ID: SCR-0050
+TITLE: Determinants of educational attainment in Egypt and MENA : a microeconometric approach
+YEAR: 2012
+AUTHORS: Menshawy Badr
+SOURCE: Nottingham ePrints (University of Nottingham)
+DOCUMENT_TYPE: dissertation
+DOI: 
+URL: https://openalex.org/W1575106864
+THEMATIC_BLOCK: convergence_regimes
+VERIFICATION_FLAGS: NO_DOI
+
+ABSTRACT:
+Using TIMSS data set on MENA countries, this study examines the determinants of educational outcome and gender inequality of learning in eight selected countries. The complicated structure of the data has been considered carefully during all the stages of the analysis employing plausible values and jackknife standard error technique to accommodate the measurement error of the dependant variable and the clustering of students in classes and schools. \nThe education production functions provide broad evidence from mean and quantile analysis of very low returns to schooling; few school variables are significant and none have effects across countries and quantiles. In general, student characteristics were far more important than school factors in explaining test scores, but there was considerable variability across countries in which specific factors were significant. Strikingly, computer usage was found to influence students’ performance negatively in six MENA countries. Only Turkey and Iran had a significant positive effect of computer usage on maths achievements. \nGender inequality of academic achievement has been investigated thoroughly using mean and quantile decomposition analysis. There is mixed picture of gender inequality across the eight countries with three pro-boys, three pro-girls and two gender-neutral. This exercise gives no general pattern of gender inequality across MENA. A detailed analysis of Egyptian students’ achievements explains the differential gap between school types, notably being single or mixed sex and Arabic or language schools. Single-sex schools perform better than mixed schools especially for girls. The single-sex language schools are more effective than the Arabic single sex school. This confirms the dominance of the language schools and is also related to the style and social-economic status of enrolled students.
+
+DECISION: [Include / Exclude / Unclear]
+EXCLUSION_REASON: [solo si Exclude]
+REVIEWER_NOTES:
+==============================================================================
