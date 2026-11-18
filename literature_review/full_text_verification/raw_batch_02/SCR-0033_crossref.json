@@ -1,0 +1,896 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2026-11-05T00:05:03Z",
+      "timestamp": 1793837103756,
+      "version": "4.6.1"
+    },
+    "reference-count": 80,
+    "publisher": "MDPI AG",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              20
+            ]
+          ],
+          "date-time": "2026-01-20T00:00:00Z",
+          "timestamp": 1768867200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Economies"
+    ],
+    "abstract": "<jats:p>The main purpose of this study is to assess the effect of current public expenditure on education and human capital on economic growth in Central America between 1992 and 2021. In this context, data on education spending and human capital for Guatemala, Honduras, El Salvador, Nicaragua, and Costa Rica were analyzed using a panel data approach with Driscoll–Kraay standard errors. The time series were primarily obtained from the online databases of the World Bank, UNESCO, and national public sources. The results show a positive and significant effect of current education expenditure and human capital formation on the economic growth of Central America. This research provides empirical evidence on a topic that has been scarcely examined in the Central American regional context, and its findings constitute relevant input for scholars, practitioners, and policymakers.</jats:p>",
+    "DOI": "10.3390/economies14010028",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T14:57:58Z",
+      "timestamp": 1768921078000
+    },
+    "page": "28",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Spending on Education, Human Capital, and Economic Growth in Central America: A Panel Data Analysis with Driscoll-Kraay Standard Errors"
+    ],
+    "prefix": "10.3390",
+    "volume": "14",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1496-2513",
+        "authenticated-orcid": false,
+        "given": "José Rodolfo",
+        "family": "Sorto-Bueso",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-5780-2326",
+        "authenticated-orcid": false,
+        "given": "Juan Jacobo",
+        "family": "Paredes Heller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1202-3774",
+        "authenticated-orcid": false,
+        "given": "Roldán Hernán",
+        "family": "Villela Morales",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "first-page": "1113",
+        "article-title": "Contrasting democratic trajectories: A comparative analysis of Costa Rica and Nicaragua",
+        "volume": "11",
+        "author": "Sanchez",
+        "year": "2024",
+        "journal-title": "Journal of Mehmet Akif Ersoy University Economics and Administrative Sciences Faculty"
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2933",
+        "DOI": "10.1007/s13132-023-01265-1",
+        "article-title": "Does investment in human capital via education stimulate economic growth in an oil-rich country? A case study of Saudi Arabia",
+        "volume": "15",
+        "author": "Almutairi",
+        "year": "2024",
+        "journal-title": "Journal of the Knowledge Economy"
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baltagi, B. H. (2021). Econometric analysis of panel data, Springer International Publishing.",
+        "DOI": "10.1007/978-3-030-53953-5"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1177/1536867X0100100108",
+        "article-title": "Residual diagnostics for cross-section time series regression models",
+        "volume": "1",
+        "author": "Baum",
+        "year": "2001",
+        "journal-title": "The Stata Journal"
+      },
+      {
+        "key": "ref_5",
+        "first-page": "6",
+        "article-title": "Does the impact of education expenditures on economic growth vary between developed and developing countries?",
+        "volume": "103",
+        "author": "Zengin",
+        "year": "2024",
+        "journal-title": "Ekonomika"
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "634",
+        "DOI": "10.2307/2082979",
+        "article-title": "What to do (and not to do) with time-series cross-section data",
+        "volume": "89",
+        "author": "Beck",
+        "year": "1995",
+        "journal-title": "American Political Science Review"
+      },
+      {
+        "key": "ref_7",
+        "unstructured": "Becker, G. S. (1964). Human capital: A theoretical and empirical analysis with special reference to education, National Bureau of Economic Research, Inc.. [1st ed.]. Available online: https://ideas.repec.org/b/nbr/nberbk/beck-5.html."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.11611/yead.822305",
+        "article-title": "The macroeconomic determinants of neet: A panel data analysis for fragile five countries and Russia",
+        "volume": "18",
+        "year": "2020",
+        "journal-title": "Yönetim ve Ekonomi Araştırmaları Dergisi"
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1257/aer.97.2.393",
+        "article-title": "Public education expenditures, taxation, and growth: Linking data to theory",
+        "volume": "97",
+        "author": "Blankenau",
+        "year": "2007",
+        "journal-title": "American Economic Review"
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1016/S0304-4076(98)00009-8",
+        "article-title": "Initial conditions and moment restrictions in dynamic panel data models",
+        "volume": "87",
+        "author": "Blundell",
+        "year": "1998",
+        "journal-title": "Journal of Econometrics"
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1111/j.2517-6161.1964.tb00553.x",
+        "article-title": "An analysis of transformations",
+        "volume": "26",
+        "author": "Box",
+        "year": "1964",
+        "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.2307/2297111",
+        "article-title": "The lagrange multiplier test and its applications to model specification in econometrics",
+        "volume": "47",
+        "author": "Breusch",
+        "year": "1980",
+        "journal-title": "The Review of Economic Studies"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bulmer-Thomas, V. (1987). The political economy of Central America since 1920, Cambridge University Press.",
+        "DOI": "10.1017/CBO9780511572029"
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bulmer-Thomas, V. (2003). The economic history of Latin America since independence, Cambridge University Press. [2nd ed.].",
+        "DOI": "10.1017/CBO9780511817397"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "154",
+        "DOI": "10.5539/ijef.v13n9p154",
+        "article-title": "Quality of education and economic integration in Central America",
+        "volume": "13",
+        "year": "2021",
+        "journal-title": "International Journal of Economics and Finance"
+      },
+      {
+        "key": "ref_16",
+        "unstructured": "CEPAL (2007). DR-CAFTA: Aspectos relevantes seleccionados del Tratado y reformas legales que deben realizar a su entrada en vigor los países de Centroamérica y la República Dominicana, CEPAL. Available online: https://hdl.handle.net/11362/5001."
+      },
+      {
+        "key": "ref_17",
+        "unstructured": "CEPAL (2018). The inefficiency of inequality, ECLAC. Available online: https://www.cepal.org/en/publications/43443-inefficiency-inequality."
+      },
+      {
+        "key": "ref_18",
+        "first-page": "145",
+        "article-title": "Capital humano y crecimiento económico: Evidencia empírica para Suramérica",
+        "volume": "41",
+        "year": "2022",
+        "journal-title": "Apuntes Del Cenes"
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.15678/IER.2020.0603.02",
+        "article-title": "Determinants of GDP growth in Scandinavian countries with special reference to scientific progress",
+        "volume": "6",
+        "author": "Chlebisz",
+        "year": "2020",
+        "journal-title": "International Entrepreneurship Review"
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "399",
+        "DOI": "10.1017/psrm.2014.32",
+        "article-title": "Should I use fixed or random effects?",
+        "volume": "3",
+        "author": "Clark",
+        "year": "2015",
+        "journal-title": "Political Science Research and Methods"
+      },
+      {
+        "key": "ref_21",
+        "unstructured": "Colby, J. M. (2011). The business of empire: United fruit, race, and U.S. expansion in Central America, Cornell University Press. Available online: https://www.jstor.org/stable/10.7591/j.ctt7v86t."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1086/708195",
+        "article-title": "The effect of increasing human capital investment on economic growth and poverty: A simulation exercise",
+        "volume": "14",
+        "author": "Collin",
+        "year": "2020",
+        "journal-title": "Journal of Human Capital"
+      },
+      {
+        "key": "ref_23",
+        "first-page": "1",
+        "article-title": "Analysis of the relationship between adjustment savings: Education expenditures and economic growth for USA",
+        "volume": "8",
+        "year": "2023",
+        "journal-title": "JOEEP: Journal of Emerging Economies and Policy"
+      },
+      {
+        "key": "ref_24",
+        "first-page": "47",
+        "article-title": "Desafíos a la izquierda en Centroamérica: Un análisis comparativo de la economía política basado en un enfoque estructuralista-keynesiano",
+        "volume": "44",
+        "author": "Delgado",
+        "year": "2025",
+        "journal-title": "Cuadernos de Economía"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holden, R. H. (2020). State-making and nation-building. The Oxford handbook of Central American history, Oxford University Press.",
+        "DOI": "10.1093/oxfordhb/9780190928360.001.0001"
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Herrmann, C., and Terhechte, J. P. (2010). North American regional economic integration: Recent trends and developments. European yearbook of international economic law 2010, Springer.",
+        "DOI": "10.1007/978-3-540-78883-6"
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.35866/caujed.2015.40.1.004",
+        "article-title": "Education, health and economic growth in African countries",
+        "volume": "40",
+        "author": "Eggon",
+        "year": "2015",
+        "journal-title": "Journal of Economic Development"
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1007/s44246-024-00102-7",
+        "article-title": "Achieving carbon neutrality in Africa is possible: The impact of education, employment, and renewable energy consumption on carbon emissions",
+        "volume": "3",
+        "author": "Elom",
+        "year": "2024a",
+        "journal-title": "Carbon Research"
+      },
+      {
+        "key": "ref_29",
+        "first-page": "15501",
+        "article-title": "The role of information and communication technologies and access to electricity on education in Africa",
+        "volume": "29",
+        "author": "Elom",
+        "year": "2024b",
+        "journal-title": "Education and Information Technologies"
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.5539/ibr.v10n12p167",
+        "article-title": "Human capital and economic growth in Morocco: Evidence from Bayesian model averaging",
+        "volume": "10",
+        "author": "Essardi",
+        "year": "2017",
+        "journal-title": "International Business Research"
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.55493/5004.v13i2.4831",
+        "article-title": "Good governance and poverty alleviation in the CEMAC sub-region: A fixed effect model with driscoll-kraay standard errors technique",
+        "volume": "13",
+        "author": "Ewane",
+        "year": "2023",
+        "journal-title": "Asian Journal of Empirical Research"
+      },
+      {
+        "key": "ref_32",
+        "first-page": "1433",
+        "article-title": "Approaches for measuring human capital and its effect on economic growth in (MENA) region: A panel data analysis",
+        "volume": "34",
+        "author": "Fathy",
+        "year": "2018",
+        "journal-title": "Opción"
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Goczek, Ł., Witkowska, E., and Witkowski, B. (2021). How does education quality affect economic growth?. Sustainability, 13, (11).",
+        "DOI": "10.3390/su13116437"
+      },
+      {
+        "key": "ref_34",
+        "unstructured": "Gujarati, D., and Porter, D. (2010). Econometría (Quinta edición), McGraw-Hill."
+      },
+      {
+        "key": "ref_35",
+        "first-page": "229",
+        "article-title": "Macroeconomic indicators affect the NEET: A panel data analysis for BRICST countries",
+        "volume": "13",
+        "year": "2025",
+        "journal-title": "Business & Management Studies: An International Journal"
+      },
+      {
+        "key": "ref_36",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1007/s10887-012-9081-x",
+        "article-title": "Do better schools lead to more growth? Cognitive skills, economic outcomes, and causation",
+        "volume": "17",
+        "author": "Hanushek",
+        "year": "2012",
+        "journal-title": "Journal of Economic Growth"
+      },
+      {
+        "key": "ref_37",
+        "unstructured": "Hausmann, R., Espinoza, L., and Santos, M. A. (2026, January 07). Shifting gears: A growth diagnostic of Panama, Available online: https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37366356."
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.1111/j.1467-9353.2007.00359.x",
+        "article-title": "The productivity argument for investing in young children",
+        "volume": "29",
+        "author": "Heckman",
+        "year": "2007",
+        "journal-title": "Review of Agricultural Economics"
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1177/1536867X0700700301",
+        "article-title": "Robust standard errors for panel regressions with cross-sectional dependence",
+        "volume": "7",
+        "author": "Hoechle",
+        "year": "2007",
+        "journal-title": "Stata Journal"
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "e41765",
+        "DOI": "10.15517/c.a..v17i2.41765",
+        "article-title": "Desarrollo en Centroamérica: Hacia una agenda de políticas sociales. Análisis comparado entre el Triángulo Norte y Costa Rica",
+        "volume": "17",
+        "author": "Izarra",
+        "year": "2020",
+        "journal-title": "Cuadernos Inter.c.a.mbio sobre Centroamérica y el Caribe"
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.34021/ve.2020.03.02(3)",
+        "article-title": "The nexus between education and economic growth: Analyzing empirically a case of middle-income countries",
+        "volume": "3",
+        "author": "Jamel",
+        "year": "2020",
+        "journal-title": "Virtual Economics"
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1023/A:1009763906365",
+        "article-title": "Economic growth and investment in education: How allocation matters",
+        "volume": "3",
+        "author": "Judson",
+        "year": "1998",
+        "journal-title": "Journal of Economic Growth"
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1181",
+        "DOI": "10.1007/s11135-013-9828-2",
+        "article-title": "Testing the impact of educational expenditures on economic growth: New evidence from Latin American countries",
+        "volume": "48",
+        "author": "Kiran",
+        "year": "2014",
+        "journal-title": "Quality & Quantity: International Journal of Methodology"
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1101",
+        "DOI": "10.1257/jel.39.4.1101",
+        "article-title": "Education for growth: Why and for whom?",
+        "volume": "39",
+        "author": "Krueger",
+        "year": "2001",
+        "journal-title": "Journal of Economic Literature"
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "first-page": "520",
+        "DOI": "10.1057/s41599-024-03013-5",
+        "article-title": "How popularising higher education affects economic growth and poverty alleviation: Empirical evidence from 38 countries",
+        "volume": "11",
+        "author": "Li",
+        "year": "2024",
+        "journal-title": "Humanities and Social Sciences Communications"
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liao, L., Du, M., Wang, B., and Yu, Y. (2019). The impact of educational investment on sustainable economic growth in Guangdong, China: A cointegration and causality analysis. Sustainability, 11, (3).",
+        "DOI": "10.3390/su11030766"
+      },
+      {
+        "key": "ref_47",
+        "unstructured": "Loening, J., Rao, B. B., and Singh, R. (2010). Effects of education on economic growth: Evidence from Guatemala, Munich Personal RePEc Archive. Available online: https://mpra.ub.uni-muenchen.de/23665/."
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/0304-3932(88)90168-7",
+        "article-title": "On the mechanics of economic development",
+        "volume": "22",
+        "author": "Lucas",
+        "year": "1988",
+        "journal-title": "Journal of Monetary Economics"
+      },
+      {
+        "key": "ref_49",
+        "doi-asserted-by": "crossref",
+        "first-page": "3031",
+        "DOI": "10.1098/rstb.2009.0156",
+        "article-title": "Sola schola et sanitate: Human capital as the root cause and priority for international development?",
+        "volume": "364",
+        "author": "Lutz",
+        "year": "2009",
+        "journal-title": "Philosophical Transactions of the Royal Society B: Biological Sciences"
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maneejuk, P., and Yamaka, W. (2021). The impact of higher education on economic growth in ASEAN-5 countries. Sustainability, 13, (2).",
+        "DOI": "10.3390/su13020520"
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.2307/2118477",
+        "article-title": "A contribution to the empirics of economic growth*",
+        "volume": "107",
+        "author": "Mankiw",
+        "year": "1992",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "key": "ref_52",
+        "first-page": "11",
+        "article-title": "The determinants of economic growth in the northern triangle from Central America: Preliminary empirical evidence",
+        "volume": "13",
+        "author": "Martinez",
+        "year": "2019",
+        "journal-title": "Business and Public Administration Studies"
+      },
+      {
+        "key": "ref_53",
+        "unstructured": "Martínez-Plumed, F., Ferri, C., Nieves, D., and Hernández-Orallo, J. (2019). Fairness and missing values. arXiv."
+      },
+      {
+        "key": "ref_54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Melara-Gálvez, C., and Morales-Fernández, E. J. (2022). A comparative analysis of the competitiveness of Central American countries based on the global competitiveness index before the COVID-19 pandemic. Sustainability, 14, (14).",
+        "DOI": "10.3390/su14148854"
+      },
+      {
+        "key": "ref_55",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miles, J. (2014). Tolerance and variance inflation factor. Wiley StatsRef: Statistics reference online, Wiley.",
+        "DOI": "10.1002/9781118445112.stat06593"
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/S0185-1667(15)30006-0",
+        "article-title": "Inflación y crecimiento económico",
+        "volume": "73",
+        "author": "Rivas",
+        "year": "2014",
+        "journal-title": "Investigación Económica"
+      },
+      {
+        "key": "ref_57",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.32614/RJ-2017-009",
+        "article-title": "imputeTS: Time series missing value imputation in R",
+        "volume": "9",
+        "author": "Moritz",
+        "year": "2017",
+        "journal-title": "The R Journal"
+      },
+      {
+        "key": "ref_58",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1049/trit.2019.0032",
+        "article-title": "Imputing missing values using cumulative linear regression",
+        "volume": "4",
+        "author": "Mostafa",
+        "year": "2019",
+        "journal-title": "CAAI Transactions on Intelligence Technology"
+      },
+      {
+        "key": "ref_59",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.2307/1913646",
+        "article-title": "On the pooling of time series and cross section data",
+        "volume": "46",
+        "author": "Mundlak",
+        "year": "1978",
+        "journal-title": "Econometrica"
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.31014/aior.1992.03.02.221",
+        "article-title": "Human capital, capital stock formation, and economic growth: A panel granger causality analysis",
+        "volume": "3",
+        "author": "Osiobe",
+        "year": "2020",
+        "journal-title": "Journal of Economics and Business"
+      },
+      {
+        "key": "ref_61",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.18488/journal.aefr.2021.112.129.140",
+        "article-title": "The macroeconomic determinants of cross-country FDI flows: A comparative analysis through the Driscoll–Kraay, 2SLS and GMM models",
+        "volume": "11",
+        "author": "Paul",
+        "year": "2021",
+        "journal-title": "Asian Economic and Financial Review"
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Phale, K., Fanglin, L., Mensah, I. A., Omari-Sasu, A. Y., and Musah, M. (2021). Knowledge-based economy capacity building for developing countries: A panel analysis in Southern African development community. Sustainability, 13, (5).",
+        "DOI": "10.3390/su13052890"
+      },
+      {
+        "key": "ref_63",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1111/1467-9361.00179",
+        "article-title": "Public investment and economic growth in Latin America: An empirical test",
+        "volume": "7",
+        "author": "Ramirez",
+        "year": "2003",
+        "journal-title": "Review of Development Economics"
+      },
+      {
+        "key": "ref_64",
+        "unstructured": "Galindo, L., and Moreno-Brid, J. (2008). Inflación y crecimiento económico en centroamérica, 1980–2007: Un enfoque econométrico. Modelos macroeconométricos de la banca central, CEPAL. (In Spanish)."
+      },
+      {
+        "key": "ref_65",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1007/s10368-022-00551-8",
+        "article-title": "The CAFTA-DR Free Trade Agreement—Analyzing its effects in a modern gravity framework",
+        "volume": "20",
+        "author": "Matschke",
+        "year": "2023",
+        "journal-title": "International Economics and Economic Policy"
+      },
+      {
+        "key": "ref_66",
+        "doi-asserted-by": "crossref",
+        "first-page": "S71",
+        "DOI": "10.1086/261725",
+        "article-title": "Endogenous technological change",
+        "volume": "98",
+        "author": "Romer",
+        "year": "1990",
+        "journal-title": "Journal of Political Economy"
+      },
+      {
+        "key": "ref_67",
+        "first-page": "1",
+        "article-title": "Investment in human capital",
+        "volume": "51",
+        "author": "Schultz",
+        "year": "1961",
+        "journal-title": "The American Economic Review"
+      },
+      {
+        "key": "ref_68",
+        "unstructured": "Sorto-Bueso, J. R., and Paredes Heller, J. J. (, January July). Análisis con datos de panel del gasto corriente en educación, capital humano y crecimiento económico en el Triángulo Norte. Engineering, Artificial Intelligence, and Sustainable Technologies in Service of Society, Mexico City, Mexico. (In Spanish)."
+      },
+      {
+        "key": "ref_69",
+        "first-page": "69",
+        "article-title": "La educación superior en Guatemala en la primera década del siglo XXI",
+        "volume": "11",
+        "year": "2011",
+        "journal-title": "Innovación Educativa"
+      },
+      {
+        "key": "ref_70",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tugcu, C. T. (2018). Panel data analysis in the energy-growth nexus (EGN). The economics and econometrics of the energy-growth nexus, Academic Press.",
+        "DOI": "10.1016/B978-0-12-812746-9.00008-0"
+      },
+      {
+        "key": "ref_71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ulku, H., and Zaourak, G. (2021). Unleashing Central America’s growth potential, World Bank. Available online: https://hdl.handle.net/10986/35503.",
+        "DOI": "10.1596/36440"
+      },
+      {
+        "key": "ref_72",
+        "first-page": "370",
+        "article-title": "Public education expenditure and economic growth in Nigeria: A disaggregated approach",
+        "volume": "3",
+        "author": "Urhie",
+        "year": "2014",
+        "journal-title": "Journal of Empirical Economics"
+      },
+      {
+        "key": "ref_73",
+        "doi-asserted-by": "crossref",
+        "first-page": "127824",
+        "DOI": "10.1016/j.jclepro.2021.127824",
+        "article-title": "Investigating the nexus between education expenditure, female employers, renewable energy consumption and CO2 emission: Evidence from China",
+        "volume": "312",
+        "author": "Wang",
+        "year": "2021",
+        "journal-title": "Journal of Cleaner Production"
+      },
+      {
+        "key": "ref_74",
+        "first-page": "1876314",
+        "article-title": "The problem of scientific policies in Central America (1980–2020): The tension between innovation and social cohesion in a global context",
+        "volume": "4",
+        "year": "2021",
+        "journal-title": "Tapuya: Latin American Science, Technology and Society"
+      },
+      {
+        "key": "ref_75",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Villela, R., and Paredes, J. J. (2022). Empirical analysis on public expenditure for education, human capital and economic growth: Evidence from Honduras. Economies, 10, (10).",
+        "DOI": "10.3390/economies10100241"
+      },
+      {
+        "key": "ref_76",
+        "unstructured": "Woodward, R. L. (1999). Central America: A nation divided, Oxford University Press. [3rd rev. ed.]. Available online: https://global.oup.com/academic/product/central-america-9780195083767?lang=en&cc=hn."
+      },
+      {
+        "key": "ref_77",
+        "unstructured": "Wooldridge, J. M. (2010). Econometric analysis of cross section and panel data, MIT Press. [2nd ed.]. Available online: https://mitpress.mit.edu/9780262232586/econometric-analysis-of-cross-section-and-panel-data/."
+      },
+      {
+        "key": "ref_78",
+        "unstructured": "World Bank Group (2025, January 22). DataBank, Available online: https://databank.worldbank.org/home.aspx."
+      },
+      {
+        "key": "ref_79",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1002/sres.2277",
+        "article-title": "An empirical study on the dynamic relationship between higher educational investment and economic growth using VAR model",
+        "volume": "31",
+        "author": "Yu",
+        "year": "2014",
+        "journal-title": "Systems Research and Behavioral Science"
+      },
+      {
+        "key": "ref_80",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zuniga Figueroa, P., Ordoñez Espinal, A., Martínez, C., and Ordoñez Portillo, V. (2018). Educación y crecimiento económico: Análisis e implicancias. Economía y Administración (E&A), 9, (1), (In Spanish).",
+        "DOI": "10.5377/eya.v9i1.6654"
+      }
+    ],
+    "container-title": [
+      "Economies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2227-7099/14/1/28/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2026-01-22T05:26:29Z",
+      "timestamp": 1769059589000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2227-7099/14/1/28"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    },
+    "references-count": 80,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "economies14010028"
+    ],
+    "URL": "https://doi.org/10.3390/economies14010028",
+    "relation": {},
+    "ISSN": [
+      "2227-7099"
+    ],
+    "issn-type": [
+      {
+        "value": "2227-7099",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    }
+  }
+}

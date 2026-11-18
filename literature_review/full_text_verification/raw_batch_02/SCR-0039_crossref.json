@@ -1,0 +1,584 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T19:22:46Z",
+      "timestamp": 1771010566900,
+      "version": "3.50.1"
+    },
+    "reference-count": 35,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              3
+            ]
+          ],
+          "date-time": "2019-04-03T00:00:00Z",
+          "timestamp": 1554249600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This study investigates native–migrant differences in engagement in post-school education. Using a longitudinal survey of youth in Australia, we find that immigrants originating from non-English-speaking countries are significantly more likely to continue with further study between the ages of 18 and 23 years. On the other hand, there are no significant differences between immigrants from English-speaking countries and native youth. We find several important factors influencing study decisions, including parents and family background, academic ability, aspirations and age at migration; however, accounting for these factors does not fully explain the higher probability of pursuing higher education for immigrants from non-English-speaking countries. Exploring the country of origin effect, we find that immigrants from countries with low tertiary education levels are more likely to study in Australia, while differences in parental attitudes in their origin countries do not have a significant effect. The results show the importance of country of origin on the study decisions of youth, underlining the impact of migration settings on education of next generation.</jats:p>",
+    "DOI": "10.1093/migration/mnz008",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2019-03-12T12:35:27Z",
+      "timestamp": 1552394127000
+    },
+    "page": "530-553",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Differences in educational attainment by country of origin: Evidence from Australia"
+    ],
+    "prefix": "10.1093",
+    "volume": "8",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0359-7477",
+        "authenticated-orcid": false,
+        "given": "Jaai",
+        "family": "Parasnis",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jemma",
+        "family": "Swan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2021011615443216100_mnz008-B1",
+        "year": "2012"
+      },
+      {
+        "issue": "1",
+        "key": "2021011615443216100_mnz008-B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "S107",
+        "DOI": "10.3138/CPP.39.Supplement1.S107",
+        "article-title": "‘Intergenerational Education Mobility among the Children of Canadian Immigrants’",
+        "volume": "39",
+        "author": "Aydemir",
+        "year": "2013",
+        "journal-title": "Canadian Public Policy"
+      },
+      {
+        "issue": "1",
+        "key": "2021011615443216100_mnz008-B3",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/j.labeco.2009.07.008",
+        "article-title": "‘Education and Early Career Outcomes of Second-Generation Immigrants in France’",
+        "volume": "17",
+        "author": "Belzil",
+        "year": "2010",
+        "journal-title": "Labour Economics"
+      },
+      {
+        "issue": "4",
+        "key": "2021011615443216100_mnz008-B4",
+        "first-page": "553",
+        "article-title": "‘Long-Run Convergence of Ethnic Skill Differentials: The Children and Grandchildren of the Great Migration. Industrial and Labor Relations’",
+        "volume": "47",
+        "author": "Borjas",
+        "year": "1994",
+        "journal-title": "Review"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B5",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.1353/dem.2001.0024",
+        "article-title": "‘Long-Run Convergence of Ethnic Skill Differentials, Revisited’",
+        "volume": "38",
+        "author": "Borjas",
+        "year": "2001",
+        "journal-title": "Demography"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B6",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1108/IJM-04-2014-0104",
+        "article-title": "‘Wage Differentials between Immigrants and the Native-Born in Australia’",
+        "volume": "36",
+        "author": "Cai",
+        "year": "2015",
+        "journal-title": "International Journal of Manpower"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B7",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1086/321014",
+        "article-title": "‘The Dynamics of Educational Attainment for Black, Hispanic, and White Males’",
+        "volume": "109",
+        "author": "Cameron",
+        "year": "2001",
+        "journal-title": "Journal of Political Economy"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B8",
+        "first-page": "227",
+        "volume-title": "Issues in the Economics of Immigration",
+        "author": "Card",
+        "year": "2000"
+      },
+      {
+        "issue": "4",
+        "key": "2021011615443216100_mnz008-B9",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1016/j.econedurev.2003.09.002",
+        "article-title": "‘Educational Attainment: Analysis by Immigrant Generation’",
+        "volume": "23",
+        "author": "Chiswick",
+        "year": "2004",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B10",
+        "article-title": "‘Age at Immigration and the Educational Attainment of Foreign-Born Children in the United States: The Confounding Effects of Parental Education’",
+        "author": "Clarke",
+        "year": "2016",
+        "journal-title": "International Migration Review"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B11",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2139/ssrn.1618644",
+        "volume-title": "Immigration Background and the Intergenerational Correlation in Education",
+        "author": "Cobb-Clark",
+        "year": "2010"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B12",
+        "volume-title": "Migrant Youths’ Educational Achievement: The Role of Institutions. CReAM Discussion Paper Series 1120, Centre for Research and Analysis of Migration (CReAM)",
+        "author": "Cobb-Clark",
+        "year": "2011"
+      },
+      {
+        "issue": "4",
+        "key": "2021011615443216100_mnz008-B13",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.1016/j.econedurev.2007.08.004",
+        "article-title": "‘Educational Progression of Second-Generation Immigrants and Immigrant Children’",
+        "volume": "28",
+        "author": "Colding",
+        "year": "2009",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "issue": "2",
+        "key": "2021011615443216100_mnz008-B14",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/j.econedurev.2004.12.001",
+        "article-title": "‘The Effects of Age at Arrival and Enclave Schools on the Academic Performance of Immigrant Children’",
+        "volume": "25",
+        "author": "Cortes",
+        "year": "2006",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "issue": "69",
+        "key": "2021011615443216100_mnz008-B15",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1111/j.1468-0327.2011.00275.x",
+        "article-title": "‘Educational Achievement of Second-Generation Immigrants: An International Comparison’",
+        "volume": "27",
+        "author": "Dustmann",
+        "year": "2012",
+        "journal-title": "Economic Policy"
+      },
+      {
+        "issue": "4",
+        "key": "2021011615443216100_mnz008-B16",
+        "doi-asserted-by": "crossref",
+        "first-page": "841",
+        "DOI": "10.1111/j.1747-7379.2005.tb00291.x",
+        "article-title": "‘Does Selective Migration Matter? Explaining Ethnic Disparities in Educational Attainment among Immigrants’ Children’",
+        "volume": "39",
+        "author": "Feliciano",
+        "year": "2005",
+        "journal-title": "International Migration Review"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B17",
+        "doi-asserted-by": "crossref",
+        "first-page": "758",
+        "DOI": "10.1111/imre.12183",
+        "article-title": "‘The Immigrant Advantage in Adolescent Educational Expectations’",
+        "volume": "50",
+        "author": "Feliciano",
+        "year": "2016",
+        "journal-title": "International Migration Review"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B18",
+        "volume-title": "Short Term Living Conditions and Long Term Prospects of Immigrant Children in Germany. Discussion Papers of DIW Berlin 229",
+        "author": "Frick",
+        "year": "2000"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B19",
+        "doi-asserted-by": "crossref",
+        "first-page": "550",
+        "DOI": "10.2307/146392",
+        "article-title": "‘Is Child like Parent? Educational Attainment and Ethnic Origin’",
+        "volume": "35",
+        "author": "Gang",
+        "year": "2000",
+        "journal-title": "Journal of Human Resources"
+      },
+      {
+        "issue": "1",
+        "key": "2021011615443216100_mnz008-B20",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1111/1467-8462.12059",
+        "article-title": "‘Young People’s Aspirations and Their Occupational Outcomes’",
+        "volume": "47",
+        "author": "Gemici",
+        "year": "2014",
+        "journal-title": "Australian Economic Review"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B21",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1016/j.econedurev.2016.03.006",
+        "article-title": "‘Immigrant Student Performance in Math: Does It Matter Where You Come from?’",
+        "volume": "52",
+        "author": "Giannelli",
+        "year": "2016",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B22",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1080/15562948.2013.843047",
+        "article-title": "‘For a Better Life: The Aspirations of Chinese Immigrants in Parenting’",
+        "volume": "12",
+        "author": "Guo",
+        "year": "2014",
+        "journal-title": "Journal of Immigrant & Refugee Studies"
+      },
+      {
+        "issue": "2",
+        "key": "2021011615443216100_mnz008-B23",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1007/s13524-015-0373-6",
+        "article-title": "‘Age at Migration, Language Proficiency, and Socioeconomic Outcomes: Evidence from Australia’",
+        "volume": "52",
+        "author": "Guven",
+        "year": "2015",
+        "journal-title": "Demography"
+      },
+      {
+        "issue": "6",
+        "key": "2021011615443216100_mnz008-B24",
+        "doi-asserted-by": "crossref",
+        "first-page": "750",
+        "DOI": "10.1093/esr/jcu071",
+        "article-title": "‘Who They Were There: Immigrants’ Educational Selectivity and Their Children’s Educational Attainment’",
+        "volume": "30",
+        "author": "Ichou",
+        "year": "2014",
+        "journal-title": "European Sociological Review"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B25",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1111/imig.12236",
+        "article-title": "‘Native-Migrant Wage Differential across Occupations: Evidence from Australia’",
+        "volume": "54",
+        "author": "Islam",
+        "year": "2016",
+        "journal-title": "International Migration"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B26",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1016/j.econedurev.2012.09.007",
+        "article-title": "‘Do Mothers’ Educational Expectations Differ by Race and Ethnicity, or Socioeconomic Status?’",
+        "volume": "33",
+        "author": "Kim",
+        "year": "2013",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B27",
+        "volume-title": "Report Submitted to the National Centre for Student Equity in Higher Education (NCSEHE)",
+        "author": "Li",
+        "year": "2016"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B28",
+        "first-page": "169",
+        "volume-title": "Immigration, Poverty, and Socioeconomic Inequality",
+        "author": "Luthra",
+        "year": "2013"
+      },
+      {
+        "issue": "4",
+        "key": "2021011615443216100_mnz008-B29",
+        "doi-asserted-by": "crossref",
+        "first-page": "755",
+        "DOI": "10.1007/s00148-003-0164-z",
+        "article-title": "‘The School-to-Work Transition of 2nd Generation Immigrants in Denmark’",
+        "volume": "16",
+        "author": "Nielsen",
+        "year": "2003",
+        "journal-title": "Journal of Population Economics"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B30",
+        "year": "2010"
+      },
+      {
+        "key": "2021011615443216100_mnz008-B31",
+        "volume-title": "PISA 2012 Results: What Students Know and Can Do – Student Performance in Mathematics, Reading and Science",
+        "year": "2014",
+        "edition": "ev edn"
+      },
+      {
+        "issue": "2",
+        "key": "2021011615443216100_mnz008-B32",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1093/migration/mnu040",
+        "article-title": "‘The Academic Achievements of Immigrant Youths in New Destination Countries: Evidence from Southern Europe’",
+        "volume": "3",
+        "author": "Schnell",
+        "year": "2015",
+        "journal-title": "Migration Studies"
+      },
+      {
+        "issue": "3",
+        "key": "2021011615443216100_mnz008-B33",
+        "doi-asserted-by": "crossref",
+        "first-page": "527",
+        "DOI": "10.1007/s00148-006-0102-y",
+        "article-title": "‘Immigrants’ Educational Disadvantage: An Examination across Ten Countries and Three Surveys’",
+        "volume": "20",
+        "author": "Schnepf",
+        "year": "2007",
+        "journal-title": "Journal of Population Economics"
+      },
+      {
+        "issue": "2",
+        "key": "2021011615443216100_mnz008-B34",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.1016/j.econedurev.2009.06.003",
+        "article-title": "‘Cultural Capital and Its Effects on Education Outcomes’",
+        "volume": "29",
+        "author": "Tramonte",
+        "year": "2010",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "issue": "4",
+        "key": "2021011615443216100_mnz008-B35",
+        "doi-asserted-by": "crossref",
+        "first-page": "739",
+        "DOI": "10.1007/s00148-003-0147-0",
+        "article-title": "‘The Educational Attainment of Second-Generation Immigrants in The Netherlands’",
+        "volume": "16",
+        "author": "Van Ours",
+        "year": "2003",
+        "journal-title": "Journal of Population Economics"
+      }
+    ],
+    "container-title": [
+      "Migration Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/migration/article-pdf/8/4/530/35904890/mnz008.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://academic.oup.com/migration/article-pdf/8/4/530/35904890/mnz008.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2021-01-16T20:44:50Z",
+      "timestamp": 1610829890000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/migration/article/8/4/530/5427462"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          3
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            3
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/migration/mnz008",
+    "relation": {},
+    "ISSN": [
+      "2049-5838",
+      "2049-5846"
+    ],
+    "issn-type": [
+      {
+        "value": "2049-5838",
+        "type": "print"
+      },
+      {
+        "value": "2049-5846",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          3
+        ]
+      ]
+    }
+  }
+}

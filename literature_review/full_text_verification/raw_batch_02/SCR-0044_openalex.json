@@ -1,0 +1,900 @@
+{
+  "id": "https://openalex.org/W7204800990",
+  "doi": "https://doi.org/10.37985/jer.v7i3.3480",
+  "title": "Socioeconomic Inequalities in Reading Literacy and Learning-Related Characteristics: Evidence from PISA 2022",
+  "display_name": "Socioeconomic Inequalities in Reading Literacy and Learning-Related Characteristics: Evidence from PISA 2022",
+  "alternate_titles": [],
+  "publication_year": 2026,
+  "publication_date": "2026-08-26",
+  "ids": {
+    "openalex": "https://openalex.org/W7204800990",
+    "doi": "https://doi.org/10.37985/jer.v7i3.3480"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.37985/jer.v7i3.3480",
+    "doi": "https://doi.org/10.37985/jer.v7i3.3480",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37985/jer.v7i3.3480",
+    "pdf_url": "https://jer.or.id/index.php/jer/article/download/3480/1581",
+    "source": {
+      "id": "https://openalex.org/S4210197568",
+      "display_name": "Journal of Education Research",
+      "issn_l": "2746-0738",
+      "issn": [
+        "2746-0738"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Education Research",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W7204800990"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://jer.or.id/index.php/jer/article/download/3480/1581",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5148782528",
+        "display_name": "Rufei Yang",
+        "orcid": "https://orcid.org/0009-0008-5512-8067",
+        "observed_orcids": [
+          "https://orcid.org/0009-0008-5512-8067"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4405281978",
+          "display_name": "Changchun Guanghua University",
+          "ror": "https://ror.org/055ct8f26",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4405281978"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rufei Yang",
+      "raw_affiliation_strings": [
+        "Changchun Guanghua University"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0008-5512-8067",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Changchun Guanghua University",
+          "institution_ids": [
+            "https://openalex.org/I4405281978"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5148782528"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4405281978"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "7",
+    "issue": "3",
+    "first_page": "2731",
+    "last_page": "2742"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10674",
+    "display_name": "School Choice and Performance",
+    "score": 0.7397000193595886,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.7397000193595886,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.1324000060558319,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11895",
+      "display_name": "Cultural Capital and Social Class",
+      "score": 0.019600000232458115,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-status",
+      "display_name": "socioeconomic status",
+      "score": 0.7730000019073486
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.8989999890327454
+    },
+    {
+      "id": "https://openalex.org/keywords/reading-literacy",
+      "display_name": "reading literacy",
+      "score": 0.9990000128746033
+    },
+    {
+      "id": "https://openalex.org/keywords/metacognitive-monitoring",
+      "display_name": "metacognitive monitoring",
+      "score": 0.9919999837875366
+    },
+    {
+      "id": "https://openalex.org/keywords/learning-time",
+      "display_name": "learning time",
+      "score": 0.9660000205039978
+    },
+    {
+      "id": "https://openalex.org/keywords/career-aspirations",
+      "display_name": "career aspirations",
+      "score": 1.0
+    },
+    {
+      "id": "https://openalex.org/keywords/pisa-2022",
+      "display_name": "PISA 2022",
+      "score": 0.9139999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/asian-students",
+      "display_name": "Asian students",
+      "score": 0.6259999871253967
+    },
+    {
+      "id": "https://openalex.org/keywords/plausible-values",
+      "display_name": "plausible values",
+      "score": 0.5929999947547913
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C147077947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1515895",
+      "display_name": "Socioeconomic status",
+      "level": 3,
+      "score": 0.815500020980835
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.6672000288963318
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6474000215530396
+    },
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.5475999712944031
+    },
+    {
+      "id": "https://openalex.org/C12713177",
+      "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+      "display_name": "Perspective (graphical)",
+      "level": 2,
+      "score": 0.4765999913215637
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.4422000050544739
+    },
+    {
+      "id": "https://openalex.org/C196187386",
+      "wikidata": "https://www.wikidata.org/wiki/Q1050187",
+      "display_name": "Sociocultural evolution",
+      "level": 2,
+      "score": 0.41659998893737793
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.41359999775886536
+    },
+    {
+      "id": "https://openalex.org/C2778334786",
+      "wikidata": "https://www.wikidata.org/wiki/Q1586270",
+      "display_name": "Variation (astronomy)",
+      "level": 2,
+      "score": 0.40849998593330383
+    },
+    {
+      "id": "https://openalex.org/C142853389",
+      "wikidata": "https://www.wikidata.org/wiki/Q744778",
+      "display_name": "Association (psychology)",
+      "level": 2,
+      "score": 0.38609999418258667
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.3779999911785126
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.3578000068664551
+    },
+    {
+      "id": "https://openalex.org/C110888244",
+      "wikidata": "https://www.wikidata.org/wiki/Q187588",
+      "display_name": "Social class",
+      "level": 2,
+      "score": 0.3294999897480011
+    },
+    {
+      "id": "https://openalex.org/C2778783286",
+      "wikidata": "https://www.wikidata.org/wiki/Q861360",
+      "display_name": "Educational inequality",
+      "level": 3,
+      "score": 0.3240000009536743
+    },
+    {
+      "id": "https://openalex.org/C2780623907",
+      "wikidata": "https://www.wikidata.org/wiki/Q106394435",
+      "display_name": "Disadvantaged",
+      "level": 2,
+      "score": 0.31540000438690186
+    },
+    {
+      "id": "https://openalex.org/C118147538",
+      "wikidata": "https://www.wikidata.org/wiki/Q1126970",
+      "display_name": "Metacognition",
+      "level": 3,
+      "score": 0.2808000147342682
+    },
+    {
+      "id": "https://openalex.org/C165205368",
+      "wikidata": "https://www.wikidata.org/wiki/Q152545",
+      "display_name": "Functional illiteracy",
+      "level": 2,
+      "score": 0.2786000072956085
+    },
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.2653000056743622
+    },
+    {
+      "id": "https://openalex.org/C189326681",
+      "wikidata": "https://www.wikidata.org/wiki/Q10294",
+      "display_name": "Poverty",
+      "level": 2,
+      "score": 0.2639000117778778
+    },
+    {
+      "id": "https://openalex.org/C48158472",
+      "wikidata": "https://www.wikidata.org/wiki/Q841628",
+      "display_name": "Social stratification",
+      "level": 2,
+      "score": 0.2635999917984009
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.2596000134944916
+    },
+    {
+      "id": "https://openalex.org/C49898467",
+      "wikidata": "https://www.wikidata.org/wiki/Q1517706",
+      "display_name": "Stratified sampling",
+      "level": 2,
+      "score": 0.2540000081062317
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.37985/jer.v7i3.3480",
+      "doi": "https://doi.org/10.37985/jer.v7i3.3480",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.37985/jer.v7i3.3480",
+      "pdf_url": "https://jer.or.id/index.php/jer/article/download/3480/1581",
+      "source": {
+        "id": "https://openalex.org/S4210197568",
+        "display_name": "Journal of Education Research",
+        "issn_l": "2746-0738",
+        "issn": [
+          "2746-0738"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Education Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.37985/jer.v7i3.3480",
+    "doi": "https://doi.org/10.37985/jer.v7i3.3480",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37985/jer.v7i3.3480",
+    "pdf_url": "https://jer.or.id/index.php/jer/article/download/3480/1581",
+    "source": {
+      "id": "https://openalex.org/S4210197568",
+      "display_name": "Journal of Education Research",
+      "issn_l": "2746-0738",
+      "issn": [
+        "2746-0738"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Education Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Reduced inequalities",
+      "score": 0.9629999995231628,
+      "id": "https://metadata.un.org/sdg/10"
+    },
+    {
+      "display_name": "Quality education",
+      "score": 0.9235000014305115,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7204800990.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7204800990.grobid-xml"
+  },
+  "referenced_works_count": 38,
+  "referenced_works": [
+    "https://openalex.org/W56072814",
+    "https://openalex.org/W595197191",
+    "https://openalex.org/W1491994726",
+    "https://openalex.org/W1969876197",
+    "https://openalex.org/W1971387519",
+    "https://openalex.org/W1988075665",
+    "https://openalex.org/W2002049819",
+    "https://openalex.org/W2005515569",
+    "https://openalex.org/W2021399798",
+    "https://openalex.org/W2081981742",
+    "https://openalex.org/W2099893266",
+    "https://openalex.org/W2118655800",
+    "https://openalex.org/W2119927950",
+    "https://openalex.org/W2129625492",
+    "https://openalex.org/W2135155496",
+    "https://openalex.org/W2139340376",
+    "https://openalex.org/W2146429337",
+    "https://openalex.org/W2171357886",
+    "https://openalex.org/W2331420640",
+    "https://openalex.org/W2412107297",
+    "https://openalex.org/W2696367218",
+    "https://openalex.org/W2758728248",
+    "https://openalex.org/W2811054279",
+    "https://openalex.org/W2885411111",
+    "https://openalex.org/W2891096083",
+    "https://openalex.org/W2902206378",
+    "https://openalex.org/W2946603400",
+    "https://openalex.org/W3119649659",
+    "https://openalex.org/W3121538239",
+    "https://openalex.org/W3182539282",
+    "https://openalex.org/W3203499241",
+    "https://openalex.org/W3212492028",
+    "https://openalex.org/W4250239811",
+    "https://openalex.org/W4253128522",
+    "https://openalex.org/W4318220169",
+    "https://openalex.org/W4392353962",
+    "https://openalex.org/W4401949782",
+    "https://openalex.org/W4404280324"
+  ],
+  "related_works": [
+    "https://openalex.org/W7164018884",
+    "https://openalex.org/W4395673249",
+    "https://openalex.org/W2065515975",
+    "https://openalex.org/W2474512719",
+    "https://openalex.org/W2036422516",
+    "https://openalex.org/W4214852589",
+    "https://openalex.org/W1969230091",
+    "https://openalex.org/W4288778019",
+    "https://openalex.org/W7199044916",
+    "https://openalex.org/W7116886666"
+  ],
+  "abstract_inverted_index": {
+    "Socioeconomic": [
+      0
+    ],
+    "status": [
+      1
+    ],
+    "(SES)": [
+      2
+    ],
+    "is": [
+      3,
+      73
+    ],
+    "widely": [
+      4
+    ],
+    "recognized": [
+      5
+    ],
+    "as": [
+      6
+    ],
+    "a": [
+      7,
+      116,
+      124
+    ],
+    "key": [
+      8
+    ],
+    "factor": [
+      9
+    ],
+    "in": [
+      10,
+      26,
+      109
+    ],
+    "educational": [
+      11,
+      129
+    ],
+    "inequality,": [
+      12
+    ],
+    "yet": [
+      13
+    ],
+    "comparative": [
+      14,
+      117
+    ],
+    "evidence": [
+      15
+    ],
+    "on": [
+      16
+    ],
+    "its": [
+      17
+    ],
+    "relationship": [
+      18
+    ],
+    "with": [
+      19,
+      76
+    ],
+    "students'": [
+      20
+    ],
+    "learning-related": [
+      21,
+      41,
+      92
+    ],
+    "characteristics": [
+      22,
+      93
+    ],
+    "remains": [
+      23
+    ],
+    "limited,": [
+      24
+    ],
+    "particularly": [
+      25
+    ],
+    "Asian": [
+      27,
+      55,
+      133
+    ],
+    "contexts.": [
+      28,
+      103,
+      135
+    ],
+    "This": [
+      29
+    ],
+    "study": [
+      30
+    ],
+    "aims": [
+      31
+    ],
+    "to": [
+      32,
+      123
+    ],
+    "examine": [
+      33
+    ],
+    "associations": [
+      34
+    ],
+    "among": [
+      35
+    ],
+    "SES,": [
+      36
+    ],
+    "reading": [
+      37,
+      77,
+      95,
+      113
+    ],
+    "literacy,": [
+      38
+    ],
+    "and": [
+      39,
+      47,
+      66,
+      94,
+      100,
+      118
+    ],
+    "three": [
+      40
+    ],
+    "characteristics:": [
+      42
+    ],
+    "metacognitive": [
+      43
+    ],
+    "monitoring,": [
+      44
+    ],
+    "learning": [
+      45
+    ],
+    "time,": [
+      46
+    ],
+    "career": [
+      48
+    ],
+    "aspirations.": [
+      49
+    ],
+    "PISA": [
+      50,
+      60
+    ],
+    "2022": [
+      51
+    ],
+    "data": [
+      52
+    ],
+    "from": [
+      53
+    ],
+    "ten": [
+      54
+    ],
+    "economies": [
+      56
+    ],
+    "were": [
+      57
+    ],
+    "analyzed": [
+      58
+    ],
+    "following": [
+      59
+    ],
+    "technical": [
+      61
+    ],
+    "standards,": [
+      62
+    ],
+    "incorporating": [
+      63
+    ],
+    "plausible": [
+      64
+    ],
+    "values": [
+      65
+    ],
+    "sampling": [
+      67
+    ],
+    "weights.": [
+      68
+    ],
+    "Results": [
+      69
+    ],
+    "indicate": [
+      70
+    ],
+    "that": [
+      71,
+      121
+    ],
+    "SES": [
+      72
+    ],
+    "positively": [
+      74
+    ],
+    "associated": [
+      75
+    ],
+    "literacy": [
+      78,
+      96
+    ],
+    "across": [
+      79,
+      102,
+      131
+    ],
+    "all": [
+      80
+    ],
+    "economies,": [
+      81
+    ],
+    "although": [
+      82
+    ],
+    "the": [
+      83
+    ],
+    "strength": [
+      84
+    ],
+    "of": [
+      85,
+      112,
+      128
+    ],
+    "this": [
+      86
+    ],
+    "association": [
+      87
+    ],
+    "varies": [
+      88
+    ],
+    "substantially.": [
+      89
+    ],
+    "Associations": [
+      90
+    ],
+    "between": [
+      91
+    ],
+    "are": [
+      97
+    ],
+    "generally": [
+      98
+    ],
+    "weak": [
+      99
+    ],
+    "differ": [
+      101
+    ],
+    "These": [
+      104
+    ],
+    "findings": [
+      105
+    ],
+    "underscore": [
+      106
+    ],
+    "cross-context": [
+      107
+    ],
+    "variation": [
+      108
+    ],
+    "socioeconomic": [
+      110
+    ],
+    "stratification": [
+      111
+    ],
+    "achievement,": [
+      114
+    ],
+    "offering": [
+      115
+    ],
+    "descriptive": [
+      119
+    ],
+    "perspective": [
+      120
+    ],
+    "contributes": [
+      122
+    ],
+    "more": [
+      125
+    ],
+    "nuanced": [
+      126
+    ],
+    "understanding": [
+      127
+    ],
+    "inequality": [
+      130
+    ],
+    "diverse": [
+      132
+    ],
+    "sociocultural": [
+      134
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7204800990",
+  "counts_by_year": [],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2026-09-01T00:00:00"
+}

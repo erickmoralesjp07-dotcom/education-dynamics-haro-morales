@@ -1,0 +1,10 @@
+﻿SCREENING_ID,TITLE,YEAR,DOI_NORMALIZED,REVIEWER_1_DECISION,WORD_COUNT,SELECTED_EVIDENCE_LINES,SAMPLE_TERM_COUNT,PANEL_TIME_TERM_COUNT,PISA_DESIGN_TERM_COUNT,VALIDATION_TERM_COUNT,CAUSALITY_TERM_COUNT,MISSING_DATA_TERM_COUNT,UNCERTAINTY_TERM_COUNT,REPRODUCIBILITY_TERM_COUNT,LIMITATIONS_TERM_COUNT
+SCR-0026,Scientific Literacy and Socio-Educational Inequality: The Philippines in Comparative Perspective Across PISA Results,2026,10.5281/zenodo.23205601,Unclear,6531,35,49,3,75,0,2,0,2,1,0
+SCR-0028,The Century of Education,2009,10.1086/600102,Include,34003,35,268,30,0,8,10,14,29,0,4
+SCR-0030,Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results,2010,,Include,9701,35,99,1,35,1,0,0,3,0,1
+SCR-0035,Education–Technology–Economy Nexus: Empirical Evidence from Developing Countries,2026,10.69760/portuni.26020004,Unclear,3997,35,42,16,0,4,5,0,0,0,4
+SCR-0038,Improving the estimation of educational attainment: New methods for assessing average years of schooling from binned data,2018,10.1371/journal.pone.0208019,Include,12718,35,0,0,0,0,0,0,0,0,0
+SCR-0040,Panel estimation for the relationship between education expenditure and economic growth for OECD countries,2019,10.23762/fso_vol6no2_18_1,Include,6177,35,53,79,0,3,35,0,0,0,0
+SCR-0041,The Intraclass Correlation Coefficient as a Measure of Educational Inequality: An Empirical Study with Data from PISA 2018,2024,10.21203/rs.3.rs-4066275/v1,Include,19763,35,344,3,130,3,11,13,0,2,8
+SCR-0042,The Link between Structural Quality Indicators in Pre-primary and PISA Science Literacy Skills: A Cross-Country Comparison,2020,10.17522/balikesirnef.618977,Include,12629,35,130,12,127,0,7,0,0,0,1
+SCR-0044,Socioeconomic Inequalities in Reading Literacy and Learning-Related Characteristics: Evidence from PISA 2022,2026,10.37985/jer.v7i3.3480,Unclear,7288,35,66,3,34,0,76,2,1,1,4

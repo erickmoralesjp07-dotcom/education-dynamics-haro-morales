@@ -1,0 +1,985 @@
+{
+  "id": "https://openalex.org/W3180955835",
+  "doi": "https://doi.org/10.1080/09537325.2021.1948988",
+  "title": "Technology adoption and human capital: exploring the gender and cross-country impact 1870–2010",
+  "display_name": "Technology adoption and human capital: exploring the gender and cross-country impact 1870–2010",
+  "alternate_titles": [],
+  "publication_year": 2021,
+  "publication_date": "2021-07-12",
+  "ids": {
+    "openalex": "https://openalex.org/W3180955835",
+    "doi": "https://doi.org/10.1080/09537325.2021.1948988",
+    "mag": "3180955835"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/09537325.2021.1948988",
+    "doi": "https://doi.org/10.1080/09537325.2021.1948988",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/09537325.2021.1948988",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S130699561",
+      "display_name": "Technology Analysis and Strategic Management",
+      "issn_l": "0953-7325",
+      "issn": [
+        "0953-7325",
+        "1465-3990"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-b",
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "fnege-3",
+        "jufo-1",
+        "norway-1",
+        "poland-70",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547",
+        "https://openalex.org/P4310320449"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis",
+        "Informa"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Technology Analysis &amp; Strategic Management",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W3180955835"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076081413",
+        "display_name": "Marinko Škare",
+        "orcid": "https://orcid.org/0000-0001-6426-3692",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-6426-3692"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25607154",
+          "display_name": "Juraj Dobrila University of Pula",
+          "ror": "https://ror.org/006ks2460",
+          "country_code": "HR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25607154"
+          ]
+        }
+      ],
+      "countries": [
+        "HR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marinko Skare",
+      "raw_affiliation_strings": [
+        "Faculty of Economics and Tourism ‘Dr. Mijo Mirkovic', Juraj Dobrila University of Pula, Pula, Croatia"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6426-3692",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Economics and Tourism ‘Dr. Mijo Mirkovic', Juraj Dobrila University of Pula, Pula, Croatia",
+          "institution_ids": [
+            "https://openalex.org/I25607154"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5070024328",
+        "display_name": "Sanja Blažević Burić",
+        "orcid": "https://orcid.org/0000-0002-5919-5477",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-5919-5477"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25607154",
+          "display_name": "Juraj Dobrila University of Pula",
+          "ror": "https://ror.org/006ks2460",
+          "country_code": "HR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25607154"
+          ]
+        }
+      ],
+      "countries": [
+        "HR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sanja Blažević Burić",
+      "raw_affiliation_strings": [
+        "Faculty of Economics and Tourism ‘Dr. Mijo Mirkovic', Juraj Dobrila University of Pula, Pula, Croatia"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5919-5477",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Economics and Tourism ‘Dr. Mijo Mirkovic', Juraj Dobrila University of Pula, Pula, Croatia",
+          "institution_ids": [
+            "https://openalex.org/I25607154"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5076081413"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I25607154"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.0699,
+  "has_fulltext": false,
+  "cited_by_count": 10,
+  "citation_normalized_percentile": {
+    "value": 0.81751914,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 93,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "34",
+    "issue": "10",
+    "first_page": "1170",
+    "last_page": "1186"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10393",
+    "display_name": "Economic Growth and Productivity",
+    "score": 0.9955999851226807,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "score": 0.9955999851226807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13498",
+      "display_name": "Economic Development and Digital Transformation",
+      "score": 0.002899999963119626,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.0008999999845400453,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/technology-adoption",
+      "display_name": "technology adoption",
+      "score": 0.9950000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/human-capital",
+      "display_name": "human capital",
+      "score": 0.8489999771118164
+    },
+    {
+      "id": "https://openalex.org/keywords/technology-diffusion",
+      "display_name": "technology diffusion",
+      "score": 0.7799999713897705
+    },
+    {
+      "id": "https://openalex.org/keywords/gender-differences",
+      "display_name": "gender differences",
+      "score": 0.8980000019073486
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.7649999856948853
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-revolution",
+      "display_name": "Industrial Revolution",
+      "score": 0.8539999723434448
+    },
+    {
+      "id": "https://openalex.org/keywords/fourth-industrial-revolution",
+      "display_name": "Fourth Industrial Revolution",
+      "score": 0.699999988079071
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-convergence",
+      "display_name": "economic convergence",
+      "score": 0.6620000004768372
+    },
+    {
+      "id": "https://openalex.org/keywords/education-policy",
+      "display_name": "education policy",
+      "score": 0.703000009059906
+    },
+    {
+      "id": "https://openalex.org/keywords/technology-adoption-policy",
+      "display_name": "technology adoption policy",
+      "score": 0.6669999957084656
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-spillovers",
+      "display_name": "knowledge spillovers",
+      "score": 0.9129999876022339
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.628000020980835
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776943663",
+      "wikidata": "https://www.wikidata.org/wiki/Q165687",
+      "display_name": "Human capital",
+      "level": 2,
+      "score": 0.563595175743103
+    },
+    {
+      "id": "https://openalex.org/C2992355350",
+      "wikidata": "https://www.wikidata.org/wiki/Q353333",
+      "display_name": "Cross country",
+      "level": 2,
+      "score": 0.5451934933662415
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.5146037340164185
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.3652558922767639
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.3584675192832947
+    },
+    {
+      "id": "https://openalex.org/C26271046",
+      "wikidata": "https://www.wikidata.org/wiki/Q187097",
+      "display_name": "Economic geography",
+      "level": 1,
+      "score": 0.33264610171318054
+    },
+    {
+      "id": "https://openalex.org/C74363100",
+      "wikidata": "https://www.wikidata.org/wiki/Q273005",
+      "display_name": "Economic system",
+      "level": 1,
+      "score": 0.3245924115180969
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.22466152906417847
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1080/09537325.2021.1948988",
+      "doi": "https://doi.org/10.1080/09537325.2021.1948988",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09537325.2021.1948988",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S130699561",
+        "display_name": "Technology Analysis and Strategic Management",
+        "issn_l": "0953-7325",
+        "issn": [
+          "0953-7325",
+          "1465-3990"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-b",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "fnege-3",
+          "jufo-1",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Technology Analysis &amp; Strategic Management",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.7257999777793884,
+      "display_name": "Decent work and economic growth",
+      "id": "https://metadata.un.org/sdg/8"
+    },
+    {
+      "score": 0.7207000255584717,
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9"
+    },
+    {
+      "score": 0.4000000059604645,
+      "display_name": "Reduced inequalities",
+      "id": "https://metadata.un.org/sdg/10"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 50,
+  "referenced_works": [
+    "https://openalex.org/W615586428",
+    "https://openalex.org/W1495656322",
+    "https://openalex.org/W1511339745",
+    "https://openalex.org/W1531816284",
+    "https://openalex.org/W1967861720",
+    "https://openalex.org/W1980770963",
+    "https://openalex.org/W1983777097",
+    "https://openalex.org/W1985361626",
+    "https://openalex.org/W2035239382",
+    "https://openalex.org/W2057020993",
+    "https://openalex.org/W2067402622",
+    "https://openalex.org/W2069736463",
+    "https://openalex.org/W2073867235",
+    "https://openalex.org/W2074015343",
+    "https://openalex.org/W2086702917",
+    "https://openalex.org/W2099184394",
+    "https://openalex.org/W2102005608",
+    "https://openalex.org/W2115535338",
+    "https://openalex.org/W2116327410",
+    "https://openalex.org/W2136072582",
+    "https://openalex.org/W2146411203",
+    "https://openalex.org/W2168049138",
+    "https://openalex.org/W2178225550",
+    "https://openalex.org/W2212773851",
+    "https://openalex.org/W2396172646",
+    "https://openalex.org/W2409991864",
+    "https://openalex.org/W2610387551",
+    "https://openalex.org/W2624367238",
+    "https://openalex.org/W2805684079",
+    "https://openalex.org/W2949789191",
+    "https://openalex.org/W2980300262",
+    "https://openalex.org/W2988668777",
+    "https://openalex.org/W2988888598",
+    "https://openalex.org/W2990737180",
+    "https://openalex.org/W3022205788",
+    "https://openalex.org/W3027581392",
+    "https://openalex.org/W3089719701",
+    "https://openalex.org/W3090537859",
+    "https://openalex.org/W3092252078",
+    "https://openalex.org/W3092999060",
+    "https://openalex.org/W3121420420",
+    "https://openalex.org/W3123978584",
+    "https://openalex.org/W3124592580",
+    "https://openalex.org/W3124600359",
+    "https://openalex.org/W3125206205",
+    "https://openalex.org/W3125450620",
+    "https://openalex.org/W3130657438",
+    "https://openalex.org/W4243028178",
+    "https://openalex.org/W4251853468",
+    "https://openalex.org/W4298863114"
+  ],
+  "related_works": [
+    "https://openalex.org/W4362663864",
+    "https://openalex.org/W107183172",
+    "https://openalex.org/W2980300262",
+    "https://openalex.org/W3123978584",
+    "https://openalex.org/W3114316804",
+    "https://openalex.org/W3121430379",
+    "https://openalex.org/W7024494508",
+    "https://openalex.org/W1484321830",
+    "https://openalex.org/W2135488441"
+  ],
+  "abstract_inverted_index": {
+    "Technology": [
+      0
+    ],
+    "adoption": [
+      1,
+      24,
+      136,
+      165
+    ],
+    "and": [
+      2,
+      25,
+      38,
+      42,
+      98,
+      114,
+      144,
+      150,
+      160,
+      166,
+      174
+    ],
+    "human": [
+      3,
+      26,
+      131,
+      167,
+      176
+    ],
+    "capital": [
+      4,
+      27,
+      75,
+      132,
+      168,
+      177
+    ],
+    "are": [
+      5,
+      155
+    ],
+    "crucial": [
+      6
+    ],
+    "determinants": [
+      7,
+      169
+    ],
+    "of": [
+      8,
+      31,
+      104,
+      130
+    ],
+    "economic": [
+      9
+    ],
+    "growth.": [
+      10,
+      133
+    ],
+    "Here": [
+      11
+    ],
+    "we": [
+      12
+    ],
+    "use": [
+      13
+    ],
+    "a": [
+      14,
+      29,
+      69,
+      78,
+      127,
+      175,
+      180
+    ],
+    "fixed-effect": [
+      15
+    ],
+    "panel": [
+      16
+    ],
+    "model": [
+      17
+    ],
+    "to": [
+      18,
+      112
+    ],
+    "measure": [
+      19
+    ],
+    "the": [
+      20,
+      61,
+      72,
+      85,
+      96,
+      105,
+      108
+    ],
+    "link": [
+      21,
+      178
+    ],
+    "between": [
+      22
+    ],
+    "technology": [
+      23,
+      73,
+      122,
+      135,
+      164
+    ],
+    "for": [
+      28,
+      60,
+      157
+    ],
+    "sample": [
+      30
+    ],
+    "104": [
+      32
+    ],
+    "countries": [
+      33
+    ],
+    "since": [
+      34
+    ],
+    "1870–2010": [
+      35
+    ],
+    "using": [
+      36
+    ],
+    "(HCCTA)": [
+      37
+    ],
+    "long-run": [
+      39
+    ],
+    "enrolment": [
+      40
+    ],
+    "ratios": [
+      41
+    ],
+    "educational": [
+      43,
+      54,
+      141
+    ],
+    "attainment": [
+      44
+    ],
+    "datasets.": [
+      45
+    ],
+    "Unobserved": [
+      46
+    ],
+    "heterogeneity": [
+      47
+    ],
+    "factors": [
+      48
+    ],
+    "(institutional,": [
+      49
+    ],
+    "tradition,": [
+      50
+    ],
+    "culture,": [
+      51
+    ],
+    "economy": [
+      52
+    ],
+    "type,": [
+      53
+    ],
+    "system,": [
+      55
+    ],
+    "migration,": [
+      56
+    ],
+    "innovation,": [
+      57
+    ],
+    "patents)": [
+      58
+    ],
+    "account": [
+      59
+    ],
+    "observed": [
+      62
+    ],
+    "difference": [
+      63,
+      67
+    ],
+    "across": [
+      64
+    ],
+    "countries/regions.": [
+      65
+    ],
+    "Gender": [
+      66
+    ],
+    "plays": [
+      68
+    ],
+    "role": [
+      70
+    ],
+    "in": [
+      71
+    ],
+    "diffusion–human": [
+      74
+    ],
+    "relationship,": [
+      76
+    ],
+    "not": [
+      77,
+      126
+    ],
+    "vital": [
+      79
+    ],
+    "one.": [
+      80
+    ],
+    "Advanced": [
+      81
+    ],
+    "economies": [
+      82,
+      103
+    ],
+    "rode": [
+      83
+    ],
+    "on": [
+      84,
+      95
+    ],
+    "first": [
+      86
+    ],
+    "three": [
+      87
+    ],
+    "industrial": [
+      88,
+      100,
+      110
+    ],
+    "revolutions,": [
+      89
+    ],
+    "with": [
+      90,
+      183
+    ],
+    "Eastern": [
+      91
+    ],
+    "Europe": [
+      92
+    ],
+    "catching": [
+      93
+    ],
+    "up": [
+      94
+    ],
+    "third": [
+      97
+    ],
+    "fourth": [
+      99,
+      109
+    ],
+    "waves.": [
+      101
+    ],
+    "The": [
+      102,
+      118
+    ],
+    "East": [
+      106
+    ],
+    "used": [
+      107
+    ],
+    "revolution": [
+      111
+    ],
+    "converge": [
+      113
+    ],
+    "surpass": [
+      115
+    ],
+    "other": [
+      116
+    ],
+    "regions.": [
+      117
+    ],
+    "results": [
+      119,
+      154
+    ],
+    "show": [
+      120
+    ],
+    "that": [
+      121
+    ],
+    "is": [
+      123,
+      179
+    ],
+    "necessary": [
+      124
+    ],
+    "but": [
+      125
+    ],
+    "sufficient": [
+      128
+    ],
+    "determinant": [
+      129
+    ],
+    "Selective": [
+      134
+    ],
+    "policy,": [
+      137
+    ],
+    "accompanied": [
+      138
+    ],
+    "by": [
+      139
+    ],
+    "supporting": [
+      140
+    ],
+    "policy": [
+      142
+    ],
+    "(entrepreneurial": [
+      143
+    ],
+    "research": [
+      145
+    ],
+    "universities)": [
+      146
+    ],
+    "stimulates": [
+      147
+    ],
+    "technology,": [
+      148
+    ],
+    "diffusion,": [
+      149,
+      173
+    ],
+    "knowledge": [
+      151
+    ],
+    "spillover.": [
+      152
+    ],
+    "Our": [
+      153
+    ],
+    "robust": [
+      156
+    ],
+    "including": [
+      158
+    ],
+    "population": [
+      159
+    ],
+    "growth": [
+      161
+    ],
+    "as": [
+      162
+    ],
+    "significant": [
+      163
+    ],
+    "(conditioning": [
+      170
+    ],
+    "variables).": [
+      171
+    ],
+    "Technology,": [
+      172
+    ],
+    "two-way": [
+      181
+    ],
+    "street": [
+      182
+    ],
+    "many": [
+      184
+    ],
+    "constraints.": [
+      185
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3180955835",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-11-14T11:04:58.165337",
+  "created_date": "2021-07-19T00:00:00"
+}

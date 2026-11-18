@@ -1,0 +1,551 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2026-04-02T02:38:48Z",
+      "timestamp": 1775097528788,
+      "version": "3.50.1"
+    },
+    "reference-count": 74,
+    "publisher": "Necatibey Faculty of Education Electronics Journal of Science and Mathematics Education",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p xml:lang=\"en\">The main aim of this study was to make a comparison across distinct countries to investigate the relationship between several quality indicators in pre-primary education and children’s subsequent science competency in the Program for International Student Assessment (PISA) between 2000-2015 years. The cross-national indicators that were used were obtained from previous records, including public and private expenditure, pupil-teacher ratio, enrollment rate, duration, age of beginning in pre-primary education, individual countries' adult literacy rates, and income per capita. The results showed that the relationship between public expenditure, pupil-teacher ratio, income per capita, adult literacy rate and children’s subsequent science performance on the PISA were positively statistically significant at a country-level. One of the important implications of the current study is that countries that spend less (which include Turkey) should plan a detailed pre-primary expenditure agenda for the public sector and raise their current level of public spending. </jats:p>",
+    "DOI": "10.17522/balikesirnef.618977",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          27
+        ]
+      ],
+      "date-time": "2020-06-27T13:19:00Z",
+      "timestamp": 1593263940000
+    },
+    "page": "186-216",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "The Link between Structural Quality Indicators in Pre-primary and PISA Science Literacy Skills: A Cross-Country Comparison",
+      "Erken Çocukluk Eğitimi Yapısal Kalite Göstergeleri ve PISA Fen Okur-yazarlık Becerileri Arasındaki İlişki: Ülkeler-Arası Karşılaştırma"
+    ],
+    "prefix": "10.17522",
+    "volume": "14",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0585-0138",
+        "authenticated-orcid": true,
+        "given": "Elif",
+        "family": "BULDU",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "BAYBURT ÜNİVERSİTESİ, BAYBURT EĞİTİM FAKÜLTESİ"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1953-7484",
+        "authenticated-orcid": true,
+        "given": "Refika",
+        "family": "OLGAN",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "7044",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Andrade, S. A., Santos, D. N., Bastos, A. C., Pedromônico, M. R. M., Almeida-Filho, N., & M. R., Barreto. (2005). Family environment and child’s cognitive development: An epidemiological approach. Revista de Saude Publica, 39, 606-611.",
+        "DOI": "10.1590/S0034-89102005000400014"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alacacı, C., & Erbaş, A. K. (2010). Unpacking the inequality among Turkish schools: Findings from PISA 2006. International Journal of Educational Development, 30, 182–192.",
+        "DOI": "10.1016/j.ijedudev.2009.03.006"
+      },
+      {
+        "key": "ref3",
+        "unstructured": "Author, (2008)."
+      },
+      {
+        "key": "ref4",
+        "unstructured": "Author, (2014)."
+      },
+      {
+        "key": "ref5",
+        "unstructured": "Barnett, S. W., Schulman, K., & Shore, R. (2004). Class size: What’s the best fit. National Institute for Early Education Research (NIEER) Policy Brief. 9, 1- 16."
+      },
+      {
+        "key": "ref6",
+        "unstructured": "Batare, S. (2012). Efficiency of public spending on education. Public Policy and Administration,11 (2), 171- 186."
+      },
+      {
+        "key": "ref7",
+        "unstructured": "Batyra, A. (2017). Enrollment in early childhood education and care in Turkey. ERG ve AÇEV. Retrieved 20 April 2019 from http://www.egitimreformugirisimi.org/wp-content/uploads/2017/03/170927_Enrollment-in-Early-Childhood-Education-and-Care-in-Turkey.pdf"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Berlinski S., Galiani, S., & Manacorda, M. (2008). Giving children a better start: Preschool attendance and school-age profiles. Journal of Public Economics, 92, 1416–1440",
+        "DOI": "10.1016/j.jpubeco.2007.10.007"
+      },
+      {
+        "key": "ref9",
+        "unstructured": "Bertram, T., Pascal, C., Cummings, A., Delaney, S., Ludlow, C., Lyndon, H., & Stancel-Piatak, A. (2016). Early childhood policies and systems in eight countries: Findings from IEA’s early childhood education study. International Association for the Evaluation of Educational Achievement."
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Blatchford, I. S. (2004). Educational disadvantage in the early years: How do we overcome it. Some lessons from research. European Early Childhood Education Research Journal, 12 (2), 5-20.",
+        "DOI": "10.1080/13502930485209391"
+      },
+      {
+        "key": "ref11",
+        "unstructured": "Bicer, A., Capraro, M. M., & Capraro, R. M. (2013). The effects of parent’s ses and education level on students’ mathematics achievement: Examining the mediation effects of parental expectations and parental communication. The Online Journal of New Horizons in Education, 3 (4), 89- 97."
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Birchler, K., & Michaelowa, K. (2016). Making aid work for education in developing countries: An analysis of aid effectiveness for primary education coverage and quality. International Journal of Educational Development, 48, 37-52.",
+        "DOI": "10.1016/j.ijedudev.2015.11.008"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Blankenau, W. & Youderian, X. (2015). Early childhood education expenditures and the intergenerational persistence of income. Review of Economic Dynamics, Elsevier for the Society for Economic Dynamics, 18 (2), 334-349.",
+        "DOI": "10.1016/j.red.2014.06.001"
+      },
+      {
+        "key": "ref14",
+        "unstructured": "Bredekamp, S. (2011). ‪Effective practices in early childhood education: Building a foundation‬. (8nd Edition). Upper Saddle River: N.J.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Britto, P., Yoshikawa, H., & Boller, K. (2011). Quality of early childhood development programmes and policies in global contexts: Rationale for investment. Conceptual framework and implications for equity. Social Policy Reports of the Society for Research in Child Development, 25 (2), 1-31.",
+        "DOI": "10.1002/j.2379-3988.2011.tb00067.x"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Buldu, N., Buldu, M., & Buldu, M. (2014). A quality snapshot of science teaching in Turkish K-3th grade programs. Education and Science, 39 (174), 214- 232.",
+        "DOI": "10.15390/EB.2014.2974"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carneiro, P., Meghir, C., & Parey, M. (2013). Maternal education, home environments, and the development of children and adolescents. Journal of the European Economic Association, 11 (1), 123–160.",
+        "DOI": "10.1111/j.1542-4774.2012.01096.x"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Claessens, A., & Engel, M. (2013). How important is where you start? Early mathematics knowledge and later school success. Teachers College Record, 115, 1- 29.",
+        "DOI": "10.1177/016146811311500603"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dahl, G. B., & Lochner, L. (2012). The impact of family income on child achievement: evidence from the earned income tax credit. American Economic Review, 102 (5), 1927- 1956.",
+        "DOI": "10.1257/aer.102.5.1927"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Davis-Kean, P.E. (2005). The influence of parent education and family income on child achievement: The indirect role of parental expectations and the home environment. Journal of Family Psychology, 19, 294–304.",
+        "DOI": "10.1037/0893-3200.19.2.294"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dearing, E., McCartney, K., & Taylor, B.A. (2001). Change in family income matters more for children with less. Child Development, 72, 1779–1793.",
+        "DOI": "10.1111/1467-8624.00378"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubow, E.F., Boxer, P., & Huesmann, R.L. (2009). Long term effect of parents’ education on children’s educational and occupational success: Mediation by family interactions, child aggression and teenage aspiration. Merrill Palmer Q (Wayne State Univ Press). 55 (3), 224- 249.",
+        "DOI": "10.1353/mpq.0.0030"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Duflo, E., Dupas, P., & Kremer, M. (2011). Peer Effects, teacher incentives, and the impact of tracking: Evidence from a randomized evaluation in Kenya. American Economic Review, 101 (5), 1739-74.",
+        "DOI": "10.1257/aer.101.5.1739"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Engle, P. L., Fernald, L.C.H., Alderman, H., Behrman, J., O’Gara, C., Yousafzia, A., … Iltus, S. (2011). Strategies for reducing and improving inequalities developmental outcomes for young children in low income and middle income countries. The Lancet, 378 (9799), 1339- 1353.",
+        "DOI": "10.1016/S0140-6736(11)60889-1"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Erola, J., Jalonen, S., & Lehti, H. (2016). Parental education, class and income over early life course and children’s achievement. Research in Social Stratification and Mobility, 44, 33- 43.",
+        "DOI": "10.1016/j.rssm.2016.01.003"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Finn, J.D. & Achilles, C.M. (1999) Tennessee’s Class Size Study: findings, implications, misconceptions. Educational Evaluation and Policy Analysis, 21 (2), 97-109.",
+        "DOI": "10.3102/01623737021002097"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gerdinal-Pizato, E. C., Marturano, E. M., & Fontaine, A. M. G. (2012). Access to early childhood education and academic achievement in elementary school. Paidéia, 22 (52), 187- 196.",
+        "DOI": "10.1590/S0103-863X2012000200005"
+      },
+      {
+        "key": "ref28",
+        "unstructured": "Güngör, G. & Göksu, A. (2013). Türkiye’de eğitimin finansmanı ve ülkelerarası bir karşılaştırma [Education Finance in Turkey and an Intercountry Comparison]. Yönetim ve Ekonomi, 20 (1), 59- 72."
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hanushek E.A., Woessmann L. (2017) School resources and student achievement: A review of cross-country economic research. In: Rosén M., Yang Hansen K., Wolff U. (eds) Cognitive Abilities and Educational Outcomes. Methodology of Educational Measurement and Assessment. Springer, Cham",
+        "DOI": "10.1007/978-3-319-43473-5_8"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heckman, J. J. (2000). Policies to foster human capital. Research in Economics, 54 (1), 3- 56.",
+        "DOI": "10.1006/reec.1999.0225"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heckman, J. J. (2008). Schools, skills, and synapses. Economic Inquiry, 46 (3), 289-324.",
+        "DOI": "10.1111/j.1465-7295.2008.00163.x"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Herreras, E. B. (2017). Risk low math performance PISA 2012: Impact of assistance to Early Childhood Education and other possible cognitive variables. Acta de Investigacion Psicologica, 7 (1), 2606- 2617.",
+        "DOI": "10.1016/j.aipprr.2017.02.001"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Iacovaou, M. (2001). In the early years: Smaller is better. Institute for Social and Economic Research, 10 (3), 261-290.",
+        "DOI": "10.1080/09645290210127499"
+      },
+      {
+        "key": "ref34",
+        "unstructured": "Isaacs, J. B. (2009). How much do we spend on children and the elderly. Washington, D.C.: Brookings Institution."
+      },
+      {
+        "key": "ref35",
+        "unstructured": "Jabor, K., Kungu, K., Nordin, M. S., Machtmes, K., &Buntat, Y. (2011). Does parent educational status matter on the students' achievement in science? International Proceedings of Economics Development & Research, 5 (2), 309- 313."
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jacinta, R. M., & Rotich, K. S. (2015). Impact of early childhood education on pupils’ learning in primary schools in Kenya. Global Journal of Education Studies, 1 (1), 52- 61.",
+        "DOI": "10.5296/gjes.v1i1.7686"
+      },
+      {
+        "key": "ref37",
+        "unstructured": "Jacobson, L. (2001). Looking to France. Education Week, 42 (1), 20-21."
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kağıtçıbaşı, C., Sunar, D., & Bekman, S. (2001). Long term effects of early intervention: Turkish low income mother and children. Applied Developmental Psychology, 22, 333- 361.",
+        "DOI": "10.1016/S0193-3973(01)00071-5"
+      },
+      {
+        "key": "ref39",
+        "unstructured": "Kaushal, N., Magnuson, K., & Waldfogel, J. (2011). How is family income related to investments in children’s learning?  In Greg, J."
+      },
+      {
+        "key": "ref40",
+        "unstructured": "Duncan, & Richard J. Murnane (Eds.), Whither opportunity; Rising inequality, schools, and children’s life chances (pp. 187-205), New York, NY: Russell Sage Foundation."
+      },
+      {
+        "key": "ref41",
+        "unstructured": "Kaytaz, M. (2004). A cost benefit analysis of preschool education in Turkey. AÇEV, İstanbul."
+      },
+      {
+        "key": "ref42",
+        "unstructured": "Koballa, T., Kemp., A., Evans, R. (1997). The spectrum of scientific literacy. Sci. Teach., 64, 27–31."
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "La Paro, K.M., & Pianta, R.C. (2000). Predicting children’s competence in the early school years: A meta-analytic review. Review of Educational Research, 70 (4), 443–484.",
+        "DOI": "10.3102/00346543070004443"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Macours, K., Schady,N., & Vakıs, R. (2012). Cash transfers, behavioral changes, and cognitive development in early childhood: Evidence from a randomized experiment. American Economic Journal: Applied Economics, 4 (2), 247–273.",
+        "DOI": "10.1257/app.4.2.247"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "McFarlane, D. A. (2013). Understanding the Challenges of Science Education in the 21st Century: New Opportunities for Scientific Literacy. International Letters of Social and Humanistic Sciences, 4, 35-44.",
+        "DOI": "10.18052/www.scipress.com/ILSHS.4.35"
+      },
+      {
+        "key": "ref46",
+        "unstructured": "Murungi, C. G. (2013). Reasons for Low Enrolments in Early Childhood Education in Kenya: The parental perspective. International Journal of Education and Research, 1 (5), 1- 10"
+      },
+      {
+        "key": "ref47",
+        "unstructured": "National Research Council. (1996). National science education standards: Observe, interact, change, learn. Washington, DC: National Academy Press."
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "OECD (2007). PISA 2006: Science Competencies for Tomorrow’s World, Volume 1: Analysis. Retrieved from http://www.nbbmuseum.be/doc/seminar2010/nl/bibliografie/opleiding/analysis.pdf",
+        "DOI": "10.1787/9789264040014-en"
+      },
+      {
+        "key": "ref49",
+        "unstructured": "OECD (2011). PISA 2009 Results: Executive Summary. Retrieved from http://www.oecd.org/pisa/pisaproducts/46619703.pdf"
+      },
+      {
+        "key": "ref50",
+        "unstructured": "OECD (2013). PISA 2012 Results in Focus. Retrieved from http://www.oecd.org/pisa/keyfindings/pisa-2012-results-overview.pdf"
+      },
+      {
+        "key": "ref51",
+        "unstructured": "OECD (2015). The condition for Education. Retrieved from https://nces.ed.gov/programs/coe/pdf/Indicator_CFA/coe_cfa_2015_05.pdf"
+      },
+      {
+        "key": "ref52",
+        "unstructured": "OECD (2017). PISA for Development Brief 10: How does PISA for Development measure scientific literacy, OECD Publishing, Paris."
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Oxford, M. L., & Lee, J. O. (2011). The effect of family processes on school achievement as moderated by socioeconomic context. Journal of School Psychology, 49, 597- 612.",
+        "DOI": "10.1016/j.jsp.2011.06.001"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qian, J. X., & Smyth, R. (2011) Educational expenditure in urban China: income effects, family characteristics and the demand for domestic and overseas education. Applied Economics, 43 (24), 3379-3394.",
+        "DOI": "10.1080/00036841003636292"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Park, H., & Kyei, P. (2011). Literacy Gaps by Educational Attainment: A Cross National Analysis. Social Forces, 89, 897- 904.",
+        "DOI": "10.1353/sof.2011.0025"
+      },
+      {
+        "key": "ref56",
+        "unstructured": "Pascal, C., T. Bertram, S. Delaney, and C. Nelson. 2013. A Comparison of International Childcare Systems: Research Report."
+      },
+      {
+        "key": "ref57",
+        "unstructured": "Sheffield: Department for Education, John Simes. https://www.gov. uk/government/uploads/system/uploads/attachment_data/file/212564/DFE-RR269.pdf."
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pholphirul, P. (2016). Pre-primary education and long-term education performance: Evidence from Programme for International Student Assessment (PISA) Thailand. Journal of Early Childhood Research, 15 (4), 410-432.",
+        "DOI": "10.1177/1476718X15616834"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pianta, R. C., La Paro, K., Payne, C., Cox, M. & Bradley, R. (2002). The relation of kindergarten classroom environment to teacher, family, and school characteristics and child outcomes. Elementary School Journal, 102 (3), 225–238.",
+        "DOI": "10.1086/499701"
+      },
+      {
+        "key": "ref60",
+        "unstructured": "Reardon, S.F. (2011). The widening academic achievement gap between the rich and the poor: New evidence and possible explanations. In R. Murnane & G. Duncan (Eds.), Whither Opportunity? Rising Inequality and the Uncertain Life Chances of Low-Income Children. New York: Russell Sage Foundation Press."
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Robson, S. (2009) Producing and using video data in the early years: ethical questions and practical consequences in research with young children, Children and Society, 25 (3), 179- 189.",
+        "DOI": "10.1111/j.1099-0860.2009.00267.x"
+      },
+      {
+        "key": "ref62",
+        "unstructured": "Saatçiğolu, Ö., Gülleroğlu, H. D. (2017). PISA 2009 uygulamasına katılan ülkelerin okuma becerileri alt test sonuçlarının profil analizi ile değerlendirilmesi. Education and Science, 42 (190), 401- 422."
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Saçkes, M., Trundle, K. C., Bell, R. L., & O’ Connell, A. A. (2011). The influence of early science experience in kindergarten on children's immediate and later science achievement: Evidence from the early childhood longitudinal study. Journal of Research in Science Teaching, 48 (2), 217- 235.",
+        "DOI": "10.1002/tea.20395"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sacks, D., Stevenson, B., & Wolfers, J. (2012). The New Stylized Facts about Income and Subjective Well-being. Emotion, 12 (6), 1181-1187.",
+        "DOI": "10.1037/a0029873"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sahlberg, P. (2018). PISA in Finland: An education miracle or obstacle to change. Center for Educational policy Studies Journal, 1 (3), 119- 140.",
+        "DOI": "10.26529/cepsj.418"
+      },
+      {
+        "key": "ref66",
+        "unstructured": "Shonkoff, J.P., & Philips, A. D. (2000). From Neurons to Neighbourhoods, National Academy Press, Washington DC."
+      },
+      {
+        "key": "ref67",
+        "unstructured": "Şirin, S. & Vatanartıran, S. (2014). PISA 2012 değerlendirmesi: Türkiye için veriye dayalı eğitim reformu önerileri. İstanbul: TUSİAD-T. Turkish Statistical Institute (TUİK). (2015). Statistics in Education [Data file]. Retrieved from http://www.tuik.gov.tr/PreTablo.do?alt_id=1018"
+      },
+      {
+        "key": "ref68",
+        "unstructured": "UNESCO (2008). The contribution of early childhood education to a sustainable society. Retrieved from http://unesdoc.unesco.org/images/0015/001593/159355E.pdf"
+      },
+      {
+        "key": "ref69",
+        "unstructured": "UNESCO (2015). Education for All 200-2015: Achievement and Challenges.  Retrieved from http://unesdoc.unesco.org/images/0023/002322/232205e.pdf"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Urban, M. (2008). Dealing with uncertainty: challenges and possibilities for the early childhood profession. European Early Childhood Education Research Journal, 16 (2), 135-152.",
+        "DOI": "10.1080/13502930802141584"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Watters, J.J., Diezmann, C.M., Grieshaber, S.J., & Davis, J.M. (2001). Enhancing science education for young children: A contemporary initiative. Australian Journal of Early Childhood, 26 (2), 1–7.",
+        "DOI": "10.1177/183693910102600202"
+      },
+      {
+        "key": "ref72",
+        "unstructured": "World Bank (2007). World Development Report 2007: Development and the Next Generation Washington: World Bank."
+      },
+      {
+        "key": "ref73",
+        "unstructured": "World Bank. (2013). Expanding and Improving Early Childhood Education in Turkey. (Report No: 77723-TR). Washington DC, World Bank."
+      },
+      {
+        "key": "ref74",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yi, L.Y. (2006). Classroom Organization: Understanding the Context in which Children Are Expected to Learn. Early Childhood Education Journal, 34 (1), 37–43.",
+        "DOI": "10.1007/s10643-006-0120-0"
+      }
+    ],
+    "container-title": [
+      "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi"
+    ],
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2024-03-06T22:59:34Z",
+      "timestamp": 1709765974000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://dergipark.org.tr/en/doi/10.17522/balikesirnef.618977"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          30
+        ]
+      ]
+    },
+    "references-count": 74,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            30
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.17522/balikesirnef.618977",
+    "relation": {},
+    "ISSN": [
+      "1307-6086"
+    ],
+    "issn-type": [
+      {
+        "value": "1307-6086",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          30
+        ]
+      ]
+    }
+  }
+}

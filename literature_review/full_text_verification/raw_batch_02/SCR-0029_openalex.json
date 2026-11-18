@@ -1,0 +1,1167 @@
+{
+  "id": "https://openalex.org/W2796571396",
+  "doi": "https://doi.org/10.1007/s11858-018-0935-3",
+  "title": "Does schooling actually perpetuate educational inequality in mathematics performance? A validity question on the measures of opportunity to learn in PISA",
+  "display_name": "Does schooling actually perpetuate educational inequality in mathematics performance? A validity question on the measures of opportunity to learn in PISA",
+  "alternate_titles": [],
+  "publication_year": 2018,
+  "publication_date": "2018-04-12",
+  "ids": {
+    "openalex": "https://openalex.org/W2796571396",
+    "doi": "https://doi.org/10.1007/s11858-018-0935-3",
+    "mag": "2796571396"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s11858-018-0935-3",
+    "doi": "https://doi.org/10.1007/s11858-018-0935-3",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s11858-018-0935-3",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs11858-018-0935-3.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210211469",
+      "display_name": "ZDM",
+      "issn_l": "1615-679X",
+      "issn": [
+        "1615-679X",
+        "1863-9690",
+        "1863-9704"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "erih-plus",
+        "jufo-1",
+        "norway-2",
+        "poland-70",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "ZDM",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W2796571396"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11858-018-0935-3.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5019386855",
+        "display_name": "Kajsa Yang Hansen",
+        "orcid": "https://orcid.org/0000-0001-7071-2482",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-7071-2482"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Kajsa Yang Hansen",
+      "raw_affiliation_strings": [
+        "Department of Education and Special Education, University of Gothenburg, Box 300, 405 30, Gothenburg, Sweden"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7071-2482",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Education and Special Education, University of Gothenburg, Box 300, 405 30, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5005313069",
+        "display_name": "Rolf Strietholt",
+        "orcid": "https://orcid.org/0000-0001-6344-642X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-6344-642X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200332995",
+          "display_name": "TU Dortmund University",
+          "ror": "https://ror.org/01k97gp34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200332995"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rolf Strietholt",
+      "raw_affiliation_strings": [
+        "Department of Education and Special Education, University of Gothenburg, Box 300, 405 30, Gothenburg, Sweden",
+        "Institute for Education Research and School Development, TU Dortmund University, Vogelpothsweg 78, 44227, Dortmund, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Education and Special Education, University of Gothenburg, Box 300, 405 30, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Education Research and School Development, TU Dortmund University, Vogelpothsweg 78, 44227, Dortmund, Germany",
+          "institution_ids": [
+            "https://openalex.org/I200332995"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5019386855"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I881427289"
+  ],
+  "apc_list": {
+    "value": 3190,
+    "currency": "USD",
+    "value_usd": 3190
+  },
+  "apc_paid": {
+    "value": 3190,
+    "currency": "USD",
+    "value_usd": 3190
+  },
+  "fwci": 6.3388,
+  "has_fulltext": true,
+  "cited_by_count": 36,
+  "citation_normalized_percentile": {
+    "value": 0.95856993,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "50",
+    "issue": "4",
+    "first_page": "643",
+    "last_page": "658"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10674",
+    "display_name": "School Choice and Performance",
+    "score": 0.8974999785423279,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.8974999785423279,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.04809999838471413,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12522",
+      "display_name": "Mathematics Education and Pedagogy",
+      "score": 0.019500000402331352,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.8489999771118164
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-achievement",
+      "display_name": "mathematics achievement",
+      "score": 0.871999979019165
+    },
+    {
+      "id": "https://openalex.org/keywords/opportunity-to-learn",
+      "display_name": "opportunity to learn",
+      "score": 0.9520000219345093
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-status",
+      "display_name": "socioeconomic status",
+      "score": 0.7250000238418579
+    },
+    {
+      "id": "https://openalex.org/keywords/pisa",
+      "display_name": "PISA",
+      "score": 0.7799999713897705
+    },
+    {
+      "id": "https://openalex.org/keywords/construct-validity",
+      "display_name": "construct validity",
+      "score": 0.9710000157356262
+    },
+    {
+      "id": "https://openalex.org/keywords/self-concept",
+      "display_name": "self-concept",
+      "score": 0.8519999980926514
+    },
+    {
+      "id": "https://openalex.org/keywords/achievement-gap",
+      "display_name": "achievement gap",
+      "score": 0.6110000014305115
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780623907",
+      "wikidata": "https://www.wikidata.org/wiki/Q106394435",
+      "display_name": "Disadvantaged",
+      "level": 2,
+      "score": 0.7372632622718811
+    },
+    {
+      "id": "https://openalex.org/C147077947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1515895",
+      "display_name": "Socioeconomic status",
+      "level": 3,
+      "score": 0.7251238822937012
+    },
+    {
+      "id": "https://openalex.org/C2780801425",
+      "wikidata": "https://www.wikidata.org/wiki/Q5164392",
+      "display_name": "Construct (python library)",
+      "level": 2,
+      "score": 0.6549583077430725
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.6362321376800537
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.5801102519035339
+    },
+    {
+      "id": "https://openalex.org/C33676613",
+      "wikidata": "https://www.wikidata.org/wiki/Q13415176",
+      "display_name": "Dimension (graph theory)",
+      "level": 2,
+      "score": 0.5640536546707153
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.5317971110343933
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.48843708634376526
+    },
+    {
+      "id": "https://openalex.org/C2777267654",
+      "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+      "display_name": "Test (biology)",
+      "level": 2,
+      "score": 0.423621267080307
+    },
+    {
+      "id": "https://openalex.org/C2778783286",
+      "wikidata": "https://www.wikidata.org/wiki/Q861360",
+      "display_name": "Educational inequality",
+      "level": 3,
+      "score": 0.4229205250740051
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.33257240056991577
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.22002297639846802
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.1825695037841797
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.1536083221435547
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.14499151706695557
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/s11858-018-0935-3",
+      "doi": "https://doi.org/10.1007/s11858-018-0935-3",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s11858-018-0935-3",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs11858-018-0935-3.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210211469",
+        "display_name": "ZDM",
+        "issn_l": "1615-679X",
+        "issn": [
+          "1615-679X",
+          "1863-9690",
+          "1863-9704"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "erih-plus",
+          "jufo-1",
+          "norway-2",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ZDM",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s11858-018-0935-3",
+    "doi": "https://doi.org/10.1007/s11858-018-0935-3",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s11858-018-0935-3",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs11858-018-0935-3.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210211469",
+      "display_name": "ZDM",
+      "issn_l": "1615-679X",
+      "issn": [
+        "1615-679X",
+        "1863-9690",
+        "1863-9704"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "cwts-core",
+        "erih-plus",
+        "jufo-1",
+        "norway-2",
+        "poland-70",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "ZDM",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.9235000014305115,
+      "display_name": "Quality education"
+    },
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "score": 0.8974000215530396,
+      "display_name": "Reduced inequalities"
+    }
+  ],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5585021975",
+      "display_name": "Changes in Opportunity to Learn:  Swedish Pupils’ Outcomes in International Large-Scale Survey Studies over Time (Choice)",
+      "funder_award_id": "2015-01080",
+      "funder_id": "https://openalex.org/F4320322581",
+      "funder_display_name": "Vetenskapsrådet"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322581",
+      "display_name": "Vetenskapsrådet",
+      "ror": "https://ror.org/03zttf063"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2796571396.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2796571396.grobid-xml"
+  },
+  "referenced_works_count": 43,
+  "referenced_works": [
+    "https://openalex.org/W1508833434",
+    "https://openalex.org/W1530949497",
+    "https://openalex.org/W1549788644",
+    "https://openalex.org/W1582010444",
+    "https://openalex.org/W1815596065",
+    "https://openalex.org/W1937565828",
+    "https://openalex.org/W1990466172",
+    "https://openalex.org/W1992643870",
+    "https://openalex.org/W1996656518",
+    "https://openalex.org/W2016294038",
+    "https://openalex.org/W2040773723",
+    "https://openalex.org/W2056581333",
+    "https://openalex.org/W2071666535",
+    "https://openalex.org/W2079872858",
+    "https://openalex.org/W2086756533",
+    "https://openalex.org/W2114662031",
+    "https://openalex.org/W2118502261",
+    "https://openalex.org/W2127548434",
+    "https://openalex.org/W2132246218",
+    "https://openalex.org/W2139340376",
+    "https://openalex.org/W2147138207",
+    "https://openalex.org/W2148137983",
+    "https://openalex.org/W2165169305",
+    "https://openalex.org/W2168697871",
+    "https://openalex.org/W2170274818",
+    "https://openalex.org/W2264742718",
+    "https://openalex.org/W2320361824",
+    "https://openalex.org/W2345647237",
+    "https://openalex.org/W2373381641",
+    "https://openalex.org/W2491471674",
+    "https://openalex.org/W2514801004",
+    "https://openalex.org/W2526498950",
+    "https://openalex.org/W2568784475",
+    "https://openalex.org/W2728013680",
+    "https://openalex.org/W2772140863",
+    "https://openalex.org/W4214651972",
+    "https://openalex.org/W4240902782",
+    "https://openalex.org/W4242076836",
+    "https://openalex.org/W4300570360",
+    "https://openalex.org/W4401226504",
+    "https://openalex.org/W6638510884",
+    "https://openalex.org/W6723062849",
+    "https://openalex.org/W6740234039"
+  ],
+  "related_works": [
+    "https://openalex.org/W4296959849",
+    "https://openalex.org/W4225260135",
+    "https://openalex.org/W1530949497",
+    "https://openalex.org/W2245105671",
+    "https://openalex.org/W3120156295",
+    "https://openalex.org/W3170366005",
+    "https://openalex.org/W2747449659",
+    "https://openalex.org/W1983302528",
+    "https://openalex.org/W1980097531"
+  ],
+  "abstract_inverted_index": {
+    "International": [
+      0
+    ],
+    "assessments": [
+      1
+    ],
+    "of": [
+      2,
+      65,
+      83,
+      108,
+      127,
+      158
+    ],
+    "mathematics": [
+      3,
+      148,
+      178
+    ],
+    "have": [
+      4
+    ],
+    "shown": [
+      5
+    ],
+    "persistent": [
+      6
+    ],
+    "and": [
+      7,
+      32,
+      75,
+      138,
+      147
+    ],
+    "widely": [
+      8
+    ],
+    "intensified": [
+      9
+    ],
+    "socioeconomic": [
+      10,
+      70
+    ],
+    "inequalities": [
+      11
+    ],
+    "in": [
+      12,
+      29,
+      96,
+      112,
+      118,
+      131,
+      177
+    ],
+    "achievement": [
+      13,
+      20,
+      149
+    ],
+    "worldwide": [
+      14
+    ],
+    "over": [
+      15
+    ],
+    "the": [
+      16,
+      27,
+      41,
+      63,
+      66,
+      84,
+      105,
+      109,
+      128,
+      168
+    ],
+    "last": [
+      17
+    ],
+    "decades.": [
+      18
+    ],
+    "Such": [
+      19
+    ],
+    "gaps": [
+      21,
+      176
+    ],
+    "may": [
+      22,
+      36
+    ],
+    "partly": [
+      23
+    ],
+    "be": [
+      24,
+      38
+    ],
+    "due": [
+      25
+    ],
+    "to": [
+      26,
+      40,
+      50,
+      88
+    ],
+    "differences": [
+      28
+    ],
+    "students’": [
+      30,
+      159
+    ],
+    "personal": [
+      31
+    ],
+    "family": [
+      33
+    ],
+    "characteristics.": [
+      34
+    ],
+    "They": [
+      35
+    ],
+    "also": [
+      37
+    ],
+    "attributed": [
+      39
+    ],
+    "schooling": [
+      42,
+      91,
+      173
+    ],
+    "itself": [
+      43
+    ],
+    "if": [
+      44
+    ],
+    "school": [
+      45
+    ],
+    "systems": [
+      46
+    ],
+    "provide": [
+      47
+    ],
+    "differentiated": [
+      48
+    ],
+    "opportunity": [
+      49
+    ],
+    "learn": [
+      51
+    ],
+    "(OTL)": [
+      52
+    ],
+    "for": [
+      53
+    ],
+    "children": [
+      54
+    ],
+    "from": [
+      55,
+      181
+    ],
+    "privileged": [
+      56
+    ],
+    "versus": [
+      57
+    ],
+    "disadvantaged": [
+      58
+    ],
+    "backgrounds.": [
+      59
+    ],
+    "Previous": [
+      60
+    ],
+    "research": [
+      61,
+      170
+    ],
+    "on": [
+      62
+    ],
+    "mechanism": [
+      64
+    ],
+    "joint": [
+      67
+    ],
+    "relationship": [
+      68,
+      143
+    ],
+    "among": [
+      69
+    ],
+    "status": [
+      71
+    ],
+    "(SES),": [
+      72
+    ],
+    "academic": [
+      73
+    ],
+    "achievement,": [
+      74,
+      97
+    ],
+    "OTL": [
+      76,
+      110,
+      129,
+      136
+    ],
+    "produced": [
+      77
+    ],
+    "inconclusive": [
+      78
+    ],
+    "results.": [
+      79
+    ],
+    "The": [
+      80,
+      142
+    ],
+    "main": [
+      81
+    ],
+    "aim": [
+      82
+    ],
+    "present": [
+      85
+    ],
+    "study": [
+      86
+    ],
+    "is": [
+      87
+    ],
+    "test": [
+      89
+    ],
+    "whether": [
+      90
+    ],
+    "actually": [
+      92
+    ],
+    "perpetuates": [
+      93,
+      174
+    ],
+    "social": [
+      94,
+      145,
+      175
+    ],
+    "inequality": [
+      95
+    ],
+    "by": [
+      98,
+      154
+    ],
+    "reanalyzing": [
+      99
+    ],
+    "PISA": [
+      100,
+      113
+    ],
+    "data.": [
+      101
+    ],
+    "Specifically,": [
+      102
+    ],
+    "we": [
+      103
+    ],
+    "scrutinize": [
+      104
+    ],
+    "construct": [
+      106,
+      183
+    ],
+    "validity": [
+      107,
+      184
+    ],
+    "measure": [
+      111
+    ],
+    "that": [
+      114,
+      167,
+      172
+    ],
+    "has": [
+      115
+    ],
+    "been": [
+      116
+    ],
+    "used": [
+      117
+    ],
+    "previous": [
+      119,
+      169
+    ],
+    "research.": [
+      120
+    ],
+    "Our": [
+      121,
+      164
+    ],
+    "analyses": [
+      122
+    ],
+    "reveal": [
+      123
+    ],
+    "two": [
+      124
+    ],
+    "latent": [
+      125
+    ],
+    "dimensions": [
+      126
+    ],
+    "indicators": [
+      130
+    ],
+    "PISA,": [
+      132
+    ],
+    "namely": [
+      133
+    ],
+    "an": [
+      134
+    ],
+    "unbiased": [
+      135
+    ],
+    "dimension": [
+      137
+    ],
+    "a": [
+      139,
+      182
+    ],
+    "self-concept": [
+      140,
+      160
+    ],
+    "dimension.": [
+      141
+    ],
+    "between": [
+      144
+    ],
+    "background": [
+      146
+    ],
+    "was": [
+      150,
+      161
+    ],
+    "only": [
+      151
+    ],
+    "weakly": [
+      152
+    ],
+    "mediated": [
+      153
+    ],
+    "OTL,": [
+      155
+    ],
+    "when": [
+      156
+    ],
+    "effect": [
+      157
+    ],
+    "controlled": [
+      162
+    ],
+    "for.": [
+      163
+    ],
+    "results": [
+      165
+    ],
+    "suggest": [
+      166
+    ],
+    "finding": [
+      171
+    ],
+    "performance": [
+      179
+    ],
+    "suffers": [
+      180
+    ],
+    "problem.": [
+      185
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2796571396",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2018-04-24T00:00:00"
+}

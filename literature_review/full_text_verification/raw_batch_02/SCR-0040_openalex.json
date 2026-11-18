@@ -1,0 +1,905 @@
+{
+  "id": "https://openalex.org/W7133539646",
+  "doi": "https://doi.org/10.23762/fso_vol6no2_18_1",
+  "title": "Panel estimation for the relationship between education expenditure and economic growth for OECD countries",
+  "display_name": "Panel estimation for the relationship between education expenditure and economic growth for OECD countries",
+  "alternate_titles": [],
+  "publication_year": 2019,
+  "publication_date": "2019-06-14",
+  "ids": {
+    "openalex": "https://openalex.org/W7133539646",
+    "doi": "https://doi.org/10.23762/fso_vol6no2_18_1"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.23762/fso_vol6no2_18_1",
+    "doi": "https://doi.org/10.23762/fso_vol6no2_18_1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.23762/fso_vol6no2_18_1",
+    "pdf_url": "https://ojs.wsb.edu.pl/index.php/fso/article/download/147/99",
+    "source": {
+      "id": "https://openalex.org/S4306510824",
+      "display_name": "Forum Scientiae Oeconomia",
+      "issn_l": "2300-5947",
+      "issn": [
+        "2300-5947",
+        "2353-4435"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "listed_in": [
+        "ddh",
+        "doaj",
+        "erih-plus",
+        "norway-1",
+        "poland-70",
+        "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310317409",
+      "host_organization_name": "Wydawnictwo Naukowe WSB w Dąbrowie Górniczej",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317409"
+      ],
+      "host_organization_lineage_names": [
+        "Wydawnictwo Naukowe WSB w Dąbrowie Górniczej"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Forum Scientiae Oeconomia",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W7133539646"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://ojs.wsb.edu.pl/index.php/fso/article/download/147/99",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5079433486",
+        "display_name": "Zeynep ÖZTÜRK KARAÇOR",
+        "orcid": "https://orcid.org/0000-0003-2050-644X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2050-644X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I137996928",
+          "display_name": "Selçuk University",
+          "ror": "https://ror.org/045hgzm75",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zeynep Karaçor",
+      "raw_affiliation_strings": [
+        "Selçuk University, Konya, Turkey"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Selçuk University, Konya, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020777192",
+        "display_name": "Burcu Güvenek",
+        "orcid": "https://orcid.org/0000-0002-7159-2555",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-7159-2555"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I137996928",
+          "display_name": "Selçuk University",
+          "ror": "https://ror.org/045hgzm75",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Burcu Güvenek",
+      "raw_affiliation_strings": [
+        "Selçuk University, Konya, Turkey"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Selçuk University, Konya, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102856938",
+        "display_name": "Esra Ekinci",
+        "orcid": "https://orcid.org/0000-0002-3097-3976",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-3097-3976"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I137996928",
+          "display_name": "Selçuk University",
+          "ror": "https://ror.org/045hgzm75",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Esra Ekinci",
+      "raw_affiliation_strings": [
+        "Selçuk University, Konya, Turkey"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Selçuk University, Konya, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5038092075",
+        "display_name": "Sevilay Konya",
+        "orcid": "https://orcid.org/0000-0002-0483-4139",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-0483-4139"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I137996928",
+          "display_name": "Selçuk University",
+          "ror": "https://ror.org/045hgzm75",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sevilay Konya",
+      "raw_affiliation_strings": [
+        "Selçuk University, Konya, Turkey"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Selçuk University, Konya, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I137996928"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I137996928"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.4819,
+  "has_fulltext": true,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.85605786,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "6",
+    "issue": "2",
+    "first_page": "7",
+    "last_page": "20"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10393",
+    "display_name": "Economic Growth and Productivity",
+    "score": 0.9854000210762024,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "score": 0.9854000210762024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11770",
+      "display_name": "Fiscal Policy and Economic Growth",
+      "score": 0.006000000052154064,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.00279999990016222,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/education-expenditure",
+      "display_name": "education expenditure",
+      "score": 0.9179999828338623
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-growth",
+      "display_name": "economic growth",
+      "score": 1.0
+    },
+    {
+      "id": "https://openalex.org/keywords/human-capital",
+      "display_name": "human capital",
+      "score": 0.9700000286102295
+    },
+    {
+      "id": "https://openalex.org/keywords/oecd-countries",
+      "display_name": "OECD countries",
+      "score": 0.878000020980835
+    },
+    {
+      "id": "https://openalex.org/keywords/panel-data-analysis",
+      "display_name": "panel data analysis",
+      "score": 0.4309999942779541
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776943663",
+      "wikidata": "https://www.wikidata.org/wiki/Q165687",
+      "display_name": "Human capital",
+      "level": 2,
+      "score": 0.7436000108718872
+    },
+    {
+      "id": "https://openalex.org/C2776554220",
+      "wikidata": "https://www.wikidata.org/wiki/Q1760011",
+      "display_name": "Prosperity",
+      "level": 2,
+      "score": 0.7257999777793884
+    },
+    {
+      "id": "https://openalex.org/C96250715",
+      "wikidata": "https://www.wikidata.org/wiki/Q965330",
+      "display_name": "Estimation",
+      "level": 2,
+      "score": 0.7199000120162964
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.7093999981880188
+    },
+    {
+      "id": "https://openalex.org/C6422946",
+      "wikidata": "https://www.wikidata.org/wiki/Q857354",
+      "display_name": "Panel data",
+      "level": 2,
+      "score": 0.6621000170707703
+    },
+    {
+      "id": "https://openalex.org/C2781426361",
+      "wikidata": "https://www.wikidata.org/wiki/Q5326940",
+      "display_name": "Earnings",
+      "level": 2,
+      "score": 0.6564000248908997
+    },
+    {
+      "id": "https://openalex.org/C145236788",
+      "wikidata": "https://www.wikidata.org/wiki/Q28161",
+      "display_name": "Labour economics",
+      "level": 1,
+      "score": 0.40310001373291016
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.3815000057220459
+    },
+    {
+      "id": "https://openalex.org/C172497479",
+      "wikidata": "https://www.wikidata.org/wiki/Q302208",
+      "display_name": "Capital expenditure",
+      "level": 2,
+      "score": 0.3206000030040741
+    },
+    {
+      "id": "https://openalex.org/C2777169553",
+      "wikidata": "https://www.wikidata.org/wiki/Q7130814",
+      "display_name": "Panel Study of Income Dynamics",
+      "level": 2,
+      "score": 0.3181000053882599
+    },
+    {
+      "id": "https://openalex.org/C83646750",
+      "wikidata": "https://www.wikidata.org/wiki/Q193893",
+      "display_name": "Capital (architecture)",
+      "level": 2,
+      "score": 0.31200000643730164
+    },
+    {
+      "id": "https://openalex.org/C2778392974",
+      "wikidata": "https://www.wikidata.org/wiki/Q5326945",
+      "display_name": "Earnings growth",
+      "level": 3,
+      "score": 0.311599999666214
+    },
+    {
+      "id": "https://openalex.org/C60675406",
+      "wikidata": "https://www.wikidata.org/wiki/Q2049349",
+      "display_name": "Panel analysis",
+      "level": 3,
+      "score": 0.29649999737739563
+    },
+    {
+      "id": "https://openalex.org/C27548731",
+      "wikidata": "https://www.wikidata.org/wiki/Q88272",
+      "display_name": "Investment (military)",
+      "level": 3,
+      "score": 0.2718999981880188
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.2599000036716461
+    },
+    {
+      "id": "https://openalex.org/C160050368",
+      "wikidata": "https://www.wikidata.org/wiki/Q132453",
+      "display_name": "Developed country",
+      "level": 3,
+      "score": 0.25589999556541443
+    },
+    {
+      "id": "https://openalex.org/C151406439",
+      "wikidata": "https://www.wikidata.org/wiki/Q186588",
+      "display_name": "Time series",
+      "level": 2,
+      "score": 0.25040000677108765
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.23762/fso_vol6no2_18_1",
+      "doi": "https://doi.org/10.23762/fso_vol6no2_18_1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.23762/fso_vol6no2_18_1",
+      "pdf_url": "https://ojs.wsb.edu.pl/index.php/fso/article/download/147/99",
+      "source": {
+        "id": "https://openalex.org/S4306510824",
+        "display_name": "Forum Scientiae Oeconomia",
+        "issn_l": "2300-5947",
+        "issn": [
+          "2300-5947",
+          "2353-4435"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "listed_in": [
+          "ddh",
+          "doaj",
+          "erih-plus",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-1"
+        ],
+        "host_organization": "https://openalex.org/P4310317409",
+        "host_organization_name": "Wydawnictwo Naukowe WSB w Dąbrowie Górniczej",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310317409"
+        ],
+        "host_organization_lineage_names": [
+          "Wydawnictwo Naukowe WSB w Dąbrowie Górniczej"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Forum Scientiae Oeconomia",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:5681d1153bc740c092222e632a9fb90d",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/5681d1153bc740c092222e632a9fb90d",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Forum Scientiae Oeconomia, Vol 6, Iss 2 (2019)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.23762/fso_vol6no2_18_1",
+    "doi": "https://doi.org/10.23762/fso_vol6no2_18_1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.23762/fso_vol6no2_18_1",
+    "pdf_url": "https://ojs.wsb.edu.pl/index.php/fso/article/download/147/99",
+    "source": {
+      "id": "https://openalex.org/S4306510824",
+      "display_name": "Forum Scientiae Oeconomia",
+      "issn_l": "2300-5947",
+      "issn": [
+        "2300-5947",
+        "2353-4435"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "listed_in": [
+        "ddh",
+        "doaj",
+        "erih-plus",
+        "norway-1",
+        "poland-70",
+        "russia-white-list-1"
+      ],
+      "host_organization": "https://openalex.org/P4310317409",
+      "host_organization_name": "Wydawnictwo Naukowe WSB w Dąbrowie Górniczej",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317409"
+      ],
+      "host_organization_lineage_names": [
+        "Wydawnictwo Naukowe WSB w Dąbrowie Górniczej"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Forum Scientiae Oeconomia",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Decent work and economic growth",
+      "score": 0.6452000141143799,
+      "id": "https://metadata.un.org/sdg/8"
+    },
+    {
+      "display_name": "Quality education",
+      "score": 0.6164000034332275,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7133539646.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7133539646.grobid-xml"
+  },
+  "referenced_works_count": 41,
+  "referenced_works": [
+    "https://openalex.org/W1472239144",
+    "https://openalex.org/W1510939930",
+    "https://openalex.org/W1545825270",
+    "https://openalex.org/W1619038707",
+    "https://openalex.org/W1629415395",
+    "https://openalex.org/W1637231674",
+    "https://openalex.org/W1647056412",
+    "https://openalex.org/W1656557635",
+    "https://openalex.org/W1964547542",
+    "https://openalex.org/W1969230115",
+    "https://openalex.org/W1980382974",
+    "https://openalex.org/W1991547802",
+    "https://openalex.org/W2004350772",
+    "https://openalex.org/W2005013362",
+    "https://openalex.org/W2009558323",
+    "https://openalex.org/W2014727481",
+    "https://openalex.org/W2051071056",
+    "https://openalex.org/W2076323611",
+    "https://openalex.org/W2081169337",
+    "https://openalex.org/W2087457888",
+    "https://openalex.org/W2099268311",
+    "https://openalex.org/W2117513178",
+    "https://openalex.org/W2122381718",
+    "https://openalex.org/W2136602717",
+    "https://openalex.org/W2144380346",
+    "https://openalex.org/W2146411203",
+    "https://openalex.org/W2162484441",
+    "https://openalex.org/W2191211216",
+    "https://openalex.org/W2243234124",
+    "https://openalex.org/W2401834773",
+    "https://openalex.org/W2527811740",
+    "https://openalex.org/W2558199810",
+    "https://openalex.org/W2751643771",
+    "https://openalex.org/W2764314753",
+    "https://openalex.org/W2796361873",
+    "https://openalex.org/W3121420420",
+    "https://openalex.org/W3124601770",
+    "https://openalex.org/W3171467095",
+    "https://openalex.org/W4251637822",
+    "https://openalex.org/W4253177366",
+    "https://openalex.org/W7111465741"
+  ],
+  "related_works": [
+    "https://openalex.org/W2243234124",
+    "https://openalex.org/W1743461113",
+    "https://openalex.org/W2885282038",
+    "https://openalex.org/W6911187225",
+    "https://openalex.org/W3083974909",
+    "https://openalex.org/W3208217727",
+    "https://openalex.org/W7061976743",
+    "https://openalex.org/W4404974110",
+    "https://openalex.org/W2040525156",
+    "https://openalex.org/W4385078121"
+  ],
+  "abstract_inverted_index": {
+    "Abstract.": [
+      0
+    ],
+    "Education,": [
+      1
+    ],
+    "which": [
+      2,
+      43
+    ],
+    "is": [
+      3,
+      70
+    ],
+    "one": [
+      4
+    ],
+    "of": [
+      5,
+      9,
+      25,
+      31,
+      34
+    ],
+    "the": [
+      6,
+      23,
+      57,
+      73
+    ],
+    "important": [
+      7,
+      17
+    ],
+    "dynamics": [
+      8
+    ],
+    "human": [
+      10
+    ],
+    "capital": [
+      11
+    ],
+    "along": [
+      12
+    ],
+    "with": [
+      13
+    ],
+    "health,": [
+      14
+    ],
+    "plays": [
+      15
+    ],
+    "an": [
+      16
+    ],
+    "role": [
+      18
+    ],
+    "in": [
+      19,
+      51
+    ],
+    "this": [
+      20,
+      55
+    ],
+    "context.": [
+      21
+    ],
+    "Increasing": [
+      22
+    ],
+    "level": [
+      24
+    ],
+    "success": [
+      26
+    ],
+    "comes": [
+      27
+    ],
+    "through": [
+      28
+    ],
+    "higher": [
+      29
+    ],
+    "standards": [
+      30
+    ],
+    "education,": [
+      32
+    ],
+    "recruitment": [
+      33
+    ],
+    "qualified": [
+      35
+    ],
+    "workers,": [
+      36
+    ],
+    "better": [
+      37
+    ],
+    "employment": [
+      38
+    ],
+    "opportunities": [
+      39
+    ],
+    "and": [
+      40,
+      49,
+      62
+    ],
+    "increased": [
+      41
+    ],
+    "earnings": [
+      42
+    ],
+    "are": [
+      44
+    ],
+    "significant": [
+      45
+    ],
+    "contributors": [
+      46
+    ],
+    "to": [
+      47
+    ],
+    "growth": [
+      48,
+      64
+    ],
+    "prosperity": [
+      50
+    ],
+    "OECD": [
+      52,
+      68
+    ],
+    "countries.": [
+      53
+    ],
+    "In": [
+      54
+    ],
+    "study,": [
+      56
+    ],
+    "relationship": [
+      58
+    ],
+    "between": [
+      59
+    ],
+    "educational": [
+      60
+    ],
+    "expenditures": [
+      61
+    ],
+    "economic": [
+      63
+    ],
+    "for": [
+      65
+    ],
+    "19": [
+      66
+    ],
+    "selected": [
+      67
+    ],
+    "countries": [
+      69
+    ],
+    "analysed": [
+      71
+    ],
+    "using": [
+      72
+    ],
+    "panel": [
+      74
+    ],
+    "data": [
+      75
+    ],
+    "method.": [
+      76
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7133539646",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2026-03-05T00:00:00"
+}

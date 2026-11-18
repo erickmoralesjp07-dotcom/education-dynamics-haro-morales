@@ -1,0 +1,395 @@
+================================================================================
+SCREENING_ID: SCR-0026
+TITLE: Scientific Literacy and Socio-Educational Inequality: The Philippines in Comparative Perspective Across PISA Results
+DECISION_AT_SCREENING: Unclear
+WORD_COUNT: 6531
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+24: examined Philippine science performance across the 2018, 2022, and 2025 PISA cycles and
+26: comparative secondary -data and policy -document analyses, the study examined mean
+55: Comparative Perspective Across PISA 2018, 2022, and 2025 . Ennoia Advances in Social
+80: The Philippines first participated in PISA in 2018 and obtained a mean science score
+87: Philippine science performance remained largely unchanged in PISA 2022. The
+95: PISA 2025, in which science was the principal assessment domain, recorded the
+111: participants still performed below baseline proficiency. The country ranked 77th among
+133: students (Cal leja et al., 2023; De Jesus & Vinoya, 2025; Yolim et al., 2026).
+139: participate in science - and technology -related matters. PISA 2025 therefore provides a
+144: educational conditions, but policy lessons require contextual interpretation. In PISA 2025,
+168: cycles. Examining PISA 2018, 2022, and 2025 together offers an opportunity to distinguish
+172: Accordingly, this study compared Philippine science performance across PISA 2018,
+185: quantitative phase examined Philippine science performance across PISA 2018, 2022, and
+196: drawn from publicly available PISA databases, technical reports, country notes, and
+202: international benchmarks. PISA sampling weights, replicate weights, standard errors,
+204: estimates or comparisons were derived from the international databases (OECD, 2019,
+220: magnitude and direction of performance gaps. Trends from 2018 to 2025 were examined
+222: improvement . Where disaggregated data were available, performance patterns were
+225: interpreted cautiously because PISA data are observational and cross -sectional and
+250: a side -by-side comparison and an explanatory joint matrix. PISA score trends and
+271: www.ennoia -asste.org Because the study analyzed publicly accessible secondary data and documents
+278: 3.1. Philippine Science Performance Across PISA 2018, 2022, and 2025
+280: the country’s mean science scores with the corresponding OECD averages across PISA
+283: Figure 1. Philippine Science Performance Relative to the OECD Average, PISA 2018 –2025
+376: PISA 2025. Despite this improvement, the country remained 109 points below the OECD
+451: www.ennoia -asste.org In PISA 2022, 36% of Filipino participants belonged to the lowest international
+459: Figure 6. Selected Structural Indicators Among Filipino Students, PISA 2022
+475: Filipino students’ learning dispositions in PISA 2025.
+486: www.ennoia -asste.org Figure 7. Filipino Students’ Learning Dispositions, PISA 2025
+669: Philippine data. International Journal of School & Educational Psychology, 9 (2), 208 –
+718: methods designs: Principles and practices. Health Services Research, 48 (6, Part 2),
+740: results: Country note, Philippines . https://www.oecd.org/en/publications/pisa -2022 -
+744: database . https://www.oecd.org/en/data/datasets/pisa -2022 -database.html
+754: https://www.oecd.org/en/publications/pisa -2025 -results -volume -i-country -
+792: 32. World Bank. (2020). PISA 2018 country report: Philippines . World Bank Group.
+
+================================================================================
+SCREENING_ID: SCR-0028
+TITLE: The Century of Education
+DECISION_AT_SCREENING: Include
+WORD_COUNT: 34003
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+68: Missing data on schooling enrolment 10
+71: Missing data on schooling enrolment 13
+154: Early enrolment data were taken from Lindert (2004) for many European countries.
+158: voted to a discussion of this issue. In particular, we ﬁnd that missing data can generate
+189: the data. A robustness analysis follows, then we explain how we merged the two data
+370: We introduce the problem of missing data for those two sets of variables.
+411: 3.2 Missing Data on Schooling Enrolment
+417: In order to treat this problem, we used data given by Lindert (2004) on total enrol-
+473: neighbour country. In the robustness analysis section, we show that this imputation has
+506: In this section we test whether missing data and unobserved distributions of schooling
+508: 4.1 Missing Data on Schooling Enrolment
+544: 1900, 1930 and 1960. In 1870, missing data can generate sizeable but still reasonable
+550: measurement error linked to missing initial data has almost completely shrinked as it
+580: Summing up, missing data generate measurement errors that are signiﬁcant in 1870,
+586: The second robustness experiment addresses the sensitivity of data with respect to the
+654: As a sum, missing data on initial enrolment affect schooling estimates at the be-
+664: 1960 because we believe that Cohen-Soto data set, drawing heavily on surveys, does
+680: this leaves us with 5 series for 82 countries common to our data set and Cohen-Soto.
+684: surveys for 62 countries over 82 and similar inventory methods for the remaining 20.
+701: As a sum, our ﬁnal sample has 82-7-1=74 countries; among those, we have a sam-
+777: Regarding the historical data set, the former robustness analysis section mentions
+839: errors in the historical sample due to data construction, as well as with a direct test of
+941: 22Lutz et al. (2007) construct a database on education 1970-2000 with backward projection methods. They
+945: 23As explained above 18 countries use constructed data in Cohen-Soto sample. Whether we include or
+1002: Those latter 54 countries constitute the “core” data set, the ﬁnal sample for which
+1011: this sample, and growth regressions derived from this uniﬁed sample are likely to offer
+1014: Among the ﬁnal sample of 74 countries, there are 74-54=20 countries excluded from
+1263: istics. Also, panel data should be used rather than cross-section regressions32.
+1333: education database, which starts in 1870 and pertains to a large sample of countries,
+1382: missing data on total enrolment, age pyramids, dropout rates or duration of primary
+1399: a sub-sample of countries, we ﬁnd evidence of fast absolute convergence in years of
+1422: Restrictions in Dynamic Panel Data Models”. J. Econometrics 87:115-43.
+1663: Figure 4: Pseudo-Standard Error of Average Schooling Generated by Missing Data
+1986: We describe in the following table the ﬁnal sample of countries (74 countries) and the
+2183: lence. For 2010 we used the absolute increase in years of schooling given by
+
+================================================================================
+SCREENING_ID: SCR-0030
+TITLE: Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results
+DECISION_AT_SCREENING: Include
+WORD_COUNT: 9701
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+57: with an extended representative sample of their population1: Andalusia, Aragon, Asturias,
+62: Table 1. Average scores of Spanish regions and OECD countries in PISA 2006
+84: with a representative sample. In PISA 2009 the number of regions participating with a
+167: 59 According to these data, it is evident that behind the average score for Spain there are
+177: exploitation of the great amount of information provided by the PISA 2006 data set.
+183: PISA data set, are the most representative works.
+195: the analysis and interpretation of estimates (Hanushek et al. , 1996 ), individual data
+202: educational production and the methods used to measure students´ efficiency and detect
+250: methods are used (Callan and Santerre , 1990; Deller and Rudnicki , 1993; Chakraborty et
+268: 61 data. Actually, in some recent articles this approach has also been used with individual
+297: available data provide five plausible values extracted from the esti mated distribution of
+341: The sample used in this research comes from the PISA 2006 study. More precisely, the
+379: One of the main advantages of using PISA data is that this study does not evaluate
+389: students‘ performance, PISA also collects an extensive dataset on these variables through
+398: results are not expressed by only one value but by five denominated plausible values ,
+403: average results. For that reason, PISA 2006 used measures based on Rasch model (Rasch,
+419: different efficiency measures for each trio of plausible values have been calculated .
+421: variables in five second -stage regressions. It must be pointed out, that we use this
+432: finally, categ orical and binary variables that divide the sample into different subgroups
+452: 9 For a review of plausible values literature see Mislevy et al. (1992). For a concrete Studio of
+528: database ( Salinas and Santín , 2007; Zinovyeva et al. , 2008; Calero and Waigrais ,
+536: representative sample), taking the value one if the student belongs to a particular
+538: with the sample of students belonging to the remainder regions .
+544: plausible values. For the computation of these values, an output orientation DEA model
+551: Tobit estimations have been calculated ( one for each plausible value )14. The average of
+557: 13 This lack of significant differences among the different subsamples is confirmed
+561: 14 Estimations of regressions have also been carried out throu gh Tobit, reaching the same
+1419: Indonesia and Calero and Escardibul (2007) for Spain using different methods .
+1421: perform be tter in terms of efficiency than the students belonging the sample of the
+1429: determinants of educational achievement in different regions using the PISA 20 06 dataset
+1575: Performance? A Re -Examination Using PISA Data‖, Empirical Economics, 32(2), 433 -464.
+1630: samples‖, Psychometrika 56, Psychometric Society, Gre ensboro, pp, 177 -196.
+1647: OECD (2005): PISA 2003 Data Analysis Manual, SPSS users , Organisation for Economic Co -
+1673: Equity in Education? A Six -Country Comparison with PISA Data‖, Swiss Journal of Sociology , 29
+1678: Wu, M. and Adams, R . J. (2002): ―Plausible Values – Why They Are Important‖, International
+
+================================================================================
+SCREENING_ID: SCR-0035
+TITLE: Education–Technology–Economy Nexus: Empirical Evidence from Developing Countries
+DECISION_AT_SCREENING: Unclear
+WORD_COUNT: 3997
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+8: Porta Universorum (ISSN 3030 -2234) Original research article / Originalus mokslinis straipsnis
+13: Ibrahimov , 4 Nurid Mammadov Accepted: 01.10.2026
+15: https://doi.org/10.69760/portuni.2602000 4
+17: critical determinant of competitiveness and sustainable growth in developing countries. This study
+19: macroeconomic performance. Using multi -country panel data and indicators related to human
+23: growth. Countries that invest in human capital and digital transformation demonstrate higher
+29: Keywords: education, technology, economic growth, developing countries
+33: muxtarmammadov@ndu.edu.az . ORCID: https://orcid.org/0009 -0000 -6538 -498X
+35: sevgializade148@gmail.com . ORCID: https://orcid.org/0009 -0003 -8200 -2770
+37: ekber.ibrahimli@ndu.edu.az . ORCID: https://orcid.org/0009 -0003 -5741 -0780
+97: Porta Universorum (ISSN 3030 -2234) technologies. Developing countries that invest strategically in education reform, digital
+152: strategies, particularly in developing countries (OECD, 2021; UNCTAD, 2020). Policie s aimed at
+179: This study employs a multi -country panel approach to empirically investigate the complex and
+181: countries. By adopting a panel data methodology, the research captu res both temporal dynamics and
+192: over time. Unlike single -country or cross -sectional studies, the panel approach enables the
+195: environments, and socio -economic contexts.The analysis draws on a comprehensive dataset compiled
+199: (UNCTAD) datasets, the World Economic Forum Global Competitiveness reports, and specialized
+201: data from these diverse sources, the study captures a wide spectrum of factors affecting the education –
+205: economics to guide the selection of variables, model specification, and econometric analysis.
+210: to control for unobserved heterogeneity, potential endogeneity, and time -invariant country -specific
+212: causal and correlational links between education, technology, and economic outcomes in developing
+218: The empirical model incorporates the following core variables:
+223: The panel data approach provides a powerful methodological framework for analyzing complex
+244: country dimensions, the methodology allows researchers to distinguish between short -term
+251: 2025b) further demonstrate how panel data models can reveal the long -term effects of human capital
+253: studies highlight the versatility of the panel data approach in capturing both cross -sectional
+255: development planning.In addition, the us e of panel data allows for the application of advanced
+257: strengthen causal inference and address potential endogeneity issues. This is particularly important
+260: By leveraging the strengths of the panel data framework, this study aims to pr ovide a comprehensive
+289: term economic development (Rodrigue, 2020; World Economic Forum, 2022). For example, countries
+296: Such limitations can impede knowledge transfer, reduce incentives for innovation, and slow the
+347: Bank, 2019; UNCTAD, 2020).Furthermore, the study highlights the need for future research to
+354: based economic model s represent important areas for empirical investigation. As developing countries
+379: Porta Universorum (ISSN 3030 -2234) Alizada, T., & Ibrahimov, A. (2026). Smart logistics corridors and international trade efficiency: A multicountry
+406: World Bank. (2019). Doing business 2019: Training for reform – Trading across borders .
+
+================================================================================
+SCREENING_ID: SCR-0038
+TITLE: Improving the estimation of educational attainment: New methods for assessing average years of schooling from binned data
+DECISION_AT_SCREENING: Include
+WORD_COUNT: 12718
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+33: {q�ms{{wtzr. �t�s kyontkz o~~{~ {q/317; �ok~�1 \st� oqqom� t�o�|omtkww� |~{z{�zmon tznk�k/
+39: k��ktzyoz� {q315: �ok~�. m{y|k~on �{31=5 �ok~� q{~�so��kznk~n n�~k�t{z kwr{~t�sy1
+43: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< 4249k4444444444
+49: It�k�t{z> L~tonykz Q.M~ko�� U.Mkvtn{� K*534<+
+53: *44+> o353<34=1 s��|�>22n {t1{~r243146;42u {�~zkw1
+60: I{|�~trs�> ©534< L~tonykz o�kw1\st�t�kz{|oz
+111: nk~n n�~k�t{z {q€ms{{w m{y|wo�on lÞ|o{|wo qtzt€stzr �soithwo�ow. k€€ooz low{Ð tzK}41
+132: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< 5249|~{�tno~ sk�k��~ktrs�q{~ �k~n ~ort��~k�t{ z|~{mo��
+176: l{�s €tzrwo/Þok~ *zB4.94<+ kzn ltzzon *zB4:5+ q{~yk�€ *€oo \klwo 4q{~k€�yyk~Þ lÞnk�k
+201: s��|�>22n {t1{~r243146;42u {�~zkw1|{z o1353<34=1�33 4
+203: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< 6249
+227: tzr�sk� �soqtzkw o€�tyk�o€ Ðtwwknn�|�{433& {q�soltz{qon�mk�t{zkw k��ktzyoz� lotzr kww{/
+232: {q|~{|{~�t{z€ Ðt�stz okms ltz1 \so y{now t€€s{Ðz tzK}51
+239: zo€�on Ðt�stz5r~kzn{y tz�o~mo|�€ q{~okms ~ort{z �€on tz�soMw{lkw G�~noz {qJt€ok€o 5346
+250: ~ort{z r~{�|tzr€ o€�klwt€son lÞ�soMw{lkw G�~noz {qJt€ok€o 5346 €��nÞ d54f1 Jk�k q~{y �so
+253: U�ylo~ {qGtz€ 9 : ; < = 43 45 46 47 49 4; 4< \{�kw
+256: s��|�>22n{ t1{~r243146;42u {�~zkw1|{zo 1353<34=1�335
+258: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< 7249
+266: €|kmo kzn �tyo nt€�kzmo€ k~om{yltzon �€tzr �solow{Ð q{~y�wk. €s{Ðz tzK}61
+277: Ðt�stz okms ltz/Þok~ �€tzr �so€ty|wo q{~y�wk €s{Ðz low{Ð tzK}71
+306: �t�owÞ jvz{mv/{��) okms 43& €om�t{z {q�sonk�k lÞ~kzn{ywÞ €owom�tzr kzn k||wÞtzr kltzztzr
+316: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< 9249
+325: tz14tzm~oyoz�€. k€Ðoww k€ η�kw�o€ {q4.5.7.:.<.45.4:.53.73.: 3kzn <31
+346: kwwltz/€|wt��tzr y{now€1 \so €�kznk~n n�~k�t{z y{now €s{Ðon kyontkz o~~{~ {q/317; Þok~€.
+352: o€�ZT[K. tzl{�s yokz Þok~€ {q€ms{{wtzr *315: k€m{y|k~on �{31=5 q{~�so€�kznk~n n�~k�t{z
+364: [|kmo/\ty oJt€�kzmo 315:34 315<:4 D313334 /3133=3
+366: [�kznk~n J�~k�t{z 31=569 31:446 /317:<6 314736
+368: s��|�>22n{ t1{~r243146;42u {�~zkw1|{zo 1353<34=1�336
+370: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< :249
+384: k��ktzyoz�. ~kzrtzr q~{y kzZT[K {q3145 Þok~€ q{~49˘4< ltz€ �{3165 Þok~€ q{~:ltz€1 F€�so
+388: ltz€. Ðt�s kzZT[K ~kzrtzr q~{y 3147 q{~49˘4< ltz€ �{316: q{~:ltz€. Ðstwo �sozo€�on
+397: s��|�>22n{ t1{~r243146;42u {�~zkw1|{zo 1353<34=1r33 4
+399: WSV[ VUK �s��|�>22n{t1{~ r243146; 42u{�~zkw1|{ zo1353<3 4= U{�oylo~ 5=.534< ;249
+407: yontkz o~~{~ �kw�o {q31334. k€m{y|k~on �{314= q{~�sozo€�on ytðon oqqom�€ y{now. kzn 4143
+412: <˘46 ltz€. kzn 315: q{~�sozo€�on ytðon oqqom�€ y{now k�7˘9ltz€1 \so €�kznk~n n�~k�t{z
+
+================================================================================
+SCREENING_ID: SCR-0040
+TITLE: Panel estimation for the relationship between education expenditure and economic growth for OECD countries
+DECISION_AT_SCREENING: Include
+WORD_COUNT: 6177
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+28: Educational expenditures, growth, panel data analysis.DOI: 10.23762/FSO_ vOL6NO2_18_1
+42: a panel data analysis” .The concept of education is defined as
+109: -2012. The panel data method was used as
+223: and dataMethodology Empirical findings
+293: Robustness ChecksFound that public education expendi -
+338: Chandra 2011 India 1951-2009Granger Causality
+535: turePanel Data AnalysisAccording to Pedroni’s cointegration
+618: models based on annual data for the pe -
+620: panel data consisting of time series or the
+625: tional form of panel data econometrics is
+629: panel data econometrics, t shows the time
+636: In panel data econometrics, the next step
+638: time series data to the panel system - is to
+642: The fixed effects model creates a different
+644: the fixed effects model, it is assumed that
+651: pendent fixed effect models. If a differen -
+654: labelled as two-way fixed effects models.
+657: data studies, panel data models are gen -
+659: 2002). One-way and two-way fixed effects
+668: effects model, the fixed effects estimator allows the fixed constant to differ across
+685: effects model over the fixed effects model is that, without any loss of degree of free -
+712: explain the random effects model (Özer
+748: (1974), a regression analysis between the
+752: before performing the regression analysis. Studies conducted by Levin and Lin (1992,
+756: use of unit root tests in panel data models.
+758: root tests in studies in whichpanel data
+777: The panel data unit root test results for
+890: In the next stage, panel data regression
+893: whether the fixed effects model or the random effects model was valid for the 19
+895: the Hausman Test, the fixed effects model
+899: method was used in panel data regression
+901: Table 6. Fixed effects panel data regression estimation results
+942: fixed effects model or the random-effects
+946: ported that the fixed effects model yielded
+1089: panel data: asymptotic and finite sample
+
+================================================================================
+SCREENING_ID: SCR-0041
+TITLE: The Intraclass Correlation Coefficient as a Measure of Educational Inequality: An Empirical Study with Data from PISA 2018
+DECISION_AT_SCREENING: Include
+WORD_COUNT: 19763
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+36: conditional multilevel models for 79 PISA 2018 participating countries and meta-analyzed the results.
+99: Multilevel regression models can be utilized to investigate the impact of school differences on student
+123: schools within each PISA-participating country and comparing the results with a Türkiye speci c model
+171: and students is very inclusive, so the sample of students comes from a wide range of backgrounds and
+175: of internationally comparable grade levels (OECD, 2019). Overall, in our study we used PISA data due to
+196: from PISA 2006 and evidence from a sample of 15-year-old students from more than 50 countries,
+211: factor associated with the achievement gap. In addition, Cobb-Clark et al. (2012), using PISA 2009 data,
+281: However, this advantage of the cross-country comparative approach also brings some limitations.
+324: data structure, or in general the complex structure of data sets (e.g., plausible values, weights) were not
+328: mathematics performance in the PISA 2018 dataset. Due to the complex structure of the PISA data,
+330: values in the PISA technical report (OECD, 2019) to ensure a similar methodological approach.
+334: all countries were included in the multilevel model, and conditional ICC values were calculated. When the
+361: In this study, data sets of 79 out of 80 countries participating in the PISA 2018 cycle were used, Vietnam
+363: students, teachers, school administrators and parents through surveys. The data obtained with the help
+414: into 79x10=790 data sets in total, with one plausible value in each. Two-level model Mplus (Muthen &
+418: The multiple imputation method (as recommended by OECD, 2009) was used to combine the results from
+421: model, and plausible values and student and school level sample weights were used in the analysis. With
+432: missing data, full information maximum likelihood (FIML) was utilized as suggested by Hox et al.,
+435: stated that when dummy predictors were added to the model and the missing data was dealt with the
+449: Page 12/43The data set for the meta- analyses included conditional ICCs, school sample size and 12 moderator
+453: to address missing data. Speci cally, we used escalc function to transform ICC values to Fisher’s z by
+480: Variables in the multilevel model built for all countries
+483: plausible values (Laukaityte & Wiberg, 2017; OECD, 2009; Rubin, 1987; Rutkowski et al., 2010). PISA
+500: Considering all students who answered this item in the PISA 2018 data set, 67% of the students reported
+513: generation and  rst generation. Considering all students in the PISA 2018 data set, 88% were native, 6%
+601: is an indicator of how fast a country is growing (World Bank Open Data, 2018). The data was provided by
+662: Stratum as School's Academic Type (STRATUM): The school sample for Türkiye in PISA 2018 was
+837: 2018 school level data set and do not contain missing data for all observations, were included in the
+1157: educational performance through multilevel modeling using PISA 2003 data. They found that student
+1252: and 2009 PISA data and reported consistent  ndings, students in Science and Anatolian High Schools
+1319: For this reason, a country speci c multilevel model was created for Türkiye.
+1381: this study. There are unsubstantial limitations for our analyses, for example our models did not include
+1394: and discussion). GC contributed to multilevel data-analysis and writing (particularly methods and
+1420: 5. Anderson, J., Milford, T., & Ross, S. (2009). Multilevel modeling with HLM: Taking a second look at
+1582:  1. Muthen, L. K. (2015, September 9). Mplus Discussion. Missing Data with Categorical Variables.
+
+================================================================================
+SCREENING_ID: SCR-0042
+TITLE: The Link between Structural Quality Indicators in Pre-primary and PISA Science Literacy Skills: A Cross-Country Comparison
+DECISION_AT_SCREENING: Include
+WORD_COUNT: 12629
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+33: countries' adult literacy rates, and income per capita. The relational survey model which is one of the
+316: childhood education (Sahlberg, 2018). For the same reason, one of the most popular methods
+361: Therefore, the present study used PISA data to identify the education systems that must be
+391: OECD countri es. In the cross -county comparison, 15 -years data set (between 2000 -2015
+395: through multiple regression analysis. In this analysis, panel data set was used to organize the
+428: Weighted data from PISA 2000, 2003, 2006, 2009, 2012, and 2015 was used as a
+431: conducted with countries’ PISA scores with any other statistical procedure (OECD, 20 09).
+435: regression analysis was conducted through panel dataset because this method has more
+440: The sample employed in the current study included 33 OECD and non -OECD
+442: To investigate the research question, the multiple regression analysis was conducted with 33
+445: across time were organized as a time series data. Since, PISA science scor es should match
+457: 2015 PISA asses sment terms. Multiple regression analysis was used to analyze the data, in
+474: participants are selected by using multisampling methods in PISA assessment. In a country,
+481: country level and decided to go back 1 0 years ago. Additionally, during the sample selection
+483: observation (Statistics Canada, 2013). For the analysis of the data, level of significance ( p-
+489: of the country. That is why the sample correlation was zero between independent variables.
+494: Furthermore, the scatter plots of regression analysis showed that the data to be perfectly
+500: All 33 OECD and non -OECD countries that participated in the PISA were selected
+516: econo mic and educational conditions in 2005, which is the last year in the dataset and
+638: 1990 -2005 and PISA success for the years 2000 -2005, retrospective data were us ed, and these
+641: Table 2. ANOVA Table for Whole Model (from 2000 to 2015 PISA years)
+651: model, F (8, 192) = 45.62 , p < 0.00, R2 = 0.65, and for regression as a whole, p=0.00 (Table
+653: specified. The total variance explained by the model was 65%, which is highly respectable.
+655: Table 3. The Results of Regression Analysis for Country Comparison
+676: the conditions of the countries analyzed (Table 3). According to this model and analysis, the
+678: led to an increase of 62.86 p oints in the PISA score in science literacy for whole countries
+682: variables in the model was accounted for. As indicators, adult literacy rate (β= 0.41), income
+767: sampled in the current study had differing pupil -teacher ratios (Table 1); while t hey were
+816: countries. However, Turkey fails in this respect. According to the World Bank data sourc e
+873: Galiani and Manacorda (2007) reached the same conclusion, and also st ated that the test
+900: Taylor, 2002; Jabor et al., 2011), so adult literacy is one of the variables in the model that
+905: level and occupation in a sample of 8 -year-old children and their parents. Using socio -
+1205: uk/government/uploads/system/uploads/a ttachment_data/file/212564/DFE -RR269.pdf.
+1231: Robson, S. (2009) Producing and using video data in th e early years: ethical questions and
+1249: Turkish Statistical Institute (TUİK). (2015). Statistics in Education [Data file]. Retrieved from
+
+================================================================================
+SCREENING_ID: SCR-0044
+TITLE: Socioeconomic Inequalities in Reading Literacy and Learning-Related Characteristics: Evidence from PISA 2022
+DECISION_AT_SCREENING: Unclear
+WORD_COUNT: 7288
+SELECTED_EVIDENCE_LINES: 35
+================================================================================
+
+10: Learning -Related Characteristics: Evidence from PISA 2022
+24: standards, incorporati ng plausible values and sampling weights. Results indicate that SES is positively
+32: Keywords: Socioeconomic status, reading literacy, PISA 2022, learning characteristics, cross -economy
+41: these disparities across economies and over time. Analyses of PISA data consistently show that
+46: students’ engagement with schooling ( Broer & Bai, 2019 ).
+73: status and reading literacy using data from the 2022 cycle of PISA. Focusing on student samples from
+120: emotional well -being ( Tan, 2024 ). These associations often emerge early in life and tend to persist
+133: stronger academic performance ( Sirin, 2005 ; Bradley, 2002 ). In contrast, students from lower SES
+140: cultural practices playing particularly salient roles ( Ren et al., 2022 ). Students with higher reading
+181: and examines how they are associated with reading literacy alongside SES. Using PISA 2022 data from
+203: students are more likely to overestimate their level of understanding ( Isaacson & Fujita, 2006 ). Koriat
+215: their reading behaviors accordingly ( Roebers & Spiess, 2017 ). Students who report higher levels of
+232: frameworks such as the Academic Learning Time (ALT) model emphasize that learning outcomes are
+289: and reading literacy across ten Asian economies using PISA 2022 data.
+318: Fig. 1 presents the analytical framework of this study. The model illustrates the association
+322: the model does not assume any causal ordering or mediating relationships among them. Instead, it
+325: This study focuses on student samples from ten Asian economies participating in PISA 2022,
+330: literacy emerge across diverse sociocult ural environments. Given differences in data availability for
+342: Development (OECD). The analytical sample includes 15 -year-old students from ten Asian economies:
+346: context comparability. In PISA 2022, some Asian economies exhibit a certain degree of missingness
+350: After data cleaning, the final analytical sample comprised 52,392 students from ten economies,
+352: 3,425; MYS: 4,646; SGP: 4,961; TAP: 4,234; THA: 5,573). At the i ndividual level, cases with missing
+354: were excluded. In this study, “complete data” refers to cases with no missing values on these core
+357: All data processing and analyses follow the PISA technical guidelines issued by the OECD to
+401: Reading literacy is measured using the ten plausible values provided by PISA 2022 (PV1READ –
+403: plausible value, and the results are then combined. The analyses a pply the final student weight to
+406: The model is specified to represent the association between SES and reading literacy, as well as
+411: is on comparing patterns of association across economies rather than model fit, interpretation is based
+418: based analytical procedure incorporating ten plausible values fo r reading, final student weights, and
+461: To assess the potential impact of missing data, the distributions of ESCS and reading scores
+463: overall distributions(Cohen's d < 0.1), suggesting that sample sel ection is unlikely to substantially
+467: This study draws on PISA 2022 data from ten Asian economies to examine the association
+533: This study also has several limitations. First, the variables are primarily based on students’ self -
+601: a structural model. Contemporary Educational Psychology, 20(3), 257 –274
+720: values of reading literacy, the final student weight, and 80 replicate weights.

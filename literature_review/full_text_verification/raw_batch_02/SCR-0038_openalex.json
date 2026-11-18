@@ -1,0 +1,1705 @@
+{
+  "id": "https://openalex.org/W2902999802",
+  "doi": "https://doi.org/10.1371/journal.pone.0208019",
+  "title": "Improving the estimation of educational attainment: New methods for assessing average years of schooling from binned data",
+  "display_name": "Improving the estimation of educational attainment: New methods for assessing average years of schooling from binned data",
+  "alternate_titles": [],
+  "publication_year": 2018,
+  "publication_date": "2018-11-29",
+  "ids": {
+    "openalex": "https://openalex.org/W2902999802",
+    "doi": "https://doi.org/10.1371/journal.pone.0208019",
+    "mag": "2902999802",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/30496312",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/6264843"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1371/journal.pone.0208019",
+    "doi": "https://doi.org/10.1371/journal.pone.0208019",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0208019",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208019&type=printable",
+    "source": {
+      "id": "https://openalex.org/S202381698",
+      "display_name": "PLoS ONE",
+      "issn_l": "1932-6203",
+      "issn": [
+        "1932-6203"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "dongbi-c",
+        "doyens",
+        "erih-plus",
+        "jufo-1",
+        "ki-jl-1",
+        "medline",
+        "norway-1",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS ONE",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W2902999802"
+  ],
+  "child_works_count": 12,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208019&type=printable",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5040264565",
+        "display_name": "Joseph R. Friedman",
+        "orcid": "https://orcid.org/0000-0002-5225-3267",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-5225-3267"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161318765",
+          "display_name": "University of California, Los Angeles",
+          "ror": "https://ror.org/046rm7j60",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161318765"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I201448701",
+          "display_name": "University of Washington",
+          "ror": "https://ror.org/00cvxb145",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I201448701"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3143470655",
+          "display_name": "Institute for Health Metrics and Evaluation",
+          "ror": "https://ror.org/02684h094",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I3143470655"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Joseph Friedman",
+      "raw_affiliation_strings": [
+        "David Geffen School of Medicine at University of California, Los Angeles, CA, United States of America",
+        "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, United States of America"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5225-3267",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "David Geffen School of Medicine at University of California, Los Angeles, CA, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I161318765"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I201448701",
+            "https://openalex.org/I3143470655"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067637394",
+        "display_name": "Nicholas Graetz",
+        "orcid": "https://orcid.org/0000-0002-4362-2059",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-4362-2059"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I201448701",
+          "display_name": "University of Washington",
+          "ror": "https://ror.org/00cvxb145",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I201448701"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3143470655",
+          "display_name": "Institute for Health Metrics and Evaluation",
+          "ror": "https://ror.org/02684h094",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I3143470655"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicholas Graetz",
+      "raw_affiliation_strings": [
+        "Department of Demography, University of Pennsylvania, Philadelphia, PA, United States of America",
+        "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, United States of America"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Demography, University of Pennsylvania, Philadelphia, PA, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I79576946"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I201448701",
+            "https://openalex.org/I3143470655"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5037038907",
+        "display_name": "Emmanuela E. Gakidou",
+        "orcid": "https://orcid.org/0000-0002-8992-591X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8992-591X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I201448701",
+          "display_name": "University of Washington",
+          "ror": "https://ror.org/00cvxb145",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I201448701"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3143470655",
+          "display_name": "Institute for Health Metrics and Evaluation",
+          "ror": "https://ror.org/02684h094",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I3143470655"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emmanuela Gakidou",
+      "raw_affiliation_strings": [
+        "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, United States of America"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I201448701",
+            "https://openalex.org/I3143470655"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5040264565"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I161318765",
+    "https://openalex.org/I201448701",
+    "https://openalex.org/I3143470655"
+  ],
+  "apc_list": {
+    "value": 2382,
+    "currency": "USD",
+    "value_usd": 2382
+  },
+  "apc_paid": {
+    "value": 1390,
+    "currency": "EUR",
+    "value_usd": 1499
+  },
+  "fwci": 2.1589,
+  "has_fulltext": true,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.88160083,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 86,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "11",
+    "first_page": "e0208019",
+    "last_page": "e0208019"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11539",
+    "display_name": "Survey Methodology and Nonresponse",
+    "score": 0.1784999966621399,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11539",
+      "display_name": "Survey Methodology and Nonresponse",
+      "score": 0.1784999966621399,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13546",
+      "display_name": "Census and Population Estimation",
+      "score": 0.11800000071525574,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2613",
+        "display_name": "Statistics and Probability"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14509",
+      "display_name": "demographic modeling and climate adaptation",
+      "score": 0.0723000019788742,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3305",
+        "display_name": "Geography, Planning and Development"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.9760000109672546
+    },
+    {
+      "id": "https://openalex.org/keywords/mean-years-of-schooling",
+      "display_name": "average years of schooling",
+      "score": 0.9919999837875366
+    },
+    {
+      "id": "https://openalex.org/keywords/measurement-bias",
+      "display_name": "measurement bias",
+      "score": 0.6539999842643738
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-indicators",
+      "display_name": "education indicators",
+      "score": 0.546999990940094
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.7111888527870178
+    },
+    {
+      "id": "https://openalex.org/C18747219",
+      "wikidata": "https://www.wikidata.org/wiki/Q620994",
+      "display_name": "Standard error",
+      "level": 2,
+      "score": 0.6730424761772156
+    },
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.6642770767211914
+    },
+    {
+      "id": "https://openalex.org/C96250715",
+      "wikidata": "https://www.wikidata.org/wiki/Q965330",
+      "display_name": "Estimation",
+      "level": 2,
+      "score": 0.6137044429779053
+    },
+    {
+      "id": "https://openalex.org/C139945424",
+      "wikidata": "https://www.wikidata.org/wiki/Q1940696",
+      "display_name": "Mean squared error",
+      "level": 2,
+      "score": 0.5822709202766418
+    },
+    {
+      "id": "https://openalex.org/C176217482",
+      "wikidata": "https://www.wikidata.org/wiki/Q860554",
+      "display_name": "Metric (unit)",
+      "level": 2,
+      "score": 0.566132128238678
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.5205574631690979
+    },
+    {
+      "id": "https://openalex.org/C22679943",
+      "wikidata": "https://www.wikidata.org/wiki/Q159375",
+      "display_name": "Standard deviation",
+      "level": 2,
+      "score": 0.491416335105896
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.47373902797698975
+    },
+    {
+      "id": "https://openalex.org/C112758219",
+      "wikidata": "https://www.wikidata.org/wiki/Q16038819",
+      "display_name": "Duration (music)",
+      "level": 2,
+      "score": 0.44264355301856995
+    },
+    {
+      "id": "https://openalex.org/C19619285",
+      "wikidata": "https://www.wikidata.org/wiki/Q196372",
+      "display_name": "Observational error",
+      "level": 2,
+      "score": 0.43651509284973145
+    },
+    {
+      "id": "https://openalex.org/C52130261",
+      "wikidata": "https://www.wikidata.org/wiki/Q39825",
+      "display_name": "Census",
+      "level": 3,
+      "score": 0.4277505874633789
+    },
+    {
+      "id": "https://openalex.org/C2776502983",
+      "wikidata": "https://www.wikidata.org/wiki/Q690182",
+      "display_name": "Contrast (vision)",
+      "level": 2,
+      "score": 0.42410939931869507
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.3974408805370331
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.3875434398651123
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2704273462295532
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.07984578609466553
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.07878908514976501
+    },
+    {
+      "id": "https://openalex.org/C124952713",
+      "wikidata": "https://www.wikidata.org/wiki/Q8242",
+      "display_name": "Literature",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C187736073",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+      "display_name": "Management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000076363",
+      "descriptor_name": "Academic Success",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003627",
+      "descriptor_name": "Data Interpretation, Statistical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004493",
+      "descriptor_name": "Education",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004522",
+      "descriptor_name": "Educational Status",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005544",
+      "descriptor_name": "Forecasting",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015233",
+      "descriptor_name": "Models, Statistical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015982",
+      "descriptor_name": "Bias",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019352",
+      "descriptor_name": "Censuses",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 7,
+  "locations": [
+    {
+      "id": "doi:10.1371/journal.pone.0208019",
+      "doi": "https://doi.org/10.1371/journal.pone.0208019",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0208019",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208019&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:5268124",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6264843",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmid:30496312",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/30496312",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PloS one",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:6264843",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6264843/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS One",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:RePEc:plo:pone00:0208019",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208019",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:7014e2a8507f47e1a19ad24deccca67f",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/7014e2a8507f47e1a19ad24deccca67f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS ONE, Vol 13, Iss 11, p e0208019 (2018)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/7401848",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/dataset/Improving_the_estimation_of_educational_attainment_New_methods_for_assessing_average_years_of_schooling_from_binned_data/7401848",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Dataset"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1371/journal.pone.0208019",
+    "doi": "https://doi.org/10.1371/journal.pone.0208019",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0208019",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208019&type=printable",
+    "source": {
+      "id": "https://openalex.org/S202381698",
+      "display_name": "PLoS ONE",
+      "issn_l": "1932-6203",
+      "issn": [
+        "1932-6203"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "dongbi-c",
+        "doyens",
+        "erih-plus",
+        "jufo-1",
+        "ki-jl-1",
+        "medline",
+        "norway-1",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS ONE",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.9235000014305115,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    },
+    {
+      "score": 0.4000000059604645,
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities"
+    }
+  ],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G9000900462",
+      "display_name": "Graduate Training in Demography",
+      "funder_award_id": "T32HD007242",
+      "funder_id": "https://openalex.org/F4320337611",
+      "funder_display_name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320315116",
+      "display_name": "Institute for Health Metrics and Evaluation",
+      "ror": "https://ror.org/02684h094"
+    },
+    {
+      "id": "https://openalex.org/F4320337611",
+      "display_name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "ror": "https://ror.org/04byxyr05"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2902999802.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2902999802.grobid-xml"
+  },
+  "referenced_works_count": 43,
+  "referenced_works": [
+    "https://openalex.org/W16466227",
+    "https://openalex.org/W116861775",
+    "https://openalex.org/W1493573584",
+    "https://openalex.org/W1514669059",
+    "https://openalex.org/W1523735555",
+    "https://openalex.org/W1554248266",
+    "https://openalex.org/W1603903339",
+    "https://openalex.org/W1889296598",
+    "https://openalex.org/W1897436286",
+    "https://openalex.org/W1945056586",
+    "https://openalex.org/W1978576085",
+    "https://openalex.org/W1982680947",
+    "https://openalex.org/W1983846402",
+    "https://openalex.org/W1989875465",
+    "https://openalex.org/W1994998176",
+    "https://openalex.org/W2018611511",
+    "https://openalex.org/W2019403329",
+    "https://openalex.org/W2021668056",
+    "https://openalex.org/W2034498875",
+    "https://openalex.org/W2042506099",
+    "https://openalex.org/W2054584201",
+    "https://openalex.org/W2055629054",
+    "https://openalex.org/W2062860062",
+    "https://openalex.org/W2062968061",
+    "https://openalex.org/W2063053632",
+    "https://openalex.org/W2068893248",
+    "https://openalex.org/W2078961342",
+    "https://openalex.org/W2091925660",
+    "https://openalex.org/W2102262529",
+    "https://openalex.org/W2112081648",
+    "https://openalex.org/W2115743615",
+    "https://openalex.org/W2125065061",
+    "https://openalex.org/W2136007084",
+    "https://openalex.org/W2136072582",
+    "https://openalex.org/W2166604768",
+    "https://openalex.org/W2168630917",
+    "https://openalex.org/W2169812973",
+    "https://openalex.org/W2277193006",
+    "https://openalex.org/W2422269690",
+    "https://openalex.org/W3121420420",
+    "https://openalex.org/W3121739880",
+    "https://openalex.org/W4301438091",
+    "https://openalex.org/W6600106573"
+  ],
+  "related_works": [
+    "https://openalex.org/W2304252334",
+    "https://openalex.org/W7138963873",
+    "https://openalex.org/W1493573584",
+    "https://openalex.org/W7098290668",
+    "https://openalex.org/W2553905319",
+    "https://openalex.org/W1936548593",
+    "https://openalex.org/W2099594237",
+    "https://openalex.org/W1481996539",
+    "https://openalex.org/W7095595057",
+    "https://openalex.org/W3125105176"
+  ],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "The": [
+      1,
+      252
+    ],
+    "accurate": [
+      2,
+      244
+    ],
+    "measurement": [
+      3
+    ],
+    "of": [
+      4,
+      8,
+      19,
+      54,
+      74,
+      107,
+      117,
+      120,
+      135,
+      141,
+      155,
+      180,
+      183,
+      200,
+      220,
+      223,
+      254,
+      264,
+      267,
+      278
+    ],
+    "educational": [
+      5,
+      108,
+      290
+    ],
+    "attainment": [
+      6,
+      109,
+      222,
+      291
+    ],
+    "is": [
+      7,
+      146,
+      237
+    ],
+    "great": [
+      9
+    ],
+    "importance": [
+      10
+    ],
+    "for": [
+      11,
+      45,
+      230
+    ],
+    "population": [
+      12,
+      249
+    ],
+    "research.": [
+      13
+    ],
+    "Past": [
+      14
+    ],
+    "studies": [
+      15,
+      288
+    ],
+    "measuring": [
+      16
+    ],
+    "average": [
+      17,
+      118,
+      133,
+      160,
+      181,
+      187,
+      265
+    ],
+    "years": [
+      18,
+      119,
+      134,
+      182,
+      229,
+      266
+    ],
+    "schooling": [
+      20,
+      268
+    ],
+    "rely": [
+      21
+    ],
+    "on": [
+      22
+    ],
+    "strong": [
+      23
+    ],
+    "assumptions": [
+      24
+    ],
+    "to": [
+      25,
+      34,
+      87,
+      104,
+      124,
+      163,
+      206,
+      227,
+      280
+    ],
+    "incorporate": [
+      26
+    ],
+    "binned": [
+      27,
+      62,
+      270
+    ],
+    "data.": [
+      28,
+      66,
+      272
+    ],
+    "These": [
+      29
+    ],
+    "assumptions,": [
+      30
+    ],
+    "which": [
+      31
+    ],
+    "we": [
+      32,
+      174
+    ],
+    "refer": [
+      33
+    ],
+    "as": [
+      35,
+      122
+    ],
+    "the": [
+      36,
+      88,
+      128,
+      211,
+      231,
+      262,
+      282
+    ],
+    "standard": [
+      37,
+      89,
+      129,
+      232
+    ],
+    "duration": [
+      38,
+      90,
+      130,
+      233
+    ],
+    "method,": [
+      39,
+      91
+    ],
+    "have": [
+      40
+    ],
+    "not": [
+      41
+    ],
+    "been": [
+      42
+    ],
+    "previously": [
+      43
+    ],
+    "evaluated": [
+      44
+    ],
+    "bias": [
+      46,
+      114
+    ],
+    "or": [
+      47,
+      157,
+      294
+    ],
+    "accuracy.": [
+      48
+    ],
+    "METHODS:": [
+      49
+    ],
+    "We": [
+      50,
+      67,
+      80,
+      192,
+      273
+    ],
+    "assembled": [
+      51
+    ],
+    "a": [
+      52,
+      138,
+      152,
+      198,
+      215,
+      238,
+      248,
+      255,
+      275,
+      297
+    ],
+    "database": [
+      53
+    ],
+    "1,680": [
+      55
+    ],
+    "survey": [
+      56
+    ],
+    "and": [
+      57,
+      63,
+      84,
+      113,
+      169,
+      204,
+      242,
+      284
+    ],
+    "census": [
+      58
+    ],
+    "datasets,": [
+      59
+    ],
+    "representing": [
+      60
+    ],
+    "both": [
+      61
+    ],
+    "single-year": [
+      64
+    ],
+    "education": [
+      65,
+      75,
+      271
+    ],
+    "developed": [
+      68,
+      175
+    ],
+    "two": [
+      69
+    ],
+    "models": [
+      70,
+      173
+    ],
+    "that": [
+      71,
+      100,
+      194,
+      286
+    ],
+    "split": [
+      72,
+      105
+    ],
+    "bins": [
+      73,
+      106,
+      156
+    ],
+    "into": [
+      76,
+      115
+    ],
+    "single": [
+      77
+    ],
+    "year": [
+      78
+    ],
+    "values.": [
+      79
+    ],
+    "evaluate": [
+      81
+    ],
+    "our": [
+      82
+    ],
+    "models,": [
+      83
+    ],
+    "compare": [
+      85
+    ],
+    "them": [
+      86
+    ],
+    "using": [
+      92,
+      197
+    ],
+    "out-of-sample": [
+      93
+    ],
+    "predictive": [
+      94
+    ],
+    "validity.": [
+      95
+    ],
+    "RESULTS:": [
+      96
+    ],
+    "Our": [
+      97
+    ],
+    "results": [
+      98
+    ],
+    "indicate": [
+      99
+    ],
+    "typical": [
+      101
+    ],
+    "methods": [
+      102
+    ],
+    "used": [
+      103
+    ],
+    "introduce": [
+      110
+    ],
+    "substantial": [
+      111
+    ],
+    "error": [
+      112,
+      140,
+      165,
+      188,
+      219
+    ],
+    "estimates": [
+      116
+    ],
+    "schooling,": [
+      121,
+      136,
+      184
+    ],
+    "compared": [
+      123,
+      226
+    ],
+    "new": [
+      125
+    ],
+    "approaches.": [
+      126
+    ],
+    "Globally,": [
+      127
+    ],
+    "method": [
+      131,
+      283
+    ],
+    "underestimates": [
+      132
+    ],
+    "with": [
+      137,
+      151,
+      185,
+      214
+    ],
+    "median": [
+      139
+    ],
+    "-0.47": [
+      142
+    ],
+    "years.": [
+      143
+    ],
+    "This": [
+      144
+    ],
+    "effect": [
+      145
+    ],
+    "especially": [
+      147
+    ],
+    "pronounced": [
+      148
+    ],
+    "in": [
+      149,
+      177,
+      202
+    ],
+    "datasets": [
+      150
+    ],
+    "smaller": [
+      153,
+      186
+    ],
+    "number": [
+      154
+    ],
+    "higher": [
+      158
+    ],
+    "true": [
+      159
+    ],
+    "attainment,": [
+      161
+    ],
+    "leading": [
+      162
+    ],
+    "irregular": [
+      164
+    ],
+    "patterns": [
+      166
+    ],
+    "between": [
+      167
+    ],
+    "geographies": [
+      168,
+      295
+    ],
+    "time": [
+      170,
+      205,
+      293
+    ],
+    "periods.": [
+      171
+    ],
+    "Both": [
+      172
+    ],
+    "resulted": [
+      176
+    ],
+    "unbiased": [
+      178
+    ],
+    "predictions": [
+      179
+    ],
+    "than": [
+      189
+    ],
+    "previous": [
+      190
+    ],
+    "methods.": [
+      191
+    ],
+    "find": [
+      193
+    ],
+    "one": [
+      195
+    ],
+    "approach": [
+      196
+    ],
+    "metric": [
+      199
+    ],
+    "distance": [
+      201,
+      257
+    ],
+    "space": [
+      203
+    ],
+    "identify": [
+      207
+    ],
+    "training": [
+      208
+    ],
+    "data,": [
+      209
+    ],
+    "had": [
+      210
+    ],
+    "best": [
+      212
+    ],
+    "performance,": [
+      213
+    ],
+    "root": [
+      216
+    ],
+    "mean": [
+      217,
+      221
+    ],
+    "squared": [
+      218
+    ],
+    "0.26": [
+      224
+    ],
+    "years,": [
+      225
+    ],
+    "0.92": [
+      228
+    ],
+    "algorithm.": [
+      234
+    ],
+    "CONCLUSIONS:": [
+      235
+    ],
+    "Education": [
+      236
+    ],
+    "key": [
+      239
+    ],
+    "social": [
+      240
+    ],
+    "indicator": [
+      241
+    ],
+    "its": [
+      243
+    ],
+    "estimation": [
+      245,
+      263
+    ],
+    "should": [
+      246
+    ],
+    "be": [
+      247
+    ],
+    "research": [
+      250
+    ],
+    "priority.": [
+      251
+    ],
+    "use": [
+      253,
+      281,
+      296
+    ],
+    "space-time": [
+      256
+    ],
+    "bin-splitting": [
+      258
+    ],
+    "model": [
+      259
+    ],
+    "drastically": [
+      260
+    ],
+    "improved": [
+      261
+    ],
+    "from": [
+      269
+    ],
+    "provide": [
+      274
+    ],
+    "detailed": [
+      276
+    ],
+    "description": [
+      277
+    ],
+    "how": [
+      279
+    ],
+    "recommend": [
+      285
+    ],
+    "future": [
+      287
+    ],
+    "estimating": [
+      289
+    ],
+    "across": [
+      292
+    ],
+    "similar": [
+      298
+    ],
+    "approach.": [
+      299
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2902999802",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2018-12-11T00:00:00"
+}

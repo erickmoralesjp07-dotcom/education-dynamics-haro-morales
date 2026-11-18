@@ -1,0 +1,662 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T14:01:11Z",
+      "timestamp": 1740146471858,
+      "version": "3.37.3"
+    },
+    "reference-count": 50,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "11",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              29
+            ]
+          ],
+          "date-time": "2018-11-29T00:00:00Z",
+          "timestamp": 1543449600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "DOI": "10.1371/journal.pone.0208019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2018-11-29T18:54:55Z",
+      "timestamp": 1543517695000
+    },
+    "page": "e0208019",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Improving the estimation of educational attainment: New methods for assessing average years of schooling from binned data"
+    ],
+    "prefix": "10.1371",
+    "volume": "13",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5225-3267",
+        "authenticated-orcid": true,
+        "given": "Joseph",
+        "family": "Friedman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nicholas",
+        "family": "Graetz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emmanuela",
+        "family": "Gakidou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "unstructured": "Millenium Development Goals Report 2015 [Internet]. New York: United Nations; 2015. Available: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20(July%201).pdf\" xlink:type=\"simple\">http://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20(July%201).pdf</ext-link>"
+      },
+      {
+        "key": "ref2",
+        "unstructured": "The Sustainable Development Goals Report 2016 [Internet]. New York: United Nations; 2016. Available: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://unstats.un.org/sdgs/report/2016/The%20Sustainable%20Development%20Goals%20Report%202016.pdf\" xlink:type=\"simple\">http://unstats.un.org/sdgs/report/2016/The%20Sustainable%20Development%20Goals%20Report%202016.pdf</ext-link>"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "2011",
+        "DOI": "10.1016/j.socscimed.2004.08.057",
+        "article-title": "Low levels of maternal education and the proximate determinants of childhood mortality: a little learning is not a dangerous thing",
+        "volume": "60",
+        "author": "AM Basu",
+        "year": "2005",
+        "journal-title": "Soc Sci Med"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1207",
+        "DOI": "10.1016/0277-9536(93)90241-U",
+        "article-title": "Maternal education and child survival: a comparative study of survey data from 17 countries",
+        "volume": "36",
+        "author": "GT Bicego",
+        "year": "1993",
+        "journal-title": "Soc Sci Med"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1357",
+        "DOI": "10.1016/0277-9536(88)90201-8",
+        "article-title": "Maternal education and child survival in developing countries: the search for pathways of influence",
+        "volume": "27",
+        "author": "JG Cleland",
+        "year": "1988",
+        "journal-title": "Soc Sci Med"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.2307/3004028",
+        "article-title": "Maternal education and child health: is there a strong causal relationship?",
+        "volume": "35",
+        "author": "S Desai",
+        "year": "1998",
+        "journal-title": "Demography"
+      },
+      {
+        "key": "ref7",
+        "first-page": "159",
+        "article-title": "Women’s education, child welfare and child survival: a review of the evidence",
+        "volume": "3",
+        "author": "J. Hobcraft",
+        "year": "1993",
+        "journal-title": "Health Transition Review"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1080/0032472031000145426",
+        "article-title": "Mothers’ Education and Survival of Female Children in a Rural Area of Bangladesh",
+        "volume": "45",
+        "author": "A Bhuiya",
+        "year": "1991",
+        "journal-title": "Population Studies"
+      },
+      {
+        "key": "ref9",
+        "first-page": "jn226290",
+        "article-title": "Maternal Health Literacy Is Associated with Early Childhood Nutritional Status in India",
+        "author": "M Johri",
+        "year": "2016",
+        "journal-title": "J Nutr"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/s12887-015-0406-8",
+        "article-title": "Is there a threshold level of maternal education sufficient to reduce child undernutrition? Evidence from Malawi, Tanzania and Zimbabwe",
+        "volume": "15",
+        "author": "D Makoka",
+        "year": "2015",
+        "journal-title": "BMC Pediatr"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "375",
+        "DOI": "10.1016/j.socscimed.2005.06.007",
+        "article-title": "Determinants of child morbidity in Latin America: a pooled analysis of interactions between parental education and economic status",
+        "volume": "62",
+        "author": "LE Hatt",
+        "year": "2006",
+        "journal-title": "Soc Sci Med"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "959",
+        "DOI": "10.1016/S0140-6736(10)61257-3",
+        "article-title": "Increased educational attainment and its effect on child mortality in 175 countries between 1970 and 2009: a systematic analysis",
+        "volume": "376",
+        "author": "E Gakidou",
+        "year": "2010",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.2307/2137845",
+        "article-title": "Women’s Education and Fertility: Results from 26 Demographic and Health Surveys",
+        "volume": "26",
+        "author": "TC Martin",
+        "year": "1995",
+        "journal-title": "Studies in Family Planning"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.2307/2947826",
+        "article-title": "The Relationship Between Women’s Education and Fertility: Selected Findings From the World Fertility Surveys",
+        "volume": "13",
+        "author": "MB Weinberger",
+        "year": "1987",
+        "journal-title": "International Family Planning Perspectives"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.2307/1966808",
+        "article-title": "Assessing the role of family planning in reducing maternal mortality",
+        "volume": "18",
+        "author": "B Winikoff",
+        "year": "1987",
+        "journal-title": "Stud Fam Plann"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.2307/1966702",
+        "article-title": "The Importance of Family Planning in Reducing Maternal Mortality",
+        "volume": "18",
+        "author": "JA Fortney",
+        "year": "1987",
+        "journal-title": "Studies in Family Planning"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1369",
+        "DOI": "10.1002/sim.3547",
+        "article-title": "Bayesian multivariate disease mapping and ecological regression with errors in covariates: Bayesian estimation of DALYs and ‘preventable’ DALYs",
+        "volume": "28",
+        "author": "YC MacNab",
+        "year": "2009",
+        "journal-title": "Statist Med"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.2307/2061887",
+        "article-title": "Estimating Increment-Decrement Life Tables with Multiple Covariates from Panel Data: The Case of Active Life Expectancy*",
+        "volume": "31",
+        "author": "KC Land",
+        "journal-title": "Demography"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2095",
+        "DOI": "10.1016/S0140-6736(12)61728-0",
+        "article-title": "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010",
+        "volume": "380",
+        "author": "R Lozano",
+        "year": "2012",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1553/populationyearbook2010s9",
+        "article-title": "Education will be at the heart of 21st century demography",
+        "volume": "8",
+        "author": "W. Lutz",
+        "year": "2010",
+        "journal-title": "Vienna Yearbook of Population Research"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1016/S0140-6736(14)61682-2",
+        "article-title": "Global, regional, and national age–sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
+        "volume": "385",
+        "year": "2015",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1132",
+        "DOI": "10.1001/jama.287.9.1132",
+        "article-title": "Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution",
+        "volume": "287",
+        "author": "C Pope III",
+        "year": "2002",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "805",
+        "DOI": "10.1023/B:CACO.0000003811.98261.3e",
+        "article-title": "Smoking and cervical cancer: pooled analysis of the IARC multi-centric case–control study",
+        "volume": "14",
+        "author": "M Plummer",
+        "year": "2003",
+        "journal-title": "Cancer Causes & Control"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1447",
+        "DOI": "10.1016/S0140-6736(15)00340-2",
+        "article-title": "Contrasting male and female trends in tobacco-attributed mortality in China: evidence from successive nationwide prospective cohort studies",
+        "volume": "386",
+        "author": "Z Chen",
+        "year": "2015",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "ref25",
+        "unstructured": "Multiple Indicator Cluster Survey (MICS) | Statistics and Monitoring | UNICEF [Internet]. [cited 23 Aug 2016]. Available: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.unicef.org/statistics/index_24302.html\" xlink:type=\"simple\">http://www.unicef.org/statistics/index_24302.html</ext-link>"
+      },
+      {
+        "key": "ref26",
+        "unstructured": "The DHS Program—Data [Internet]. [cited 23 Aug 2016]. Available: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://dhsprogram.com/data/\" xlink:type=\"simple\">http://dhsprogram.com/data/</ext-link>"
+      },
+      {
+        "key": "ref27",
+        "unstructured": "IPUMS International [Internet]. [cited 23 Aug 2016]. Available: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://international.ipums.org/international/\" xlink:type=\"simple\">https://international.ipums.org/international/</ext-link>"
+      },
+      {
+        "key": "ref28",
+        "article-title": "The Educational Attainment of the Labor Force: An International Comparison [Internet]",
+        "author": "G Psacharopoulos",
+        "year": "1986",
+        "journal-title": "World Bank"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "184",
+        "DOI": "10.1016/j.jdeveco.2012.10.001",
+        "article-title": "A new data set of educational attainment in the world, 1950–2010",
+        "volume": "104",
+        "author": "RJ Barro",
+        "year": "2013",
+        "journal-title": "Journal of Development Economics"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1016/0304-3932(93)90023-9",
+        "article-title": "International comparisons of educational attainment",
+        "volume": "32",
+        "author": "RJ Barro",
+        "year": "1993",
+        "journal-title": "Journal of monetary economics"
+      },
+      {
+        "key": "ref31",
+        "first-page": "218",
+        "article-title": "International Measures of Schooling Years and Schooling Quality",
+        "volume": "86",
+        "author": "RJ Barro",
+        "year": "1996",
+        "journal-title": "The American Economic Review"
+      },
+      {
+        "key": "ref32",
+        "first-page": "1",
+        "article-title": "Carnegie-Rochester conference series on public policy",
+        "author": "RJ Barro",
+        "year": "1994"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1016/0304-3878(94)00054-G",
+        "article-title": "A new database on human capital stock in developing and industrial countries: Sources, methodology, and results",
+        "volume": "46",
+        "author": "V Nehru",
+        "year": "1995",
+        "journal-title": "Journal of Development Economics"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1016/j.econedurev.2015.05.004",
+        "article-title": "Educational attainment in the OECD, 1960–2010. Updated series and a comparison with other sources",
+        "volume": "48",
+        "author": "A de la Fuente",
+        "year": "2015",
+        "journal-title": "Economics of Education Review"
+      },
+      {
+        "article-title": "Educational Attainment in the OECD, 1960–95",
+        "year": "2002",
+        "author": "Á De la Fuente",
+        "key": "ref35"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1162/jeea.2006.4.1.1",
+        "article-title": "Human Capital in Growth Regressions: How Much Difference Does Data Quality Make?",
+        "volume": "4",
+        "author": "A de la Fuente",
+        "year": "2006",
+        "journal-title": "Journal of the European Economic Association"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1016/j.jeconom.2014.03.002",
+        "article-title": "Misreported schooling, multiple measures and returns to educational qualifications",
+        "volume": "181",
+        "author": "E Battistin",
+        "year": "2014",
+        "journal-title": "Journal of Econometrics"
+      },
+      {
+        "key": "ref38",
+        "unstructured": "Hu Y, Xiao R, Zhong X. Misclassification of Schooling in Survey and Transcript Samples.: 19."
+      },
+      {
+        "year": "2015",
+        "author": "RJ Barro",
+        "key": "ref39"
+      },
+      {
+        "key": "ref40",
+        "unstructured": "IPUMS-I: descr: YRSCHOOL [Internet]. [cited 25 Aug 2016]. Available: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://international.ipums.org/international-action/variables/YRSCHOOL#comparability_section\" xlink:type=\"simple\">https://international.ipums.org/international-action/variables/YRSCHOOL#comparability_section</ext-link>"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1214/ss/1009212519",
+        "article-title": "Bayesian model averaging: a tutorial (with comments by M. Clyde, David Draper and E. I. George, and a rejoinder by the authors",
+        "volume": "14",
+        "author": "JA Hoeting",
+        "year": "1999",
+        "journal-title": "Statist Sci"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "crossref",
+        "first-page": "1047",
+        "DOI": "10.2307/2111506",
+        "article-title": "“Truth” Is Stranger than Prediction, More Questionable than Causal Inference",
+        "volume": "35",
+        "author": "G. King",
+        "year": "1991",
+        "journal-title": "American Journal of Political Science"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1111/j.2517-6161.1974.tb00994.x",
+        "article-title": "Cross-validatory choice and assessment of statistical predictions",
+        "author": "M. Stone",
+        "year": "1974",
+        "journal-title": "Journal of the Royal Statistical Society Series B (Methodological)"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/0304-3800(93)90106-3",
+        "article-title": "Theoretical Modelling AspectsThe predictive validation of ecological and environmental models",
+        "volume": "68",
+        "author": "M. Power",
+        "year": "1993",
+        "journal-title": "Ecological Modelling"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "437",
+        "DOI": "10.1016/S0169-2070(00)00065-0",
+        "article-title": "Out-of-sample tests of forecasting accuracy: an analysis and review",
+        "volume": "16",
+        "author": "LJ Tashman",
+        "year": "2000",
+        "journal-title": "International Journal of Forecasting"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/1478-7954-10-1",
+        "article-title": "Modeling causes of death: an integrated approach using CODEm",
+        "volume": "10",
+        "author": "KJ Foreman",
+        "year": "2012",
+        "journal-title": "Population Health Metrics"
+      },
+      {
+        "year": "2013",
+        "author": "M Kuhn",
+        "key": "ref47"
+      },
+      {
+        "year": "2001",
+        "author": "V Thomas",
+        "key": "ref48"
+      },
+      {
+        "year": "1998",
+        "key": "ref49"
+      },
+      {
+        "key": "ref50",
+        "first-page": "32",
+        "article-title": "Asset Inequality Matters: An Assessment of the World Bank’s Approach to Poverty Reduction",
+        "volume": "87",
+        "author": "N Birdsall",
+        "year": "1997",
+        "journal-title": "The American Economic Review"
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0208019",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2020-05-09T04:24:25Z",
+      "timestamp": 1588998265000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0208019"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Philipp D.",
+        "family": "Koellinger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          29
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "11",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            29
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0208019",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1932-6203"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          29
+        ]
+      ]
+    }
+  }
+}

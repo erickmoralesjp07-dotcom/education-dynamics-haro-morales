@@ -1,0 +1,1035 @@
+{
+  "id": "https://openalex.org/W7124920598",
+  "doi": "https://doi.org/10.3390/economies14010028",
+  "title": "Spending on Education, Human Capital, and Economic Growth in Central America: A Panel Data Analysis with Driscoll-Kraay Standard Errors",
+  "display_name": "Spending on Education, Human Capital, and Economic Growth in Central America: A Panel Data Analysis with Driscoll-Kraay Standard Errors",
+  "alternate_titles": [],
+  "publication_year": 2026,
+  "publication_date": "2026-01-20",
+  "ids": {
+    "openalex": "https://openalex.org/W7124920598",
+    "doi": "https://doi.org/10.3390/economies14010028"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/economies14010028",
+    "doi": "https://doi.org/10.3390/economies14010028",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/economies14010028",
+    "pdf_url": "https://www.mdpi.com/2227-7099/14/1/28/pdf?version=1768919042",
+    "source": {
+      "id": "https://openalex.org/S2737296559",
+      "display_name": "Economies",
+      "issn_l": "2227-7099",
+      "issn": [
+        "2227-7099"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "abdc-c",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "norway-1",
+        "poland-40",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Economies",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W7124920598"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2227-7099/14/1/28/pdf?version=1768919042",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5092647912",
+        "display_name": "José Rodolfo Sorto-Bueso",
+        "orcid": "https://orcid.org/0000-0002-1496-2513",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-1496-2513"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3131337692",
+          "display_name": "Central American Technological University",
+          "ror": "https://ror.org/03gxj8t57",
+          "country_code": "HN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3131337692"
+          ]
+        }
+      ],
+      "countries": [
+        "HN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "José Rodolfo Sorto-Bueso",
+      "raw_affiliation_strings": [
+        "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1496-2513",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras",
+          "institution_ids": [
+            "https://openalex.org/I3131337692"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056732991",
+        "display_name": "Juan Jacobo Paredes Heller",
+        "orcid": "https://orcid.org/0009-0008-5780-2326",
+        "observed_orcids": [
+          "https://orcid.org/0009-0008-5780-2326"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3131337692",
+          "display_name": "Central American Technological University",
+          "ror": "https://ror.org/03gxj8t57",
+          "country_code": "HN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3131337692"
+          ]
+        }
+      ],
+      "countries": [
+        "HN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juan Jacobo Paredes Heller",
+      "raw_affiliation_strings": [
+        "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0008-5780-2326",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras",
+          "institution_ids": [
+            "https://openalex.org/I3131337692"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5009985007",
+        "display_name": "Roldán Villela",
+        "orcid": "https://orcid.org/0000-0002-1202-3774",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-1202-3774"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3131337692",
+          "display_name": "Central American Technological University",
+          "ror": "https://ror.org/03gxj8t57",
+          "country_code": "HN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3131337692"
+          ]
+        }
+      ],
+      "countries": [
+        "HN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Roldán Hernán Villela Morales",
+      "raw_affiliation_strings": [
+        "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1202-3774",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Graduate Studies, Universidad Tecnológica Centroamericana (UNITEC), Tegucigalpa 11101, Honduras",
+          "institution_ids": [
+            "https://openalex.org/I3131337692"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5092647912"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I3131337692"
+  ],
+  "apc_list": {
+    "value": 1800,
+    "currency": "CHF",
+    "value_usd": 2172
+  },
+  "apc_paid": {
+    "value": 1800,
+    "currency": "CHF",
+    "value_usd": 2172
+  },
+  "fwci": 39.14,
+  "has_fulltext": true,
+  "cited_by_count": 12,
+  "citation_normalized_percentile": {
+    "value": 0.99818839,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "1",
+    "first_page": "28",
+    "last_page": "28"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10393",
+    "display_name": "Economic Growth and Productivity",
+    "score": 0.9761000275611877,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "score": 0.9761000275611877,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11770",
+      "display_name": "Fiscal Policy and Economic Growth",
+      "score": 0.01549999974668026,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.002300000051036477,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/education-expenditure",
+      "display_name": "education expenditure",
+      "score": 0.8289999961853027
+    },
+    {
+      "id": "https://openalex.org/keywords/human-capital",
+      "display_name": "human capital",
+      "score": 0.8790000081062317
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-growth",
+      "display_name": "economic growth",
+      "score": 0.9990000128746033
+    },
+    {
+      "id": "https://openalex.org/keywords/public-expenditure",
+      "display_name": "government spending",
+      "score": 0.6819999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/central-america",
+      "display_name": "Central America",
+      "score": 0.9559999704360962
+    },
+    {
+      "id": "https://openalex.org/keywords/human-capital-accumulation",
+      "display_name": "human capital accumulation",
+      "score": 0.7570000290870667
+    },
+    {
+      "id": "https://openalex.org/keywords/fiscal-policy",
+      "display_name": "fiscal policy",
+      "score": 0.5239999890327454
+    },
+    {
+      "id": "https://openalex.org/keywords/central-american-countries",
+      "display_name": "Central American countries",
+      "score": 0.4259999990463257
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776943663",
+      "wikidata": "https://www.wikidata.org/wiki/Q165687",
+      "display_name": "Human capital",
+      "level": 2,
+      "score": 0.8610000014305115
+    },
+    {
+      "id": "https://openalex.org/C6422946",
+      "wikidata": "https://www.wikidata.org/wiki/Q857354",
+      "display_name": "Panel data",
+      "level": 2,
+      "score": 0.7175999879837036
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.6531999707221985
+    },
+    {
+      "id": "https://openalex.org/C172497479",
+      "wikidata": "https://www.wikidata.org/wiki/Q302208",
+      "display_name": "Capital expenditure",
+      "level": 2,
+      "score": 0.4812999963760376
+    },
+    {
+      "id": "https://openalex.org/C2777234743",
+      "wikidata": "https://www.wikidata.org/wiki/Q7257739",
+      "display_name": "Public expenditure",
+      "level": 3,
+      "score": 0.46650001406669617
+    },
+    {
+      "id": "https://openalex.org/C151406439",
+      "wikidata": "https://www.wikidata.org/wiki/Q186588",
+      "display_name": "Time series",
+      "level": 2,
+      "score": 0.41760000586509705
+    },
+    {
+      "id": "https://openalex.org/C166052673",
+      "wikidata": "https://www.wikidata.org/wiki/Q83021",
+      "display_name": "Empirical evidence",
+      "level": 2,
+      "score": 0.3968000113964081
+    },
+    {
+      "id": "https://openalex.org/C2994282536",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929688",
+      "display_name": "Public spending",
+      "level": 3,
+      "score": 0.38690000772476196
+    },
+    {
+      "id": "https://openalex.org/C83646750",
+      "wikidata": "https://www.wikidata.org/wiki/Q193893",
+      "display_name": "Capital (architecture)",
+      "level": 2,
+      "score": 0.3596000075340271
+    },
+    {
+      "id": "https://openalex.org/C2986084806",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172284",
+      "display_name": "Data series",
+      "level": 2,
+      "score": 0.3183000087738037
+    },
+    {
+      "id": "https://openalex.org/C120936955",
+      "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+      "display_name": "Empirical research",
+      "level": 2,
+      "score": 0.31119999289512634
+    },
+    {
+      "id": "https://openalex.org/C115781380",
+      "wikidata": "https://www.wikidata.org/wiki/Q994824",
+      "display_name": "Gross fixed capital formation",
+      "level": 3,
+      "score": 0.31060001254081726
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.2973000109195709
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.2930000126361847
+    },
+    {
+      "id": "https://openalex.org/C2776675903",
+      "wikidata": "https://www.wikidata.org/wiki/Q457193",
+      "display_name": "Public capital",
+      "level": 4,
+      "score": 0.2930000126361847
+    },
+    {
+      "id": "https://openalex.org/C100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "level": 1,
+      "score": 0.2921999990940094
+    },
+    {
+      "id": "https://openalex.org/C60675406",
+      "wikidata": "https://www.wikidata.org/wiki/Q2049349",
+      "display_name": "Panel analysis",
+      "level": 3,
+      "score": 0.29030001163482666
+    },
+    {
+      "id": "https://openalex.org/C2983413640",
+      "wikidata": "https://www.wikidata.org/wiki/Q1080794",
+      "display_name": "Public education",
+      "level": 2,
+      "score": 0.28630000352859497
+    },
+    {
+      "id": "https://openalex.org/C143724316",
+      "wikidata": "https://www.wikidata.org/wiki/Q312468",
+      "display_name": "Series (stratigraphy)",
+      "level": 2,
+      "score": 0.251800000667572
+    },
+    {
+      "id": "https://openalex.org/C2781089502",
+      "wikidata": "https://www.wikidata.org/wiki/Q2917873",
+      "display_name": "Human development (humanity)",
+      "level": 2,
+      "score": 0.25040000677108765
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/economies14010028",
+      "doi": "https://doi.org/10.3390/economies14010028",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/economies14010028",
+      "pdf_url": "https://www.mdpi.com/2227-7099/14/1/28/pdf?version=1768919042",
+      "source": {
+        "id": "https://openalex.org/S2737296559",
+        "display_name": "Economies",
+        "issn_l": "2227-7099",
+        "issn": [
+          "2227-7099"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "abdc-c",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "norway-1",
+          "poland-40",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Economies",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d32567e1213242d48c855040bf7c1b86",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/d32567e1213242d48c855040bf7c1b86",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Economies, Vol 14, Iss 1, p 28 (2026)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/economies14010028",
+    "doi": "https://doi.org/10.3390/economies14010028",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/economies14010028",
+    "pdf_url": "https://www.mdpi.com/2227-7099/14/1/28/pdf?version=1768919042",
+    "source": {
+      "id": "https://openalex.org/S2737296559",
+      "display_name": "Economies",
+      "issn_l": "2227-7099",
+      "issn": [
+        "2227-7099"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "abdc-c",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "norway-1",
+        "poland-40",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Economies",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6452000141143799,
+      "display_name": "Decent work and economic growth",
+      "id": "https://metadata.un.org/sdg/8"
+    },
+    {
+      "score": 0.6164000034332275,
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7124920598.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7124920598.grobid-xml"
+  },
+  "referenced_works_count": 68,
+  "referenced_works": [
+    "https://openalex.org/W129305155",
+    "https://openalex.org/W1438985077",
+    "https://openalex.org/W1495656322",
+    "https://openalex.org/W1520648193",
+    "https://openalex.org/W1556122304",
+    "https://openalex.org/W1581526203",
+    "https://openalex.org/W1601234161",
+    "https://openalex.org/W1837190689",
+    "https://openalex.org/W1873443117",
+    "https://openalex.org/W1964901596",
+    "https://openalex.org/W1969314165",
+    "https://openalex.org/W2009558323",
+    "https://openalex.org/W2034301206",
+    "https://openalex.org/W2051071056",
+    "https://openalex.org/W2067402622",
+    "https://openalex.org/W2099268311",
+    "https://openalex.org/W2111122192",
+    "https://openalex.org/W2117594039",
+    "https://openalex.org/W2138432709",
+    "https://openalex.org/W2143130292",
+    "https://openalex.org/W2159147610",
+    "https://openalex.org/W2162484441",
+    "https://openalex.org/W2165925484",
+    "https://openalex.org/W2166974667",
+    "https://openalex.org/W2170433190",
+    "https://openalex.org/W2769770987",
+    "https://openalex.org/W2775056555",
+    "https://openalex.org/W2795468922",
+    "https://openalex.org/W2891506482",
+    "https://openalex.org/W2892684802",
+    "https://openalex.org/W2911447418",
+    "https://openalex.org/W2913732286",
+    "https://openalex.org/W2916282171",
+    "https://openalex.org/W2963050660",
+    "https://openalex.org/W2973152617",
+    "https://openalex.org/W3020609845",
+    "https://openalex.org/W3036958396",
+    "https://openalex.org/W3039549685",
+    "https://openalex.org/W3114196954",
+    "https://openalex.org/W3118739804",
+    "https://openalex.org/W3121067459",
+    "https://openalex.org/W3121403162",
+    "https://openalex.org/W3126037482",
+    "https://openalex.org/W3126966312",
+    "https://openalex.org/W3134474629",
+    "https://openalex.org/W3134891688",
+    "https://openalex.org/W3160081492",
+    "https://openalex.org/W3167084416",
+    "https://openalex.org/W3169519789",
+    "https://openalex.org/W3198566508",
+    "https://openalex.org/W3198574005",
+    "https://openalex.org/W3213330270",
+    "https://openalex.org/W4230280047",
+    "https://openalex.org/W4280543163",
+    "https://openalex.org/W4285891569",
+    "https://openalex.org/W4301935132",
+    "https://openalex.org/W4303627804",
+    "https://openalex.org/W4311058124",
+    "https://openalex.org/W4327910559",
+    "https://openalex.org/W4382645131",
+    "https://openalex.org/W4385495204",
+    "https://openalex.org/W4391323652",
+    "https://openalex.org/W4392650696",
+    "https://openalex.org/W4394890769",
+    "https://openalex.org/W4402983652",
+    "https://openalex.org/W4408813776",
+    "https://openalex.org/W7111540701",
+    "https://openalex.org/W7113757290"
+  ],
+  "related_works": [
+    "https://openalex.org/W4303627804",
+    "https://openalex.org/W7167079910",
+    "https://openalex.org/W7115679543",
+    "https://openalex.org/W149906600",
+    "https://openalex.org/W3083974909",
+    "https://openalex.org/W6999845746",
+    "https://openalex.org/W3092599701",
+    "https://openalex.org/W2243234124",
+    "https://openalex.org/W1964901596",
+    "https://openalex.org/W2973528266"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      60,
+      79
+    ],
+    "main": [
+      1
+    ],
+    "purpose": [
+      2
+    ],
+    "of": [
+      3,
+      11,
+      70,
+      87,
+      99
+    ],
+    "this": [
+      4,
+      31
+    ],
+    "study": [
+      5
+    ],
+    "is": [
+      6
+    ],
+    "to": [
+      7
+    ],
+    "assess": [
+      8
+    ],
+    "the": [
+      9,
+      67,
+      71,
+      96,
+      116
+    ],
+    "effect": [
+      10,
+      86
+    ],
+    "current": [
+      12,
+      88
+    ],
+    "public": [
+      13,
+      77
+    ],
+    "expenditure": [
+      14,
+      90
+    ],
+    "on": [
+      15,
+      20,
+      34,
+      95,
+      107
+    ],
+    "education": [
+      16,
+      35,
+      89
+    ],
+    "and": [
+      17,
+      28,
+      37,
+      46,
+      75,
+      84,
+      91,
+      121,
+      130
+    ],
+    "human": [
+      18,
+      38,
+      92
+    ],
+    "capital": [
+      19,
+      39,
+      93
+    ],
+    "economic": [
+      21,
+      97
+    ],
+    "growth": [
+      22,
+      98
+    ],
+    "in": [
+      23,
+      115
+    ],
+    "Central": [
+      24,
+      100,
+      117
+    ],
+    "America": [
+      25
+    ],
+    "between": [
+      26
+    ],
+    "1992": [
+      27
+    ],
+    "2021.": [
+      29
+    ],
+    "In": [
+      30
+    ],
+    "context,": [
+      32,
+      120
+    ],
+    "data": [
+      33,
+      54
+    ],
+    "spending": [
+      36
+    ],
+    "for": [
+      40,
+      127
+    ],
+    "Guatemala,": [
+      41
+    ],
+    "Honduras,": [
+      42
+    ],
+    "El": [
+      43
+    ],
+    "Salvador,": [
+      44
+    ],
+    "Nicaragua,": [
+      45
+    ],
+    "Costa": [
+      47
+    ],
+    "Rica": [
+      48
+    ],
+    "were": [
+      49,
+      63
+    ],
+    "analyzed": [
+      50
+    ],
+    "using": [
+      51
+    ],
+    "a": [
+      52,
+      82,
+      108
+    ],
+    "panel": [
+      53
+    ],
+    "approach": [
+      55
+    ],
+    "with": [
+      56
+    ],
+    "Driscoll–Kraay": [
+      57
+    ],
+    "standard": [
+      58
+    ],
+    "errors.": [
+      59
+    ],
+    "time": [
+      61
+    ],
+    "series": [
+      62
+    ],
+    "primarily": [
+      64
+    ],
+    "obtained": [
+      65
+    ],
+    "from": [
+      66
+    ],
+    "online": [
+      68
+    ],
+    "databases": [
+      69
+    ],
+    "World": [
+      72
+    ],
+    "Bank,": [
+      73
+    ],
+    "UNESCO,": [
+      74
+    ],
+    "national": [
+      76
+    ],
+    "sources.": [
+      78
+    ],
+    "results": [
+      80
+    ],
+    "show": [
+      81
+    ],
+    "positive": [
+      83
+    ],
+    "significant": [
+      85
+    ],
+    "formation": [
+      94
+    ],
+    "America.": [
+      101
+    ],
+    "This": [
+      102
+    ],
+    "research": [
+      103
+    ],
+    "provides": [
+      104
+    ],
+    "empirical": [
+      105
+    ],
+    "evidence": [
+      106
+    ],
+    "topic": [
+      109
+    ],
+    "that": [
+      110
+    ],
+    "has": [
+      111
+    ],
+    "been": [
+      112
+    ],
+    "scarcely": [
+      113
+    ],
+    "examined": [
+      114
+    ],
+    "American": [
+      118
+    ],
+    "regional": [
+      119
+    ],
+    "its": [
+      122
+    ],
+    "findings": [
+      123
+    ],
+    "constitute": [
+      124
+    ],
+    "relevant": [
+      125
+    ],
+    "input": [
+      126
+    ],
+    "scholars,": [
+      128
+    ],
+    "practitioners,": [
+      129
+    ],
+    "policymakers.": [
+      131
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7124920598",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 12
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2026-01-21T00:00:00"
+}

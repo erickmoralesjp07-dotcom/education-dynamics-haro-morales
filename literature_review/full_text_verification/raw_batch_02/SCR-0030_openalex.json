@@ -1,0 +1,6051 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 2068,
+    "db_response_time_ms": 1845,
+    "page": 1,
+    "per_page": 5,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results) in the title, abstract, or full text",
+      "x_new_oql": "get works with (Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results) in the title, abstract, or full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results&per_page=5",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1532502227",
+      "doi": null,
+      "title": "Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results",
+      "display_name": "Factors Affecting Educational Attainment: Evidence from Spanish Pisa 2006 Results",
+      "alternate_titles": [],
+      "relevance_score": 391.96945,
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1532502227",
+        "mag": "1532502227"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:1532502227",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.usc.es/economet/reviews/eers1034.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764861952",
+          "display_name": "EERS. Estudios económicos regionales y sectoriales",
+          "issn_l": "1578-4460",
+          "issn": [
+            "1578-4460"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "poland-20",
+            "russia-white-list-3"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "EERS. Estudios económicos regionales y sectoriales",
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W1532502227"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dialnet.unirioja.es/descarga/articulo/5906315.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5034982501",
+            "display_name": "José Manuel Cordero Ferrera",
+            "orcid": "https://orcid.org/0000-0001-8783-6748",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8783-6748"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "José Manuel Cordero Ferrera",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8783-6748",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065363327",
+            "display_name": "Eva Crespo Cebada",
+            "orcid": "https://orcid.org/0000-0002-0516-9345",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0516-9345"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Eva Crespo Cebada",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0516-9345",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5014465709",
+            "display_name": "Daniel Santín González",
+            "orcid": "https://orcid.org/0000-0002-1654-1659",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1654-1659"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Santín González",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-1654-1659",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.3913,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 43,
+      "citation_normalized_percentile": {
+        "value": 0.93474143,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "3",
+        "first_page": "56",
+        "last_page": "76"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10357",
+        "display_name": "Efficiency Analysis Using DEA",
+        "score": 0.5913000106811523,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1803",
+          "display_name": "Management Science and Operations Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10357",
+          "display_name": "Efficiency Analysis Using DEA",
+          "score": 0.5913000106811523,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1803",
+            "display_name": "Management Science and Operations Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10674",
+          "display_name": "School Choice and Performance",
+          "score": 0.37770000100135803,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13405",
+          "display_name": "Educational Assessment and Improvement",
+          "score": 0.010200000368058681,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/educational-attainment",
+          "display_name": "educational attainment",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/pisa-2006",
+          "display_name": "PISA 2006",
+          "score": 0.9559999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/school-efficiency",
+          "display_name": "school efficiency",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/private-schools",
+          "display_name": "private schools",
+          "score": 0.5879999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/subsidized-schools",
+          "display_name": "subsidized schools",
+          "score": 0.9779999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/school-size",
+          "display_name": "school size",
+          "score": 0.7990000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/class-size",
+          "display_name": "class size",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/spanish-regions",
+          "display_name": "Spanish regions",
+          "score": 0.5910000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/student-achievement-determinants",
+          "display_name": "student achievement determinants",
+          "score": 0.527999997138977
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778869765",
+          "wikidata": "https://www.wikidata.org/wiki/Q6028363",
+          "display_name": "Inefficiency",
+          "level": 2,
+          "score": 0.8830757141113281
+        },
+        {
+          "id": "https://openalex.org/C2776502983",
+          "wikidata": "https://www.wikidata.org/wiki/Q690182",
+          "display_name": "Contrast (vision)",
+          "level": 2,
+          "score": 0.6866926550865173
+        },
+        {
+          "id": "https://openalex.org/C84265765",
+          "wikidata": "https://www.wikidata.org/wiki/Q193219",
+          "display_name": "Subsidy",
+          "level": 2,
+          "score": 0.6763291358947754
+        },
+        {
+          "id": "https://openalex.org/C182306322",
+          "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+          "display_name": "Order (exchange)",
+          "level": 2,
+          "score": 0.5456048846244812
+        },
+        {
+          "id": "https://openalex.org/C2777267654",
+          "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+          "display_name": "Test (biology)",
+          "level": 2,
+          "score": 0.5384836196899414
+        },
+        {
+          "id": "https://openalex.org/C2779297142",
+          "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+          "display_name": "Educational attainment",
+          "level": 2,
+          "score": 0.42487475275993347
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4160920977592468
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.40904858708381653
+        },
+        {
+          "id": "https://openalex.org/C4249254",
+          "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+          "display_name": "Demographic economics",
+          "level": 1,
+          "score": 0.3860774040222168
+        },
+        {
+          "id": "https://openalex.org/C149782125",
+          "wikidata": "https://www.wikidata.org/wiki/Q160039",
+          "display_name": "Econometrics",
+          "level": 1,
+          "score": 0.38293254375457764
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.3631875514984131
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.17731395363807678
+        },
+        {
+          "id": "https://openalex.org/C175444787",
+          "wikidata": "https://www.wikidata.org/wiki/Q39072",
+          "display_name": "Microeconomics",
+          "level": 1,
+          "score": 0.1381392478942871
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.11803776025772095
+        },
+        {
+          "id": "https://openalex.org/C34447519",
+          "wikidata": "https://www.wikidata.org/wiki/Q179522",
+          "display_name": "Market economy",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C10138342",
+          "wikidata": "https://www.wikidata.org/wiki/Q43015",
+          "display_name": "Finance",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "mag:1532502227",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://www.usc.es/economet/reviews/eers1034.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764861952",
+            "display_name": "EERS. Estudios económicos regionales y sectoriales",
+            "issn_l": "1578-4460",
+            "issn": [
+              "1578-4460"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "poland-20",
+              "russia-white-list-3"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "EERS. Estudios económicos regionales y sectoriales",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:RePEc:eaa:eerese:v:10:y2010:i:3_4",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://www.usc.es/economet/reviews/eers1034.pdf",
+          "pdf_url": "http://www.usc.es/economet/reviews/eers1034.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:dialnet.unirioja.es:ART0001164135",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://dialnet.unirioja.es/servlet/oaiart?codigo=5906315",
+          "pdf_url": "https://dialnet.unirioja.es/descarga/articulo/5906315.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401293",
+            "display_name": "Dialnet (Universidad de la Rioja)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I168974976",
+            "host_organization_name": "Universidad de La Rioja",
+            "host_organization_lineage": [
+              "https://openalex.org/I168974976"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Estudios Economicos Regionales y Sectoriales : EERS: Regional and sectoral economic studies : RSES, ISSN 1578-4460, Vol. 10, Nº. 3, 2010 (Ejemplar dedicado a: Special Issue on Economics of Education in collaboration with AEDE), pags. 56-76",
+          "raw_type": "text (article)"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:dialnet.unirioja.es:ART0001164135",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/oaiart?codigo=5906315",
+        "pdf_url": "https://dialnet.unirioja.es/descarga/articulo/5906315.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401293",
+          "display_name": "Dialnet (Universidad de la Rioja)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I168974976",
+          "host_organization_name": "Universidad de La Rioja",
+          "host_organization_lineage": [
+            "https://openalex.org/I168974976"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Estudios Economicos Regionales y Sectoriales : EERS: Regional and sectoral economic studies : RSES, ISSN 1578-4460, Vol. 10, Nº. 3, 2010 (Ejemplar dedicado a: Special Issue on Economics of Education in collaboration with AEDE), pags. 56-76",
+        "raw_type": "text (article)"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.9235000014305115,
+          "display_name": "Quality education",
+          "id": "https://metadata.un.org/sdg/4"
+        },
+        {
+          "score": 0.7578999996185303,
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1532502227.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1532502227.grobid-xml"
+      },
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W55300421",
+        "https://openalex.org/W201803227",
+        "https://openalex.org/W1482282845",
+        "https://openalex.org/W1486925192",
+        "https://openalex.org/W1508714975",
+        "https://openalex.org/W1521104973",
+        "https://openalex.org/W1581128292",
+        "https://openalex.org/W1581985819",
+        "https://openalex.org/W1589938327",
+        "https://openalex.org/W1929179624",
+        "https://openalex.org/W1966231993",
+        "https://openalex.org/W1967085127",
+        "https://openalex.org/W1967731378",
+        "https://openalex.org/W1974515888",
+        "https://openalex.org/W1979214696",
+        "https://openalex.org/W1983031792",
+        "https://openalex.org/W1988703391",
+        "https://openalex.org/W1997301268",
+        "https://openalex.org/W1997594269",
+        "https://openalex.org/W2007102689",
+        "https://openalex.org/W2014370213",
+        "https://openalex.org/W2020012188",
+        "https://openalex.org/W2023155596",
+        "https://openalex.org/W2023878059",
+        "https://openalex.org/W2028878612",
+        "https://openalex.org/W2044291337",
+        "https://openalex.org/W2080083786",
+        "https://openalex.org/W2080555458",
+        "https://openalex.org/W2084660657",
+        "https://openalex.org/W2089469944",
+        "https://openalex.org/W2107544761",
+        "https://openalex.org/W2112461140",
+        "https://openalex.org/W2115585814",
+        "https://openalex.org/W2122572849",
+        "https://openalex.org/W2123747440",
+        "https://openalex.org/W2129763896",
+        "https://openalex.org/W2142705498",
+        "https://openalex.org/W2147138207",
+        "https://openalex.org/W2147321879",
+        "https://openalex.org/W2171013128",
+        "https://openalex.org/W2171185451",
+        "https://openalex.org/W2268933301",
+        "https://openalex.org/W2327303374",
+        "https://openalex.org/W2503826429",
+        "https://openalex.org/W2889561418",
+        "https://openalex.org/W2890322927",
+        "https://openalex.org/W3010328004",
+        "https://openalex.org/W3020945503",
+        "https://openalex.org/W3023268456",
+        "https://openalex.org/W3121388701",
+        "https://openalex.org/W3122507295",
+        "https://openalex.org/W3125109950",
+        "https://openalex.org/W3125690980",
+        "https://openalex.org/W3125713624",
+        "https://openalex.org/W4248222017",
+        "https://openalex.org/W4388062759",
+        "https://openalex.org/W6987100428",
+        "https://openalex.org/W6990388607"
+      ],
+      "related_works": [
+        "https://openalex.org/W7018909709",
+        "https://openalex.org/W1672174194",
+        "https://openalex.org/W79357533",
+        "https://openalex.org/W2076221650",
+        "https://openalex.org/W194913980",
+        "https://openalex.org/W1514409718",
+        "https://openalex.org/W22124864",
+        "https://openalex.org/W2793061513",
+        "https://openalex.org/W1564561262",
+        "https://openalex.org/W2009700223"
+      ],
+      "abstract_inverted_index": {
+        "Recently": [
+          0
+        ],
+        "published": [
+          1
+        ],
+        "results": [
+          2,
+          75
+        ],
+        "from": [
+          3,
+          18
+        ],
+        "PISA": [
+          4
+        ],
+        "2006": [
+          5
+        ],
+        "Report": [
+          6
+        ],
+        "show": [
+          7,
+          83
+        ],
+        "the": [
+          8,
+          34,
+          55,
+          58,
+          61,
+          69,
+          117,
+          122,
+          129
+        ],
+        "existence": [
+          9
+        ],
+        "of": [
+          10,
+          28,
+          37,
+          60,
+          71,
+          95,
+          148,
+          151
+        ],
+        "significant": [
+          11,
+          155
+        ],
+        "divergences": [
+          12,
+          135,
+          156
+        ],
+        "in": [
+          13,
+          23,
+          48,
+          52,
+          87
+        ],
+        "test": [
+          14
+        ],
+        "scores": [
+          15
+        ],
+        "among": [
+          16,
+          157
+        ],
+        "students": [
+          17,
+          56,
+          85
+        ],
+        "different": [
+          19
+        ],
+        "Spanish": [
+          20
+        ],
+        "regions": [
+          21
+        ],
+        "participating": [
+          22
+        ],
+        "this": [
+          24,
+          29,
+          41
+        ],
+        "evaluation.": [
+          25
+        ],
+        "The": [
+          26
+        ],
+        "aim": [
+          27
+        ],
+        "paper": [
+          30
+        ],
+        "is": [
+          31,
+          46,
+          76
+        ],
+        "to": [
+          32,
+          50,
+          140
+        ],
+        "investigate": [
+          33
+        ],
+        "potential": [
+          35
+        ],
+        "causes": [
+          36
+        ],
+        "those": [
+          38,
+          134
+        ],
+        "divergences.": [
+          39
+        ],
+        "For": [
+          40
+        ],
+        "purpose,": [
+          42
+        ],
+        "an": [
+          43,
+          146
+        ],
+        "efficiency": [
+          44,
+          108
+        ],
+        "approach": [
+          45
+        ],
+        "adopted": [
+          47
+        ],
+        "order": [
+          49
+        ],
+        "determine": [
+          51
+        ],
+        "what": [
+          53
+        ],
+        "extent": [
+          54
+        ],
+        "make": [
+          57
+        ],
+        "most": [
+          59,
+          118,
+          130
+        ],
+        "resources": [
+          62
+        ],
+        "they": [
+          63
+        ],
+        "have": [
+          64,
+          92
+        ],
+        "at": [
+          65
+        ],
+        "their": [
+          66
+        ],
+        "disposal.": [
+          67
+        ],
+        "Subsequently,": [
+          68
+        ],
+        "effect": [
+          70
+        ],
+        "multiple": [
+          72
+        ],
+        "variables": [
+          73
+        ],
+        "on": [
+          74,
+          106
+        ],
+        "tested": [
+          77
+        ],
+        "through": [
+          78
+        ],
+        "a": [
+          79
+        ],
+        "two-stage": [
+          80
+        ],
+        "procedure.": [
+          81
+        ],
+        "Results": [
+          82
+        ],
+        "that": [
+          84
+        ],
+        "enrolled": [
+          86
+        ],
+        "private": [
+          88
+        ],
+        "or": [
+          89
+        ],
+        "subsidized": [
+          90
+        ],
+        "schools": [
+          91
+        ],
+        "lower": [
+          93
+        ],
+        "levels": [
+          94
+        ],
+        "efficiency.": [
+          96
+        ],
+        "In": [
+          97
+        ],
+        "contrast,": [
+          98
+        ],
+        "neither": [
+          99
+        ],
+        "class": [
+          100
+        ],
+        "nor": [
+          101
+        ],
+        "school": [
+          102
+        ],
+        "size": [
+          103
+        ],
+        "has": [
+          104
+        ],
+        "influence": [
+          105
+        ],
+        "students´": [
+          107
+        ],
+        "levels.": [
+          109
+        ],
+        "Galicia": [
+          110
+        ],
+        "and": [
+          111,
+          125
+        ],
+        "La": [
+          112
+        ],
+        "Rioja": [
+          113
+        ],
+        "are": [
+          114,
+          127
+        ],
+        "identified": [
+          115
+        ],
+        "as": [
+          116
+        ],
+        "efficient": [
+          119
+        ],
+        "regions,": [
+          120
+        ],
+        "while": [
+          121
+        ],
+        "Basque": [
+          123
+        ],
+        "Country": [
+          124
+        ],
+        "Catalonia": [
+          126
+        ],
+        "considered": [
+          128
+        ],
+        "inefficient": [
+          131
+        ],
+        "ones.": [
+          132
+        ],
+        "However,": [
+          133
+        ],
+        "cannot": [
+          136
+        ],
+        "be": [
+          137
+        ],
+        "only": [
+          138,
+          143
+        ],
+        "attributable": [
+          139
+        ],
+        "schools,": [
+          141
+        ],
+        "which": [
+          142
+        ],
+        "account": [
+          144
+        ],
+        "for": [
+          145
+        ],
+        "average": [
+          147
+        ],
+        "15": [
+          149
+        ],
+        "percent": [
+          150
+        ],
+        "inefficiency": [
+          152
+        ],
+        "with": [
+          153
+        ],
+        "no": [
+          154
+        ],
+        "regions.": [
+          158
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1532502227",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2124208552",
+      "doi": "https://doi.org/10.1080/09645292.2012.736475",
+      "title": "What are the causes of educational inequality and of its evolution over time in Europe? Evidence from PISA",
+      "display_name": "What are the causes of educational inequality and of its evolution over time in Europe? Evidence from PISA",
+      "alternate_titles": [],
+      "relevance_score": 34.106236,
+      "publication_year": 2012,
+      "publication_date": "2012-10-25",
+      "ids": {
+        "openalex": "https://openalex.org/W2124208552",
+        "doi": "https://doi.org/10.1080/09645292.2012.736475",
+        "mag": "2124208552"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/09645292.2012.736475",
+        "doi": "https://doi.org/10.1080/09645292.2012.736475",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09645292.2012.736475",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S5043877",
+          "display_name": "Education Economics",
+          "issn_l": "0964-5292",
+          "issn": [
+            "0964-5292",
+            "1469-5782"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-b",
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Education Economics",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2124208552"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://iris.unito.it/bitstream/2318/118099/2/Open%20access_EE_OppedisanoTurati_complete.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5066685570",
+            "display_name": "Veruska Oppedisano",
+            "orcid": "https://orcid.org/0000-0002-7677-8236",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7677-8236"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Veruska Oppedisano",
+          "raw_affiliation_strings": [
+            "Department of Economics, University College London, London, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Economics, University College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008690419",
+            "display_name": "Gilberto Turati",
+            "orcid": "https://orcid.org/0000-0002-2146-7887",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2146-7887"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55143463",
+              "display_name": "University of Turin",
+              "ror": "https://ror.org/048tbm396",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55143463"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gilberto Turati",
+          "raw_affiliation_strings": [
+            "Department of Economics and Public Finance, University of Torino, Torino, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Economics and Public Finance, University of Torino, Torino, Italy",
+              "institution_ids": [
+                "https://openalex.org/I55143463"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5066685570"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I45129253"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 52.632,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 144,
+      "citation_normalized_percentile": {
+        "value": 0.99861941,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "23",
+        "issue": "1",
+        "first_page": "3",
+        "last_page": "24"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10674",
+        "display_name": "School Choice and Performance",
+        "score": 0.9336000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10674",
+          "display_name": "School Choice and Performance",
+          "score": 0.9336000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12088",
+          "display_name": "Intergenerational and Educational Inequality Studies",
+          "score": 0.04969999939203262,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11300",
+          "display_name": "Global Educational Policies and Reforms",
+          "score": 0.009100000374019146,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3320",
+            "display_name": "Political Science and International Relations"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/educational-inequality",
+          "display_name": "educational inequality",
+          "score": 1.0
+        },
+        {
+          "id": "https://openalex.org/keywords/pisa",
+          "display_name": "PISA",
+          "score": 0.7139999866485596
+        },
+        {
+          "id": "https://openalex.org/keywords/decomposition-analysis",
+          "display_name": "decomposition analysis",
+          "score": 0.4950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/school-characteristics",
+          "display_name": "school characteristics",
+          "score": 0.6240000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/academic-achievement",
+          "display_name": "academic performance",
+          "score": 0.5849999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/france",
+          "display_name": "France",
+          "score": 0.3540000021457672
+        },
+        {
+          "id": "https://openalex.org/keywords/germany",
+          "display_name": "Germany",
+          "score": 0.8790000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/spain",
+          "display_name": "Spain",
+          "score": 0.7279999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/italy",
+          "display_name": "Italy",
+          "score": 0.7889999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/european-education-systems",
+          "display_name": "European education systems",
+          "score": 0.4449999928474426
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C45555294",
+          "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+          "display_name": "Inequality",
+          "level": 2,
+          "score": 0.8528791666030884
+        },
+        {
+          "id": "https://openalex.org/C2778783286",
+          "wikidata": "https://www.wikidata.org/wiki/Q861360",
+          "display_name": "Educational inequality",
+          "level": 3,
+          "score": 0.7020700573921204
+        },
+        {
+          "id": "https://openalex.org/C4249254",
+          "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+          "display_name": "Demographic economics",
+          "level": 1,
+          "score": 0.5389649868011475
+        },
+        {
+          "id": "https://openalex.org/C165148211",
+          "wikidata": "https://www.wikidata.org/wiki/Q5431887",
+          "display_name": "Social inequality",
+          "level": 3,
+          "score": 0.46530893445014954
+        },
+        {
+          "id": "https://openalex.org/C47768531",
+          "wikidata": "https://www.wikidata.org/wiki/Q1127188",
+          "display_name": "Development economics",
+          "level": 1,
+          "score": 0.37150776386260986
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.37025564908981323
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.07954373955726624
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1080/09645292.2012.736475",
+          "doi": "https://doi.org/10.1080/09645292.2012.736475",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/09645292.2012.736475",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S5043877",
+            "display_name": "Education Economics",
+            "issn_l": "0964-5292",
+            "issn": [
+              "0964-5292",
+              "1469-5782"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "abdc-b",
+              "anvur-scientific",
+              "cwts-core",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Education Economics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:iris.unito.it:2318/118099",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/2318/118099",
+          "pdf_url": "https://iris.unito.it/bitstream/2318/118099/2/Open%20access_EE_OppedisanoTurati_complete.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400637",
+            "display_name": "Institutional Research Information System University of Turin (University of Turin)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I55143463",
+            "host_organization_name": "University of Turin",
+            "host_organization_lineage": [
+              "https://openalex.org/I55143463"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:westminsterresearch.westminster.ac.uk:9vx75",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1080/09645292.2012.736475",
+          "pdf_url": "https://westminsterresearch.westminster.ac.uk/download/bc47127ba06397f56143e05faf3a9de44ab40456bb25a8b9e77c2792469c8af3/381583/EducIneq.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400277",
+            "display_name": "WestminsterResearch (University of Westminster)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I94951947",
+            "host_organization_name": "University of Westminster",
+            "host_organization_lineage": [
+              "https://openalex.org/I94951947"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:taf:edecon:v:23:y:2015:i:1:p:3-24",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10.1080/09645292.2012.736475",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:iris.unito.it:2318/118099",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2318/118099",
+        "pdf_url": "https://iris.unito.it/bitstream/2318/118099/2/Open%20access_EE_OppedisanoTurati_complete.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400637",
+          "display_name": "Institutional Research Information System University of Turin (University of Turin)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I55143463",
+          "host_organization_name": "University of Turin",
+          "host_organization_lineage": [
+            "https://openalex.org/I55143463"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.9235000014305115,
+          "display_name": "Quality education",
+          "id": "https://metadata.un.org/sdg/4"
+        },
+        {
+          "score": 0.8974000215530396,
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2124208552.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2124208552.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W4047437",
+        "https://openalex.org/W112944247",
+        "https://openalex.org/W118607816",
+        "https://openalex.org/W139984338",
+        "https://openalex.org/W759303005",
+        "https://openalex.org/W1495948341",
+        "https://openalex.org/W1500129153",
+        "https://openalex.org/W1500899021",
+        "https://openalex.org/W1503505352",
+        "https://openalex.org/W1506964279",
+        "https://openalex.org/W1510770771",
+        "https://openalex.org/W1521395742",
+        "https://openalex.org/W1524250088",
+        "https://openalex.org/W1533833122",
+        "https://openalex.org/W1659845890",
+        "https://openalex.org/W1841733224",
+        "https://openalex.org/W1904617750",
+        "https://openalex.org/W1969008964",
+        "https://openalex.org/W1978025816",
+        "https://openalex.org/W1985422330",
+        "https://openalex.org/W2005423964",
+        "https://openalex.org/W2033893574",
+        "https://openalex.org/W2046477362",
+        "https://openalex.org/W2067175802",
+        "https://openalex.org/W2080293167",
+        "https://openalex.org/W2090723924",
+        "https://openalex.org/W2094449984",
+        "https://openalex.org/W2100673825",
+        "https://openalex.org/W2101427751",
+        "https://openalex.org/W2112768559",
+        "https://openalex.org/W2115585814",
+        "https://openalex.org/W2118644299",
+        "https://openalex.org/W2120143562",
+        "https://openalex.org/W2129207127",
+        "https://openalex.org/W2137008467",
+        "https://openalex.org/W2148691277",
+        "https://openalex.org/W2157040305",
+        "https://openalex.org/W2163156560",
+        "https://openalex.org/W2272741259",
+        "https://openalex.org/W2794003266",
+        "https://openalex.org/W3121251166",
+        "https://openalex.org/W4206186224",
+        "https://openalex.org/W4232208158",
+        "https://openalex.org/W4253882393",
+        "https://openalex.org/W4285719527"
+      ],
+      "related_works": [
+        "https://openalex.org/W3124171943",
+        "https://openalex.org/W2051839623",
+        "https://openalex.org/W1883941980",
+        "https://openalex.org/W2492309495",
+        "https://openalex.org/W2288505117",
+        "https://openalex.org/W7207741974",
+        "https://openalex.org/W195016989",
+        "https://openalex.org/W2062158947",
+        "https://openalex.org/W2556968402",
+        "https://openalex.org/W2186000143"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "paper": [
+          1,
+          38
+        ],
+        "provides": [
+          2
+        ],
+        "evidence": [
+          3
+        ],
+        "on": [
+          4
+        ],
+        "the": [
+          5,
+          31,
+          34,
+          37,
+          72,
+          86
+        ],
+        "sources": [
+          6
+        ],
+        "of": [
+          7,
+          91
+        ],
+        "differences": [
+          8
+        ],
+        "in": [
+          9,
+          11,
+          19,
+          43,
+          54
+        ],
+        "inequality": [
+          10,
+          41,
+          67
+        ],
+        "educational": [
+          12,
+          66
+        ],
+        "scores": [
+          13
+        ],
+        "and": [
+          14,
+          33,
+          45,
+          56
+        ],
+        "their": [
+          15
+        ],
+        "evolution": [
+          16,
+          88
+        ],
+        "over": [
+          17,
+          89
+        ],
+        "time": [
+          18,
+          90
+        ],
+        "four": [
+          20
+        ],
+        "European": [
+          21
+        ],
+        "countries.": [
+          22
+        ],
+        "Using": [
+          23
+        ],
+        "Programme": [
+          24
+        ],
+        "for": [
+          25,
+          85
+        ],
+        "International": [
+          26
+        ],
+        "Student": [
+          27
+        ],
+        "Assessment": [
+          28
+        ],
+        "data": [
+          29
+        ],
+        "from": [
+          30
+        ],
+        "2000": [
+          32
+        ],
+        "2006": [
+          35
+        ],
+        "waves,": [
+          36
+        ],
+        "shows": [
+          39,
+          64
+        ],
+        "that": [
+          40,
+          65
+        ],
+        "decreased": [
+          42
+        ],
+        "Germany": [
+          44
+        ],
+        "Spain": [
+          46
+        ],
+        "(two": [
+          47,
+          58
+        ],
+        "‘decentralised’": [
+          48
+        ],
+        "schooling": [
+          49
+        ],
+        "systems),": [
+          50
+        ],
+        "whilst": [
+          51
+        ],
+        "it": [
+          52
+        ],
+        "increased": [
+          53
+        ],
+        "France": [
+          55
+        ],
+        "Italy": [
+          57
+        ],
+        "‘centralised’": [
+          59
+        ],
+        "systems).": [
+          60
+        ],
+        "The": [
+          61
+        ],
+        "decomposition": [
+          62
+        ],
+        "exercise": [
+          63
+        ],
+        "not": [
+          68
+        ],
+        "only": [
+          69
+        ],
+        "does": [
+          70
+        ],
+        "reflect": [
+          71
+        ],
+        "background": [
+          73
+        ],
+        "related": [
+          74
+        ],
+        "inequality,": [
+          75
+        ],
+        "but": [
+          76
+        ],
+        "also": [
+          77
+        ],
+        "schools'": [
+          78
+        ],
+        "characteristics": [
+          79,
+          82
+        ],
+        "especially.": [
+          80
+        ],
+        "These": [
+          81
+        ],
+        "are": [
+          83
+        ],
+        "responsible": [
+          84
+        ],
+        "observed": [
+          87
+        ],
+        "inequality.": [
+          92
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2124208552",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 25
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2908222409",
+      "doi": "https://doi.org/10.2760/495702",
+      "title": "Regional inequalities in PISA: the case of Italy and Spain",
+      "display_name": "Regional inequalities in PISA: the case of Italy and Spain",
+      "alternate_titles": [],
+      "relevance_score": 29.937305,
+      "publication_year": 2018,
+      "publication_date": "2018-06-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2908222409",
+        "doi": "https://doi.org/10.2760/495702",
+        "mag": "2908222409"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2908222409",
+        "doi": "https://doi.org/10.2760/495702",
+        "is_oa": false,
+        "landing_page_url": "https://EconPapers.repec.org/RePEc:ipt:iptwpa:jrc109057",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "RePEc: Research Papers in Economics",
+        "raw_type": null
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2908222409"
+      ],
+      "child_works_count": 0,
+      "type": "preprint",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10234/185744",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065191010",
+            "display_name": "Ralph Hippe",
+            "orcid": "https://orcid.org/0000-0002-1427-9060",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1427-9060"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ralph Hippe",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-1427-9060",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037682620",
+            "display_name": "Maciej Jakubowski",
+            "orcid": "https://orcid.org/0000-0002-2512-3133",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2512-3133"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Maciej Jakubowski",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2512-3133",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5076331772",
+            "display_name": "Luísa Araújo",
+            "orcid": "https://orcid.org/0000-0001-6491-5777",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6491-5777"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Luísa Araújo",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-6491-5777",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 45,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10674",
+        "display_name": "School Choice and Performance",
+        "score": 0.8086000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10674",
+          "display_name": "School Choice and Performance",
+          "score": 0.8086000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11300",
+          "display_name": "Global Educational Policies and Reforms",
+          "score": 0.07760000228881836,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3320",
+            "display_name": "Political Science and International Relations"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10393",
+          "display_name": "Economic Growth and Productivity",
+          "score": 0.031599998474121094,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/regional-disparities-in-education",
+          "display_name": "regional disparities in education",
+          "score": 0.7250000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/pisa-2015",
+          "display_name": "PISA 2015",
+          "score": 0.8650000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/science-achievement",
+          "display_name": "science achievement",
+          "score": 0.9509999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/italy",
+          "display_name": "Italy",
+          "score": 0.8330000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/spain",
+          "display_name": "Spain",
+          "score": 1.0
+        },
+        {
+          "id": "https://openalex.org/keywords/epistemic-beliefs",
+          "display_name": "epistemological beliefs",
+          "score": 0.9789999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/grade-retention",
+          "display_name": "school retention",
+          "score": 0.9449999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/truancy",
+          "display_name": "truancy",
+          "score": 0.9660000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/socioeconomic-background",
+          "display_name": "socioeconomic background",
+          "score": 0.8939999938011169
+        },
+        {
+          "id": "https://openalex.org/keywords/immigrant-students",
+          "display_name": "immigrant students",
+          "score": 0.7960000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/oaxaca-blinder-decomposition",
+          "display_name": "Oaxaca-Blinder decomposition",
+          "score": 0.8500000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-attainment",
+          "display_name": "educational attainment",
+          "score": 0.527999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-skills",
+          "display_name": "cognitive skills",
+          "score": 0.5619999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/nuts-regions",
+          "display_name": "NUTS regions",
+          "score": 0.6470000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/education-policy",
+          "display_name": "education policy",
+          "score": 0.4860000014305115
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C197947376",
+          "wikidata": "https://www.wikidata.org/wiki/Q5155608",
+          "display_name": "Comparability",
+          "level": 2,
+          "score": 0.8425623178482056
+        },
+        {
+          "id": "https://openalex.org/C45555294",
+          "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+          "display_name": "Inequality",
+          "level": 2,
+          "score": 0.6188294887542725
+        },
+        {
+          "id": "https://openalex.org/C134290984",
+          "wikidata": "https://www.wikidata.org/wiki/Q5141241",
+          "display_name": "Cognitive skill",
+          "level": 3,
+          "score": 0.5240167379379272
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.5231793522834778
+        },
+        {
+          "id": "https://openalex.org/C148383697",
+          "wikidata": "https://www.wikidata.org/wiki/Q1781695",
+          "display_name": "Regional science",
+          "level": 1,
+          "score": 0.46159908175468445
+        },
+        {
+          "id": "https://openalex.org/C2779297142",
+          "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+          "display_name": "Educational attainment",
+          "level": 2,
+          "score": 0.4579131007194519
+        },
+        {
+          "id": "https://openalex.org/C2778783286",
+          "wikidata": "https://www.wikidata.org/wiki/Q861360",
+          "display_name": "Educational inequality",
+          "level": 3,
+          "score": 0.4485246539115906
+        },
+        {
+          "id": "https://openalex.org/C2777216955",
+          "wikidata": "https://www.wikidata.org/wiki/Q18351911",
+          "display_name": "International comparisons",
+          "level": 2,
+          "score": 0.44693291187286377
+        },
+        {
+          "id": "https://openalex.org/C2777267654",
+          "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+          "display_name": "Test (biology)",
+          "level": 2,
+          "score": 0.44110795855522156
+        },
+        {
+          "id": "https://openalex.org/C2778755073",
+          "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+          "display_name": "Scale (ratio)",
+          "level": 2,
+          "score": 0.43292760848999023
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.41752171516418457
+        },
+        {
+          "id": "https://openalex.org/C110121322",
+          "wikidata": "https://www.wikidata.org/wiki/Q865811",
+          "display_name": "Distribution (mathematics)",
+          "level": 2,
+          "score": 0.41075950860977173
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.34414374828338623
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.33099600672721863
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.3209882080554962
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.17797207832336426
+        },
+        {
+          "id": "https://openalex.org/C58640448",
+          "wikidata": "https://www.wikidata.org/wiki/Q42515",
+          "display_name": "Cartography",
+          "level": 1,
+          "score": 0.09454643726348877
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C114614502",
+          "wikidata": "https://www.wikidata.org/wiki/Q76592",
+          "display_name": "Combinatorics",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "mag:2908222409",
+          "doi": "https://doi.org/10.2760/495702",
+          "is_oa": false,
+          "landing_page_url": "https://EconPapers.repec.org/RePEc:ipt:iptwpa:jrc109057",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "RePEc: Research Papers in Economics",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:RePEc:ipt:iptwpa:jrc109057",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC109057",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "preprint"
+        },
+        {
+          "id": "pmh:oai:publications.jrc.ec.europa.eu:111111111/52367",
+          "doi": "https://doi.org/10.2760/495702",
+          "is_oa": false,
+          "landing_page_url": "http://publications.jrc.ec.europa.eu/repository/handle/JRC109057",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401126",
+            "display_name": "Joint Research Centre (European Commission)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I2800387288",
+            "host_organization_name": "European Commission",
+            "host_organization_lineage": [
+              "https://openalex.org/I2800387288"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "EUR - Scientific and Technical Research Reports"
+        },
+        {
+          "id": "pmh:oai:repositori.uji.es:10234/185744",
+          "doi": "https://doi.org/10.2760/495702",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10234/185744",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400303",
+            "display_name": "Repositori UJI (Universitat Jaume I)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I10902133",
+            "host_organization_name": "Universitat Jaume I",
+            "host_organization_lineage": [
+              "https://openalex.org/I10902133"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/report"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:repositori.uji.es:10234/185744",
+        "doi": "https://doi.org/10.2760/495702",
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/10234/185744",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400303",
+          "display_name": "Repositori UJI (Universitat Jaume I)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I10902133",
+          "host_organization_name": "Universitat Jaume I",
+          "host_organization_lineage": [
+            "https://openalex.org/I10902133"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/report"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8278999924659729,
+          "display_name": "Quality education",
+          "id": "https://metadata.un.org/sdg/4"
+        },
+        {
+          "score": 0.7578999996185303,
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320300",
+          "display_name": "European Commission",
+          "ror": "https://ror.org/00k4n6c32"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2908222409.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2908222409.grobid-xml"
+      },
+      "referenced_works_count": 29,
+      "referenced_works": [
+        "https://openalex.org/W1508714975",
+        "https://openalex.org/W1533944041",
+        "https://openalex.org/W1557836286",
+        "https://openalex.org/W1577001291",
+        "https://openalex.org/W1982896809",
+        "https://openalex.org/W2009700223",
+        "https://openalex.org/W2029394297",
+        "https://openalex.org/W2046039277",
+        "https://openalex.org/W2067314032",
+        "https://openalex.org/W2115585814",
+        "https://openalex.org/W2124890698",
+        "https://openalex.org/W2128662111",
+        "https://openalex.org/W2132453606",
+        "https://openalex.org/W2144350258",
+        "https://openalex.org/W2152874686",
+        "https://openalex.org/W2160095395",
+        "https://openalex.org/W2171185451",
+        "https://openalex.org/W2186000143",
+        "https://openalex.org/W2246146649",
+        "https://openalex.org/W2325074035",
+        "https://openalex.org/W2337252821",
+        "https://openalex.org/W2468162854",
+        "https://openalex.org/W2567079588",
+        "https://openalex.org/W2765692260",
+        "https://openalex.org/W3123675052",
+        "https://openalex.org/W3125587479",
+        "https://openalex.org/W4210715261",
+        "https://openalex.org/W4243025289",
+        "https://openalex.org/W4247156723"
+      ],
+      "related_works": [
+        "https://openalex.org/W2046039277",
+        "https://openalex.org/W392167476",
+        "https://openalex.org/W2009700223",
+        "https://openalex.org/W2091021811",
+        "https://openalex.org/W6999342506",
+        "https://openalex.org/W2614538426",
+        "https://openalex.org/W1081924745",
+        "https://openalex.org/W2170411642",
+        "https://openalex.org/W2772888012",
+        "https://openalex.org/W297730647"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "technical": [
+          1
+        ],
+        "brief": [
+          2
+        ],
+        "analyses": [
+          3
+        ],
+        "the": [
+          4,
+          47,
+          54,
+          63,
+          75,
+          78,
+          165,
+          172,
+          214,
+          222,
+          237,
+          244,
+          276,
+          284,
+          293,
+          299,
+          388,
+          391,
+          480,
+          483,
+          486,
+          496
+        ],
+        "regional": [
+          5,
+          24,
+          36,
+          194,
+          210,
+          257,
+          314,
+          330,
+          343
+        ],
+        "distribution": [
+          6
+        ],
+        "of": [
+          7,
+          23,
+          49,
+          56,
+          65,
+          91,
+          115,
+          117,
+          144,
+          164,
+          167,
+          174,
+          246,
+          267,
+          369,
+          482
+        ],
+        "skills": [
+          8,
+          82,
+          97,
+          198
+        ],
+        "in": [
+          9,
+          27,
+          38,
+          69,
+          71,
+          98,
+          120,
+          142,
+          196,
+          205,
+          316,
+          429,
+          452,
+          454,
+          471,
+          477
+        ],
+        "Italy": [
+          10,
+          206,
+          333,
+          455
+        ],
+        "and": [
+          11,
+          83,
+          112,
+          129,
+          147,
+          207,
+          219,
+          283,
+          289,
+          334,
+          349,
+          355,
+          375,
+          402,
+          422,
+          441,
+          456,
+          485
+        ],
+        "Spain.": [
+          12,
+          335,
+          457
+        ],
+        "Educational": [
+          13
+        ],
+        "attainment": [
+          14,
+          146
+        ],
+        "rates": [
+          15,
+          33
+        ],
+        "have": [
+          16
+        ],
+        "frequently": [
+          17
+        ],
+        "been": [
+          18
+        ],
+        "used": [
+          19
+        ],
+        "as": [
+          20,
+          51,
+          387
+        ],
+        "an": [
+          21
+        ],
+        "indicator": [
+          22
+        ],
+        "educational": [
+          25,
+          145,
+          501
+        ],
+        "development": [
+          26
+        ],
+        "EU": [
+          28
+        ],
+        "Member": [
+          29
+        ],
+        "States": [
+          30
+        ],
+        "(MS).": [
+          31
+        ],
+        "These": [
+          32
+        ],
+        "indicate": [
+          34
+        ],
+        "significant": [
+          35,
+          313
+        ],
+        "disparities": [
+          37
+        ],
+        "education": [
+          39,
+          168
+        ],
+        "within": [
+          40,
+          169,
+          287,
+          319,
+          332,
+          376
+        ],
+        "countries.": [
+          41,
+          170,
+          187
+        ],
+        "However,": [
+          42,
+          136,
+          171
+        ],
+        "recent": [
+          43,
+          216
+        ],
+        "evidence": [
+          44
+        ],
+        "shows": [
+          45,
+          383
+        ],
+        "that": [
+          46,
+          224,
+          271,
+          301,
+          310,
+          326,
+          384,
+          411,
+          489
+        ],
+        "quality": [
+          48
+        ],
+        "education,": [
+          50
+        ],
+        "measured": [
+          52,
+          200
+        ],
+        "by": [
+          53,
+          201,
+          259,
+          263,
+          291
+        ],
+        "level": [
+          55,
+          245
+        ],
+        "specific": [
+          57,
+          459,
+          487
+        ],
+        "skills,": [
+          58
+        ],
+        "is": [
+          59,
+          181,
+          365
+        ],
+        "more": [
+          60,
+          470
+        ],
+        "important": [
+          61,
+          113
+        ],
+        "than": [
+          62
+        ],
+        "number": [
+          64
+        ],
+        "years": [
+          66
+        ],
+        "one": [
+          67
+        ],
+        "spends": [
+          68
+        ],
+        "school,": [
+          70
+        ],
+        "particular": [
+          72
+        ],
+        "when": [
+          73
+        ],
+        "considering": [
+          74
+        ],
+        "relationship": [
+          76
+        ],
+        "between": [
+          77,
+          236,
+          278,
+          374
+        ],
+        "cognitive": [
+          79,
+          96,
+          122,
+          197
+        ],
+        "(and": [
+          80
+        ],
+        "non-cognitive)": [
+          81
+        ],
+        "economic": [
+          84
+        ],
+        "growth.": [
+          85
+        ],
+        "International": [
+          86,
+          104
+        ],
+        "large": [
+          87
+        ],
+        "scale": [
+          88
+        ],
+        "assessments": [
+          89
+        ],
+        "(ILSA)": [
+          90
+        ],
+        "student": [
+          92
+        ],
+        "performance": [
+          93,
+          119
+        ],
+        "measure": [
+          94
+        ],
+        "these": [
+          95,
+          228
+        ],
+        "key": [
+          99,
+          121
+        ],
+        "areas.": [
+          100
+        ],
+        "OECD’s": [
+          101
+        ],
+        "Program": [
+          102
+        ],
+        "for": [
+          103,
+          406,
+          461
+        ],
+        "Student": [
+          105
+        ],
+        "Assessment": [
+          106
+        ],
+        "(PISA)": [
+          107
+        ],
+        "provides": [
+          108
+        ],
+        "a": [
+          109,
+          161,
+          185,
+          265,
+          367,
+          474
+        ],
+        "very": [
+          110
+        ],
+        "useful": [
+          111
+        ],
+        "source": [
+          114
+        ],
+        "information": [
+          116
+        ],
+        "students'": [
+          118
+        ],
+        "skills.": [
+          123
+        ],
+        "When": [
+          124
+        ],
+        "analysing": [
+          125
+        ],
+        "PISA": [
+          126,
+          148,
+          179,
+          202,
+          211,
+          279,
+          317
+        ],
+        "data,": [
+          127
+        ],
+        "researchers": [
+          128
+        ],
+        "commentators": [
+          130
+        ],
+        "often": [
+          131
+        ],
+        "focus": [
+          132,
+          152,
+          192,
+          415
+        ],
+        "on": [
+          133,
+          153,
+          193,
+          416
+        ],
+        "cross-country": [
+          134
+        ],
+        "comparisons.": [
+          135
+        ],
+        "vast": [
+          137
+        ],
+        "within-country": [
+          138,
+          176,
+          305,
+          407,
+          497
+        ],
+        "differences": [
+          139,
+          177,
+          315,
+          331
+        ],
+        "exist,": [
+          140
+        ],
+        "also": [
+          141,
+          366,
+          382
+        ],
+        "terms": [
+          143
+        ],
+        "test": [
+          149,
+          203
+        ],
+        "scores.": [
+          150
+        ],
+        "A": [
+          151
+        ],
+        "country": [
+          154
+        ],
+        "averages": [
+          155
+        ],
+        "alone": [
+          156
+        ],
+        "would": [
+          157
+        ],
+        "hence": [
+          158
+        ],
+        "provide": [
+          159
+        ],
+        "only": [
+          160,
+          184
+        ],
+        "partial": [
+          162
+        ],
+        "view": [
+          163
+        ],
+        "status": [
+          166,
+          401
+        ],
+        "possibility": [
+          173
+        ],
+        "exploring": [
+          175
+        ],
+        "with": [
+          178,
+          227,
+          329,
+          342,
+          361,
+          436
+        ],
+        "data": [
+          180,
+          212
+        ],
+        "limited": [
+          182
+        ],
+        "to": [
+          183,
+          232,
+          274,
+          297,
+          304,
+          419,
+          426,
+          438,
+          468,
+          479,
+          491,
+          494,
+          500
+        ],
+        "few": [
+          186
+        ],
+        "In": [
+          188
+        ],
+        "this": [
+          189
+        ],
+        "report": [
+          190
+        ],
+        "we": [
+          191,
+          220,
+          240
+        ],
+        "inequalities": [
+          195,
+          258
+        ],
+        "(as": [
+          199
+        ],
+        "scores)": [
+          204
+        ],
+        "Spain,": [
+          208
+        ],
+        "using": [
+          209,
+          260,
+          292
+        ],
+        "from": [
+          213
+        ],
+        "most": [
+          215,
+          338
+        ],
+        "2015": [
+          217,
+          280
+        ],
+        "wave,": [
+          218
+        ],
+        "analyse": [
+          221,
+          275
+        ],
+        "factors": [
+          223,
+          300,
+          325,
+          337,
+          372,
+          488
+        ],
+        "are": [
+          225,
+          302,
+          312,
+          323,
+          327,
+          346,
+          357
+        ],
+        "associated": [
+          226,
+          328,
+          341
+        ],
+        "inequalities.": [
+          229
+        ],
+        "\\nIn": [
+          230
+        ],
+        "order": [
+          231
+        ],
+        "insure": [
+          233
+        ],
+        "full": [
+          234
+        ],
+        "comparability": [
+          235
+        ],
+        "two": [
+          238
+        ],
+        "countries": [
+          239
+        ],
+        "define": [
+          241
+        ],
+        "regions": [
+          242,
+          288
+        ],
+        "at": [
+          243
+        ],
+        "NUTS1": [
+          247
+        ],
+        "(macro-region),": [
+          248
+        ],
+        "following": [
+          249
+        ],
+        "Eurostat’s": [
+          250
+        ],
+        "official": [
+          251
+        ],
+        "NUTS": [
+          252
+        ],
+        "2013": [
+          253
+        ],
+        "classification.": [
+          254
+        ],
+        "We": [
+          255
+        ],
+        "investigate": [
+          256
+        ],
+        "descriptive": [
+          261
+        ],
+        "statistics,": [
+          262
+        ],
+        "running": [
+          264
+        ],
+        "range": [
+          266,
+          368
+        ],
+        "OLS": [
+          268
+        ],
+        "regression": [
+          269
+        ],
+        "models": [
+          270
+        ],
+        "allow": [
+          272,
+          465
+        ],
+        "us": [
+          273
+        ],
+        "associations": [
+          277
+        ],
+        "science": [
+          281,
+          344,
+          448
+        ],
+        "scores": [
+          282,
+          318,
+          428
+        ],
+        "explanatory": [
+          285
+        ],
+        "variables": [
+          286,
+          385
+        ],
+        "finally": [
+          290
+        ],
+        "Blinder-Oaxaca": [
+          294,
+          380
+        ],
+        "decomposition": [
+          295,
+          381
+        ],
+        "method": [
+          296
+        ],
+        "specify": [
+          298
+        ],
+        "related": [
+          303,
+          360,
+          499
+        ],
+        "differences.": [
+          306
+        ],
+        "\\nThe": [
+          307
+        ],
+        "results": [
+          308,
+          409,
+          435,
+          460
+        ],
+        "show": [
+          309
+        ],
+        "there": [
+          311,
+          364
+        ],
+        "both": [
+          320,
+          377
+        ],
+        "MS.": [
+          321,
+          378
+        ],
+        "There": [
+          322
+        ],
+        "several": [
+          324
+        ],
+        "The": [
+          336,
+          379,
+          458
+        ],
+        "consistently": [
+          339
+        ],
+        "positively": [
+          340
+        ],
+        "achievement": [
+          345
+        ],
+        "teacher-directed": [
+          347
+        ],
+        "teaching": [
+          348,
+          442
+        ],
+        "epistemological": [
+          350,
+          439
+        ],
+        "beliefs,": [
+          351
+        ],
+        "while": [
+          352
+        ],
+        "grade": [
+          353,
+          403,
+          424
+        ],
+        "repetition": [
+          354,
+          404,
+          425
+        ],
+        "truancy": [
+          356,
+          421
+        ],
+        "significantly": [
+          358
+        ],
+        "negatively": [
+          359
+        ],
+        "achievement.": [
+          362,
+          502
+        ],
+        "Still,": [
+          363
+        ],
+        "other": [
+          370
+        ],
+        "relevant": [
+          371
+        ],
+        "varying": [
+          373
+        ],
+        "such": [
+          386
+        ],
+        "socio-economic": [
+          389
+        ],
+        "background,": [
+          390
+        ],
+        "students’": [
+          392
+        ],
+        "expected": [
+          393
+        ],
+        "occupation,": [
+          394
+        ],
+        "learning": [
+          395
+        ],
+        "outside": [
+          396
+        ],
+        "school": [
+          397
+        ],
+        "time,": [
+          398
+        ],
+        "truancy,": [
+          399
+        ],
+        "immigrant": [
+          400
+        ],
+        "matter": [
+          405
+        ],
+        "differences.\\nOur": [
+          408
+        ],
+        "suggest": [
+          410
+        ],
+        "policy": [
+          412,
+          466
+        ],
+        "makers": [
+          413,
+          467
+        ],
+        "should": [
+          414,
+          449
+        ],
+        "finding": [
+          417
+        ],
+        "solutions": [
+          418
+        ],
+        "limit": [
+          420
+        ],
+        "rethink": [
+          423
+        ],
+        "leverage": [
+          427
+        ],
+        "lower": [
+          430
+        ],
+        "performing": [
+          431
+        ],
+        "regions.": [
+          432
+        ],
+        "Moreover,": [
+          433
+        ],
+        "our": [
+          434
+        ],
+        "regard": [
+          437
+        ],
+        "beliefs": [
+          440
+        ],
+        "practices": [
+          443
+        ],
+        "challenge": [
+          444
+        ],
+        "thinking": [
+          445
+        ],
+        "about": [
+          446
+        ],
+        "how": [
+          447,
+          473
+        ],
+        "be": [
+          450,
+          492
+        ],
+        "taught": [
+          451
+        ],
+        "schools": [
+          453
+        ],
+        "each": [
+          462
+        ],
+        "region": [
+          463,
+          475
+        ],
+        "may": [
+          464
+        ],
+        "consider": [
+          469
+        ],
+        "detail": [
+          472
+        ],
+        "stands": [
+          476
+        ],
+        "comparison": [
+          478
+        ],
+        "rest": [
+          481
+        ],
+        "country,": [
+          484
+        ],
+        "need": [
+          490
+        ],
+        "addressed": [
+          493
+        ],
+        "improve": [
+          495
+        ],
+        "inequality": [
+          498
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2908222409",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2019-01-11T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3001831631",
+      "doi": "https://doi.org/10.15581/004.26.33-62",
+      "title": "Evolution of the School Failure Risk During the 2000 Decade in Spain: Analysis of PISA Results with a Two-Level Logistic Model",
+      "display_name": "Evolution of the School Failure Risk During the 2000 Decade in Spain: Analysis of PISA Results with a Two-Level Logistic Model",
+      "alternate_titles": [
+        "Evolución del riesgo de fracaso escolar en España durante la década del 2000: Análisis de los resultados de PISA con un modelo logístico de dos niveles"
+      ],
+      "relevance_score": 29.567503,
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3001831631",
+        "doi": "https://doi.org/10.15581/004.26.33-62",
+        "mag": "3001831631"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.15581/004.26.33-62",
+        "doi": "https://doi.org/10.15581/004.26.33-62",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15581/004.26.33-62",
+        "pdf_url": "https://revistas.unav.edu/index.php/estudios-sobre-educacion/article/download/1859/1729",
+        "source": {
+          "id": "https://openalex.org/S951914886",
+          "display_name": "Estudios sobre Educación",
+          "issn_l": "1578-7001",
+          "issn": [
+            "1578-7001",
+            "2386-6292"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "ddh",
+            "doaj",
+            "erih-plus",
+            "fecyt-seal",
+            "latindex",
+            "poland-40",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320988",
+          "host_organization_name": "University of Navarre",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320988"
+          ],
+          "host_organization_lineage_names": [
+            "University of Navarre"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Estudios sobre Educación",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3001831631"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.unav.edu/index.php/estudios-sobre-educacion/article/download/1859/1729",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5048652984",
+            "display_name": "Juan Manuel Guío",
+            "orcid": "https://orcid.org/0000-0002-1129-3529",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1129-3529"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71999127",
+              "display_name": "Universitat de Barcelona",
+              "ror": "https://ror.org/021018s57",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Juan Manuel Guio Jaimes",
+          "raw_affiliation_strings": [
+            "Universidad de Barcelona"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad de Barcelona",
+              "institution_ids": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5021541801",
+            "display_name": "Álvaro Choi de Mendizábal",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71999127",
+              "display_name": "Universitat de Barcelona",
+              "ror": "https://ror.org/021018s57",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Álvaro Choi de Mendizábal",
+          "raw_affiliation_strings": [
+            "Universidad de Barcelona"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad de Barcelona",
+              "institution_ids": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71999127"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 120.7205,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 174,
+      "citation_normalized_percentile": {
+        "value": 0.99974998,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": null,
+        "first_page": "33",
+        "last_page": "62"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13929",
+        "display_name": "Educational Outcomes and Influences",
+        "score": 0.8871999979019165,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13929",
+          "display_name": "Educational Outcomes and Influences",
+          "score": 0.8871999979019165,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10674",
+          "display_name": "School Choice and Performance",
+          "score": 0.07289999723434448,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13405",
+          "display_name": "Educational Assessment and Improvement",
+          "score": 0.010900000110268593,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/school-failure",
+          "display_name": "school failure",
+          "score": 0.9169999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/school-dropout-risk",
+          "display_name": "school dropout risk",
+          "score": 0.5720000267028809
+        },
+        {
+          "id": "https://openalex.org/keywords/pisa",
+          "display_name": "PISA",
+          "score": 0.8640000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-inequality",
+          "display_name": "educational inequality",
+          "score": 0.5830000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/household-characteristics",
+          "display_name": "household characteristics",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/school-characteristics",
+          "display_name": "school characteristics",
+          "score": 0.8450000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/student-characteristics",
+          "display_name": "student characteristics",
+          "score": 0.722000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/spanish-education-system",
+          "display_name": "Spanish education system",
+          "score": 0.8100000023841858
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778355071",
+          "wikidata": "https://www.wikidata.org/wiki/Q1933849",
+          "display_name": "Microdata (statistics)",
+          "level": 4,
+          "score": 0.8981921672821045
+        },
+        {
+          "id": "https://openalex.org/C151956035",
+          "wikidata": "https://www.wikidata.org/wiki/Q1132755",
+          "display_name": "Logistic regression",
+          "level": 2,
+          "score": 0.7407518625259399
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.4798285961151123
+        },
+        {
+          "id": "https://openalex.org/C149923435",
+          "wikidata": "https://www.wikidata.org/wiki/Q37732",
+          "display_name": "Demography",
+          "level": 1,
+          "score": 0.4007108807563782
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3402346968650818
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.27764469385147095
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.25002923607826233
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.142149418592453
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.11550590395927429
+        },
+        {
+          "id": "https://openalex.org/C52130261",
+          "wikidata": "https://www.wikidata.org/wiki/Q39825",
+          "display_name": "Census",
+          "level": 3,
+          "score": 0.06041175127029419
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.05843871831893921
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 11,
+      "locations": [
+        {
+          "id": "doi:10.15581/004.26.33-62",
+          "doi": "https://doi.org/10.15581/004.26.33-62",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.15581/004.26.33-62",
+          "pdf_url": "https://revistas.unav.edu/index.php/estudios-sobre-educacion/article/download/1859/1729",
+          "source": {
+            "id": "https://openalex.org/S951914886",
+            "display_name": "Estudios sobre Educación",
+            "issn_l": "1578-7001",
+            "issn": [
+              "1578-7001",
+              "2386-6292"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
+              "ddh",
+              "doaj",
+              "erih-plus",
+              "fecyt-seal",
+              "latindex",
+              "poland-40",
+              "russia-white-list-2"
+            ],
+            "host_organization": "https://openalex.org/P4310320988",
+            "host_organization_name": "University of Navarre",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320988"
+            ],
+            "host_organization_lineage_names": [
+              "University of Navarre"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Estudios sobre Educación",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.2139/ssrn.2341071",
+          "doi": "https://doi.org/10.2139/ssrn.2341071",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2139/ssrn.2341071",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172589",
+            "display_name": "SSRN Electronic Journal",
+            "issn_l": "1556-5068",
+            "issn": [
+              "1556-5068"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1318003438",
+            "host_organization_name": "RELX Group (Netherlands)",
+            "host_organization_lineage": [
+              "https://openalex.org/I1318003438"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "SSRN Electronic Journal",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:ieb:wpaper:2013/6/doc2013-17",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://www.ieb.ub.edu/phocadownload/documentostrabajo/doc2013-17.pdf",
+          "pdf_url": "http://www.ieb.ub.edu/phocadownload/documentostrabajo/doc2013-17.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "preprint"
+        },
+        {
+          "id": "pmh:oai:RePEc:ieb:wpaper:doc2013-17",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://ieb.ub.edu/wp-content/uploads/2018/04/2013-IEB-WorkingPaper-17.pdf",
+          "pdf_url": "http://ieb.ub.edu/wp-content/uploads/2018/04/2013-IEB-WorkingPaper-17.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "preprint"
+        },
+        {
+          "id": "mag:3125712721",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://econpapers.repec.org/RePEc:ieb:wpaper:2013/6/doc2013-17",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "RePEc: Research Papers in Economics",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:dadun.unav.edu:10171/36784",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://hdl.handle.net/10171/36784",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401514",
+            "display_name": "Depósito Académico Digital Universidad de Navarra (University of Navarra)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I88155538",
+            "host_organization_name": "Universidad de Navarra",
+            "host_organization_lineage": [
+              "https://openalex.org/I88155538"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Articulo"
+        },
+        {
+          "id": "pmh:oai:diposit.ub.edu:2445/115883",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/2445/115883",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401653",
+            "display_name": "Dipòsit Digital de la Universitat de Barcelona (Universitat de Barcelona)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I71999127",
+            "host_organization_name": "Universitat de Barcelona",
+            "host_organization_lineage": [
+              "https://openalex.org/I71999127"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "IEB (Institut d’Economia de Barcelona) – Working Papers",
+          "raw_type": "info:eu-repo/semantics/workingPaper"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:81ae82b4f9254cfe815e28ca30c2a5b9",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/81ae82b4f9254cfe815e28ca30c2a5b9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Estudios sobre Educación, Vol 26, Pp 33-62 (2014)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:fb81569bbae94f70b0e22f6d7a7ac13a",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/fb81569bbae94f70b0e22f6d7a7ac13a",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Estudios sobre Educación, Vol 26 (2014)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:recercat.cat:2445/115883",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/2445/115883",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402147",
+            "display_name": "RECERCAT (Consorci de Serveis Universitaris de Catalunya)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210090028",
+            "host_organization_name": "Consorci de Serveis Universitaris de Catalunya",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210090028"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/workingPaper"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.829.6910",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.829.6910",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://dadun.unav.edu/bitstream/10171/36784/1/201406%20ESE%2026%20%282014%29-2.pdf",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.15581/004.26.33-62",
+        "doi": "https://doi.org/10.15581/004.26.33-62",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15581/004.26.33-62",
+        "pdf_url": "https://revistas.unav.edu/index.php/estudios-sobre-educacion/article/download/1859/1729",
+        "source": {
+          "id": "https://openalex.org/S951914886",
+          "display_name": "Estudios sobre Educación",
+          "issn_l": "1578-7001",
+          "issn": [
+            "1578-7001",
+            "2386-6292"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "ddh",
+            "doaj",
+            "erih-plus",
+            "fecyt-seal",
+            "latindex",
+            "poland-40",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320988",
+          "host_organization_name": "University of Navarre",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320988"
+          ],
+          "host_organization_lineage_names": [
+            "University of Navarre"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Estudios sobre Educación",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8278999924659729,
+          "display_name": "Quality education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W3001831631.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W3001831631.grobid-xml"
+      },
+      "referenced_works_count": 85,
+      "referenced_works": [
+        "https://openalex.org/W22124864",
+        "https://openalex.org/W123293861",
+        "https://openalex.org/W1499734688",
+        "https://openalex.org/W1522950033",
+        "https://openalex.org/W1526253757",
+        "https://openalex.org/W1536552488",
+        "https://openalex.org/W1548380465",
+        "https://openalex.org/W1562108777",
+        "https://openalex.org/W1563526943",
+        "https://openalex.org/W1571850231",
+        "https://openalex.org/W1579151358",
+        "https://openalex.org/W1579221925",
+        "https://openalex.org/W1597087757",
+        "https://openalex.org/W1978219238",
+        "https://openalex.org/W1994902002",
+        "https://openalex.org/W2005646311",
+        "https://openalex.org/W2011566353",
+        "https://openalex.org/W2030518246",
+        "https://openalex.org/W2035435989",
+        "https://openalex.org/W2037645163",
+        "https://openalex.org/W2042036416",
+        "https://openalex.org/W2051004679",
+        "https://openalex.org/W2059056814",
+        "https://openalex.org/W2072865763",
+        "https://openalex.org/W2076886696",
+        "https://openalex.org/W2094016023",
+        "https://openalex.org/W2101249888",
+        "https://openalex.org/W2101594954",
+        "https://openalex.org/W2104789761",
+        "https://openalex.org/W2110399860",
+        "https://openalex.org/W2111307989",
+        "https://openalex.org/W2115528109",
+        "https://openalex.org/W2115762260",
+        "https://openalex.org/W2117499425",
+        "https://openalex.org/W2118502261",
+        "https://openalex.org/W2121909644",
+        "https://openalex.org/W2127617251",
+        "https://openalex.org/W2128059070",
+        "https://openalex.org/W2130112340",
+        "https://openalex.org/W2134256464",
+        "https://openalex.org/W2142125793",
+        "https://openalex.org/W2147173910",
+        "https://openalex.org/W2148803825",
+        "https://openalex.org/W2151009251",
+        "https://openalex.org/W2152264916",
+        "https://openalex.org/W2154758419",
+        "https://openalex.org/W2158672897",
+        "https://openalex.org/W2159109844",
+        "https://openalex.org/W2167384409",
+        "https://openalex.org/W2168992912",
+        "https://openalex.org/W2171013128",
+        "https://openalex.org/W2235530907",
+        "https://openalex.org/W2509226630",
+        "https://openalex.org/W2582521227",
+        "https://openalex.org/W2799126513",
+        "https://openalex.org/W2889561418",
+        "https://openalex.org/W2890989529",
+        "https://openalex.org/W2891023179",
+        "https://openalex.org/W2892103227",
+        "https://openalex.org/W3121303342",
+        "https://openalex.org/W3122280693",
+        "https://openalex.org/W3122671745",
+        "https://openalex.org/W3122727361",
+        "https://openalex.org/W3122939804",
+        "https://openalex.org/W3123494315",
+        "https://openalex.org/W3123843787",
+        "https://openalex.org/W3124020831",
+        "https://openalex.org/W3124160494",
+        "https://openalex.org/W3124171943",
+        "https://openalex.org/W3126040784",
+        "https://openalex.org/W3171655342",
+        "https://openalex.org/W4205096313",
+        "https://openalex.org/W4236260393",
+        "https://openalex.org/W4236635442",
+        "https://openalex.org/W4242811127",
+        "https://openalex.org/W4251110974",
+        "https://openalex.org/W4251309704",
+        "https://openalex.org/W4251506848",
+        "https://openalex.org/W4254154112",
+        "https://openalex.org/W4293410603",
+        "https://openalex.org/W6677724928",
+        "https://openalex.org/W7009718458",
+        "https://openalex.org/W7010283599",
+        "https://openalex.org/W7018287384",
+        "https://openalex.org/W7224850331"
+      ],
+      "related_works": [
+        "https://openalex.org/W2184061416",
+        "https://openalex.org/W7018287384",
+        "https://openalex.org/W1597087757",
+        "https://openalex.org/W2093211135",
+        "https://openalex.org/W967331881",
+        "https://openalex.org/W2122248397",
+        "https://openalex.org/W4380087032",
+        "https://openalex.org/W1510263752",
+        "https://openalex.org/W7205837831"
+      ],
+      "abstract_inverted_index": {
+        "School": [
+          0
+        ],
+        "failure": [
+          1,
+          39
+        ],
+        "has": [
+          2
+        ],
+        "been": [
+          3
+        ],
+        "one": [
+          4
+        ],
+        "of": [
+          5,
+          9,
+          22,
+          25,
+          37,
+          51
+        ],
+        "the": [
+          6,
+          10,
+          23,
+          26,
+          35
+        ],
+        "principal": [
+          7
+        ],
+        "problems": [
+          8
+        ],
+        "Spanish": [
+          11
+        ],
+        "educational": [
+          12
+        ],
+        "system": [
+          13
+        ],
+        "during": [
+          14
+        ],
+        "recent": [
+          15
+        ],
+        "decades.": [
+          16
+        ],
+        "This": [
+          17
+        ],
+        "paper": [
+          18
+        ],
+        "offers": [
+          19
+        ],
+        "a": [
+          20,
+          31
+        ],
+        "perspective": [
+          21
+        ],
+        "evolution": [
+          24
+        ],
+        "factors": [
+          27
+        ],
+        "that": [
+          28
+        ],
+        "have": [
+          29
+        ],
+        "had": [
+          30
+        ],
+        "significant": [
+          32
+        ],
+        "influence": [
+          33
+        ],
+        "over": [
+          34
+        ],
+        "risk": [
+          36
+        ],
+        "school": [
+          38,
+          44
+        ],
+        "considering": [
+          40
+        ],
+        "personal,": [
+          41
+        ],
+        "household": [
+          42
+        ],
+        "and": [
+          43,
+          56
+        ],
+        "characteristics": [
+          45
+        ],
+        "through": [
+          46
+        ],
+        "multilevel": [
+          47
+        ],
+        "logistic": [
+          48
+        ],
+        "regression": [
+          49
+        ],
+        "analyses": [
+          50
+        ],
+        "PISA": [
+          52
+        ],
+        "2000,": [
+          53
+        ],
+        "2003,": [
+          54
+        ],
+        "2006": [
+          55
+        ],
+        "2009": [
+          57
+        ],
+        "microdata.": [
+          58
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3001831631",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 23
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 29
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 31
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 24
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 34
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 18
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2020-01-30T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2058616255",
+      "doi": "https://doi.org/10.1080/00036846.2013.791020",
+      "title": "Peer heterogeneity, school tracking and students’ performances: evidence from PISA 2006",
+      "display_name": "Peer heterogeneity, school tracking and students’ performances: evidence from PISA 2006",
+      "alternate_titles": [],
+      "relevance_score": 25.980099,
+      "publication_year": 2013,
+      "publication_date": "2013-07-16",
+      "ids": {
+        "openalex": "https://openalex.org/W2058616255",
+        "doi": "https://doi.org/10.1080/00036846.2013.791020",
+        "mag": "2058616255"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/00036846.2013.791020",
+        "doi": "https://doi.org/10.1080/00036846.2013.791020",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/00036846.2013.791020",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S201533460",
+          "display_name": "Applied Economics",
+          "issn_l": "0003-6846",
+          "issn": [
+            "0003-6846",
+            "1466-4283"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "fnege-3",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Economics",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2058616255"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.ofce.sciences-po.fr/pdf/dtravail/WP2011-22.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5051329576",
+            "display_name": "Michele Raitano",
+            "orcid": "https://orcid.org/0000-0002-3706-1208",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3706-1208"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I861853513",
+              "display_name": "Sapienza University of Rome",
+              "ror": "https://ror.org/02be6w209",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I861853513"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michele Raitano",
+          "raw_affiliation_strings": [
+            "Sapienza University of Rome, Via del Castro Laurenziano 9, 00161 Rome, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sapienza University of Rome, Via del Castro Laurenziano 9, 00161 Rome, Italy",
+              "institution_ids": [
+                "https://openalex.org/I861853513"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5004567248",
+            "display_name": "Francesco Vona",
+            "orcid": "https://orcid.org/0000-0002-2112-5537",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2112-5537"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181418319",
+              "display_name": "SKEMA Business School",
+              "ror": "https://ror.org/036h8vg94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181418319"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francesco Vona",
+          "raw_affiliation_strings": [
+            "OFCE, Nice, France; SKEMA Business School, 60 rue Dostoïevski 06902 Sophia Antipolis (Valbonne), France",
+            "OFCE, Nice, France",
+            "SKEMA Business School, 60 rue Dostoïevski 06902 Sophia Antipolis (Valbonne), France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OFCE, Nice, France; SKEMA Business School, 60 rue Dostoïevski 06902 Sophia Antipolis (Valbonne), France",
+              "institution_ids": [
+                "https://openalex.org/I181418319"
+              ]
+            },
+            {
+              "raw_affiliation_string": "OFCE, Nice, France",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "SKEMA Business School, 60 rue Dostoïevski 06902 Sophia Antipolis (Valbonne), France",
+              "institution_ids": [
+                "https://openalex.org/I181418319"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5051329576"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I861853513"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 7.8976,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 33,
+      "citation_normalized_percentile": {
+        "value": 0.96464911,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "45",
+        "issue": "32",
+        "first_page": "4516",
+        "last_page": "4532"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10674",
+        "display_name": "School Choice and Performance",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10674",
+          "display_name": "School Choice and Performance",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12088",
+          "display_name": "Intergenerational and Educational Inequality Studies",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11300",
+          "display_name": "Global Educational Policies and Reforms",
+          "score": 9.999999747378752e-05,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3320",
+            "display_name": "Political Science and International Relations"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/peer-effects",
+          "display_name": "peer effects",
+          "score": 0.878000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/peer-heterogeneity",
+          "display_name": "peer heterogeneity",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-tracking",
+          "display_name": "educational tracking",
+          "score": 0.9620000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/early-tracking",
+          "display_name": "early tracking",
+          "score": 0.6019999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/comprehensive-education",
+          "display_name": "comprehensive education",
+          "score": 0.5820000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/academic-achievement",
+          "display_name": "academic performance",
+          "score": 0.9039999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/pisa-2006",
+          "display_name": "PISA 2006",
+          "score": 0.953000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-systems-comparison",
+          "display_name": "educational systems comparison",
+          "score": 0.5270000100135803
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2775936607",
+          "wikidata": "https://www.wikidata.org/wiki/Q466845",
+          "display_name": "Tracking (education)",
+          "level": 2,
+          "score": 0.8590418100357056
+        },
+        {
+          "id": "https://openalex.org/C2988313152",
+          "wikidata": "https://www.wikidata.org/wiki/Q25324530",
+          "display_name": "Peer effects",
+          "level": 2,
+          "score": 0.8556536436080933
+        },
+        {
+          "id": "https://openalex.org/C79337645",
+          "wikidata": "https://www.wikidata.org/wiki/Q779824",
+          "display_name": "Outlier",
+          "level": 2,
+          "score": 0.6238147020339966
+        },
+        {
+          "id": "https://openalex.org/C149782125",
+          "wikidata": "https://www.wikidata.org/wiki/Q160039",
+          "display_name": "Econometrics",
+          "level": 1,
+          "score": 0.5353460907936096
+        },
+        {
+          "id": "https://openalex.org/C109359841",
+          "wikidata": "https://www.wikidata.org/wiki/Q728944",
+          "display_name": "Inclusion (mineral)",
+          "level": 2,
+          "score": 0.529954731464386
+        },
+        {
+          "id": "https://openalex.org/C154586513",
+          "wikidata": "https://www.wikidata.org/wiki/Q4420972",
+          "display_name": "Tracking system",
+          "level": 3,
+          "score": 0.4492529332637787
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.44751477241516113
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.4428692162036896
+        },
+        {
+          "id": "https://openalex.org/C44970651",
+          "wikidata": "https://www.wikidata.org/wiki/Q17014030",
+          "display_name": "Fixed effects model",
+          "level": 3,
+          "score": 0.43010246753692627
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.37762272357940674
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.36482131481170654
+        },
+        {
+          "id": "https://openalex.org/C4249254",
+          "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+          "display_name": "Demographic economics",
+          "level": 1,
+          "score": 0.34047257900238037
+        },
+        {
+          "id": "https://openalex.org/C6422946",
+          "wikidata": "https://www.wikidata.org/wiki/Q857354",
+          "display_name": "Panel data",
+          "level": 2,
+          "score": 0.2835288941860199
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.26124662160873413
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.2375325858592987
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.19118547439575195
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.13856500387191772
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.13561931252479553
+        },
+        {
+          "id": "https://openalex.org/C157286648",
+          "wikidata": "https://www.wikidata.org/wiki/Q846780",
+          "display_name": "Kalman filter",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 7,
+      "locations": [
+        {
+          "id": "doi:10.1080/00036846.2013.791020",
+          "doi": "https://doi.org/10.1080/00036846.2013.791020",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/00036846.2013.791020",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S201533460",
+            "display_name": "Applied Economics",
+            "issn_l": "0003-6846",
+            "issn": [
+              "0003-6846",
+              "1466-4283"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "abdc-a",
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "fnege-3",
+              "jufo-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Applied Economics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:fce:doctra:1122",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://www.ofce.sciences-po.fr/pdf/dtravail/WP2011-22.pdf",
+          "pdf_url": "http://www.ofce.sciences-po.fr/pdf/dtravail/WP2011-22.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "preprint"
+        },
+        {
+          "id": "pmh:oai:RePEc:sap:wpaper:wp143",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://www.dipecodir.it/wpsap/data/wp143.pdf",
+          "pdf_url": "https://www.dipecodir.it/wpsap/data/wp143.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "preprint"
+        },
+        {
+          "id": "pmh:oai:RePEc:taf:applec:v:45:y:2013:i:32:p:4516-4532",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10.1080/00036846.2013.791020",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:iris.uniroma1.it:11573/355063",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/11573/355063",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196107",
+            "display_name": "IRIS Research product catalog (Sapienza University of Rome)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/other"
+        },
+        {
+          "id": "pmh:oai:iris.uniroma1.it:11573/355188",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/11573/355188",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196107",
+            "display_name": "IRIS Research product catalog (Sapienza University of Rome)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/conferenceObject"
+        },
+        {
+          "id": "pmh:oai:iris.uniroma1.it:11573/515740",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/11573/515740",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196107",
+            "display_name": "IRIS Research product catalog (Sapienza University of Rome)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:RePEc:fce:doctra:1122",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://www.ofce.sciences-po.fr/pdf/dtravail/WP2011-22.pdf",
+        "pdf_url": "http://www.ofce.sciences-po.fr/pdf/dtravail/WP2011-22.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "preprint"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.9235000014305115,
+          "display_name": "Quality education",
+          "id": "https://metadata.un.org/sdg/4"
+        },
+        {
+          "score": 0.7307999730110168,
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2058616255.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2058616255.grobid-xml"
+      },
+      "referenced_works_count": 38,
+      "referenced_works": [
+        "https://openalex.org/W1499862992",
+        "https://openalex.org/W1529260143",
+        "https://openalex.org/W1570214655",
+        "https://openalex.org/W1602569008",
+        "https://openalex.org/W1844705289",
+        "https://openalex.org/W1970636309",
+        "https://openalex.org/W1972815642",
+        "https://openalex.org/W1974134050",
+        "https://openalex.org/W1974922944",
+        "https://openalex.org/W1979190636",
+        "https://openalex.org/W2027590033",
+        "https://openalex.org/W2033015685",
+        "https://openalex.org/W2037106172",
+        "https://openalex.org/W2046579286",
+        "https://openalex.org/W2101320233",
+        "https://openalex.org/W2110704053",
+        "https://openalex.org/W2112186846",
+        "https://openalex.org/W2114389382",
+        "https://openalex.org/W2115585814",
+        "https://openalex.org/W2134381534",
+        "https://openalex.org/W2138977309",
+        "https://openalex.org/W2143851141",
+        "https://openalex.org/W2144010971",
+        "https://openalex.org/W2144579284",
+        "https://openalex.org/W2155781908",
+        "https://openalex.org/W2268933301",
+        "https://openalex.org/W2892047023",
+        "https://openalex.org/W2892103227",
+        "https://openalex.org/W3025120691",
+        "https://openalex.org/W3121401935",
+        "https://openalex.org/W3122436209",
+        "https://openalex.org/W3124047061",
+        "https://openalex.org/W3125633110",
+        "https://openalex.org/W3142856895",
+        "https://openalex.org/W4206488967",
+        "https://openalex.org/W4229668361",
+        "https://openalex.org/W4237106708",
+        "https://openalex.org/W7111833695"
+      ],
+      "related_works": [
+        "https://openalex.org/W1604567940",
+        "https://openalex.org/W2626083275",
+        "https://openalex.org/W2154276496",
+        "https://openalex.org/W2911301460",
+        "https://openalex.org/W2043677716",
+        "https://openalex.org/W2507844462",
+        "https://openalex.org/W7166278453",
+        "https://openalex.org/W1605819688",
+        "https://openalex.org/W1509985733",
+        "https://openalex.org/W1993226015"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          90
+        ],
+        "paper": [
+          1
+        ],
+        "analyses": [
+          2
+        ],
+        "the": [
+          3,
+          15,
+          45,
+          52,
+          62,
+          77,
+          87,
+          102,
+          110
+        ],
+        "interaction": [
+          4
+        ],
+        "between": [
+          5
+        ],
+        "school-tracking": [
+          6
+        ],
+        "policies": [
+          7
+        ],
+        "and": [
+          8,
+          37,
+          49,
+          68,
+          108
+        ],
+        "peer": [
+          9,
+          29,
+          55,
+          71,
+          116
+        ],
+        "effects": [
+          10,
+          30,
+          107,
+          117
+        ],
+        "in": [
+          11,
+          34,
+          44,
+          58,
+          61,
+          76,
+          86,
+          123
+        ],
+        "OECD": [
+          12
+        ],
+        "countries.": [
+          13,
+          114,
+          127
+        ],
+        "Using": [
+          14
+        ],
+        "Programme": [
+          16
+        ],
+        "for": [
+          17,
+          120
+        ],
+        "International": [
+          18
+        ],
+        "Student": [
+          19
+        ],
+        "Assessment": [
+          20
+        ],
+        "(PISA)": [
+          21
+        ],
+        "2006": [
+          22
+        ],
+        "data": [
+          23
+        ],
+        "set,": [
+          24
+        ],
+        "we": [
+          25
+        ],
+        "show": [
+          26
+        ],
+        "that": [
+          27
+        ],
+        "linear": [
+          28
+        ],
+        "are": [
+          31,
+          118
+        ],
+        "slightly": [
+          32
+        ],
+        "concave-shaped": [
+          33
+        ],
+        "both": [
+          35,
+          66,
+          124
+        ],
+        "early-tracking": [
+          36,
+          46,
+          88,
+          99
+        ],
+        "comprehensive": [
+          38,
+          78
+        ],
+        "educational": [
+          39
+        ],
+        "systems,": [
+          40
+        ],
+        "but": [
+          41
+        ],
+        "generally": [
+          42
+        ],
+        "stronger": [
+          43,
+          119
+        ],
+        "one.": [
+          47,
+          89
+        ],
+        "Second,": [
+          48
+        ],
+        "more": [
+          50
+        ],
+        "interestingly,": [
+          51
+        ],
+        "effect": [
+          53,
+          92
+        ],
+        "of": [
+          54,
+          98,
+          104,
+          112,
+          126
+        ],
+        "heterogeneity": [
+          56,
+          72
+        ],
+        "goes": [
+          57
+        ],
+        "opposite": [
+          59
+        ],
+        "directions": [
+          60
+        ],
+        "two": [
+          63
+        ],
+        "systems.": [
+          64
+        ],
+        "In": [
+          65
+        ],
+        "student-": [
+          67
+        ],
+        "school-level": [
+          69
+        ],
+        "estimates,": [
+          70
+        ],
+        "reduces": [
+          73
+        ],
+        "students’": [
+          74
+        ],
+        "achievements": [
+          75
+        ],
+        "system": [
+          79
+        ],
+        "while": [
+          80
+        ],
+        "it": [
+          81
+        ],
+        "has": [
+          82
+        ],
+        "a": [
+          83
+        ],
+        "positive": [
+          84
+        ],
+        "impact": [
+          85
+        ],
+        "reversal": [
+          91
+        ],
+        "is": [
+          93
+        ],
+        "robust": [
+          94
+        ],
+        "to": [
+          95,
+          101,
+          109
+        ],
+        "different": [
+          96
+        ],
+        "definitions": [
+          97
+        ],
+        "system,": [
+          100
+        ],
+        "inclusion": [
+          103
+        ],
+        "pseudo-school": [
+          105
+        ],
+        "fixed": [
+          106
+        ],
+        "exclusion": [
+          111
+        ],
+        "outlier": [
+          113
+        ],
+        "Finally,": [
+          115
+        ],
+        "low-ability": [
+          121
+        ],
+        "students": [
+          122
+        ],
+        "groups": [
+          125
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2058616255",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2016-06-24T00:00:00"
+    }
+  ],
+  "group_by": []
+}

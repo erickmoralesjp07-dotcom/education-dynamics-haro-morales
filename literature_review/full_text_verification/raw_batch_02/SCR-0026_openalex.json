@@ -1,0 +1,1082 @@
+{
+  "id": "https://openalex.org/W7221310199",
+  "doi": "https://doi.org/10.5281/zenodo.23205601",
+  "title": "Scientific Literacy and Socio-Educational Inequality: The Philippines in Comparative Perspective Across PISA Results",
+  "display_name": "Scientific Literacy and Socio-Educational Inequality: The Philippines in Comparative Perspective Across PISA Results",
+  "alternate_titles": [],
+  "publication_year": 2026,
+  "publication_date": "2026-10-10",
+  "ids": {
+    "openalex": "https://openalex.org/W7221310199",
+    "doi": "https://doi.org/10.5281/zenodo.23205601"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:ojs2.ennoia-asste.org:article/53",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://ennoia-asste.org/index.php/asste/article/view/53",
+    "pdf_url": "https://ennoia-asste.org/index.php/asste/article/download/53/53",
+    "source": {
+      "id": "https://openalex.org/S7407079403",
+      "display_name": "Ennoia Advances in Social Science, Technology and Education",
+      "issn_l": "3116-207X",
+      "issn": [
+        "3116-207X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "3116-207X",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W7221310199"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://ennoia-asste.org/index.php/asste/article/download/53/53",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5158243496",
+        "display_name": "Divine Manliguez",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4405281743",
+          "display_name": "Saint Columban College",
+          "ror": "https://ror.org/04thpfq58",
+          "country_code": "PH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4405281743"
+          ]
+        }
+      ],
+      "countries": [
+        "PH"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Manliguez, Divine",
+      "raw_affiliation_strings": [
+        "Saint Columban College",
+        "Jose Lim Ho National High School"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Saint Columban College",
+          "institution_ids": [
+            "https://openalex.org/I4405281743"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Jose Lim Ho National High School",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5158243496"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4405281743"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10072",
+    "display_name": "Science Education and Pedagogy",
+    "score": 0.9398999810218811,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10072",
+      "display_name": "Science Education and Pedagogy",
+      "score": 0.9398999810218811,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11300",
+      "display_name": "Global Educational Policies and Reforms",
+      "score": 0.033900000154972076,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.009499999694526196,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/scientific-literacy",
+      "display_name": "scientific literacy",
+      "score": 0.9990000128746033
+    },
+    {
+      "id": "https://openalex.org/keywords/science-education",
+      "display_name": "science education",
+      "score": 0.7250000238418579
+    },
+    {
+      "id": "https://openalex.org/keywords/pisa",
+      "display_name": "PISA",
+      "score": 0.7870000004768372
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.7160000205039978
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-status",
+      "display_name": "socioeconomic status",
+      "score": 0.6150000095367432
+    },
+    {
+      "id": "https://openalex.org/keywords/science-proficiency",
+      "display_name": "science proficiency",
+      "score": 0.6129999756813049
+    },
+    {
+      "id": "https://openalex.org/keywords/school-climate",
+      "display_name": "school climate",
+      "score": 0.6200000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/self-efficacy",
+      "display_name": "self-efficacy",
+      "score": 0.8289999961853027
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-access",
+      "display_name": "digital access",
+      "score": 0.7279999852180481
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-investment",
+      "display_name": "educational investment",
+      "score": 0.6850000023841858
+    },
+    {
+      "id": "https://openalex.org/keywords/science-education-policy",
+      "display_name": "science education policy",
+      "score": 0.6690000295639038
+    },
+    {
+      "id": "https://openalex.org/keywords/student-motivation",
+      "display_name": "student motivation",
+      "score": 0.703000009059906
+    },
+    {
+      "id": "https://openalex.org/keywords/student-sense-of-belonging",
+      "display_name": "school belonging",
+      "score": 0.6380000114440918
+    },
+    {
+      "id": "https://openalex.org/keywords/teacher-education",
+      "display_name": "teacher professional development",
+      "score": 0.7020000219345093
+    },
+    {
+      "id": "https://openalex.org/keywords/language-support",
+      "display_name": "language support",
+      "score": 0.5659999847412109
+    },
+    {
+      "id": "https://openalex.org/keywords/curriculum-and-assessment",
+      "display_name": "curriculum and assessment",
+      "score": 0.5709999799728394
+    },
+    {
+      "id": "https://openalex.org/keywords/oecd-comparison",
+      "display_name": "OECD comparison",
+      "score": 0.5350000262260437
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C77379859",
+      "wikidata": "https://www.wikidata.org/wiki/Q2064596",
+      "display_name": "Scientific literacy",
+      "level": 3,
+      "score": 0.6639000177383423
+    },
+    {
+      "id": "https://openalex.org/C12713177",
+      "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+      "display_name": "Perspective (graphical)",
+      "level": 2,
+      "score": 0.53329998254776
+    },
+    {
+      "id": "https://openalex.org/C147077947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1515895",
+      "display_name": "Socioeconomic status",
+      "level": 3,
+      "score": 0.5090000033378601
+    },
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.5059999823570251
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.5031999945640564
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.4514000117778778
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.4250999987125397
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.37630000710487366
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.3675000071525574
+    },
+    {
+      "id": "https://openalex.org/C12725497",
+      "wikidata": "https://www.wikidata.org/wiki/Q810247",
+      "display_name": "Baseline (sea)",
+      "level": 2,
+      "score": 0.36070001125335693
+    },
+    {
+      "id": "https://openalex.org/C44877443",
+      "wikidata": "https://www.wikidata.org/wiki/Q2485457",
+      "display_name": "Science education",
+      "level": 2,
+      "score": 0.3538999855518341
+    },
+    {
+      "id": "https://openalex.org/C118147538",
+      "wikidata": "https://www.wikidata.org/wiki/Q1126970",
+      "display_name": "Metacognition",
+      "level": 3,
+      "score": 0.30869999527931213
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.2985999882221222
+    },
+    {
+      "id": "https://openalex.org/C2983612474",
+      "wikidata": "https://www.wikidata.org/wiki/Q48967837",
+      "display_name": "Technological literacy",
+      "level": 3,
+      "score": 0.2883000075817108
+    },
+    {
+      "id": "https://openalex.org/C53537400",
+      "wikidata": "https://www.wikidata.org/wiki/Q140637",
+      "display_name": "Numeracy",
+      "level": 3,
+      "score": 0.28700000047683716
+    },
+    {
+      "id": "https://openalex.org/C150710463",
+      "wikidata": "https://www.wikidata.org/wiki/Q14565700",
+      "display_name": "Social studies",
+      "level": 2,
+      "score": 0.2840000092983246
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.2806999981403351
+    },
+    {
+      "id": "https://openalex.org/C2778883600",
+      "wikidata": "https://www.wikidata.org/wiki/Q2390977",
+      "display_name": "Language proficiency",
+      "level": 2,
+      "score": 0.27250000834465027
+    },
+    {
+      "id": "https://openalex.org/C3017523755",
+      "wikidata": "https://www.wikidata.org/wiki/Q18189",
+      "display_name": "Grade level",
+      "level": 2,
+      "score": 0.27230000495910645
+    },
+    {
+      "id": "https://openalex.org/C194519906",
+      "wikidata": "https://www.wikidata.org/wiki/Q7627827",
+      "display_name": "Student engagement",
+      "level": 2,
+      "score": 0.27160000801086426
+    },
+    {
+      "id": "https://openalex.org/C2986619947",
+      "wikidata": "https://www.wikidata.org/wiki/Q30103150",
+      "display_name": "Gender gap",
+      "level": 2,
+      "score": 0.259799987077713
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "pmh:oai:ojs2.ennoia-asste.org:article/53",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://ennoia-asste.org/index.php/asste/article/view/53",
+      "pdf_url": "https://ennoia-asste.org/index.php/asste/article/download/53/53",
+      "source": {
+        "id": "https://openalex.org/S7407079403",
+        "display_name": "Ennoia Advances in Social Science, Technology and Education",
+        "issn_l": "3116-207X",
+        "issn": [
+          "3116-207X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "3116-207X",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "doi:10.5281/zenodo.23205601",
+      "doi": "https://doi.org/10.5281/zenodo.23205601",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.23205601",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "JournalArticle"
+    },
+    {
+      "id": "doi:10.5281/zenodo.23205602",
+      "doi": "https://doi.org/10.5281/zenodo.23205602",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.23205602",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "JournalArticle"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:ojs2.ennoia-asste.org:article/53",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://ennoia-asste.org/index.php/asste/article/view/53",
+    "pdf_url": "https://ennoia-asste.org/index.php/asste/article/download/53/53",
+    "source": {
+      "id": "https://openalex.org/S7407079403",
+      "display_name": "Ennoia Advances in Social Science, Technology and Education",
+      "issn_l": "3116-207X",
+      "issn": [
+        "3116-207X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "3116-207X",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.9235000014305115,
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4"
+    },
+    {
+      "score": 0.7578999996185303,
+      "display_name": "Reduced inequalities",
+      "id": "https://metadata.un.org/sdg/10"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7221310199.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7221310199.grobid-xml"
+  },
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W2057327092",
+    "https://openalex.org/W2802628630",
+    "https://openalex.org/W3009694997",
+    "https://openalex.org/W3107380528",
+    "https://openalex.org/W3169363726",
+    "https://openalex.org/W4205259230",
+    "https://openalex.org/W4230906942",
+    "https://openalex.org/W4368405371",
+    "https://openalex.org/W4389256029",
+    "https://openalex.org/W4402189231",
+    "https://openalex.org/W4408072956",
+    "https://openalex.org/W4411080671",
+    "https://openalex.org/W6912179455",
+    "https://openalex.org/W7117744534",
+    "https://openalex.org/W7127326799",
+    "https://openalex.org/W7161559790",
+    "https://openalex.org/W7162087186",
+    "https://openalex.org/W7204192537",
+    "https://openalex.org/W7207800917",
+    "https://openalex.org/W7225097526"
+  ],
+  "related_works": [
+    "https://openalex.org/W7135042551",
+    "https://openalex.org/W4403947014",
+    "https://openalex.org/W7131680481",
+    "https://openalex.org/W3034924000",
+    "https://openalex.org/W4408072956",
+    "https://openalex.org/W7166296443",
+    "https://openalex.org/W1588375306",
+    "https://openalex.org/W4368405371",
+    "https://openalex.org/W4410990904",
+    "https://openalex.org/W7033183619"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Scientific": [
+      1
+    ],
+    "literacy": [
+      2
+    ],
+    "supports": [
+      3
+    ],
+    "evidence-based": [
+      4
+    ],
+    "decision-making,": [
+      5
+    ],
+    "technological": [
+      6
+    ],
+    "participation,": [
+      7
+    ],
+    "and": [
+      8,
+      13,
+      26,
+      30,
+      37,
+      44,
+      55,
+      58,
+      101,
+      121,
+      131,
+      137,
+      168
+    ],
+    "informed": [
+      9
+    ],
+    "engagement": [
+      10
+    ],
+    "with": [
+      11,
+      34,
+      115,
+      141
+    ],
+    "social": [
+      12
+    ],
+    "environmental": [
+      14
+    ],
+    "issues.": [
+      15
+    ],
+    "This": [
+      16
+    ],
+    "study": [
+      17,
+      48
+    ],
+    "examined": [
+      18,
+      49
+    ],
+    "Philippine": [
+      19,
+      62
+    ],
+    "science": [
+      20,
+      99
+    ],
+    "performance": [
+      21,
+      63,
+      112
+    ],
+    "across": [
+      22
+    ],
+    "the": [
+      23,
+      32,
+      47,
+      83,
+      105
+    ],
+    "2018,": [
+      24
+    ],
+    "2022,": [
+      25
+    ],
+    "2025": [
+      27
+    ],
+    "PISA": [
+      28
+    ],
+    "cycles": [
+      29
+    ],
+    "compared": [
+      31
+    ],
+    "results": [
+      33
+    ],
+    "OECD": [
+      35
+    ],
+    "averages": [
+      36
+    ],
+    "selected": [
+      38
+    ],
+    "high-performing": [
+      39
+    ],
+    "systems.": [
+      40
+    ],
+    "Using": [
+      41
+    ],
+    "comparative": [
+      42
+    ],
+    "secondary-data": [
+      43
+    ],
+    "policy-document": [
+      45
+    ],
+    "analyses,": [
+      46
+    ],
+    "mean": [
+      50
+    ],
+    "scores,": [
+      51
+    ],
+    "proficiency": [
+      52,
+      107
+    ],
+    "distributions,": [
+      53
+    ],
+    "learner": [
+      54,
+      135
+    ],
+    "school": [
+      56,
+      125,
+      138
+    ],
+    "indicators,": [
+      57
+    ],
+    "relevant": [
+      59
+    ],
+    "science-education": [
+      60
+    ],
+    "policies.": [
+      61
+    ],
+    "remained": [
+      64,
+      96
+    ],
+    "nearly": [
+      65
+    ],
+    "unchanged": [
+      66
+    ],
+    "from": [
+      67,
+      87
+    ],
+    "357": [
+      68
+    ],
+    "points": [
+      69
+    ],
+    "in": [
+      70,
+      74,
+      80,
+      109
+    ],
+    "2018": [
+      71
+    ],
+    "to": [
+      72,
+      78,
+      89,
+      147,
+      174
+    ],
+    "356": [
+      73
+    ],
+    "2022": [
+      75
+    ],
+    "but": [
+      76
+    ],
+    "increased": [
+      77
+    ],
+    "373": [
+      79
+    ],
+    "2025.": [
+      81,
+      110
+    ],
+    "Although": [
+      82
+    ],
+    "Philippine–OECD": [
+      84
+    ],
+    "gap": [
+      85
+    ],
+    "narrowed": [
+      86
+    ],
+    "132": [
+      88
+    ],
+    "109": [
+      90
+    ],
+    "points,": [
+      91
+    ],
+    "68.4%": [
+      92
+    ],
+    "of": [
+      93
+    ],
+    "Filipino": [
+      94
+    ],
+    "learners": [
+      95
+    ],
+    "below": [
+      97
+    ],
+    "baseline": [
+      98
+    ],
+    "proficiency,": [
+      100,
+      143
+    ],
+    "only": [
+      102
+    ],
+    "0.2%": [
+      103
+    ],
+    "attained": [
+      104
+    ],
+    "highest": [
+      106
+    ],
+    "levels": [
+      108
+    ],
+    "Science": [
+      111
+    ],
+    "was": [
+      113,
+      149
+    ],
+    "associated": [
+      114
+    ],
+    "socioeconomic": [
+      116
+    ],
+    "conditions,": [
+      117
+    ],
+    "home": [
+      118
+    ],
+    "resources,": [
+      119
+    ],
+    "reading": [
+      120
+    ],
+    "metacognitive": [
+      122
+    ],
+    "strategies,": [
+      123
+    ],
+    "self-efficacy,": [
+      124
+    ],
+    "climate,": [
+      126
+    ],
+    "digital": [
+      127
+    ],
+    "access,": [
+      128
+    ],
+    "instructional": [
+      129
+    ],
+    "support,": [
+      130,
+      165
+    ],
+    "educational": [
+      132
+    ],
+    "investment.": [
+      133
+    ],
+    "Favorable": [
+      134
+    ],
+    "motivation": [
+      136
+    ],
+    "belonging": [
+      139
+    ],
+    "coexisted": [
+      140
+    ],
+    "low": [
+      142
+    ],
+    "indicating": [
+      144
+    ],
+    "that": [
+      145
+    ],
+    "willingness": [
+      146
+    ],
+    "learn": [
+      148
+    ],
+    "not": [
+      150
+    ],
+    "consistently": [
+      151
+    ],
+    "translated": [
+      152
+    ],
+    "into": [
+      153
+    ],
+    "scientific": [
+      154,
+      176
+    ],
+    "competence.": [
+      155
+    ],
+    "The": [
+      156
+    ],
+    "findings": [
+      157
+    ],
+    "emphasize": [
+      158
+    ],
+    "coherent": [
+      159
+    ],
+    "curriculum,": [
+      160
+    ],
+    "assessment,": [
+      161
+    ],
+    "teacher": [
+      162
+    ],
+    "development,": [
+      163
+    ],
+    "language": [
+      164
+    ],
+    "contextualized": [
+      166
+    ],
+    "inquiry,": [
+      167
+    ],
+    "equity-sensitive": [
+      169
+    ],
+    "resource": [
+      170
+    ],
+    "allocation": [
+      171
+    ],
+    "as": [
+      172
+    ],
+    "essential": [
+      173
+    ],
+    "improving": [
+      175
+    ],
+    "literacy.": [
+      177
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7221310199",
+  "counts_by_year": [],
+  "updated_date": "2026-11-07T11:25:07.637180",
+  "created_date": "2026-10-11T00:00:00"
+}

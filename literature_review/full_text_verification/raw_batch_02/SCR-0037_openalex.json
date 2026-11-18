@@ -1,0 +1,1159 @@
+{
+  "id": "https://openalex.org/W4389051780",
+  "doi": "https://doi.org/10.1177/00380407231210279",
+  "title": "Trends and Determinants of Intergenerational Educational Inequality in Sub-Saharan Africa for Birth Cohorts 1974 to 2003",
+  "display_name": "Trends and Determinants of Intergenerational Educational Inequality in Sub-Saharan Africa for Birth Cohorts 1974 to 2003",
+  "alternate_titles": [],
+  "publication_year": 2023,
+  "publication_date": "2023-11-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4389051780",
+    "doi": "https://doi.org/10.1177/00380407231210279"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/00380407231210279",
+    "doi": "https://doi.org/10.1177/00380407231210279",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/00380407231210279",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S36718530",
+      "display_name": "Sociology of Education",
+      "issn_l": "0038-0407",
+      "issn": [
+        "0038-0407",
+        "1939-8573"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "erih-plus",
+        "jufo-3",
+        "ki-jl-1",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sociology of Education",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W4389051780"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1177/00380407231210279",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5034052182",
+        "display_name": "Ilze Plavgo",
+        "orcid": "https://orcid.org/0000-0002-6226-3303",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-6226-3303"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I177802217",
+          "display_name": "University of Mannheim",
+          "ror": "https://ror.org/031bsb921",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177802217"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ilze Plavgo",
+      "raw_affiliation_strings": [
+        "University of Mannheim, Mannheim, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6226-3303",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Mannheim, Mannheim, Germany",
+          "institution_ids": [
+            "https://openalex.org/I177802217"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018156650",
+        "display_name": "Fabrizio Bernardi",
+        "orcid": "https://orcid.org/0000-0002-5544-5184",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-5544-5184"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I178450904",
+          "display_name": "Universidad Nacional de Educación a Distancia",
+          "ror": "https://ror.org/02msb5n36",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fabrizio Bernardi",
+      "raw_affiliation_strings": [
+        "Universidad Nacional de Educación a Distancia, Madrid, Spain"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universidad Nacional de Educación a Distancia, Madrid, Spain",
+          "institution_ids": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5034052182"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I177802217"
+  ],
+  "apc_list": {
+    "value": 3250,
+    "currency": "USD",
+    "value_usd": 3250
+  },
+  "apc_paid": {
+    "value": 3250,
+    "currency": "USD",
+    "value_usd": 3250
+  },
+  "fwci": 1.8464,
+  "has_fulltext": true,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.84921607,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 86,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "97",
+    "issue": "2",
+    "first_page": "193",
+    "last_page": "217"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12088",
+    "display_name": "Intergenerational and Educational Inequality Studies",
+    "score": 0.9951000213623047,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.9951000213623047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.002300000051036477,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11895",
+      "display_name": "Cultural Capital and Social Class",
+      "score": 0.000699999975040555,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/parental-socioeconomic-status",
+      "display_name": "parental socioeconomic status",
+      "score": 0.8040000200271606
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-stratification",
+      "display_name": "educational stratification",
+      "score": 0.8190000057220459
+    },
+    {
+      "id": "https://openalex.org/keywords/primary-education",
+      "display_name": "primary education",
+      "score": 0.5740000009536743
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-expansion",
+      "display_name": "educational expansion",
+      "score": 0.8550000190734863
+    },
+    {
+      "id": "https://openalex.org/keywords/school-fees",
+      "display_name": "school fees",
+      "score": 0.531000018119812
+    },
+    {
+      "id": "https://openalex.org/keywords/public-spending-on-education",
+      "display_name": "public spending on education",
+      "score": 0.8240000009536743
+    },
+    {
+      "id": "https://openalex.org/keywords/teacher-student-ratio",
+      "display_name": "student-teacher ratio",
+      "score": 0.8349999785423279
+    },
+    {
+      "id": "https://openalex.org/keywords/underweight-prevalence",
+      "display_name": "underweight prevalence",
+      "score": 0.8149999976158142
+    },
+    {
+      "id": "https://openalex.org/keywords/fertility-rate",
+      "display_name": "fertility rate",
+      "score": 0.8960000276565552
+    },
+    {
+      "id": "https://openalex.org/keywords/material-deprivation",
+      "display_name": "material deprivation",
+      "score": 0.8700000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/sub-saharan-africa",
+      "display_name": "sub-Saharan Africa",
+      "score": 0.6349999904632568
+    },
+    {
+      "id": "https://openalex.org/keywords/birth-cohort",
+      "display_name": "birth cohort",
+      "score": 0.7519999742507935
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778783286",
+      "wikidata": "https://www.wikidata.org/wiki/Q861360",
+      "display_name": "Educational inequality",
+      "level": 3,
+      "score": 0.7183359265327454
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.6885561943054199
+    },
+    {
+      "id": "https://openalex.org/C147077947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1515895",
+      "display_name": "Socioeconomic status",
+      "level": 3,
+      "score": 0.6754937171936035
+    },
+    {
+      "id": "https://openalex.org/C2778173179",
+      "wikidata": "https://www.wikidata.org/wiki/Q25339289",
+      "display_name": "Attendance",
+      "level": 2,
+      "score": 0.5507630705833435
+    },
+    {
+      "id": "https://openalex.org/C48158472",
+      "wikidata": "https://www.wikidata.org/wiki/Q841628",
+      "display_name": "Social stratification",
+      "level": 2,
+      "score": 0.529819130897522
+    },
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.4918501377105713
+    },
+    {
+      "id": "https://openalex.org/C2781121325",
+      "wikidata": "https://www.wikidata.org/wiki/Q1146902",
+      "display_name": "Underweight",
+      "level": 4,
+      "score": 0.4602673351764679
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.4422697424888611
+    },
+    {
+      "id": "https://openalex.org/C165148211",
+      "wikidata": "https://www.wikidata.org/wiki/Q5431887",
+      "display_name": "Social inequality",
+      "level": 3,
+      "score": 0.43708494305610657
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.41563040018081665
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.39652976393699646
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.37872183322906494
+    },
+    {
+      "id": "https://openalex.org/C45355965",
+      "wikidata": "https://www.wikidata.org/wiki/Q1643441",
+      "display_name": "Socioeconomics",
+      "level": 1,
+      "score": 0.37061285972595215
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.34140491485595703
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.2683964967727661
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.1856175661087036
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.14573034644126892
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.14245590567588806
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C511355011",
+      "wikidata": "https://www.wikidata.org/wiki/Q12174",
+      "display_name": "Obesity",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2780586474",
+      "wikidata": "https://www.wikidata.org/wiki/Q332428",
+      "display_name": "Overweight",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1177/00380407231210279",
+      "doi": "https://doi.org/10.1177/00380407231210279",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/00380407231210279",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S36718530",
+        "display_name": "Sociology of Education",
+        "issn_l": "0038-0407",
+        "issn": [
+          "0038-0407",
+          "1939-8573"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sociology of Education",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:ub-madoc.bib.uni-mannheim.de:66950",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://madoc.bib.uni-mannheim.de/66950/1/plavgo-bernardi-2023-trends-and-determinants-of-intergenerational-educational-inequality-in-sub-saharan-africa-for.pdf",
+      "pdf_url": "https://madoc.bib.uni-mannheim.de/66950/1/plavgo-bernardi-2023-trends-and-determinants-of-intergenerational-educational-inequality-in-sub-saharan-africa-for.pdf",
+      "source": {
+        "id": "https://openalex.org/S4377196315",
+        "display_name": "MADOC (University of Mannheim)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I177802217",
+        "host_organization_name": "University of Mannheim",
+        "host_organization_lineage": [
+          "https://openalex.org/I177802217"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Zeitschriftenartikel"
+    },
+    {
+      "id": "pmh:oai:cadmus.eui.eu:1814/76491",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1814/76491",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196332",
+        "display_name": "Cadmus - EUI Research Repository (European University Institute)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I874792244",
+        "host_organization_name": "European University Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I874792244"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1177/00380407231210279",
+    "doi": "https://doi.org/10.1177/00380407231210279",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/00380407231210279",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S36718530",
+      "display_name": "Sociology of Education",
+      "issn_l": "0038-0407",
+      "issn": [
+        "0038-0407",
+        "1939-8573"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "erih-plus",
+        "jufo-3",
+        "ki-jl-1",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sociology of Education",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 1.0,
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities"
+    },
+    {
+      "score": 0.9235000014305115,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320899",
+      "display_name": "European University Institute",
+      "ror": "https://ror.org/0031wrj91"
+    },
+    {
+      "id": "https://openalex.org/F4320330902",
+      "display_name": "European Consortium for Sociological Research",
+      "ror": "https://ror.org/03gtzaw16"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4389051780.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4389051780.grobid-xml"
+  },
+  "referenced_works_count": 43,
+  "referenced_works": [
+    "https://openalex.org/W70533456",
+    "https://openalex.org/W1534117030",
+    "https://openalex.org/W1968232964",
+    "https://openalex.org/W1976942754",
+    "https://openalex.org/W1991818273",
+    "https://openalex.org/W1992901092",
+    "https://openalex.org/W2004581514",
+    "https://openalex.org/W2023083400",
+    "https://openalex.org/W2062262683",
+    "https://openalex.org/W2071306051",
+    "https://openalex.org/W2077077627",
+    "https://openalex.org/W2078689684",
+    "https://openalex.org/W2101771110",
+    "https://openalex.org/W2107134223",
+    "https://openalex.org/W2108041438",
+    "https://openalex.org/W2119738974",
+    "https://openalex.org/W2127956480",
+    "https://openalex.org/W2131343018",
+    "https://openalex.org/W2133502523",
+    "https://openalex.org/W2139741355",
+    "https://openalex.org/W2144489347",
+    "https://openalex.org/W2167679624",
+    "https://openalex.org/W2171111184",
+    "https://openalex.org/W2254975746",
+    "https://openalex.org/W2272741259",
+    "https://openalex.org/W2296519636",
+    "https://openalex.org/W2317927143",
+    "https://openalex.org/W2484539390",
+    "https://openalex.org/W2527476518",
+    "https://openalex.org/W2602045441",
+    "https://openalex.org/W2755201843",
+    "https://openalex.org/W2801195482",
+    "https://openalex.org/W2920039906",
+    "https://openalex.org/W2987908554",
+    "https://openalex.org/W3026066543",
+    "https://openalex.org/W3119737444",
+    "https://openalex.org/W3125864288",
+    "https://openalex.org/W4205465679",
+    "https://openalex.org/W4231846455",
+    "https://openalex.org/W4244303777",
+    "https://openalex.org/W4396970651",
+    "https://openalex.org/W6908708015",
+    "https://openalex.org/W7047758632"
+  ],
+  "related_works": [
+    "https://openalex.org/W2613969447",
+    "https://openalex.org/W2623292153",
+    "https://openalex.org/W1490944919",
+    "https://openalex.org/W2307509468",
+    "https://openalex.org/W2056147557",
+    "https://openalex.org/W1971255377",
+    "https://openalex.org/W4415946902",
+    "https://openalex.org/W6908708015",
+    "https://openalex.org/W4404925390",
+    "https://openalex.org/W2898229742"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "article": [
+      1
+    ],
+    "expands": [
+      2
+    ],
+    "the": [
+      3,
+      24,
+      47,
+      103,
+      123,
+      142,
+      153
+    ],
+    "scope": [
+      4
+    ],
+    "of": [
+      5,
+      46,
+      54,
+      105,
+      125,
+      144,
+      155
+    ],
+    "comparative": [
+      6
+    ],
+    "social": [
+      7
+    ],
+    "stratification": [
+      8,
+      154
+    ],
+    "research": [
+      9
+    ],
+    "in": [
+      10,
+      23,
+      79,
+      84,
+      96,
+      133,
+      152,
+      158
+    ],
+    "education": [
+      11
+    ],
+    "to": [
+      12,
+      34,
+      52,
+      127
+    ],
+    "rapidly": [
+      13
+    ],
+    "developing,": [
+      14
+    ],
+    "largely": [
+      15,
+      88
+    ],
+    "low-income": [
+      16
+    ],
+    "sub-Saharan": [
+      17
+    ],
+    "Africa.": [
+      18
+    ],
+    "First,": [
+      19
+    ],
+    "we": [
+      20
+    ],
+    "investigate": [
+      21
+    ],
+    "trends": [
+      22
+    ],
+    "association": [
+      25
+    ],
+    "between": [
+      26
+    ],
+    "parental": [
+      27
+    ],
+    "socioeconomic": [
+      28
+    ],
+    "status": [
+      29
+    ],
+    "(SES)": [
+      30
+    ],
+    "and": [
+      31,
+      36,
+      42,
+      63,
+      66,
+      99,
+      109,
+      122,
+      138,
+      148
+    ],
+    "children’s": [
+      32
+    ],
+    "chances": [
+      33
+    ],
+    "attend": [
+      35
+    ],
+    "complete": [
+      37
+    ],
+    "primary": [
+      38
+    ],
+    "education,": [
+      39,
+      121
+    ],
+    "exploring": [
+      40
+    ],
+    "whether": [
+      41
+    ],
+    "where": [
+      43
+    ],
+    "educational": [
+      44,
+      55,
+      156
+    ],
+    "expansion": [
+      45
+    ],
+    "early": [
+      48
+    ],
+    "twenty-first": [
+      49
+    ],
+    "century": [
+      50
+    ],
+    "led": [
+      51
+    ],
+    "equalization": [
+      53
+    ],
+    "opportunities.": [
+      56
+    ],
+    "Drawing": [
+      57
+    ],
+    "on": [
+      58,
+      120
+    ],
+    "data": [
+      59
+    ],
+    "from": [
+      60,
+      72
+    ],
+    "153": [
+      61
+    ],
+    "Demographic": [
+      62
+    ],
+    "Health": [
+      64
+    ],
+    "Surveys": [
+      65,
+      70
+    ],
+    "Multiple": [
+      67
+    ],
+    "Indicator": [
+      68
+    ],
+    "Cluster": [
+      69
+    ],
+    "(1990–2017)": [
+      71
+    ],
+    "40": [
+      73
+    ],
+    "countries,": [
+      74
+    ],
+    "findings": [
+      75
+    ],
+    "indicate": [
+      76
+    ],
+    "that": [
+      77,
+      111
+    ],
+    "inequality": [
+      78,
+      83,
+      97
+    ],
+    "attendance": [
+      80
+    ],
+    "declined,": [
+      81
+    ],
+    "but": [
+      82
+    ],
+    "completing": [
+      85
+    ],
+    "six": [
+      86
+    ],
+    "grades": [
+      87
+    ],
+    "persisted.": [
+      89
+    ],
+    "Cross-country": [
+      90
+    ],
+    "analyses": [
+      91
+    ],
+    "reveal": [
+      92
+    ],
+    "a": [
+      93
+    ],
+    "large": [
+      94
+    ],
+    "variation": [
+      95,
+      132
+    ],
+    "levels": [
+      98
+    ],
+    "trends.": [
+      100
+    ],
+    "We": [
+      101
+    ],
+    "explore": [
+      102
+    ],
+    "role": [
+      104
+    ],
+    "national": [
+      106
+    ],
+    "contextual": [
+      107
+    ],
+    "factors": [
+      108
+    ],
+    "find": [
+      110
+    ],
+    "underweight": [
+      112
+    ],
+    "prevalence,": [
+      113
+    ],
+    "fertility": [
+      114
+    ],
+    "rates,": [
+      115
+    ],
+    "school": [
+      116,
+      149
+    ],
+    "fees,": [
+      117
+    ],
+    "public": [
+      118
+    ],
+    "spending": [
+      119
+    ],
+    "ratio": [
+      124
+    ],
+    "pupils": [
+      126
+    ],
+    "teaching": [
+      128,
+      150
+    ],
+    "staff": [
+      129
+    ],
+    "systematically": [
+      130
+    ],
+    "explain": [
+      131
+    ],
+    "SES": [
+      134
+    ],
+    "gaps": [
+      135
+    ],
+    "across": [
+      136
+    ],
+    "countries": [
+      137
+    ],
+    "cohorts.": [
+      139
+    ],
+    "Findings": [
+      140
+    ],
+    "underline": [
+      141
+    ],
+    "importance": [
+      143
+    ],
+    "absolute": [
+      145
+    ],
+    "material": [
+      146
+    ],
+    "deprivation": [
+      147
+    ],
+    "resources": [
+      151
+    ],
+    "opportunities": [
+      157
+    ],
+    "this": [
+      159
+    ],
+    "region.": [
+      160
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4389051780",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2023-11-28T00:00:00"
+}

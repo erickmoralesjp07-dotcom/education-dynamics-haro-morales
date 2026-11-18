@@ -1,0 +1,1198 @@
+{
+  "id": "https://openalex.org/W4392658936",
+  "doi": "https://doi.org/10.15390/es.2026.2567",
+  "title": "The intraclass correlation coefficient as a measure of educational inequality: An empirical study with data from PISA",
+  "display_name": "The intraclass correlation coefficient as a measure of educational inequality: An empirical study with data from PISA",
+  "alternate_titles": [
+    "Eğitim eşitsizliğinin ölçüsü olarak küme içi korelasyon katsayısı: PISA verileriyle yapılmış ampirik bir çalışma"
+  ],
+  "publication_year": 2026,
+  "publication_date": "2026-11-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4392658936",
+    "doi": "https://doi.org/10.15390/es.2026.2567"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.15390/es.2026.2567",
+    "doi": "https://doi.org/10.15390/es.2026.2567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.15390/es.2026.2567",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210220344",
+      "display_name": "TED EĞİTİM VE BİLİM",
+      "issn_l": "1300-1337",
+      "issn": [
+        "1300-1337"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+        "poland-40",
+        "russia-white-list-3",
+        "tr-dizin",
+        "vabb-shw"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Education and Science",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W4392658936"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.15390/es.2026.2567",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5094118493",
+        "display_name": "Yasemin YARDIM",
+        "orcid": "https://orcid.org/0000-0002-6897-0850",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-6897-0850"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41641357",
+          "display_name": "Ege University",
+          "ror": "https://ror.org/02eaafc18",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41641357"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094226",
+          "display_name": "Mi̇lli̇ Eği̇ti̇m Bakanliği",
+          "ror": "https://ror.org/00jga9g46",
+          "country_code": "TR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210094226"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yasemin Yardım",
+      "raw_affiliation_strings": [
+        "Department of Measurement and Evaluation in Education, Faculty of Education, Ege University, İzmir, Türkiye; Ministry of National Education, Türkiye",
+        "Leuphana University & Ege University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6897-0850",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Measurement and Evaluation in Education, Faculty of Education, Ege University, İzmir, Türkiye; Ministry of National Education, Türkiye",
+          "institution_ids": [
+            "https://openalex.org/I41641357",
+            "https://openalex.org/I4210094226"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leuphana University & Ege University",
+          "institution_ids": [
+            "https://openalex.org/I41641357"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5094118494",
+        "display_name": "Gürkan Cüvitoğlu",
+        "orcid": "https://orcid.org/0000-0002-7123-1987",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-7123-1987"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41641357",
+          "display_name": "Ege University",
+          "ror": "https://ror.org/02eaafc18",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41641357"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gürkan Cüvitoğlu",
+      "raw_affiliation_strings": [
+        "Department of Educational Measurement and Evaluation, Faculty of Educational Sciences, Ege University, İzmir, Türkiye; Measurement and Evaluation Application and Research Center, Ege University, İzmir, Türkiye",
+        "Leuphana University & Ege University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7123-1987",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Educational Measurement and Evaluation, Faculty of Educational Sciences, Ege University, İzmir, Türkiye; Measurement and Evaluation Application and Research Center, Ege University, İzmir, Türkiye",
+          "institution_ids": [
+            "https://openalex.org/I41641357"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leuphana University & Ege University",
+          "institution_ids": [
+            "https://openalex.org/I41641357"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018638155",
+        "display_name": "Burak Aydın",
+        "orcid": "https://orcid.org/0000-0003-4462-1784",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-4462-1784"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41641357",
+          "display_name": "Ege University",
+          "ror": "https://ror.org/02eaafc18",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41641357"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Burak Aydın",
+      "raw_affiliation_strings": [
+        "Department of Educational Measurement and Evaluation, Faculty of Educational Sciences, Ege University, İzmir, Türkiye; Leuphana University, Institute of Educational Sciences, Germany",
+        "Leuphana University & Ege University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4462-1784",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Educational Measurement and Evaluation, Faculty of Educational Sciences, Ege University, İzmir, Türkiye; Leuphana University, Institute of Educational Sciences, Germany",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Leuphana University & Ege University",
+          "institution_ids": [
+            "https://openalex.org/I41641357"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 7.1892,
+  "has_fulltext": true,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.95010847,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 87,
+    "max": 96
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10674",
+    "display_name": "School Choice and Performance",
+    "score": 0.8339999914169312,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.8339999914169312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11300",
+      "display_name": "Global Educational Policies and Reforms",
+      "score": 0.07180000096559525,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.039900001138448715,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/intraclass-correlation-coefficient",
+      "display_name": "intraclass correlation coefficient",
+      "score": 0.9940000176429749
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.9990000128746033
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-achievement",
+      "display_name": "mathematics achievement",
+      "score": 0.746999979019165
+    },
+    {
+      "id": "https://openalex.org/keywords/pisa-2018",
+      "display_name": "PISA 2018",
+      "score": 0.9819999933242798
+    },
+    {
+      "id": "https://openalex.org/keywords/multilevel-models",
+      "display_name": "multilevel models",
+      "score": 0.7369999885559082
+    },
+    {
+      "id": "https://openalex.org/keywords/country-level-determinants",
+      "display_name": "country-level determinants",
+      "score": 0.7039999961853027
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-tracking",
+      "display_name": "educational tracking",
+      "score": 0.4339999854564667
+    },
+    {
+      "id": "https://openalex.org/keywords/cultural-differences",
+      "display_name": "cultural differences",
+      "score": 0.875
+    },
+    {
+      "id": "https://openalex.org/keywords/gross-domestic-product",
+      "display_name": "gross domestic product",
+      "score": 0.843999981880188
+    },
+    {
+      "id": "https://openalex.org/keywords/school-type",
+      "display_name": "school type",
+      "score": 0.9380000233650208
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C104709138",
+      "wikidata": "https://www.wikidata.org/wiki/Q1671540",
+      "display_name": "Intraclass correlation",
+      "level": 3,
+      "score": 0.8918019533157349
+    },
+    {
+      "id": "https://openalex.org/C2780009758",
+      "wikidata": "https://www.wikidata.org/wiki/Q6804172",
+      "display_name": "Measure (data warehouse)",
+      "level": 2,
+      "score": 0.7315598130226135
+    },
+    {
+      "id": "https://openalex.org/C103423394",
+      "wikidata": "https://www.wikidata.org/wiki/Q5172857",
+      "display_name": "Correlation ratio",
+      "level": 3,
+      "score": 0.6416309475898743
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.5592535734176636
+    },
+    {
+      "id": "https://openalex.org/C2780092901",
+      "wikidata": "https://www.wikidata.org/wiki/Q3433612",
+      "display_name": "Correlation coefficient",
+      "level": 2,
+      "score": 0.546116292476654
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.5277151465415955
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.5203084945678711
+    },
+    {
+      "id": "https://openalex.org/C117220453",
+      "wikidata": "https://www.wikidata.org/wiki/Q5172842",
+      "display_name": "Correlation",
+      "level": 2,
+      "score": 0.49924325942993164
+    },
+    {
+      "id": "https://openalex.org/C2779206190",
+      "wikidata": "https://www.wikidata.org/wiki/Q162455",
+      "display_name": "Gini coefficient",
+      "level": 4,
+      "score": 0.4112812876701355
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.3934321403503418
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3918806314468384
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.37759220600128174
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.17196640372276306
+    },
+    {
+      "id": "https://openalex.org/C513380476",
+      "wikidata": "https://www.wikidata.org/wiki/Q5055020",
+      "display_name": "Economic inequality",
+      "level": 3,
+      "score": 0.12296167016029358
+    },
+    {
+      "id": "https://openalex.org/C171606756",
+      "wikidata": "https://www.wikidata.org/wiki/Q506132",
+      "display_name": "Psychometrics",
+      "level": 2,
+      "score": 0.09292915463447571
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.09020069241523743
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.04653707146644592
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.15390/es.2026.2567",
+      "doi": "https://doi.org/10.15390/es.2026.2567",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.15390/es.2026.2567",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210220344",
+        "display_name": "TED EĞİTİM VE BİLİM",
+        "issn_l": "1300-1337",
+        "issn": [
+          "1300-1337"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [
+          "poland-40",
+          "russia-white-list-3",
+          "tr-dizin",
+          "vabb-shw"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Education and Science",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-4066275/v1",
+      "doi": "https://doi.org/10.21203/rs.3.rs-4066275/v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.21203/rs.3.rs-4066275/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-4066275/latest.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306525896",
+        "display_name": "Research Square",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Research Square",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.15390/es.2026.2567",
+    "doi": "https://doi.org/10.15390/es.2026.2567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.15390/es.2026.2567",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210220344",
+      "display_name": "TED EĞİTİM VE BİLİM",
+      "issn_l": "1300-1337",
+      "issn": [
+        "1300-1337"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+        "poland-40",
+        "russia-white-list-3",
+        "tr-dizin",
+        "vabb-shw"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Education and Science",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.9235000014305115
+    },
+    {
+      "display_name": "Reduced inequalities",
+      "id": "https://metadata.un.org/sdg/10",
+      "score": 0.7578999996185303
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4392658936.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4392658936.grobid-xml"
+  },
+  "referenced_works_count": 98,
+  "referenced_works": [
+    "https://openalex.org/W83071838",
+    "https://openalex.org/W562625873",
+    "https://openalex.org/W1523182829",
+    "https://openalex.org/W1526810367",
+    "https://openalex.org/W1592263067",
+    "https://openalex.org/W1841480981",
+    "https://openalex.org/W1857231446",
+    "https://openalex.org/W1970325005",
+    "https://openalex.org/W1986591052",
+    "https://openalex.org/W1988883762",
+    "https://openalex.org/W2008585658",
+    "https://openalex.org/W2020959269",
+    "https://openalex.org/W2054908371",
+    "https://openalex.org/W2061141931",
+    "https://openalex.org/W2062346295",
+    "https://openalex.org/W2063996413",
+    "https://openalex.org/W2064445261",
+    "https://openalex.org/W2067349299",
+    "https://openalex.org/W2069939401",
+    "https://openalex.org/W2089728858",
+    "https://openalex.org/W2090444608",
+    "https://openalex.org/W2091254174",
+    "https://openalex.org/W2102904219",
+    "https://openalex.org/W2104575882",
+    "https://openalex.org/W2106525915",
+    "https://openalex.org/W2108648198",
+    "https://openalex.org/W2116026236",
+    "https://openalex.org/W2117499425",
+    "https://openalex.org/W2118502261",
+    "https://openalex.org/W2129735628",
+    "https://openalex.org/W2132073984",
+    "https://openalex.org/W2137265810",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W2144446652",
+    "https://openalex.org/W2148216307",
+    "https://openalex.org/W2154084758",
+    "https://openalex.org/W2158433648",
+    "https://openalex.org/W2159200082",
+    "https://openalex.org/W2161429198",
+    "https://openalex.org/W2170646185",
+    "https://openalex.org/W2171013128",
+    "https://openalex.org/W2314001648",
+    "https://openalex.org/W2320905941",
+    "https://openalex.org/W2398650199",
+    "https://openalex.org/W2404310902",
+    "https://openalex.org/W2502464994",
+    "https://openalex.org/W2512896659",
+    "https://openalex.org/W2522219879",
+    "https://openalex.org/W2556556396",
+    "https://openalex.org/W2560687937",
+    "https://openalex.org/W2565055886",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2598935959",
+    "https://openalex.org/W2757248852",
+    "https://openalex.org/W2767582401",
+    "https://openalex.org/W2793036539",
+    "https://openalex.org/W2795629511",
+    "https://openalex.org/W2890480220",
+    "https://openalex.org/W2891506482",
+    "https://openalex.org/W2906395918",
+    "https://openalex.org/W2925830806",
+    "https://openalex.org/W2978349343",
+    "https://openalex.org/W3006269919",
+    "https://openalex.org/W3013586637",
+    "https://openalex.org/W3015527362",
+    "https://openalex.org/W3047583979",
+    "https://openalex.org/W3091947885",
+    "https://openalex.org/W3092459516",
+    "https://openalex.org/W3096958571",
+    "https://openalex.org/W3100470523",
+    "https://openalex.org/W3112878821",
+    "https://openalex.org/W3118140867",
+    "https://openalex.org/W3121244245",
+    "https://openalex.org/W3123680639",
+    "https://openalex.org/W3124724377",
+    "https://openalex.org/W3125355974",
+    "https://openalex.org/W3131240077",
+    "https://openalex.org/W3150964746",
+    "https://openalex.org/W3154553043",
+    "https://openalex.org/W3195994484",
+    "https://openalex.org/W3198339245",
+    "https://openalex.org/W4235666903",
+    "https://openalex.org/W4236405047",
+    "https://openalex.org/W4236701215",
+    "https://openalex.org/W4239429787",
+    "https://openalex.org/W4239486836",
+    "https://openalex.org/W4249644466",
+    "https://openalex.org/W4251472438",
+    "https://openalex.org/W4252981424",
+    "https://openalex.org/W4300570360",
+    "https://openalex.org/W4301101424",
+    "https://openalex.org/W4323656115",
+    "https://openalex.org/W4399582283",
+    "https://openalex.org/W4408126093",
+    "https://openalex.org/W6698987799",
+    "https://openalex.org/W6852291354",
+    "https://openalex.org/W7065275539",
+    "https://openalex.org/W7073942009"
+  ],
+  "related_works": [
+    "https://openalex.org/W3125160367",
+    "https://openalex.org/W7098266464",
+    "https://openalex.org/W3200850332",
+    "https://openalex.org/W2553446443",
+    "https://openalex.org/W7071365397",
+    "https://openalex.org/W1928490545",
+    "https://openalex.org/W7124262981",
+    "https://openalex.org/W4403835248",
+    "https://openalex.org/W4392002466",
+    "https://openalex.org/W2471986240"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "this": [
+      1,
+      61
+    ],
+    "study,": [
+      2
+    ],
+    "we": [
+      3,
+      168
+    ],
+    "utilized": [
+      4
+    ],
+    "data": [
+      5
+    ],
+    "from": [
+      6,
+      187
+    ],
+    "the": [
+      7,
+      24,
+      53,
+      80,
+      108,
+      120,
+      128,
+      135,
+      140,
+      153,
+      158
+    ],
+    "Programme": [
+      8
+    ],
+    "for": [
+      9,
+      45,
+      69
+    ],
+    "International": [
+      10
+    ],
+    "Student": [
+      11
+    ],
+    "Assessment": [
+      12
+    ],
+    "(PISA)": [
+      13
+    ],
+    "to": [
+      14,
+      64,
+      76,
+      85,
+      92,
+      113,
+      177
+    ],
+    "investigate": [
+      15,
+      86
+    ],
+    "differences": [
+      16,
+      88
+    ],
+    "in": [
+      17,
+      89,
+      122,
+      183
+    ],
+    "schools’": [
+      18
+    ],
+    "average": [
+      19
+    ],
+    "mathematics": [
+      20
+    ],
+    "scores": [
+      21
+    ],
+    "by": [
+      22,
+      111,
+      127
+    ],
+    "treating": [
+      23
+    ],
+    "intraclass": [
+      25
+    ],
+    "correlation": [
+      26
+    ],
+    "coefficient": [
+      27
+    ],
+    "(ICC)": [
+      28
+    ],
+    "as": [
+      29
+    ],
+    "a": [
+      30,
+      144,
+      162,
+      188
+    ],
+    "measure": [
+      31
+    ],
+    "of": [
+      32,
+      60,
+      119,
+      134,
+      165
+    ],
+    "educational": [
+      33,
+      185
+    ],
+    "inequality.": [
+      34
+    ],
+    "We": [
+      35
+    ],
+    "computed": [
+      36
+    ],
+    "ICCs": [
+      37,
+      124,
+      137
+    ],
+    "with": [
+      38,
+      152
+    ],
+    "both": [
+      39
+    ],
+    "unconditional": [
+      40,
+      109
+    ],
+    "and": [
+      41,
+      51,
+      75,
+      83,
+      180
+    ],
+    "conditional": [
+      42,
+      123,
+      136
+    ],
+    "multilevel": [
+      43
+    ],
+    "models": [
+      44
+    ],
+    "79": [
+      46
+    ],
+    "PISA": [
+      47,
+      71,
+      100
+    ],
+    "2018": [
+      48
+    ],
+    "participating": [
+      49
+    ],
+    "countries": [
+      50,
+      74,
+      106
+    ],
+    "meta-analyzed": [
+      52
+    ],
+    "results.": [
+      54
+    ],
+    "There": [
+      55
+    ],
+    "are": [
+      56,
+      103
+    ],
+    "two": [
+      57
+    ],
+    "primary": [
+      58
+    ],
+    "purposes": [
+      59
+    ],
+    "study:": [
+      62
+    ],
+    "first,": [
+      63
+    ],
+    "quantify": [
+      65
+    ],
+    "inequality": [
+      66,
+      186
+    ],
+    "after": [
+      67
+    ],
+    "controlling": [
+      68
+    ],
+    "common": [
+      70,
+      104
+    ],
+    "variables": [
+      72,
+      101,
+      172
+    ],
+    "across": [
+      73,
+      105
+    ],
+    "explain": [
+      77
+    ],
+    "heterogeneity": [
+      78,
+      121
+    ],
+    "at": [
+      79,
+      116
+    ],
+    "country": [
+      81
+    ],
+    "level;": [
+      82
+    ],
+    "second,": [
+      84
+    ],
+    "school": [
+      87,
+      159
+    ],
+    "Türkiye": [
+      90
+    ],
+    "due": [
+      91
+    ],
+    "its": [
+      93
+    ],
+    "large": [
+      94
+    ],
+    "ICCs.": [
+      95
+    ],
+    "The": [
+      96,
+      148
+    ],
+    "results": [
+      97
+    ],
+    "showed": [
+      98
+    ],
+    "that": [
+      99,
+      102,
+      139,
+      157,
+      173
+    ],
+    "reduced": [
+      107
+    ],
+    "ICC": [
+      110
+    ],
+    "5%": [
+      112
+    ],
+    "73%.": [
+      114
+    ],
+    "Further,": [
+      115
+    ],
+    "least": [
+      117
+    ],
+    "50%": [
+      118
+    ],
+    "was": [
+      125,
+      143,
+      161
+    ],
+    "explained": [
+      126
+    ],
+    "country-level": [
+      129
+    ],
+    "non-PISA": [
+      130
+    ],
+    "variables.": [
+      131
+    ],
+    "Our": [
+      132
+    ],
+    "meta-analysis": [
+      133,
+      154
+    ],
+    "revealed": [
+      138
+    ],
+    "tracking": [
+      141
+    ],
+    "age": [
+      142
+    ],
+    "statistically": [
+      145
+    ],
+    "significant": [
+      146
+    ],
+    "moderator.": [
+      147
+    ],
+    "Türkiye-specific": [
+      149
+    ],
+    "model,": [
+      150
+    ],
+    "consistent": [
+      151
+    ],
+    "results,": [
+      155
+    ],
+    "indicated": [
+      156
+    ],
+    "type": [
+      160
+    ],
+    "substantial": [
+      163
+    ],
+    "predictor": [
+      164
+    ],
+    "ICC.": [
+      166
+    ],
+    "Overall,": [
+      167
+    ],
+    "briefly": [
+      169
+    ],
+    "outlined": [
+      170
+    ],
+    "key": [
+      171
+    ],
+    "may": [
+      174
+    ],
+    "be": [
+      175
+    ],
+    "helpful": [
+      176
+    ],
+    "researchers,": [
+      178
+    ],
+    "administrators,": [
+      179
+    ],
+    "policymakers": [
+      181
+    ],
+    "interested": [
+      182
+    ],
+    "studying": [
+      184
+    ],
+    "quantitative": [
+      189
+    ],
+    "perspective.": [
+      190
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392658936",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-11-17T12:49:18.490984",
+  "created_date": "2024-03-12T00:00:00"
+}

@@ -1,0 +1,5071 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 104211,
+    "db_response_time_ms": 842,
+    "page": 1,
+    "per_page": 5,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Correlation Between Corruption \"and\" Education in Developing Countries) in the title, abstract, or full text",
+      "x_new_oql": "get works with (Correlation Between Corruption \"and\" Education in Developing Countries) in the title, abstract, or full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Correlation Between Corruption and Education in Developing Countries",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Correlation Between Corruption and Education in Developing Countries&per_page=5",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2615446926",
+      "doi": null,
+      "title": "Correlation Between Corruption and Education in Developing Countries",
+      "display_name": "Correlation Between Corruption and Education in Developing Countries",
+      "alternate_titles": [],
+      "relevance_score": 279.00198,
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2615446926",
+        "mag": "2615446926"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:digitalcommons.usu.edu:researchweek-1453",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://digitalcommons.usu.edu/researchweek/ResearchWeek2017/Session5Poster/20",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196327",
+          "display_name": "Digital Commons - USU (Utah State University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I121980950",
+          "host_organization_name": "Utah State University",
+          "host_organization_lineage": [
+            "https://openalex.org/I121980950"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Student Research Symposium",
+        "raw_type": "text"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2615446926"
+      ],
+      "child_works_count": 0,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.usu.edu/researchweek/ResearchWeek2017/Session5Poster/20",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077766534",
+            "display_name": "Nathalie De La Cruz Aquino",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Nathalie De La Cruz Aquino",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5077766534"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11042",
+          "display_name": "Corruption and Economic Development",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13867",
+          "display_name": "Economic Growth and Development",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10674",
+          "display_name": "School Choice and Performance",
+          "score": 9.999999747378752e-05,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/corruption",
+          "display_name": "corruption",
+          "score": 0.9900000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-quality",
+          "display_name": "educational quality",
+          "score": 0.9190000295639038
+        },
+        {
+          "id": "https://openalex.org/keywords/pisa",
+          "display_name": "PISA",
+          "score": 0.7129999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/developing-countries",
+          "display_name": "developing countries",
+          "score": 0.6489999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/school-dropout-rates",
+          "display_name": "school dropout rates",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/access-to-education",
+          "display_name": "access to education",
+          "score": 0.9079999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/human-capital",
+          "display_name": "human capital",
+          "score": 0.8460000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/educational-indicators",
+          "display_name": "education indicators",
+          "score": 0.4860000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/cross-national-comparison",
+          "display_name": "cross-national comparison",
+          "score": 0.7110000252723694
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C83864248",
+          "wikidata": "https://www.wikidata.org/wiki/Q177323",
+          "display_name": "Developing country",
+          "level": 2,
+          "score": 0.6053311228752136
+        },
+        {
+          "id": "https://openalex.org/C2780027415",
+          "wikidata": "https://www.wikidata.org/wiki/Q524648",
+          "display_name": "Language change",
+          "level": 2,
+          "score": 0.5612232685089111
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.39321276545524597
+        },
+        {
+          "id": "https://openalex.org/C47768531",
+          "wikidata": "https://www.wikidata.org/wiki/Q1127188",
+          "display_name": "Development economics",
+          "level": 1,
+          "score": 0.39000043272972107
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.33159390091896057
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.29614609479904175
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:digitalcommons.usu.edu:researchweek-1453",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://digitalcommons.usu.edu/researchweek/ResearchWeek2017/Session5Poster/20",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196327",
+            "display_name": "Digital Commons - USU (Utah State University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I121980950",
+            "host_organization_name": "Utah State University",
+            "host_organization_lineage": [
+              "https://openalex.org/I121980950"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Student Research Symposium",
+          "raw_type": "text"
+        },
+        {
+          "id": "mag:2615446926",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1453&context=researchweek",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:digitalcommons.usu.edu:researchweek-1453",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://digitalcommons.usu.edu/researchweek/ResearchWeek2017/Session5Poster/20",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196327",
+          "display_name": "Digital Commons - USU (Utah State University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I121980950",
+          "host_organization_name": "Utah State University",
+          "host_organization_lineage": [
+            "https://openalex.org/I121980950"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Student Research Symposium",
+        "raw_type": "text"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.9235000014305115,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality education"
+        },
+        {
+          "score": 0.6601999998092651,
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, justice, and strong institutions"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2615446926.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2615446926.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1549734465",
+        "https://openalex.org/W212293425",
+        "https://openalex.org/W7206176894",
+        "https://openalex.org/W1518655961",
+        "https://openalex.org/W4226066131",
+        "https://openalex.org/W1502722308",
+        "https://openalex.org/W3133166155",
+        "https://openalex.org/W4385601924",
+        "https://openalex.org/W2338642458",
+        "https://openalex.org/W2804614319"
+      ],
+      "abstract_inverted_index": {
+        "Title:": [
+          0
+        ],
+        "Correlation": [
+          1
+        ],
+        "Between": [
+          2
+        ],
+        "Corruption": [
+          3
+        ],
+        "and": [
+          4,
+          20,
+          44,
+          52,
+          86,
+          104,
+          125,
+          139
+        ],
+        "Education": [
+          5
+        ],
+        "in": [
+          6,
+          75,
+          134,
+          145,
+          155
+        ],
+        "Developing": [
+          7
+        ],
+        "Countries": [
+          8
+        ],
+        "Abstract:": [
+          9
+        ],
+        "Cross-country": [
+          10
+        ],
+        "empirical": [
+          11
+        ],
+        "studies": [
+          12
+        ],
+        "that": [
+          13,
+          67
+        ],
+        "analyze": [
+          14
+        ],
+        "the": [
+          15,
+          30,
+          58,
+          63,
+          76,
+          130,
+          135
+        ],
+        "relationship": [
+          16,
+          113
+        ],
+        "between": [
+          17
+        ],
+        "corruption": [
+          18,
+          50,
+          69,
+          133
+        ],
+        "perception": [
+          19
+        ],
+        "education": [
+          21,
+          36,
+          42,
+          138
+        ],
+        "indicators": [
+          22,
+          43,
+          121
+        ],
+        "are": [
+          23,
+          95
+        ],
+        "abundant.": [
+          24
+        ],
+        "In": [
+          25,
+          115
+        ],
+        "this": [
+          26
+        ],
+        "study,": [
+          27
+        ],
+        "I": [
+          28,
+          117
+        ],
+        "use": [
+          29,
+          118
+        ],
+        "PISA": [
+          31,
+          64,
+          77,
+          150
+        ],
+        "outcomes": [
+          32,
+          151
+        ],
+        "to": [
+          33,
+          128,
+          137
+        ],
+        "proxy": [
+          34
+        ],
+        "for": [
+          35,
+          79,
+          101,
+          152
+        ],
+        "quality": [
+          37
+        ],
+        "as": [
+          38,
+          40,
+          123
+        ],
+        "well": [
+          39
+        ],
+        "other": [
+          41,
+          105,
+          119
+        ],
+        "regress": [
+          45
+        ],
+        "them": [
+          46
+        ],
+        "with": [
+          47,
+          72
+        ],
+        "two": [
+          48
+        ],
+        "different": [
+          49
+        ],
+        "measures": [
+          51
+        ],
+        "control": [
+          53,
+          106
+        ],
+        "variables.": [
+          54,
+          107
+        ],
+        "Running": [
+          55
+        ],
+        "GLS": [
+          56
+        ],
+        "on": [
+          57
+        ],
+        "standardized": [
+          59
+        ],
+        "mean": [
+          60
+        ],
+        "values": [
+          61
+        ],
+        "of": [
+          62,
+          132
+        ],
+        "results": [
+          65
+        ],
+        "shows": [
+          66
+        ],
+        "lower": [
+          68
+        ],
+        "is": [
+          70
+        ],
+        "associated": [
+          71
+        ],
+        "an": [
+          73
+        ],
+        "increase": [
+          74
+        ],
+        "scores": [
+          78
+        ],
+        "math": [
+          80
+        ],
+        "(0.23": [
+          81
+        ],
+        "σ),": [
+          82,
+          85
+        ],
+        "science": [
+          83
+        ],
+        "(0.20": [
+          84
+        ],
+        "reading": [
+          87
+        ],
+        "(0.29": [
+          88
+        ],
+        "σ)": [
+          89
+        ],
+        "across": [
+          90
+        ],
+        "countries;": [
+          91
+        ],
+        "however,": [
+          92
+        ],
+        "these": [
+          93
+        ],
+        "coefficients": [
+          94
+        ],
+        "not": [
+          96
+        ],
+        "statistically": [
+          97
+        ],
+        "significant": [
+          98
+        ],
+        "after": [
+          99
+        ],
+        "controlling": [
+          100
+        ],
+        "fixed": [
+          102
+        ],
+        "effects": [
+          103
+        ],
+        "Dropout": [
+          108
+        ],
+        "rates": [
+          109
+        ],
+        "show": [
+          110,
+          148
+        ],
+        "a": [
+          111
+        ],
+        "stronger": [
+          112
+        ],
+        "(-3.15).": [
+          114
+        ],
+        "addition,": [
+          116
+        ],
+        "educational": [
+          120
+        ],
+        "such": [
+          122
+        ],
+        "enrollment": [
+          124
+        ],
+        "schooling": [
+          126
+        ],
+        "years": [
+          127
+        ],
+        "study": [
+          129
+        ],
+        "effect": [
+          131
+        ],
+        "access": [
+          136
+        ],
+        "human": [
+          140
+        ],
+        "capital": [
+          141
+        ],
+        "stock.": [
+          142
+        ],
+        "Using": [
+          143
+        ],
+        "interactions": [
+          144
+        ],
+        "my": [
+          146
+        ],
+        "regressions": [
+          147
+        ],
+        "worse": [
+          149
+        ],
+        "developing": [
+          153
+        ],
+        "countries": [
+          154
+        ],
+        "general.": [
+          156
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2615446926",
+      "counts_by_year": [],
+      "updated_date": "2026-11-14T11:04:58.165337",
+      "created_date": "2017-05-26T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2116670326",
+      "doi": "https://doi.org/10.3386/w17398",
+      "title": "Corruption in Developing Countries",
+      "display_name": "Corruption in Developing Countries",
+      "alternate_titles": [],
+      "relevance_score": 66.673035,
+      "publication_year": 2011,
+      "publication_date": "2011-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2116670326",
+        "doi": "https://doi.org/10.3386/w17398",
+        "mag": "2116670326"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3386/w17398",
+        "doi": "https://doi.org/10.3386/w17398",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3386/w17398",
+        "pdf_url": "https://doi.org/10.3386/w17398",
+        "source": {
+          "id": "https://openalex.org/S2809516038",
+          "display_name": "National Bureau of Economic Research",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614461"
+          ],
+          "host_organization_lineage_names": [
+            "National Bureau of Economic Research"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "National Bureau of Economic Research",
+        "raw_type": "report"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2116670326"
+      ],
+      "child_works_count": 0,
+      "type": "report",
+      "is_traditional": false,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.3386/w17398",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5000626413",
+            "display_name": "Benjamin Olken",
+            "orcid": "https://orcid.org/0000-0003-1918-4631",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1918-4631"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1321305853",
+              "display_name": "National Bureau of Economic Research",
+              "ror": "https://ror.org/04grmx538",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1321305853"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I136199984",
+              "display_name": "Harvard University",
+              "ror": "https://ror.org/03vek6s52",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Benjamin Olken",
+          "raw_affiliation_strings": [
+            "Department of Economics MIT 50 Memorial Drive Cambridge , MA 02142-1347 and",
+            "Department of Economics MIT 50 Memorial Drive Cambridge, MA 02142-1347 and NBER",
+            "Kennedy School of Government Harvard University 79 JFK Street Cambridge, MA 02138 and",
+            "NATIONAL BUREAU OF ECONOMIC RESEARCH 1050 Massachusetts Avenue Cambridge, MA 02138",
+            "NBER Working Paper No. 17398"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Economics MIT 50 Memorial Drive Cambridge , MA 02142-1347 and",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Economics MIT 50 Memorial Drive Cambridge, MA 02142-1347 and NBER",
+              "institution_ids": [
+                "https://openalex.org/I1321305853",
+                "https://openalex.org/I63966007"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Kennedy School of Government Harvard University 79 JFK Street Cambridge, MA 02138 and",
+              "institution_ids": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NATIONAL BUREAU OF ECONOMIC RESEARCH 1050 Massachusetts Avenue Cambridge, MA 02138",
+              "institution_ids": [
+                "https://openalex.org/I1321305853"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NBER Working Paper No. 17398",
+              "institution_ids": [
+                "https://openalex.org/I1321305853"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5091212187",
+            "display_name": "Rohini Pande",
+            "orcid": "https://orcid.org/0000-0002-0090-0987",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0090-0987"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1321305853",
+              "display_name": "National Bureau of Economic Research",
+              "ror": "https://ror.org/04grmx538",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1321305853"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I136199984",
+              "display_name": "Harvard University",
+              "ror": "https://ror.org/03vek6s52",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rohini Pande",
+          "raw_affiliation_strings": [
+            "Department of Economics MIT 50 Memorial Drive Cambridge, MA 02142-1347 and NBER",
+            "Kennedy School of Government Harvard University 79 JFK Street Cambridge, MA 02138 and",
+            "NATIONAL BUREAU OF ECONOMIC RESEARCH 1050 Massachusetts Avenue Cambridge, MA 02138",
+            "NBER Working Paper No. 17398"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Economics MIT 50 Memorial Drive Cambridge, MA 02142-1347 and NBER",
+              "institution_ids": [
+                "https://openalex.org/I1321305853",
+                "https://openalex.org/I63966007"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Kennedy School of Government Harvard University 79 JFK Street Cambridge, MA 02138 and",
+              "institution_ids": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NATIONAL BUREAU OF ECONOMIC RESEARCH 1050 Massachusetts Avenue Cambridge, MA 02138",
+              "institution_ids": [
+                "https://openalex.org/I1321305853"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NBER Working Paper No. 17398",
+              "institution_ids": [
+                "https://openalex.org/I1321305853"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 520,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11042",
+          "display_name": "Corruption and Economic Development",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11257",
+          "display_name": "Taxation and Compliance Studies",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11838",
+          "display_name": "Crime, Illicit Activities, and Governance",
+          "score": 9.999999747378752e-05,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/corruption",
+          "display_name": "corruption",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/developing-countries",
+          "display_name": "developing countries",
+          "score": 0.9559999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/corruption-measurement",
+          "display_name": "corruption measurement",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/causes-of-corruption",
+          "display_name": "causes of corruption",
+          "score": 0.9330000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/economic-incentives",
+          "display_name": "economic incentives",
+          "score": 0.531000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/anti-corruption-policy",
+          "display_name": "anti-corruption policy",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/rent-seeking",
+          "display_name": "rent-seeking",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/public-officials",
+          "display_name": "public officials",
+          "score": 0.4309999942779541
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780027415",
+          "wikidata": "https://www.wikidata.org/wiki/Q524648",
+          "display_name": "Language change",
+          "level": 2,
+          "score": 0.6370958089828491
+        },
+        {
+          "id": "https://openalex.org/C83864248",
+          "wikidata": "https://www.wikidata.org/wiki/Q177323",
+          "display_name": "Developing country",
+          "level": 2,
+          "score": 0.6209626197814941
+        },
+        {
+          "id": "https://openalex.org/C47768531",
+          "wikidata": "https://www.wikidata.org/wiki/Q1127188",
+          "display_name": "Development economics",
+          "level": 1,
+          "score": 0.4202791452407837
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.4111180305480957
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.3391275107860565
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.2256375253200531
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3386/w17398",
+          "doi": "https://doi.org/10.3386/w17398",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3386/w17398",
+          "pdf_url": "https://doi.org/10.3386/w17398",
+          "source": {
+            "id": "https://openalex.org/S2809516038",
+            "display_name": "National Bureau of Economic Research",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [
+              "https://openalex.org/P4322614461"
+            ],
+            "host_organization_lineage_names": [
+              "National Bureau of Economic Research"
+            ],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "National Bureau of Economic Research",
+          "raw_type": "report"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3386/w17398",
+        "doi": "https://doi.org/10.3386/w17398",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3386/w17398",
+        "pdf_url": "https://doi.org/10.3386/w17398",
+        "source": {
+          "id": "https://openalex.org/S2809516038",
+          "display_name": "National Bureau of Economic Research",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [
+            "https://openalex.org/P4322614461"
+          ],
+          "host_organization_lineage_names": [
+            "National Bureau of Economic Research"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "National Bureau of Economic Research",
+        "raw_type": "report"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8046000003814697,
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, justice, and strong institutions"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320307873",
+          "display_name": "William and Flora Hewlett Foundation",
+          "ror": "https://ror.org/04hd1y677"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2116670326.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2116670326.grobid-xml"
+      },
+      "referenced_works_count": 86,
+      "referenced_works": [
+        "https://openalex.org/W1482227686",
+        "https://openalex.org/W1484397828",
+        "https://openalex.org/W1500355875",
+        "https://openalex.org/W1557786034",
+        "https://openalex.org/W1559384334",
+        "https://openalex.org/W1570307703",
+        "https://openalex.org/W1570903887",
+        "https://openalex.org/W1602522099",
+        "https://openalex.org/W1743738227",
+        "https://openalex.org/W1896889786",
+        "https://openalex.org/W1944585346",
+        "https://openalex.org/W1964939538",
+        "https://openalex.org/W1968439590",
+        "https://openalex.org/W1978479335",
+        "https://openalex.org/W1984006546",
+        "https://openalex.org/W1987961056",
+        "https://openalex.org/W1989251936",
+        "https://openalex.org/W1990889500",
+        "https://openalex.org/W1991128340",
+        "https://openalex.org/W1991484848",
+        "https://openalex.org/W2001395192",
+        "https://openalex.org/W2002030205",
+        "https://openalex.org/W2003956254",
+        "https://openalex.org/W2005057299",
+        "https://openalex.org/W2024358613",
+        "https://openalex.org/W2030474275",
+        "https://openalex.org/W2033479243",
+        "https://openalex.org/W2034304255",
+        "https://openalex.org/W2052109939",
+        "https://openalex.org/W2059794602",
+        "https://openalex.org/W2069843746",
+        "https://openalex.org/W2070706475",
+        "https://openalex.org/W2096517822",
+        "https://openalex.org/W2099336820",
+        "https://openalex.org/W2102409046",
+        "https://openalex.org/W2104814418",
+        "https://openalex.org/W2107729441",
+        "https://openalex.org/W2118689556",
+        "https://openalex.org/W2120303470",
+        "https://openalex.org/W2120828522",
+        "https://openalex.org/W2123587325",
+        "https://openalex.org/W2125997216",
+        "https://openalex.org/W2130799276",
+        "https://openalex.org/W2143584325",
+        "https://openalex.org/W2149124622",
+        "https://openalex.org/W2149809187",
+        "https://openalex.org/W2149902237",
+        "https://openalex.org/W2152670203",
+        "https://openalex.org/W2157142059",
+        "https://openalex.org/W2168021696",
+        "https://openalex.org/W2170545497",
+        "https://openalex.org/W2171017104",
+        "https://openalex.org/W2186685522",
+        "https://openalex.org/W2276579703",
+        "https://openalex.org/W2891096626",
+        "https://openalex.org/W2891593011",
+        "https://openalex.org/W2892314525",
+        "https://openalex.org/W3021552342",
+        "https://openalex.org/W3021592981",
+        "https://openalex.org/W3022879420",
+        "https://openalex.org/W3023420463",
+        "https://openalex.org/W3024358929",
+        "https://openalex.org/W3041164888",
+        "https://openalex.org/W3121152934",
+        "https://openalex.org/W3121235470",
+        "https://openalex.org/W3121440286",
+        "https://openalex.org/W3121699679",
+        "https://openalex.org/W3121755446",
+        "https://openalex.org/W3121832623",
+        "https://openalex.org/W3122000391",
+        "https://openalex.org/W3122708045",
+        "https://openalex.org/W3122929586",
+        "https://openalex.org/W3123444731",
+        "https://openalex.org/W3123568397",
+        "https://openalex.org/W3124167356",
+        "https://openalex.org/W3124478482",
+        "https://openalex.org/W3124653672",
+        "https://openalex.org/W3124943010",
+        "https://openalex.org/W3125764936",
+        "https://openalex.org/W4235313912",
+        "https://openalex.org/W4236984142",
+        "https://openalex.org/W4244992121",
+        "https://openalex.org/W6650776134",
+        "https://openalex.org/W6677785656",
+        "https://openalex.org/W6805558721",
+        "https://openalex.org/W6812365710"
+      ],
+      "related_works": [
+        "https://openalex.org/W1026038665",
+        "https://openalex.org/W2053338488",
+        "https://openalex.org/W221447229",
+        "https://openalex.org/W1491923470",
+        "https://openalex.org/W3044348955",
+        "https://openalex.org/W2529086719",
+        "https://openalex.org/W7073997924",
+        "https://openalex.org/W81594177",
+        "https://openalex.org/W1597217524",
+        "https://openalex.org/W2087078516"
+      ],
+      "abstract_inverted_index": {
+        "Recent": [
+          0
+        ],
+        "years": [
+          1
+        ],
+        "have": [
+          2
+        ],
+        "seen": [
+          3
+        ],
+        "a": [
+          4,
+          18
+        ],
+        "remarkable": [
+          5
+        ],
+        "expansion": [
+          6
+        ],
+        "in": [
+          7,
+          13,
+          30,
+          33
+        ],
+        "economists'": [
+          8
+        ],
+        "ability": [
+          9
+        ],
+        "to": [
+          10,
+          17,
+          68,
+          87
+        ],
+        "measure": [
+          11
+        ],
+        "corruption.This,": [
+          12
+        ],
+        "turn,": [
+          14
+        ],
+        "has": [
+          15
+        ],
+        "led": [
+          16
+        ],
+        "new": [
+          19
+        ],
+        "generation": [
+          20
+        ],
+        "of": [
+          21,
+          35,
+          53,
+          60,
+          77
+        ],
+        "well-identified,": [
+          22
+        ],
+        "microeconomic": [
+          23
+        ],
+        "studies.We": [
+          24
+        ],
+        "review": [
+          25
+        ],
+        "the": [
+          26,
+          50,
+          58
+        ],
+        "evidence": [
+          27,
+          64
+        ],
+        "on": [
+          28,
+          40
+        ],
+        "corruption": [
+          29,
+          45,
+          66
+        ],
+        "developing": [
+          31
+        ],
+        "countries": [
+          32
+        ],
+        "light": [
+          34
+        ],
+        "these": [
+          36
+        ],
+        "recent": [
+          37
+        ],
+        "advances,": [
+          38
+        ],
+        "focusing": [
+          39
+        ],
+        "three": [
+          41
+        ],
+        "questions:": [
+          42
+        ],
+        "how": [
+          43
+        ],
+        "much": [
+          44
+        ],
+        "is": [
+          46
+        ],
+        "there,": [
+          47
+        ],
+        "what": [
+          48,
+          56
+        ],
+        "are": [
+          49
+        ],
+        "efficiency": [
+          51
+        ],
+        "consequences": [
+          52
+        ],
+        "corruption,": [
+          54
+        ],
+        "and": [
+          55
+        ],
+        "determines": [
+          57
+        ],
+        "level": [
+          59
+        ],
+        "corruption.We": [
+          61
+        ],
+        "find": [
+          62,
+          84
+        ],
+        "robust": [
+          63
+        ],
+        "that": [
+          65,
+          75
+        ],
+        "responds": [
+          67
+        ],
+        "standard": [
+          69
+        ],
+        "economic": [
+          70
+        ],
+        "incentive": [
+          71
+        ],
+        "theory,": [
+          72
+        ],
+        "but": [
+          73
+        ],
+        "also": [
+          74
+        ],
+        "effects": [
+          76
+        ],
+        "anti-corruption": [
+          78
+        ],
+        "policies": [
+          79
+        ],
+        "often": [
+          80
+        ],
+        "attenuate": [
+          81
+        ],
+        "as": [
+          82
+        ],
+        "officials": [
+          83
+        ],
+        "alternate": [
+          85
+        ],
+        "strategies": [
+          86
+        ],
+        "pursue": [
+          88
+        ],
+        "rents.": [
+          89
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2116670326",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 52
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 61
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 25
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 41
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 30
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 50
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 64
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 37
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 12
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4302287407",
+      "doi": "https://doi.org/10.1080/23322039.2022.2129368",
+      "title": "The impact of corruption on economic growth in developing countries and a comparative analysis of corruption measurement indicators",
+      "display_name": "The impact of corruption on economic growth in developing countries and a comparative analysis of corruption measurement indicators",
+      "alternate_titles": [],
+      "relevance_score": 54.057117,
+      "publication_year": 2022,
+      "publication_date": "2022-10-05",
+      "ids": {
+        "openalex": "https://openalex.org/W4302287407",
+        "doi": "https://doi.org/10.1080/23322039.2022.2129368"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/23322039.2022.2129368",
+        "doi": "https://doi.org/10.1080/23322039.2022.2129368",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/23322039.2022.2129368",
+        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2022.2129368?needAccess=true",
+        "source": {
+          "id": "https://openalex.org/S2765075218",
+          "display_name": "Cogent Economics & Finance",
+          "issn_l": "2332-2039",
+          "issn": [
+            "2332-2039"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "abdc-b",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310311767",
+          "host_organization_name": "Cogent OA",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311767"
+          ],
+          "host_organization_lineage_names": [
+            "Cogent OA"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cogent Economics &amp; Finance",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W4302287407"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2022.2129368?needAccess=true",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5056853162",
+            "display_name": "Eleftherios Spyromitros",
+            "orcid": "https://orcid.org/0000-0003-0576-3595",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0576-3595"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I147962203",
+              "display_name": "Democritus University of Thrace",
+              "ror": "https://ror.org/03bfqnx40",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I147962203"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Eleftherios Spyromitros",
+          "raw_affiliation_strings": [
+            "Democritus University of Thrace, Komotini, Greece",
+            "Department of Economics, Democritus University of Thrace, Komotini, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Democritus University of Thrace, Komotini, Greece",
+              "institution_ids": [
+                "https://openalex.org/I147962203"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Economics, Democritus University of Thrace, Komotini, Greece",
+              "institution_ids": [
+                "https://openalex.org/I147962203"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5050327948",
+            "display_name": "Minas Panagiotidis",
+            "orcid": "https://orcid.org/0000-0002-0682-1278",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0682-1278"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I147962203",
+              "display_name": "Democritus University of Thrace",
+              "ror": "https://ror.org/03bfqnx40",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I147962203"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Minas Panagiotidis",
+          "raw_affiliation_strings": [
+            "Democritus University of Thrace, Komotini, Greece",
+            "Department of Economics, Democritus University of Thrace, Komotini, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Democritus University of Thrace, Komotini, Greece",
+              "institution_ids": [
+                "https://openalex.org/I147962203"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Economics, Democritus University of Thrace, Komotini, Greece",
+              "institution_ids": [
+                "https://openalex.org/I147962203"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5056853162"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I147962203"
+      ],
+      "apc_list": {
+        "value": 950,
+        "currency": "GBP",
+        "value_usd": 1165
+      },
+      "apc_paid": {
+        "value": 950,
+        "currency": "GBP",
+        "value_usd": 1165
+      },
+      "fwci": 46.4104,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 280,
+      "citation_normalized_percentile": {
+        "value": 0.9993913,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11042",
+          "display_name": "Corruption and Economic Development",
+          "score": 1.0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13867",
+          "display_name": "Economic Growth and Development",
+          "score": 0.0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11257",
+          "display_name": "Taxation and Compliance Studies",
+          "score": 0.0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/corruption",
+          "display_name": "corruption",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/economic-growth",
+          "display_name": "economic growth",
+          "score": 0.9340000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/corruption-measurement",
+          "display_name": "corruption measurement",
+          "score": 0.6800000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/corruption-index",
+          "display_name": "corruption index",
+          "score": 0.9580000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/developing-countries",
+          "display_name": "developing countries",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/latin-america",
+          "display_name": "Latin America",
+          "score": 0.6660000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/institutional-quality",
+          "display_name": "institutional quality",
+          "score": 0.6930000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/personal-development",
+          "display_name": "human development",
+          "score": 0.9279999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/government-growth",
+          "display_name": "government growth",
+          "score": 0.5059999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/investment",
+          "display_name": "investment",
+          "score": 0.7590000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/regional-heterogeneity",
+          "display_name": "regional heterogeneity",
+          "score": 0.6320000290870667
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780027415",
+          "wikidata": "https://www.wikidata.org/wiki/Q524648",
+          "display_name": "Language change",
+          "level": 2,
+          "score": 0.7894285917282104
+        },
+        {
+          "id": "https://openalex.org/C83864248",
+          "wikidata": "https://www.wikidata.org/wiki/Q177323",
+          "display_name": "Developing country",
+          "level": 2,
+          "score": 0.6268126368522644
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.5758866667747498
+        },
+        {
+          "id": "https://openalex.org/C47768531",
+          "wikidata": "https://www.wikidata.org/wiki/Q1127188",
+          "display_name": "Development economics",
+          "level": 1,
+          "score": 0.5179892778396606
+        },
+        {
+          "id": "https://openalex.org/C2777382242",
+          "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+          "display_name": "Index (typography)",
+          "level": 2,
+          "score": 0.5082842707633972
+        },
+        {
+          "id": "https://openalex.org/C2778137410",
+          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+          "display_name": "Government (linguistics)",
+          "level": 2,
+          "score": 0.4879140555858612
+        },
+        {
+          "id": "https://openalex.org/C158886217",
+          "wikidata": "https://www.wikidata.org/wiki/Q16799549",
+          "display_name": "Latin Americans",
+          "level": 2,
+          "score": 0.48530763387680054
+        },
+        {
+          "id": "https://openalex.org/C100001284",
+          "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+          "display_name": "Public economics",
+          "level": 1,
+          "score": 0.4352368414402008
+        },
+        {
+          "id": "https://openalex.org/C2777146004",
+          "wikidata": "https://www.wikidata.org/wiki/Q14949826",
+          "display_name": "CLARITY",
+          "level": 2,
+          "score": 0.43098607659339905
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.2640005946159363
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.206425279378891
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1080/23322039.2022.2129368",
+          "doi": "https://doi.org/10.1080/23322039.2022.2129368",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1080/23322039.2022.2129368",
+          "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2022.2129368?needAccess=true",
+          "source": {
+            "id": "https://openalex.org/S2765075218",
+            "display_name": "Cogent Economics & Finance",
+            "issn_l": "2332-2039",
+            "issn": [
+              "2332-2039"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "abdc-b",
+              "anvur-scientific",
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310311767",
+            "host_organization_name": "Cogent OA",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311767"
+            ],
+            "host_organization_lineage_names": [
+              "Cogent OA"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Cogent Economics &amp; Finance",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:taf:oaefxx:v:10:y:2022:i:1:p:2129368",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10.1080/23322039.2022.2129368",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:87c0ec4892b149c380b9d9c16b74e8fb",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/87c0ec4892b149c380b9d9c16b74e8fb",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Cogent Economics & Finance, Vol 10, Iss 1 (2022)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:econstor.eu:10419/303824",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://hdl.handle.net/10419/303824",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401696",
+            "display_name": "Econstor (Econstor)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "doc-type:article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1080/23322039.2022.2129368",
+        "doi": "https://doi.org/10.1080/23322039.2022.2129368",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/23322039.2022.2129368",
+        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2022.2129368?needAccess=true",
+        "source": {
+          "id": "https://openalex.org/S2765075218",
+          "display_name": "Cogent Economics & Finance",
+          "issn_l": "2332-2039",
+          "issn": [
+            "2332-2039"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "abdc-b",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310311767",
+          "host_organization_name": "Cogent OA",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311767"
+          ],
+          "host_organization_lineage_names": [
+            "Cogent OA"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cogent Economics &amp; Finance",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.7257999777793884,
+          "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth"
+        },
+        {
+          "score": 0.5473999977111816,
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, justice, and strong institutions"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4302287407.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4302287407.grobid-xml"
+      },
+      "referenced_works_count": 95,
+      "referenced_works": [
+        "https://openalex.org/W6889683",
+        "https://openalex.org/W90941812",
+        "https://openalex.org/W116915540",
+        "https://openalex.org/W133609601",
+        "https://openalex.org/W564236976",
+        "https://openalex.org/W639546590",
+        "https://openalex.org/W1482958167",
+        "https://openalex.org/W1493663450",
+        "https://openalex.org/W1505523118",
+        "https://openalex.org/W1516152554",
+        "https://openalex.org/W1526859056",
+        "https://openalex.org/W1598969128",
+        "https://openalex.org/W1918976294",
+        "https://openalex.org/W1930931359",
+        "https://openalex.org/W1964770553",
+        "https://openalex.org/W1965654176",
+        "https://openalex.org/W1967214592",
+        "https://openalex.org/W1991128340",
+        "https://openalex.org/W1991774331",
+        "https://openalex.org/W2002636363",
+        "https://openalex.org/W2007563579",
+        "https://openalex.org/W2011474190",
+        "https://openalex.org/W2014312343",
+        "https://openalex.org/W2015327645",
+        "https://openalex.org/W2021695593",
+        "https://openalex.org/W2030474275",
+        "https://openalex.org/W2042497865",
+        "https://openalex.org/W2043471191",
+        "https://openalex.org/W2054972192",
+        "https://openalex.org/W2056808901",
+        "https://openalex.org/W2064679638",
+        "https://openalex.org/W2067183084",
+        "https://openalex.org/W2070288549",
+        "https://openalex.org/W2074612426",
+        "https://openalex.org/W2086119922",
+        "https://openalex.org/W2091278137",
+        "https://openalex.org/W2095331327",
+        "https://openalex.org/W2097978133",
+        "https://openalex.org/W2107729441",
+        "https://openalex.org/W2116670326",
+        "https://openalex.org/W2120739669",
+        "https://openalex.org/W2123587325",
+        "https://openalex.org/W2125997216",
+        "https://openalex.org/W2128870377",
+        "https://openalex.org/W2130799276",
+        "https://openalex.org/W2133591639",
+        "https://openalex.org/W2134246329",
+        "https://openalex.org/W2143584325",
+        "https://openalex.org/W2145235041",
+        "https://openalex.org/W2153498557",
+        "https://openalex.org/W2157182507",
+        "https://openalex.org/W2163805184",
+        "https://openalex.org/W2166654663",
+        "https://openalex.org/W2166974667",
+        "https://openalex.org/W2193221615",
+        "https://openalex.org/W2264197539",
+        "https://openalex.org/W2293193578",
+        "https://openalex.org/W2301008251",
+        "https://openalex.org/W2480202704",
+        "https://openalex.org/W2594000860",
+        "https://openalex.org/W2756655422",
+        "https://openalex.org/W2773653842",
+        "https://openalex.org/W2785054831",
+        "https://openalex.org/W2794549094",
+        "https://openalex.org/W2795463097",
+        "https://openalex.org/W2884443027",
+        "https://openalex.org/W2910573377",
+        "https://openalex.org/W2924744787",
+        "https://openalex.org/W2969328049",
+        "https://openalex.org/W3008519155",
+        "https://openalex.org/W3013933716",
+        "https://openalex.org/W3081174558",
+        "https://openalex.org/W3121193289",
+        "https://openalex.org/W3122305536",
+        "https://openalex.org/W3122395173",
+        "https://openalex.org/W3122606204",
+        "https://openalex.org/W3123371832",
+        "https://openalex.org/W3124274053",
+        "https://openalex.org/W3124680359",
+        "https://openalex.org/W3125631287",
+        "https://openalex.org/W3126027997",
+        "https://openalex.org/W3137183058",
+        "https://openalex.org/W3141773194",
+        "https://openalex.org/W3194444282",
+        "https://openalex.org/W4206774799",
+        "https://openalex.org/W4210501483",
+        "https://openalex.org/W4234051217",
+        "https://openalex.org/W4244339061",
+        "https://openalex.org/W4244992121",
+        "https://openalex.org/W4248631979",
+        "https://openalex.org/W6632623771",
+        "https://openalex.org/W6774907774",
+        "https://openalex.org/W6941045954",
+        "https://openalex.org/W7096016383",
+        "https://openalex.org/W7097051910"
+      ],
+      "related_works": [
+        "https://openalex.org/W1601126220",
+        "https://openalex.org/W2516405337",
+        "https://openalex.org/W1608789102",
+        "https://openalex.org/W4251830115",
+        "https://openalex.org/W4296360478",
+        "https://openalex.org/W7077463841",
+        "https://openalex.org/W1566071733",
+        "https://openalex.org/W7096848619",
+        "https://openalex.org/W3197573802",
+        "https://openalex.org/W4395472460"
+      ],
+      "abstract_inverted_index": {
+        "Although": [
+          0
+        ],
+        "corruption": [
+          1,
+          25,
+          37,
+          81,
+          115,
+          127,
+          139
+        ],
+        "has": [
+          2
+        ],
+        "attracted": [
+          3
+        ],
+        "researchers’": [
+          4
+        ],
+        "attention": [
+          5
+        ],
+        "for": [
+          6,
+          75,
+          100
+        ],
+        "more": [
+          7
+        ],
+        "than": [
+          8
+        ],
+        "30": [
+          9
+        ],
+        "years,": [
+          10
+        ],
+        "it": [
+          11,
+          93,
+          152
+        ],
+        "remains": [
+          12
+        ],
+        "one": [
+          13
+        ],
+        "of": [
+          14,
+          36,
+          54,
+          79,
+          120,
+          126
+        ],
+        "the": [
+          15,
+          51,
+          59,
+          86,
+          96,
+          109,
+          117,
+          149
+        ],
+        "most": [
+          16,
+          98
+        ],
+        "significant": [
+          17
+        ],
+        "political": [
+          18
+        ],
+        "challenges": [
+          19
+        ],
+        "all": [
+          20
+        ],
+        "countries": [
+          21,
+          57
+        ],
+        "face.": [
+          22
+        ],
+        "Even": [
+          23
+        ],
+        "though": [
+          24
+        ],
+        "measures": [
+          26,
+          97
+        ],
+        "have": [
+          27
+        ],
+        "improved,": [
+          28
+        ],
+        "they": [
+          29
+        ],
+        "lack": [
+          30
+        ],
+        "reliability": [
+          31
+        ],
+        "and": [
+          32,
+          46,
+          65,
+          76,
+          89,
+          105,
+          161
+        ],
+        "clarity.": [
+          33
+        ],
+        "Two": [
+          34
+        ],
+        "aspects": [
+          35
+        ],
+        "are": [
+          38
+        ],
+        "examined": [
+          39
+        ],
+        "in": [
+          40,
+          58,
+          131,
+          135,
+          148,
+          167
+        ],
+        "this": [
+          41
+        ],
+        "paper:": [
+          42
+        ],
+        "a)": [
+          43
+        ],
+        "its": [
+          44,
+          48
+        ],
+        "measurement": [
+          45
+        ],
+        "b)": [
+          47
+        ],
+        "effects": [
+          49
+        ],
+        "on": [
+          50,
+          85,
+          142
+        ],
+        "economic": [
+          52,
+          118,
+          129,
+          143,
+          168
+        ],
+        "performance": [
+          53
+        ],
+        "83": [
+          55
+        ],
+        "developing": [
+          56,
+          122
+        ],
+        "period": [
+          60
+        ],
+        "2012–2018": [
+          61
+        ],
+        "with": [
+          62
+        ],
+        "AR": [
+          63
+        ],
+        "(1)": [
+          64
+        ],
+        "FM-OLS": [
+          66
+        ],
+        "data": [
+          67
+        ],
+        "processing": [
+          68
+        ],
+        "techniques.": [
+          69
+        ],
+        "It": [
+          70
+        ],
+        "provides": [
+          71
+        ],
+        "an": [
+          72
+        ],
+        "extensive": [
+          73
+        ],
+        "reference": [
+          74
+        ],
+        "critical": [
+          77
+        ],
+        "assessment": [
+          78
+        ],
+        "different": [
+          80,
+          132
+        ],
+        "index": [
+          82
+        ],
+        "approaches,": [
+          83
+        ],
+        "focusing": [
+          84
+        ],
+        "already": [
+          87
+        ],
+        "known": [
+          88
+        ],
+        "widespread": [
+          90
+        ],
+        "indicators.": [
+          91
+        ],
+        "Furthermore,": [
+          92
+        ],
+        "refers": [
+          94
+        ],
+        "to": [
+          95
+        ],
+        "suited": [
+          99
+        ],
+        "statistical": [
+          101
+        ],
+        "analyses": [
+          102
+        ],
+        "regarding": [
+          103
+        ],
+        "perceptions": [
+          104
+        ],
+        "experiences.": [
+          106
+        ],
+        "In": [
+          107
+        ],
+        "addition,": [
+          108
+        ],
+        "study’s": [
+          110
+        ],
+        "empirical": [
+          111
+        ],
+        "results": [
+          112
+        ],
+        "show": [
+          113
+        ],
+        "that": [
+          114
+        ],
+        "hinders": [
+          116
+        ],
+        "growth": [
+          119,
+          130,
+          144
+        ],
+        "those": [
+          121
+        ],
+        "countries.": [
+          123
+        ],
+        "Different": [
+          124
+        ],
+        "levels": [
+          125
+        ],
+        "impact": [
+          128
+        ],
+        "regions;": [
+          133
+        ],
+        "specifically": [
+          134
+        ],
+        "Latin": [
+          136
+        ],
+        "American": [
+          137
+        ],
+        "countries,": [
+          138
+        ],
+        "impacts": [
+          140
+        ],
+        "positively": [
+          141
+        ],
+        "or": [
+          145
+        ],
+        "vice": [
+          146
+        ],
+        "versa;": [
+          147
+        ],
+        "other": [
+          150
+        ],
+        "regions,": [
+          151
+        ],
+        "is": [
+          153
+        ],
+        "negative.": [
+          154
+        ],
+        "Finally,": [
+          155
+        ],
+        "investment,": [
+          156
+        ],
+        "human": [
+          157
+        ],
+        "development,": [
+          158
+        ],
+        "government": [
+          159
+        ],
+        "growth,": [
+          160
+        ],
+        "institutional": [
+          162
+        ],
+        "quality": [
+          163
+        ],
+        "play": [
+          164
+        ],
+        "essential": [
+          165
+        ],
+        "roles": [
+          166
+        ],
+        "growth.": [
+          169
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4302287407",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 65
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 100
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 93
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2022-10-06T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3136952333",
+      "doi": "https://doi.org/10.1111/faam.12288",
+      "title": "The impact of IPSAS adoption on corruption in developing countries",
+      "display_name": "The impact of IPSAS adoption on corruption in developing countries",
+      "alternate_titles": [],
+      "relevance_score": 52.124767,
+      "publication_year": 2021,
+      "publication_date": "2021-04-07",
+      "ids": {
+        "openalex": "https://openalex.org/W3136952333",
+        "doi": "https://doi.org/10.1111/faam.12288",
+        "mag": "3136952333"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/faam.12288",
+        "doi": "https://doi.org/10.1111/faam.12288",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1111/faam.12288",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/faam.12288",
+        "source": {
+          "id": "https://openalex.org/S178634671",
+          "display_name": "Financial Accountability and Management",
+          "issn_l": "0267-4424",
+          "issn": [
+            "0267-4424",
+            "1468-0408"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "fnege-4",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Financial Accountability &amp; Management",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W3136952333"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/faam.12288",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050327282",
+            "display_name": "Vincent Konadu Tawiah",
+            "orcid": "https://orcid.org/0000-0003-1679-387X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1679-387X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I42934936",
+              "display_name": "Dublin City University",
+              "ror": "https://ror.org/04a1a1e81",
+              "country_code": "IE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I42934936"
+              ]
+            }
+          ],
+          "countries": [
+            "IE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Vincent Tawiah",
+          "raw_affiliation_strings": [
+            "Anti‐Corruption Research Centre, DCU Business School Dublin City University Dublin Ireland"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1679-387X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Anti‐Corruption Research Centre, DCU Business School Dublin City University Dublin Ireland",
+              "institution_ids": [
+                "https://openalex.org/I42934936"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050327282"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I42934936"
+      ],
+      "apc_list": {
+        "value": 2500,
+        "currency": "USD",
+        "value_usd": 2500
+      },
+      "apc_paid": {
+        "value": 2500,
+        "currency": "USD",
+        "value_usd": 2500
+      },
+      "fwci": 15.4961,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 114,
+      "citation_normalized_percentile": {
+        "value": 0.9928847,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 86,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "39",
+        "issue": "1",
+        "first_page": "103",
+        "last_page": "124"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.9063000082969666,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11042",
+          "display_name": "Corruption and Economic Development",
+          "score": 0.9063000082969666,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10081",
+          "display_name": "Auditing, Earnings Management, Governance",
+          "score": 0.04619999974966049,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1402",
+            "display_name": "Accounting"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13509",
+          "display_name": "Accounting and Financial Management",
+          "score": 0.013000000268220901,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1402",
+            "display_name": "Accounting"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/international-public-sector-accounting-standards",
+          "display_name": "International Public Sector Accounting Standards",
+          "score": 0.9520000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/corruption",
+          "display_name": "corruption",
+          "score": 0.8629999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/government-accounting-standards",
+          "display_name": "government accounting standards",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/developing-countries",
+          "display_name": "developing countries",
+          "score": 0.7120000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/accrual-accounting",
+          "display_name": "accrual accounting",
+          "score": 0.8579999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/international-accounting-standards-adoption",
+          "display_name": "international accounting standards adoption",
+          "score": 0.8190000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/anti-corruption-policy",
+          "display_name": "anti-corruption policy",
+          "score": 0.7990000247955322
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C83864248",
+          "wikidata": "https://www.wikidata.org/wiki/Q177323",
+          "display_name": "Developing country",
+          "level": 2,
+          "score": 0.6894330382347107
+        },
+        {
+          "id": "https://openalex.org/C2780027415",
+          "wikidata": "https://www.wikidata.org/wiki/Q524648",
+          "display_name": "Language change",
+          "level": 2,
+          "score": 0.686898410320282
+        },
+        {
+          "id": "https://openalex.org/C4577558",
+          "wikidata": "https://www.wikidata.org/wiki/Q384475",
+          "display_name": "Accrual",
+          "level": 3,
+          "score": 0.6850087642669678
+        },
+        {
+          "id": "https://openalex.org/C121955636",
+          "wikidata": "https://www.wikidata.org/wiki/Q4116214",
+          "display_name": "Accounting",
+          "level": 1,
+          "score": 0.6697177886962891
+        },
+        {
+          "id": "https://openalex.org/C198531522",
+          "wikidata": "https://www.wikidata.org/wiki/Q485146",
+          "display_name": "Sample (material)",
+          "level": 2,
+          "score": 0.5912075042724609
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.4999351501464844
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.4633987247943878
+        },
+        {
+          "id": "https://openalex.org/C100001284",
+          "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+          "display_name": "Public economics",
+          "level": 1,
+          "score": 0.4317814111709595
+        },
+        {
+          "id": "https://openalex.org/C2779530757",
+          "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+          "display_name": "Quality (philosophy)",
+          "level": 2,
+          "score": 0.4139460325241089
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.13437947630882263
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C2781426361",
+          "wikidata": "https://www.wikidata.org/wiki/Q5326940",
+          "display_name": "Earnings",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C43617362",
+          "wikidata": "https://www.wikidata.org/wiki/Q170050",
+          "display_name": "Chromatography",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1111/faam.12288",
+          "doi": "https://doi.org/10.1111/faam.12288",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1111/faam.12288",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/faam.12288",
+          "source": {
+            "id": "https://openalex.org/S178634671",
+            "display_name": "Financial Accountability and Management",
+            "issn_l": "0267-4424",
+            "issn": [
+              "0267-4424",
+              "1468-0408"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "abdc-a",
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "fnege-4",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Financial Accountability &amp; Management",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doras.dcu.ie:33069",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doras.dcu.ie/33069/",
+          "pdf_url": "https://doras.dcu.ie/33069/1/Financ%20Acc%20Manag%20-%202021%20-%20Tawiah%20-%20The%20impact%20of%20IPSAS%20adoption%20on%20corruption%20in%20developing%20countries.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401511",
+            "display_name": "Dublin City University Open Access Institutional Repository (Dublin City University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I42934936",
+            "host_organization_name": "Dublin City University",
+            "host_organization_lineage": [
+              "https://openalex.org/I42934936"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
+        },
+        {
+          "id": "mag:3136952333",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807212",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172589",
+            "display_name": "SSRN Electronic Journal",
+            "issn_l": "1556-5068",
+            "issn": [
+              "1556-5068"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1318003438",
+            "host_organization_name": "RELX Group (Netherlands)",
+            "host_organization_lineage": [
+              "https://openalex.org/I1318003438"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "SSRN Electronic Journal",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1111/faam.12288",
+        "doi": "https://doi.org/10.1111/faam.12288",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1111/faam.12288",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/faam.12288",
+        "source": {
+          "id": "https://openalex.org/S178634671",
+          "display_name": "Financial Accountability and Management",
+          "issn_l": "0267-4424",
+          "issn": [
+            "0267-4424",
+            "1468-0408"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "fnege-4",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Financial Accountability &amp; Management",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.9595999717712402,
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, justice, and strong institutions"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W3136952333.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W3136952333.grobid-xml"
+      },
+      "referenced_works_count": 79,
+      "referenced_works": [
+        "https://openalex.org/W1484864026",
+        "https://openalex.org/W1542838289",
+        "https://openalex.org/W1550693638",
+        "https://openalex.org/W1567466916",
+        "https://openalex.org/W1628401072",
+        "https://openalex.org/W1675859103",
+        "https://openalex.org/W1933334846",
+        "https://openalex.org/W1976676570",
+        "https://openalex.org/W1979179477",
+        "https://openalex.org/W1985253748",
+        "https://openalex.org/W1985763990",
+        "https://openalex.org/W1991381779",
+        "https://openalex.org/W1997819416",
+        "https://openalex.org/W2009163227",
+        "https://openalex.org/W2009807801",
+        "https://openalex.org/W2022607144",
+        "https://openalex.org/W2025610165",
+        "https://openalex.org/W2026127434",
+        "https://openalex.org/W2026383918",
+        "https://openalex.org/W2031691463",
+        "https://openalex.org/W2034938227",
+        "https://openalex.org/W2038490286",
+        "https://openalex.org/W2041108044",
+        "https://openalex.org/W2046077373",
+        "https://openalex.org/W2046642512",
+        "https://openalex.org/W2047267230",
+        "https://openalex.org/W2050175829",
+        "https://openalex.org/W2068211487",
+        "https://openalex.org/W2073084709",
+        "https://openalex.org/W2073167114",
+        "https://openalex.org/W2086119922",
+        "https://openalex.org/W2092436102",
+        "https://openalex.org/W2092928232",
+        "https://openalex.org/W2100701428",
+        "https://openalex.org/W2106850404",
+        "https://openalex.org/W2109351175",
+        "https://openalex.org/W2114854852",
+        "https://openalex.org/W2116814236",
+        "https://openalex.org/W2116930501",
+        "https://openalex.org/W2125997216",
+        "https://openalex.org/W2127999605",
+        "https://openalex.org/W2133369488",
+        "https://openalex.org/W2144938965",
+        "https://openalex.org/W2145157522",
+        "https://openalex.org/W2149850608",
+        "https://openalex.org/W2157182507",
+        "https://openalex.org/W2165112694",
+        "https://openalex.org/W2171881359",
+        "https://openalex.org/W2255741179",
+        "https://openalex.org/W2261862101",
+        "https://openalex.org/W2417104497",
+        "https://openalex.org/W2466409859",
+        "https://openalex.org/W2525453207",
+        "https://openalex.org/W2559451770",
+        "https://openalex.org/W2561189205",
+        "https://openalex.org/W2567441317",
+        "https://openalex.org/W2769646509",
+        "https://openalex.org/W2900005344",
+        "https://openalex.org/W2925098152",
+        "https://openalex.org/W2954000494",
+        "https://openalex.org/W2981303121",
+        "https://openalex.org/W2995270750",
+        "https://openalex.org/W3005612926",
+        "https://openalex.org/W3023420463",
+        "https://openalex.org/W3023880103",
+        "https://openalex.org/W3121235470",
+        "https://openalex.org/W3121630782",
+        "https://openalex.org/W3122456525",
+        "https://openalex.org/W3123844186",
+        "https://openalex.org/W3124234115",
+        "https://openalex.org/W3131190091",
+        "https://openalex.org/W3206889639",
+        "https://openalex.org/W4205936453",
+        "https://openalex.org/W4244992121",
+        "https://openalex.org/W4249720144",
+        "https://openalex.org/W6633011789",
+        "https://openalex.org/W7062961419",
+        "https://openalex.org/W7067677048",
+        "https://openalex.org/W7119053145"
+      ],
+      "related_works": [
+        "https://openalex.org/W4417263343",
+        "https://openalex.org/W4414121577",
+        "https://openalex.org/W3168347651",
+        "https://openalex.org/W3200704854",
+        "https://openalex.org/W4402498744",
+        "https://openalex.org/W7161619129",
+        "https://openalex.org/W4413990359",
+        "https://openalex.org/W4415847705",
+        "https://openalex.org/W2260693695",
+        "https://openalex.org/W3049458817"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "This": [
+          1,
+          108
+        ],
+        "paper": [
+          2
+        ],
+        "investigates": [
+          3
+        ],
+        "whether": [
+          4
+        ],
+        "the": [
+          5,
+          25,
+          55,
+          76,
+          105,
+          124
+        ],
+        "International": [
+          6
+        ],
+        "Public": [
+          7
+        ],
+        "Sector": [
+          8
+        ],
+        "Accounting": [
+          9
+        ],
+        "Standards": [
+          10
+        ],
+        "(IPSAS)": [
+          11
+        ],
+        "is": [
+          12,
+          46,
+          96
+        ],
+        "a": [
+          13,
+          32
+        ],
+        "potential": [
+          14
+        ],
+        "enabler": [
+          15
+        ],
+        "or": [
+          16
+        ],
+        "constrainer": [
+          17
+        ],
+        "of": [
+          18,
+          29,
+          34,
+          57,
+          78,
+          92
+        ],
+        "corruption": [
+          19,
+          62,
+          95
+        ],
+        "in": [
+          20,
+          60,
+          63,
+          84,
+          123
+        ],
+        "developing": [
+          21,
+          36,
+          64,
+          117
+        ],
+        "countries.": [
+          22,
+          65
+        ],
+        "We": [
+          23,
+          42
+        ],
+        "employ": [
+          24
+        ],
+        "System": [
+          26
+        ],
+        "Generalised": [
+          27
+        ],
+        "Method": [
+          28
+        ],
+        "Moments": [
+          30
+        ],
+        "on": [
+          31,
+          94,
+          115
+        ],
+        "sample": [
+          33
+        ],
+        "77": [
+          35
+        ],
+        "countries": [
+          37,
+          100,
+          118
+        ],
+        "between": [
+          38
+        ],
+        "2005": [
+          39
+        ],
+        "and": [
+          40,
+          48,
+          75
+        ],
+        "2017.": [
+          41
+        ],
+        "find": [
+          43,
+          88
+        ],
+        "that": [
+          44,
+          54,
+          89,
+          101
+        ],
+        "IPSAS": [
+          45,
+          58,
+          73,
+          93
+        ],
+        "negatively": [
+          47
+        ],
+        "significantly": [
+          49
+        ],
+        "associated": [
+          50
+        ],
+        "with": [
+          51
+        ],
+        "corruption,": [
+          52
+        ],
+        "suggesting": [
+          53
+        ],
+        "adoption": [
+          56,
+          77
+        ],
+        "helps": [
+          59
+        ],
+        "controlling": [
+          61
+        ],
+        "The": [
+          66
+        ],
+        "results": [
+          67
+        ],
+        "still": [
+          68
+        ],
+        "hold": [
+          69
+        ],
+        "after": [
+          70
+        ],
+        "accounting": [
+          71,
+          81
+        ],
+        "for": [
+          72,
+          99
+        ],
+        "experience": [
+          74
+        ],
+        "other": [
+          79
+        ],
+        "international": [
+          80
+        ],
+        "standards.": [
+          82
+        ],
+        "However,": [
+          83
+        ],
+        "further": [
+          85
+        ],
+        "analyses,": [
+          86
+        ],
+        "we": [
+          87
+        ],
+        "negative": [
+          90
+        ],
+        "impact": [
+          91
+        ],
+        "more": [
+          97
+        ],
+        "pronounced": [
+          98
+        ],
+        "have": [
+          102
+        ],
+        "fully": [
+          103
+        ],
+        "adopted": [
+          104
+        ],
+        "accrual‐based": [
+          106
+        ],
+        "IPSAS.": [
+          107
+        ],
+        "study,": [
+          109
+        ],
+        "therefore,": [
+          110
+        ],
+        "provides": [
+          111
+        ],
+        "evidence": [
+          112
+        ],
+        "to": [
+          113
+        ],
+        "policymakers": [
+          114
+        ],
+        "why": [
+          116
+        ],
+        "should": [
+          119
+        ],
+        "adopt": [
+          120
+        ],
+        "IPSAS,": [
+          121
+        ],
+        "especially": [
+          122
+        ],
+        "fight": [
+          125
+        ],
+        "against": [
+          126
+        ],
+        "corruption.": [
+          127
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3136952333",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 30
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 38
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 20
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-16T12:05:36.265796",
+      "created_date": "2021-03-29T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2157440419",
+      "doi": "https://doi.org/10.1002/jid.2997",
+      "title": "CORRUPTION AND THE EFFICIENCY OF CAPITAL INVESTMENT IN DEVELOPING COUNTRIES",
+      "display_name": "CORRUPTION AND THE EFFICIENCY OF CAPITAL INVESTMENT IN DEVELOPING COUNTRIES",
+      "alternate_titles": [],
+      "relevance_score": 51.27511,
+      "publication_year": 2014,
+      "publication_date": "2014-03-20",
+      "ids": {
+        "openalex": "https://openalex.org/W2157440419",
+        "doi": "https://doi.org/10.1002/jid.2997",
+        "mag": "2157440419"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/jid.2997",
+        "doi": "https://doi.org/10.1002/jid.2997",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/jid.2997",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jid.2997",
+        "source": {
+          "id": "https://openalex.org/S96563387",
+          "display_name": "Journal of International Development",
+          "issn_l": "0954-1748",
+          "issn": [
+            "0954-1748",
+            "1099-1328"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-b",
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of International Development",
+        "raw_type": "journal-article"
+      },
+      "parent_works": [],
+      "lineage": [
+        "https://openalex.org/W2157440419"
+      ],
+      "child_works_count": 0,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jid.2997",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5039004744",
+            "display_name": "Conor M. O’Toole",
+            "orcid": "https://orcid.org/0000-0002-7885-8619",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7885-8619"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I132389103",
+              "display_name": "Economic and Social Research Institute",
+              "ror": "https://ror.org/04q0a4f84",
+              "country_code": "IE",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I132389103"
+              ]
+            }
+          ],
+          "countries": [
+            "IE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Conor M. O'Toole",
+          "raw_affiliation_strings": [
+            "Economic Analysis Division, Economic and Social Research Institute, Dublin, Ireland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Economic Analysis Division, Economic and Social Research Institute, Dublin, Ireland",
+              "institution_ids": [
+                "https://openalex.org/I132389103"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5034595075",
+            "display_name": "Finn Tarp",
+            "orcid": "https://orcid.org/0000-0002-6247-4370",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6247-4370"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I32309878",
+              "display_name": "United Nations University World Institute for Development Economics Research",
+              "ror": "https://ror.org/015y1mx47",
+              "country_code": "FI",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I32309878",
+                "https://openalex.org/I4210104502"
+              ]
+            }
+          ],
+          "countries": [
+            "DK",
+            "FI"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Finn Tarp",
+          "raw_affiliation_strings": [
+            "Department of Economics, University of Copenhagen, Copenhagen, Denmark",
+            "UN University World Institute for Development Economics Research, Helsinki, Finland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Economics, University of Copenhagen, Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UN University World Institute for Development Economics Research, Helsinki, Finland",
+              "institution_ids": [
+                "https://openalex.org/I32309878"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034595075"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I124055696",
+        "https://openalex.org/I32309878"
+      ],
+      "apc_list": {
+        "value": 3350,
+        "currency": "USD",
+        "value_usd": 3350
+      },
+      "apc_paid": {
+        "value": 3350,
+        "currency": "USD",
+        "value_usd": 3350
+      },
+      "fwci": 12.2963,
+      "is_authors_truncated": false,
+      "has_fulltext": true,
+      "cited_by_count": 113,
+      "citation_normalized_percentile": {
+        "value": 0.98428969,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": "5",
+        "first_page": "567",
+        "last_page": "597"
+      },
+      "is_retracted": false,
+      "is_pulled": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11042",
+        "display_name": "Corruption and Economic Development",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11042",
+          "display_name": "Corruption and Economic Development",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12225",
+          "display_name": "Political Influence and Corporate Strategies",
+          "score": 0.0008999999845400453,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1408",
+            "display_name": "Strategy and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11257",
+          "display_name": "Taxation and Compliance Studies",
+          "score": 0.000699999975040555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/corruption",
+          "display_name": "corruption",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/bribery",
+          "display_name": "bribery",
+          "score": 0.9259999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/capital-investment-efficiency",
+          "display_name": "capital investment efficiency",
+          "score": 0.9150000214576721
+        },
+        {
+          "id": "https://openalex.org/keywords/informal-payments",
+          "display_name": "informal payments",
+          "score": 0.5149999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/small-and-medium-sized-enterprises",
+          "display_name": "small and medium-sized enterprises",
+          "score": 0.8090000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/developing-countries",
+          "display_name": "developing countries",
+          "score": 0.6299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/transition-economies",
+          "display_name": "transition economies",
+          "score": 0.9869999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/firm-level-data",
+          "display_name": "firm-level data",
+          "score": 0.5849999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/world-bank-enterprise-survey",
+          "display_name": "World Bank Enterprise Survey",
+          "score": 0.8209999799728394
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780027415",
+          "wikidata": "https://www.wikidata.org/wiki/Q524648",
+          "display_name": "Language change",
+          "level": 2,
+          "score": 0.7276735305786133
+        },
+        {
+          "id": "https://openalex.org/C83864248",
+          "wikidata": "https://www.wikidata.org/wiki/Q177323",
+          "display_name": "Developing country",
+          "level": 2,
+          "score": 0.6121903657913208
+        },
+        {
+          "id": "https://openalex.org/C27548731",
+          "wikidata": "https://www.wikidata.org/wiki/Q88272",
+          "display_name": "Investment (military)",
+          "level": 3,
+          "score": 0.5968925952911377
+        },
+        {
+          "id": "https://openalex.org/C83646750",
+          "wikidata": "https://www.wikidata.org/wiki/Q193893",
+          "display_name": "Capital (architecture)",
+          "level": 2,
+          "score": 0.5331752896308899
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.49427366256713867
+        },
+        {
+          "id": "https://openalex.org/C2985722716",
+          "wikidata": "https://www.wikidata.org/wiki/Q4290",
+          "display_name": "Capital investment",
+          "level": 2,
+          "score": 0.43361419439315796
+        },
+        {
+          "id": "https://openalex.org/C47768531",
+          "wikidata": "https://www.wikidata.org/wiki/Q1127188",
+          "display_name": "Development economics",
+          "level": 1,
+          "score": 0.42892754077911377
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.4160202741622925
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.23378440737724304
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.2171369194984436
+        },
+        {
+          "id": "https://openalex.org/C10138342",
+          "wikidata": "https://www.wikidata.org/wiki/Q43015",
+          "display_name": "Finance",
+          "level": 1,
+          "score": 0.16884839534759521
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.11327975988388062
+        },
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0.07108336687088013
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "doi:10.1002/jid.2997",
+          "doi": "https://doi.org/10.1002/jid.2997",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1002/jid.2997",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jid.2997",
+          "source": {
+            "id": "https://openalex.org/S96563387",
+            "display_name": "Journal of International Development",
+            "issn_l": "0954-1748",
+            "issn": [
+              "0954-1748",
+              "1099-1328"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "abdc-b",
+              "anvur-scientific",
+              "cwts-core",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of International Development",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/e59ae5df-d6ae-4305-b236-0f2bdcb43e86",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://researchprofiles.ku.dk/da/publications/e59ae5df-d6ae-4305-b236-0f2bdcb43e86",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401983",
+            "display_name": "Research at the University of Copenhagen (University of Copenhagen)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I124055696",
+            "host_organization_name": "University of Copenhagen",
+            "host_organization_lineage": [
+              "https://openalex.org/I124055696"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "O’Toole, C M & Tarp, F 2014, 'Corruption and the Efficiency of Capital Investment in Developing Countries', Journal of International Development, vol. 26, no. 5, pp. 567-597. https://doi.org/10.1002/jid.2997",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "mag:3122328374",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2537898",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172589",
+            "display_name": "SSRN Electronic Journal",
+            "issn_l": "1556-5068",
+            "issn": [
+              "1556-5068"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1318003438",
+            "host_organization_name": "RELX Group (Netherlands)",
+            "host_organization_lineage": [
+              "https://openalex.org/I1318003438"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "SSRN Electronic Journal",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:RePEc:wly:jintdv:v:26:y:2014:i:5:p:567-597",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10.1002/jid.2997",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:econstor.eu:10419/81080",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10419/81080",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401696",
+            "display_name": "Econstor (Econstor)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "doc-type:workingPaper"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1002/jid.2997",
+        "doi": "https://doi.org/10.1002/jid.2997",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/jid.2997",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jid.2997",
+        "source": {
+          "id": "https://openalex.org/S96563387",
+          "display_name": "Journal of International Development",
+          "issn_l": "0954-1748",
+          "issn": [
+            "0954-1748",
+            "1099-1328"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-b",
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of International Development",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.6207000017166138,
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, justice, and strong institutions"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320333317",
+          "display_name": "United Nations University World Institute for Development Economics Research",
+          "ror": "https://ror.org/015y1mx47"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2157440419.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2157440419.grobid-xml"
+      },
+      "referenced_works_count": 44,
+      "referenced_works": [
+        "https://openalex.org/W171138875",
+        "https://openalex.org/W1485915533",
+        "https://openalex.org/W1487848695",
+        "https://openalex.org/W1526859056",
+        "https://openalex.org/W1567089773",
+        "https://openalex.org/W1605651646",
+        "https://openalex.org/W1642634312",
+        "https://openalex.org/W1969519191",
+        "https://openalex.org/W1980206192",
+        "https://openalex.org/W1991128340",
+        "https://openalex.org/W2006425849",
+        "https://openalex.org/W2008224892",
+        "https://openalex.org/W2026029126",
+        "https://openalex.org/W2030474275",
+        "https://openalex.org/W2038810287",
+        "https://openalex.org/W2062697836",
+        "https://openalex.org/W2062935763",
+        "https://openalex.org/W2070631858",
+        "https://openalex.org/W2074449447",
+        "https://openalex.org/W2095992834",
+        "https://openalex.org/W2096718584",
+        "https://openalex.org/W2107992979",
+        "https://openalex.org/W2123252687",
+        "https://openalex.org/W2125997216",
+        "https://openalex.org/W2134472446",
+        "https://openalex.org/W2139896179",
+        "https://openalex.org/W2140766220",
+        "https://openalex.org/W2142375020",
+        "https://openalex.org/W2145235041",
+        "https://openalex.org/W2156209357",
+        "https://openalex.org/W2157182507",
+        "https://openalex.org/W2166974667",
+        "https://openalex.org/W2170545497",
+        "https://openalex.org/W2797411123",
+        "https://openalex.org/W3023858863",
+        "https://openalex.org/W3121522673",
+        "https://openalex.org/W3121759882",
+        "https://openalex.org/W3123716053",
+        "https://openalex.org/W3125505643",
+        "https://openalex.org/W3125943455",
+        "https://openalex.org/W4232508652",
+        "https://openalex.org/W4244992121",
+        "https://openalex.org/W4256216147",
+        "https://openalex.org/W7027460735"
+      ],
+      "related_works": [
+        "https://openalex.org/W171138875",
+        "https://openalex.org/W2050574768",
+        "https://openalex.org/W3164803869",
+        "https://openalex.org/W1544393448",
+        "https://openalex.org/W4223499159",
+        "https://openalex.org/W4414034050",
+        "https://openalex.org/W4414973183",
+        "https://openalex.org/W2362297025",
+        "https://openalex.org/W4320715059"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "This": [
+          1
+        ],
+        "paper": [
+          2
+        ],
+        "tests": [
+          3
+        ],
+        "the": [
+          4,
+          9,
+          18,
+          32,
+          39,
+          46,
+          79
+        ],
+        "effect": [
+          5,
+          66
+        ],
+        "of": [
+          6,
+          11,
+          34,
+          42,
+          83,
+          94,
+          101
+        ],
+        "corruption": [
+          7
+        ],
+        "on": [
+          8
+        ],
+        "efficiency": [
+          10
+        ],
+        "capital": [
+          12,
+          43
+        ],
+        "investment.": [
+          13,
+          51
+        ],
+        "Using": [
+          14
+        ],
+        "firm‐level": [
+          15
+        ],
+        "data": [
+          16
+        ],
+        "from": [
+          17
+        ],
+        "World": [
+          19
+        ],
+        "Bank": [
+          20
+        ],
+        "Enterprise": [
+          21
+        ],
+        "Surveys,": [
+          22
+        ],
+        "covering": [
+          23
+        ],
+        "90": [
+          24
+        ],
+        "developing": [
+          25
+        ],
+        "and": [
+          26,
+          55,
+          72,
+          81
+        ],
+        "transition": [
+          27
+        ],
+        "economies,": [
+          28
+        ],
+        "we": [
+          29,
+          57
+        ],
+        "consider": [
+          30
+        ],
+        "whether": [
+          31
+        ],
+        "cost": [
+          33
+        ],
+        "informal": [
+          35
+        ],
+        "bribe": [
+          36
+        ],
+        "payments": [
+          37
+        ],
+        "distorts": [
+          38
+        ],
+        "efficient": [
+          40,
+          92
+        ],
+        "allocation": [
+          41,
+          93
+        ],
+        "by": [
+          44,
+          85,
+          105
+        ],
+        "reducing": [
+          45,
+          78
+        ],
+        "marginal": [
+          47
+        ],
+        "return": [
+          48
+        ],
+        "per": [
+          49
+        ],
+        "unit": [
+          50
+        ],
+        "Controlling": [
+          52
+        ],
+        "for": [
+          53,
+          69
+        ],
+        "censoring": [
+          54
+        ],
+        "endogeneity,": [
+          56
+        ],
+        "find": [
+          58
+        ],
+        "that": [
+          59,
+          77
+        ],
+        "bribery": [
+          60,
+          84
+        ],
+        "decreases": [
+          61
+        ],
+        "investment": [
+          62
+        ],
+        "efficiency.": [
+          63
+        ],
+        "The": [
+          64,
+          98
+        ],
+        "negative": [
+          65
+        ],
+        "is": [
+          67
+        ],
+        "strongest": [
+          68
+        ],
+        "domestic": [
+          70
+        ],
+        "small‐sized": [
+          71
+        ],
+        "medium‐sized": [
+          73
+        ],
+        "enterprises.": [
+          74
+        ],
+        "We": [
+          75
+        ],
+        "conclude": [
+          76
+        ],
+        "level": [
+          80
+        ],
+        "incidence": [
+          82
+        ],
+        "public": [
+          86
+        ],
+        "officials": [
+          87
+        ],
+        "would": [
+          88
+        ],
+        "facilitate": [
+          89
+        ],
+        "a": [
+          90
+        ],
+        "more": [
+          91
+        ],
+        "capital.": [
+          95
+        ],
+        "©": [
+          96
+        ],
+        "2014": [
+          97
+        ],
+        "Authors.": [
+          99
+        ],
+        "Journal": [
+          100
+        ],
+        "International": [
+          102
+        ],
+        "Development": [
+          103
+        ],
+        "published": [
+          104
+        ],
+        "John": [
+          106
+        ],
+        "Wiley": [
+          107
+        ],
+        "&": [
+          108
+        ],
+        "Sons": [
+          109
+        ],
+        "Ltd.": [
+          110
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2157440419",
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-17T12:49:18.490984",
+      "created_date": "2016-06-24T00:00:00"
+    }
+  ],
+  "group_by": []
+}

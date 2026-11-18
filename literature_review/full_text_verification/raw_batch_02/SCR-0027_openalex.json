@@ -1,0 +1,1148 @@
+{
+  "id": "https://openalex.org/W4413636422",
+  "doi": "https://doi.org/10.1162/euso.a.37",
+  "title": "The geography of tertiary education inequality in Europe: a within- and cross-country analysis over time",
+  "display_name": "The geography of tertiary education inequality in Europe: a within- and cross-country analysis over time",
+  "alternate_titles": [],
+  "publication_year": 2025,
+  "publication_date": "2025-08-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4413636422",
+    "doi": "https://doi.org/10.1162/euso.a.37"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1162/euso.a.37",
+    "doi": "https://doi.org/10.1162/euso.a.37",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1162/euso.a.37",
+    "pdf_url": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/euso.a.37/2548594/euso.a.37.pdf",
+    "source": {
+      "id": "https://openalex.org/S118409008",
+      "display_name": "European Societies",
+      "issn_l": "1461-6696",
+      "issn": [
+        "1461-6696",
+        "1469-8307"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "jufo-2",
+        "norway-2",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310319847",
+      "host_organization_name": "Routledge",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319847",
+        "https://openalex.org/P4310320547",
+        "https://openalex.org/P4310320449"
+      ],
+      "host_organization_lineage_names": [
+        "Routledge",
+        "Taylor & Francis",
+        "Informa"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Societies",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W4413636422"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/euso.a.37/2548594/euso.a.37.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5018156650",
+        "display_name": "Fabrizio Bernardi",
+        "orcid": "https://orcid.org/0000-0002-5544-5184",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-5544-5184"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I178450904",
+          "display_name": "Universidad Nacional de Educación a Distancia",
+          "ror": "https://ror.org/02msb5n36",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Fabrizio Bernardi",
+      "raw_affiliation_strings": [
+        "Department of Sociology II, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain",
+        "Universidad Nacional de Educación a Distancia (UNED), Department of Sociology II, C. del Obispo Trejo, 2, Moncloa - Aravaca, 28040 Madrid, Spain fbernardi@poli.uned.es"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Sociology II, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain",
+          "institution_ids": [
+            "https://openalex.org/I178450904"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Universidad Nacional de Educación a Distancia (UNED), Department of Sociology II, C. del Obispo Trejo, 2, Moncloa - Aravaca, 28040 Madrid, Spain fbernardi@poli.uned.es",
+          "institution_ids": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084504587",
+        "display_name": "Ilaria Lievore",
+        "orcid": "https://orcid.org/0000-0002-4652-004X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-4652-004X"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ilaria Lievore",
+      "raw_affiliation_strings": [
+        "Fondazione per la Scuola, Turin, Italy",
+        "Fondazione per la Scuola, piazza Gian Lorenzo Bernini 5, 10138, Turin, Italy ilaria.lievore@fondazionescuola.it"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Fondazione per la Scuola, Turin, Italy",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Fondazione per la Scuola, piazza Gian Lorenzo Bernini 5, 10138, Turin, Italy ilaria.lievore@fondazionescuola.it",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040164428",
+        "display_name": "Manuel Tomás Valdés",
+        "orcid": "https://orcid.org/0000-0001-8012-3956",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-8012-3956"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I129774422",
+          "display_name": "University of Vienna",
+          "ror": "https://ror.org/03prydq77",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I129774422"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I178450904",
+          "display_name": "Universidad Nacional de Educación a Distancia",
+          "ror": "https://ror.org/02msb5n36",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Manuel T. Valdes",
+      "raw_affiliation_strings": [
+        "Department of Sociology II, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain",
+        "University of Vienna, Department of Sociology, Vienna, Austria",
+        "Universidad Nacional de Educación a Distancia (UNED), Department of Sociology II, C. del Obispo Trejo, 2, Moncloa - Aravaca, 28040 Madrid, Spain fbernardi@poli.uned.es",
+        "University of Vienna, Department of Sociology, Rooseveltplatz 2A, 1090 Vienna, Austria manuel.tomas.valdes.fernandez@univie.ac.at"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Sociology II, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain",
+          "institution_ids": [
+            "https://openalex.org/I178450904"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Vienna, Department of Sociology, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I129774422"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Universidad Nacional de Educación a Distancia (UNED), Department of Sociology II, C. del Obispo Trejo, 2, Moncloa - Aravaca, 28040 Madrid, Spain fbernardi@poli.uned.es",
+          "institution_ids": [
+            "https://openalex.org/I178450904"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Vienna, Department of Sociology, Rooseveltplatz 2A, 1090 Vienna, Austria manuel.tomas.valdes.fernandez@univie.ac.at",
+          "institution_ids": [
+            "https://openalex.org/I129774422"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5018156650"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I178450904"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.4974,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.79539712,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 87,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "24"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12088",
+    "display_name": "Intergenerational and Educational Inequality Studies",
+    "score": 0.9940999746322632,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12088",
+      "display_name": "Intergenerational and Educational Inequality Studies",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11895",
+      "display_name": "Cultural Capital and Social Class",
+      "score": 0.00139999995008111,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.0010999999940395355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/educational-inequality",
+      "display_name": "educational inequality",
+      "score": 0.9729999899864197
+    },
+    {
+      "id": "https://openalex.org/keywords/higher-education",
+      "display_name": "higher education",
+      "score": 0.9440000057220459
+    },
+    {
+      "id": "https://openalex.org/keywords/regional-disparities",
+      "display_name": "regional disparities",
+      "score": 0.7099999785423279
+    },
+    {
+      "id": "https://openalex.org/keywords/convergence",
+      "display_name": "convergence",
+      "score": 0.5609999895095825
+    },
+    {
+      "id": "https://openalex.org/keywords/parental-education",
+      "display_name": "parental education",
+      "score": 0.8429999947547913
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.5519999861717224
+    },
+    {
+      "id": "https://openalex.org/keywords/european-regions",
+      "display_name": "European regions",
+      "score": 0.6899999976158142
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.4359999895095825
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.7068257927894592
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.4817773997783661
+    },
+    {
+      "id": "https://openalex.org/C120912362",
+      "wikidata": "https://www.wikidata.org/wiki/Q136822",
+      "display_name": "Higher education",
+      "level": 2,
+      "score": 0.457681804895401
+    },
+    {
+      "id": "https://openalex.org/C26271046",
+      "wikidata": "https://www.wikidata.org/wiki/Q187097",
+      "display_name": "Economic geography",
+      "level": 1,
+      "score": 0.43920210003852844
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.4315432608127594
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.3482939600944519
+    },
+    {
+      "id": "https://openalex.org/C148383697",
+      "wikidata": "https://www.wikidata.org/wiki/Q1781695",
+      "display_name": "Regional science",
+      "level": 1,
+      "score": 0.3410784602165222
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.3400874137878418
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.30480462312698364
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.15900856256484985
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1162/euso.a.37",
+      "doi": "https://doi.org/10.1162/euso.a.37",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1162/euso.a.37",
+      "pdf_url": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/euso.a.37/2548594/euso.a.37.pdf",
+      "source": {
+        "id": "https://openalex.org/S118409008",
+        "display_name": "European Societies",
+        "issn_l": "1461-6696",
+        "issn": [
+          "1461-6696",
+          "1469-8307"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "jufo-2",
+          "norway-2",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847",
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Routledge",
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "European Societies",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1162/euso.a.37",
+    "doi": "https://doi.org/10.1162/euso.a.37",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1162/euso.a.37",
+    "pdf_url": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/euso.a.37/2548594/euso.a.37.pdf",
+    "source": {
+      "id": "https://openalex.org/S118409008",
+      "display_name": "European Societies",
+      "issn_l": "1461-6696",
+      "issn": [
+        "1461-6696",
+        "1469-8307"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "jufo-2",
+        "norway-2",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310319847",
+      "host_organization_name": "Routledge",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319847",
+        "https://openalex.org/P4310320547",
+        "https://openalex.org/P4310320449"
+      ],
+      "host_organization_lineage_names": [
+        "Routledge",
+        "Taylor & Francis",
+        "Informa"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Societies",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Reduced inequalities",
+      "score": 0.9629999995231628,
+      "id": "https://metadata.un.org/sdg/10"
+    },
+    {
+      "display_name": "Quality education",
+      "score": 0.8278999924659729,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "study_designs": [
+    {
+      "display_name": "Observational Study",
+      "id": "https://openalex.org/study-designs/observational-study"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7465358004",
+      "display_name": "Mapping inequalities through the life course",
+      "funder_award_id": "101061645",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4413636422.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4413636422.grobid-xml"
+  },
+  "referenced_works_count": 45,
+  "referenced_works": [
+    "https://openalex.org/W589767374",
+    "https://openalex.org/W1569318827",
+    "https://openalex.org/W1985422330",
+    "https://openalex.org/W1998514827",
+    "https://openalex.org/W2013202992",
+    "https://openalex.org/W2026926590",
+    "https://openalex.org/W2062262683",
+    "https://openalex.org/W2105333784",
+    "https://openalex.org/W2105584013",
+    "https://openalex.org/W2108041438",
+    "https://openalex.org/W2109925528",
+    "https://openalex.org/W2118893665",
+    "https://openalex.org/W2137265810",
+    "https://openalex.org/W2140930388",
+    "https://openalex.org/W2143256636",
+    "https://openalex.org/W2150368177",
+    "https://openalex.org/W2155685168",
+    "https://openalex.org/W2157291679",
+    "https://openalex.org/W2272741259",
+    "https://openalex.org/W2598465945",
+    "https://openalex.org/W2602045441",
+    "https://openalex.org/W2797279733",
+    "https://openalex.org/W2805260797",
+    "https://openalex.org/W2896936987",
+    "https://openalex.org/W2947666646",
+    "https://openalex.org/W2971874865",
+    "https://openalex.org/W2987908554",
+    "https://openalex.org/W3005199776",
+    "https://openalex.org/W3163153651",
+    "https://openalex.org/W3165836344",
+    "https://openalex.org/W3181973673",
+    "https://openalex.org/W3183243533",
+    "https://openalex.org/W3184328274",
+    "https://openalex.org/W4229738978",
+    "https://openalex.org/W4280580662",
+    "https://openalex.org/W4281486106",
+    "https://openalex.org/W4306782551",
+    "https://openalex.org/W4386491507",
+    "https://openalex.org/W4392937139",
+    "https://openalex.org/W4394753128",
+    "https://openalex.org/W4403520938",
+    "https://openalex.org/W4403591913",
+    "https://openalex.org/W4404284961",
+    "https://openalex.org/W6962719256",
+    "https://openalex.org/W7053249959"
+  ],
+  "related_works": [
+    "https://openalex.org/W6911420683",
+    "https://openalex.org/W1993210857",
+    "https://openalex.org/W2113640336",
+    "https://openalex.org/W3184328274",
+    "https://openalex.org/W2135849438",
+    "https://openalex.org/W4391778920",
+    "https://openalex.org/W7095497919",
+    "https://openalex.org/W2129853391",
+    "https://openalex.org/W1665438963"
+  ],
+  "abstract_inverted_index": {
+    "ABSTRACT": [
+      0
+    ],
+    "In": [
+      1
+    ],
+    "this": [
+      2
+    ],
+    "article": [
+      3
+    ],
+    "we": [
+      4,
+      23,
+      51,
+      107,
+      185
+    ],
+    "study": [
+      5
+    ],
+    "differences": [
+      6,
+      190
+    ],
+    "in": [
+      7,
+      28,
+      55,
+      65,
+      122,
+      138,
+      143,
+      179,
+      191,
+      206
+    ],
+    "levels": [
+      8,
+      56,
+      192
+    ],
+    "of": [
+      9,
+      57,
+      175,
+      188,
+      193
+    ],
+    "educational": [
+      10,
+      26,
+      58,
+      180,
+      194
+    ],
+    "inequality": [
+      11,
+      27,
+      59,
+      195
+    ],
+    "across": [
+      12,
+      62,
+      76,
+      85,
+      95,
+      157,
+      182,
+      196
+    ],
+    "European": [
+      13,
+      112
+    ],
+    "countries": [
+      14,
+      86,
+      96,
+      100,
+      144,
+      168,
+      197,
+      210
+    ],
+    "and": [
+      15,
+      97,
+      159
+    ],
+    "regions.": [
+      16
+    ],
+    "We": [
+      17,
+      125
+    ],
+    "address": [
+      18,
+      104
+    ],
+    "two": [
+      19
+    ],
+    "research": [
+      20
+    ],
+    "questions.": [
+      21
+    ],
+    "First,": [
+      22
+    ],
+    "ask": [
+      24
+    ],
+    "whether": [
+      25,
+      53
+    ],
+    "geographical": [
+      29
+    ],
+    "Europe": [
+      30
+    ],
+    "is": [
+      31
+    ],
+    "shaped": [
+      32
+    ],
+    "to": [
+      33,
+      117,
+      155,
+      173
+    ],
+    "a": [
+      34,
+      127,
+      204
+    ],
+    "larger": [
+      35
+    ],
+    "extent": [
+      36
+    ],
+    "by": [
+      37
+    ],
+    "the": [
+      38,
+      41,
+      44,
+      111
+    ],
+    "country": [
+      39,
+      45,
+      80
+    ],
+    "or": [
+      40,
+      92
+    ],
+    "region": [
+      42
+    ],
+    "within": [
+      43,
+      78,
+      99,
+      167,
+      209
+    ],
+    "where": [
+      46
+    ],
+    "an": [
+      47
+    ],
+    "individual": [
+      48
+    ],
+    "resides.": [
+      49
+    ],
+    "Second,": [
+      50
+    ],
+    "investigate": [
+      52
+    ],
+    "convergence": [
+      54,
+      68,
+      75,
+      84,
+      94
+    ],
+    "has": [
+      60
+    ],
+    "occurred": [
+      61
+    ],
+    "territorial": [
+      63
+    ],
+    "units": [
+      64
+    ],
+    "Europe.": [
+      66,
+      183
+    ],
+    "Such": [
+      67
+    ],
+    "could": [
+      69
+    ],
+    "take": [
+      70
+    ],
+    "three": [
+      71
+    ],
+    "different": [
+      72
+    ],
+    "forms:": [
+      73
+    ],
+    "(1)": [
+      74
+    ],
+    "regions": [
+      77,
+      89,
+      98,
+      121,
+      139,
+      158
+    ],
+    "each": [
+      79
+    ],
+    "(intra-country": [
+      81,
+      211
+    ],
+    "convergence),": [
+      82,
+      91,
+      202
+    ],
+    "(2)": [
+      83
+    ],
+    "but": [
+      87
+    ],
+    "not": [
+      88
+    ],
+    "(inter-country": [
+      90
+    ],
+    "(3)": [
+      93
+    ],
+    "(full": [
+      101
+    ],
+    "convergence).": [
+      102,
+      212
+    ],
+    "To": [
+      103
+    ],
+    "these": [
+      105
+    ],
+    "questions,": [
+      106
+    ],
+    "analyze": [
+      108
+    ],
+    "data": [
+      109
+    ],
+    "from": [
+      110
+    ],
+    "Social": [
+      113
+    ],
+    "Survey": [
+      114
+    ],
+    "(years": [
+      115
+    ],
+    "2002": [
+      116
+    ],
+    "2020)": [
+      118
+    ],
+    "covering": [
+      119
+    ],
+    "248": [
+      120
+    ],
+    "25": [
+      123
+    ],
+    "countries.": [
+      124,
+      160
+    ],
+    "estimate": [
+      126
+    ],
+    "three-level": [
+      128
+    ],
+    "hierarchical": [
+      129
+    ],
+    "linear": [
+      130
+    ],
+    "probability": [
+      131
+    ],
+    "model,": [
+      132
+    ],
+    "with": [
+      133
+    ],
+    "individuals": [
+      134
+    ],
+    "(level": [
+      135,
+      140,
+      145
+    ],
+    "1)": [
+      136
+    ],
+    "nested": [
+      137,
+      142
+    ],
+    "2)": [
+      141
+    ],
+    "3).": [
+      146
+    ],
+    "The": [
+      147
+    ],
+    "model": [
+      148
+    ],
+    "allows": [
+      149
+    ],
+    "random": [
+      150
+    ],
+    "slopes": [
+      151
+    ],
+    "for": [
+      152,
+      170
+    ],
+    "parental": [
+      153
+    ],
+    "education": [
+      154
+    ],
+    "vary": [
+      156
+    ],
+    "Our": [
+      161
+    ],
+    "findings": [
+      162
+    ],
+    "show": [
+      163
+    ],
+    "that": [
+      164
+    ],
+    "regional": [
+      165,
+      207
+    ],
+    "variation": [
+      166,
+      178
+    ],
+    "accounts": [
+      169
+    ],
+    "about": [
+      171
+    ],
+    "15%": [
+      172
+    ],
+    "33%": [
+      174
+    ],
+    "overall": [
+      176
+    ],
+    "spatial": [
+      177
+    ],
+    "inequalities": [
+      181
+    ],
+    "Furthermore,": [
+      184
+    ],
+    "find": [
+      186
+    ],
+    "evidence": [
+      187
+    ],
+    "persistent": [
+      189
+    ],
+    "over": [
+      198
+    ],
+    "time": [
+      199
+    ],
+    "(no": [
+      200
+    ],
+    "inter-country": [
+      201
+    ],
+    "alongside": [
+      203
+    ],
+    "decline": [
+      205
+    ],
+    "disparities": [
+      208
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4413636422",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2025-10-10T00:00:00"
+}

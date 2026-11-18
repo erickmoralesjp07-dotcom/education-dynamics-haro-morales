@@ -1,0 +1,1019 @@
+{
+  "id": "https://openalex.org/W2614883896",
+  "doi": "https://doi.org/10.1093/migration/mnz008",
+  "title": "Differences in educational attainment by country of origin: Evidence from Australia",
+  "display_name": "Differences in educational attainment by country of origin: Evidence from Australia",
+  "alternate_titles": [],
+  "publication_year": 2019,
+  "publication_date": "2019-03-12",
+  "ids": {
+    "openalex": "https://openalex.org/W2614883896",
+    "doi": "https://doi.org/10.1093/migration/mnz008",
+    "mag": "2614883896"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1093/migration/mnz008",
+    "doi": "https://doi.org/10.1093/migration/mnz008",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1093/migration/mnz008",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2735101957",
+      "display_name": "Migration Studies",
+      "issn_l": "2049-5838",
+      "issn": [
+        "2049-5838",
+        "2049-5846"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "jufo-1",
+        "norway-1",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310311648",
+      "host_organization_name": "Oxford University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311648",
+        "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+        "Oxford University Press",
+        "University of Oxford"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Migration Studies",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W2614883896"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5033710343",
+        "display_name": "Jaai Parasnis",
+        "orcid": "https://orcid.org/0000-0002-0359-7477",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-0359-7477"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56590836",
+          "display_name": "Monash University",
+          "ror": "https://ror.org/02bfwt286",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56590836"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jaai Parasnis",
+      "raw_affiliation_strings": [
+        "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0359-7477",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia",
+          "institution_ids": [
+            "https://openalex.org/I56590836"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5086378979",
+        "display_name": "Jemma Swan",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56590836",
+          "display_name": "Monash University",
+          "ror": "https://ror.org/02bfwt286",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56590836"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jemma Swan",
+      "raw_affiliation_strings": [
+        "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Economics, Monash University, Wellington Road, Clayton, VIC 3800, Australia",
+          "institution_ids": [
+            "https://openalex.org/I56590836"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5033710343"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I56590836"
+  ],
+  "apc_list": {
+    "value": 3952,
+    "currency": "EUR",
+    "value_usd": 4466
+  },
+  "apc_paid": null,
+  "fwci": 0.8325,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.75403952,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 86,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "8",
+    "issue": "4",
+    "first_page": "530",
+    "last_page": "553"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13063",
+    "display_name": "Education and experiences of immigrants and refugees",
+    "score": 0.5717999935150146,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13063",
+      "display_name": "Education and experiences of immigrants and refugees",
+      "score": 0.5717999935150146,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10349",
+      "display_name": "Migration and Labor Dynamics",
+      "score": 0.3463999927043915,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10267",
+      "display_name": "Higher Education Research Studies",
+      "score": 0.028599999845027924,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/country-of-origin",
+      "display_name": "country of origin",
+      "score": 0.7239999771118164
+    },
+    {
+      "id": "https://openalex.org/keywords/immigrant-youth",
+      "display_name": "immigrant youth",
+      "score": 0.574999988079071
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.7310000061988831
+    },
+    {
+      "id": "https://openalex.org/keywords/post-school-education",
+      "display_name": "post-school education",
+      "score": 0.7730000019073486
+    },
+    {
+      "id": "https://openalex.org/keywords/higher-education-enrollment",
+      "display_name": "higher education enrollment",
+      "score": 0.7350000143051147
+    },
+    {
+      "id": "https://openalex.org/keywords/non-english-speaking-immigrants",
+      "display_name": "non-English-speaking immigrants",
+      "score": 0.8389999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/parental-background",
+      "display_name": "parental background",
+      "score": 0.46000000834465027
+    },
+    {
+      "id": "https://openalex.org/keywords/academic-ability",
+      "display_name": "academic ability",
+      "score": 0.9359999895095825
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-aspirations",
+      "display_name": "educational aspirations",
+      "score": 0.878000020980835
+    },
+    {
+      "id": "https://openalex.org/keywords/age-at-migration",
+      "display_name": "age at migration",
+      "score": 0.972000002861023
+    },
+    {
+      "id": "https://openalex.org/keywords/parental-perceptions",
+      "display_name": "parental attitudes",
+      "score": 0.753000020980835
+    },
+    {
+      "id": "https://openalex.org/keywords/australia",
+      "display_name": "Australia",
+      "score": 0.35899999737739563
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C70036468",
+      "wikidata": "https://www.wikidata.org/wiki/Q131288",
+      "display_name": "Immigration",
+      "level": 2,
+      "score": 0.8463059663772583
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.699711263179779
+    },
+    {
+      "id": "https://openalex.org/C2779101040",
+      "wikidata": "https://www.wikidata.org/wiki/Q3373417",
+      "display_name": "Country of origin",
+      "level": 2,
+      "score": 0.6898257732391357
+    },
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.6535757184028625
+    },
+    {
+      "id": "https://openalex.org/C120912362",
+      "wikidata": "https://www.wikidata.org/wiki/Q136822",
+      "display_name": "Higher education",
+      "level": 2,
+      "score": 0.5548862218856812
+    },
+    {
+      "id": "https://openalex.org/C160050368",
+      "wikidata": "https://www.wikidata.org/wiki/Q132453",
+      "display_name": "Developed country",
+      "level": 3,
+      "score": 0.45609772205352783
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.4420761466026306
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.3326084017753601
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.3109428286552429
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.22880947589874268
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.22752231359481812
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.22180107235908508
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.13807272911071777
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1093/migration/mnz008",
+      "doi": "https://doi.org/10.1093/migration/mnz008",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/migration/mnz008",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2735101957",
+        "display_name": "Migration Studies",
+        "issn_l": "2049-5838",
+        "issn": [
+          "2049-5838",
+          "2049-5846"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "jufo-1",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648",
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "Oxford University Press",
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Migration Studies",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:RePEc:mos:moswps:2017-05",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://www.monash.edu/business/economics/research/publications/publications2/0517differencesparasnisswan.pdf",
+      "pdf_url": "https://www.monash.edu/business/economics/research/publications/publications2/0517differencesparasnisswan.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "preprint"
+    },
+    {
+      "id": "mag:2614883896",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://EconPapers.repec.org/RePEc:mos:moswps:2017-05",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RePEc: Research Papers in Economics",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education",
+      "score": 0.8278999924659729
+    },
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities",
+      "score": 0.7578999996185303
+    }
+  ],
+  "study_designs": [
+    {
+      "id": "https://openalex.org/study-designs/observational-study",
+      "display_name": "Observational Study"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 34,
+  "referenced_works": [
+    "https://openalex.org/W1526229062",
+    "https://openalex.org/W1560824455",
+    "https://openalex.org/W1595191267",
+    "https://openalex.org/W1972472827",
+    "https://openalex.org/W1978272819",
+    "https://openalex.org/W1993285471",
+    "https://openalex.org/W2000985185",
+    "https://openalex.org/W2023202723",
+    "https://openalex.org/W2023842483",
+    "https://openalex.org/W2036569057",
+    "https://openalex.org/W2062674257",
+    "https://openalex.org/W2086001270",
+    "https://openalex.org/W2089469944",
+    "https://openalex.org/W2093189225",
+    "https://openalex.org/W2093959267",
+    "https://openalex.org/W2123851303",
+    "https://openalex.org/W2147620495",
+    "https://openalex.org/W2152343693",
+    "https://openalex.org/W2160015344",
+    "https://openalex.org/W2202381578",
+    "https://openalex.org/W2252111240",
+    "https://openalex.org/W2285816425",
+    "https://openalex.org/W2529886569",
+    "https://openalex.org/W2577353061",
+    "https://openalex.org/W3121244245",
+    "https://openalex.org/W3121579581",
+    "https://openalex.org/W3122009341",
+    "https://openalex.org/W3122507295",
+    "https://openalex.org/W3124105593",
+    "https://openalex.org/W3125109950",
+    "https://openalex.org/W3125802209",
+    "https://openalex.org/W4212863057",
+    "https://openalex.org/W6964265472",
+    "https://openalex.org/W7075270998"
+  ],
+  "related_works": [
+    "https://openalex.org/W2619482188",
+    "https://openalex.org/W2081669536",
+    "https://openalex.org/W1598332907",
+    "https://openalex.org/W7214062137",
+    "https://openalex.org/W2066618613",
+    "https://openalex.org/W3196438393",
+    "https://openalex.org/W4300884053",
+    "https://openalex.org/W4300293237",
+    "https://openalex.org/W4415348119",
+    "https://openalex.org/W2055708425"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "This": [
+      1
+    ],
+    "study": [
+      2,
+      35,
+      67,
+      123,
+      152
+    ],
+    "investigates": [
+      3
+    ],
+    "native–migrant": [
+      4
+    ],
+    "differences": [
+      5,
+      52,
+      127
+    ],
+    "in": [
+      6,
+      8,
+      17,
+      124,
+      128,
+      131
+    ],
+    "engagement": [
+      7
+    ],
+    "post-school": [
+      9
+    ],
+    "education.": [
+      10
+    ],
+    "Using": [
+      11
+    ],
+    "a": [
+      12,
+      138
+    ],
+    "longitudinal": [
+      13
+    ],
+    "survey": [
+      14
+    ],
+    "of": [
+      15,
+      39,
+      93,
+      105,
+      146,
+      148,
+      154,
+      159,
+      164
+    ],
+    "youth": [
+      16
+    ],
+    "Australia,": [
+      18,
+      125
+    ],
+    "we": [
+      19,
+      108
+    ],
+    "find": [
+      20,
+      62,
+      109
+    ],
+    "that": [
+      21,
+      110
+    ],
+    "immigrants": [
+      22,
+      54,
+      98,
+      111
+    ],
+    "originating": [
+      23
+    ],
+    "from": [
+      24,
+      55,
+      99,
+      112
+    ],
+    "non-English-speaking": [
+      25,
+      100
+    ],
+    "countries": [
+      26,
+      57,
+      113,
+      134
+    ],
+    "are": [
+      27,
+      49,
+      119
+    ],
+    "significantly": [
+      28
+    ],
+    "more": [
+      29,
+      120
+    ],
+    "likely": [
+      30,
+      121
+    ],
+    "to": [
+      31,
+      122
+    ],
+    "continue": [
+      32
+    ],
+    "with": [
+      33,
+      114
+    ],
+    "further": [
+      34
+    ],
+    "between": [
+      36,
+      53
+    ],
+    "the": [
+      37,
+      45,
+      90,
+      103,
+      144,
+      151,
+      157
+    ],
+    "ages": [
+      38
+    ],
+    "18": [
+      40
+    ],
+    "and": [
+      41,
+      58,
+      71,
+      77
+    ],
+    "23": [
+      42
+    ],
+    "years.": [
+      43
+    ],
+    "On": [
+      44
+    ],
+    "other": [
+      46
+    ],
+    "hand,": [
+      47
+    ],
+    "there": [
+      48
+    ],
+    "no": [
+      50
+    ],
+    "significant": [
+      51,
+      139
+    ],
+    "English-speaking": [
+      56
+    ],
+    "native": [
+      59
+    ],
+    "youth.": [
+      60
+    ],
+    "We": [
+      61
+    ],
+    "several": [
+      63
+    ],
+    "important": [
+      64
+    ],
+    "factors": [
+      65,
+      85
+    ],
+    "influencing": [
+      66
+    ],
+    "decisions,": [
+      68
+    ],
+    "including": [
+      69
+    ],
+    "parents": [
+      70
+    ],
+    "family": [
+      72
+    ],
+    "background,": [
+      73
+    ],
+    "academic": [
+      74
+    ],
+    "ability,": [
+      75
+    ],
+    "aspirations": [
+      76
+    ],
+    "age": [
+      78
+    ],
+    "at": [
+      79
+    ],
+    "migration;": [
+      80
+    ],
+    "however,": [
+      81
+    ],
+    "accounting": [
+      82
+    ],
+    "for": [
+      83,
+      97
+    ],
+    "these": [
+      84
+    ],
+    "does": [
+      86
+    ],
+    "not": [
+      87,
+      136
+    ],
+    "fully": [
+      88
+    ],
+    "explain": [
+      89
+    ],
+    "higher": [
+      91,
+      95
+    ],
+    "probability": [
+      92
+    ],
+    "pursuing": [
+      94
+    ],
+    "education": [
+      96,
+      117,
+      163
+    ],
+    "countries.": [
+      101
+    ],
+    "Exploring": [
+      102
+    ],
+    "country": [
+      104,
+      147
+    ],
+    "origin": [
+      106,
+      133,
+      149
+    ],
+    "effect,": [
+      107
+    ],
+    "low": [
+      115
+    ],
+    "tertiary": [
+      116
+    ],
+    "levels": [
+      118
+    ],
+    "while": [
+      126
+    ],
+    "parental": [
+      129
+    ],
+    "attitudes": [
+      130
+    ],
+    "their": [
+      132
+    ],
+    "do": [
+      135
+    ],
+    "have": [
+      137
+    ],
+    "effect.": [
+      140
+    ],
+    "The": [
+      141
+    ],
+    "results": [
+      142
+    ],
+    "show": [
+      143
+    ],
+    "importance": [
+      145
+    ],
+    "on": [
+      150,
+      162
+    ],
+    "decisions": [
+      153
+    ],
+    "youth,": [
+      155
+    ],
+    "underlining": [
+      156
+    ],
+    "impact": [
+      158
+    ],
+    "migration": [
+      160
+    ],
+    "settings": [
+      161
+    ],
+    "next": [
+      165
+    ],
+    "generation.": [
+      166
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2614883896",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-16T12:05:36.265796",
+  "created_date": "2017-05-26T00:00:00"
+}

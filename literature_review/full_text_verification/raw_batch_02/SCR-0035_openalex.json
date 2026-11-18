@@ -1,0 +1,989 @@
+{
+  "id": "https://openalex.org/W7128496744",
+  "doi": "https://doi.org/10.69760/portuni.26020004",
+  "title": "Education–Technology–Economy Nexus: Empirical Evidence from Developing Countries",
+  "display_name": "Education–Technology–Economy Nexus: Empirical Evidence from Developing Countries",
+  "alternate_titles": [],
+  "publication_year": 2026,
+  "publication_date": "2026-02-11",
+  "ids": {
+    "openalex": "https://openalex.org/W7128496744",
+    "doi": "https://doi.org/10.69760/portuni.26020004"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.69760/portuni.26020004",
+    "doi": "https://doi.org/10.69760/portuni.26020004",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.69760/portuni.26020004",
+    "pdf_url": "https://egarp.lt/index.php/JPURM/article/download/493/475",
+    "source": {
+      "id": "https://openalex.org/S5407045211",
+      "display_name": "Porta Universorum",
+      "issn_l": "3030-2234",
+      "issn": [
+        "3030-2234"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Porta Universorum",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W7128496744"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://egarp.lt/index.php/JPURM/article/download/493/475",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5125547187",
+        "display_name": "Muxtar Mammadov",
+        "orcid": "https://orcid.org/0009-0000-6538-498X",
+        "observed_orcids": [
+          "https://orcid.org/0009-0000-6538-498X"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mukhtar Mammadov",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0009-0000-6538-498X",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5125510315",
+        "display_name": "Sevgi Alizade",
+        "orcid": "https://orcid.org/0009-0003-8200-2770",
+        "observed_orcids": [
+          "https://orcid.org/0009-0003-8200-2770"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sevgi Alizade",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0009-0003-8200-2770",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112326737",
+        "display_name": "Akbar Ibrahımov",
+        "orcid": "https://orcid.org/0009-0003-5741-0780",
+        "observed_orcids": [
+          "https://orcid.org/0009-0003-5741-0780"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Akbar Ibrahimov",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0009-0003-5741-0780",
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5125488164",
+        "display_name": "Nurid Mammadov",
+        "orcid": "https://orcid.org/0009-0000-8413-4572",
+        "observed_orcids": [
+          "https://orcid.org/0009-0000-8413-4572"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nurid Mammadov",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0009-0000-8413-4572",
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 34.1146,
+  "has_fulltext": true,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.99686676,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "2",
+    "issue": "2",
+    "first_page": "25",
+    "last_page": "33"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10393",
+    "display_name": "Economic Growth and Productivity",
+    "score": 0.6118000149726868,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "score": 0.6118000149726868,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13867",
+      "display_name": "Economic Growth and Development",
+      "score": 0.3677000105381012,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13498",
+      "display_name": "Economic Development and Digital Transformation",
+      "score": 0.015399999916553497,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.9639999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/technology-readiness",
+      "display_name": "technology readiness",
+      "score": 0.9769999980926514
+    },
+    {
+      "id": "https://openalex.org/keywords/macroeconomic-performance",
+      "display_name": "macroeconomic performance",
+      "score": 0.8040000200271606
+    },
+    {
+      "id": "https://openalex.org/keywords/human-capital",
+      "display_name": "human capital",
+      "score": 0.8640000224113464
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-infrastructure",
+      "display_name": "digital infrastructure",
+      "score": 0.9929999709129333
+    },
+    {
+      "id": "https://openalex.org/keywords/innovation-capability",
+      "display_name": "innovation ability",
+      "score": 0.9950000047683716
+    },
+    {
+      "id": "https://openalex.org/keywords/productivity",
+      "display_name": "productivity",
+      "score": 0.921999990940094
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-diversification",
+      "display_name": "economic diversification",
+      "score": 0.7789999842643738
+    },
+    {
+      "id": "https://openalex.org/keywords/digitalization-of-education",
+      "display_name": "digitalization of education",
+      "score": 0.8610000014305115
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-growth",
+      "display_name": "economic growth",
+      "score": 0.5799999833106995
+    },
+    {
+      "id": "https://openalex.org/keywords/developing-countries",
+      "display_name": "developing countries",
+      "score": 0.781000018119812
+    },
+    {
+      "id": "https://openalex.org/keywords/international-competitiveness",
+      "display_name": "international competitiveness",
+      "score": 0.6639999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/education-policy",
+      "display_name": "education policy",
+      "score": 0.5989999771118164
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776943663",
+      "wikidata": "https://www.wikidata.org/wiki/Q165687",
+      "display_name": "Human capital",
+      "level": 2,
+      "score": 0.7986999750137329
+    },
+    {
+      "id": "https://openalex.org/C83864248",
+      "wikidata": "https://www.wikidata.org/wiki/Q177323",
+      "display_name": "Developing country",
+      "level": 2,
+      "score": 0.6805999875068665
+    },
+    {
+      "id": "https://openalex.org/C2778139618",
+      "wikidata": "https://www.wikidata.org/wiki/Q13440398",
+      "display_name": "Workforce",
+      "level": 2,
+      "score": 0.6168000102043152
+    },
+    {
+      "id": "https://openalex.org/C166052673",
+      "wikidata": "https://www.wikidata.org/wiki/Q83021",
+      "display_name": "Empirical evidence",
+      "level": 2,
+      "score": 0.531499981880188
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.5131999850273132
+    },
+    {
+      "id": "https://openalex.org/C6422946",
+      "wikidata": "https://www.wikidata.org/wiki/Q857354",
+      "display_name": "Panel data",
+      "level": 2,
+      "score": 0.44600000977516174
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.4350999891757965
+    },
+    {
+      "id": "https://openalex.org/C2779297142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276412",
+      "display_name": "Educational attainment",
+      "level": 2,
+      "score": 0.4293999969959259
+    },
+    {
+      "id": "https://openalex.org/C552854447",
+      "wikidata": "https://www.wikidata.org/wiki/Q131201",
+      "display_name": "Sustainable development",
+      "level": 2,
+      "score": 0.41280001401901245
+    },
+    {
+      "id": "https://openalex.org/C137996800",
+      "wikidata": "https://www.wikidata.org/wiki/Q762702",
+      "display_name": "Technological change",
+      "level": 2,
+      "score": 0.4108000099658966
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.3837999999523163
+    },
+    {
+      "id": "https://openalex.org/C120912362",
+      "wikidata": "https://www.wikidata.org/wiki/Q136822",
+      "display_name": "Higher education",
+      "level": 2,
+      "score": 0.3725999891757965
+    },
+    {
+      "id": "https://openalex.org/C2780690664",
+      "wikidata": "https://www.wikidata.org/wiki/Q19602103",
+      "display_name": "Economic transformation",
+      "level": 2,
+      "score": 0.36480000615119934
+    },
+    {
+      "id": "https://openalex.org/C2779968149",
+      "wikidata": "https://www.wikidata.org/wiki/Q8034851",
+      "display_name": "Workforce development",
+      "level": 3,
+      "score": 0.3531000018119812
+    },
+    {
+      "id": "https://openalex.org/C120936955",
+      "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+      "display_name": "Empirical research",
+      "level": 2,
+      "score": 0.3481999933719635
+    },
+    {
+      "id": "https://openalex.org/C160050368",
+      "wikidata": "https://www.wikidata.org/wiki/Q132453",
+      "display_name": "Developed country",
+      "level": 3,
+      "score": 0.33329999446868896
+    },
+    {
+      "id": "https://openalex.org/C121087249",
+      "wikidata": "https://www.wikidata.org/wiki/Q546395",
+      "display_name": "Emerging markets",
+      "level": 2,
+      "score": 0.3296999931335449
+    },
+    {
+      "id": "https://openalex.org/C126082660",
+      "wikidata": "https://www.wikidata.org/wiki/Q4252370",
+      "display_name": "Digital transformation",
+      "level": 2,
+      "score": 0.3285999894142151
+    },
+    {
+      "id": "https://openalex.org/C74363100",
+      "wikidata": "https://www.wikidata.org/wiki/Q273005",
+      "display_name": "Economic system",
+      "level": 1,
+      "score": 0.3154999911785126
+    },
+    {
+      "id": "https://openalex.org/C67363961",
+      "wikidata": "https://www.wikidata.org/wiki/Q5268834",
+      "display_name": "Information and Communications Technology",
+      "level": 2,
+      "score": 0.2906999886035919
+    },
+    {
+      "id": "https://openalex.org/C83646750",
+      "wikidata": "https://www.wikidata.org/wiki/Q193893",
+      "display_name": "Capital (architecture)",
+      "level": 2,
+      "score": 0.2858000099658966
+    },
+    {
+      "id": "https://openalex.org/C2781089502",
+      "wikidata": "https://www.wikidata.org/wiki/Q2917873",
+      "display_name": "Human development (humanity)",
+      "level": 2,
+      "score": 0.2750999927520752
+    },
+    {
+      "id": "https://openalex.org/C121017731",
+      "wikidata": "https://www.wikidata.org/wiki/Q11661",
+      "display_name": "Information technology",
+      "level": 2,
+      "score": 0.2676999866962433
+    },
+    {
+      "id": "https://openalex.org/C188897",
+      "wikidata": "https://www.wikidata.org/wiki/Q5333508",
+      "display_name": "Economic impact analysis",
+      "level": 2,
+      "score": 0.2628999948501587
+    },
+    {
+      "id": "https://openalex.org/C47768531",
+      "wikidata": "https://www.wikidata.org/wiki/Q1127188",
+      "display_name": "Development economics",
+      "level": 1,
+      "score": 0.26010000705718994
+    },
+    {
+      "id": "https://openalex.org/C204983608",
+      "wikidata": "https://www.wikidata.org/wiki/Q2111958",
+      "display_name": "Productivity",
+      "level": 2,
+      "score": 0.25459998846054077
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.69760/portuni.26020004",
+      "doi": "https://doi.org/10.69760/portuni.26020004",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.69760/portuni.26020004",
+      "pdf_url": "https://egarp.lt/index.php/JPURM/article/download/493/475",
+      "source": {
+        "id": "https://openalex.org/S5407045211",
+        "display_name": "Porta Universorum",
+        "issn_l": "3030-2234",
+        "issn": [
+          "3030-2234"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Porta Universorum",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "doi:10.2139/ssrn.6739899",
+      "doi": "https://doi.org/10.2139/ssrn.6739899",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.6739899",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.69760/portuni.26020004",
+    "doi": "https://doi.org/10.69760/portuni.26020004",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.69760/portuni.26020004",
+    "pdf_url": "https://egarp.lt/index.php/JPURM/article/download/493/475",
+    "source": {
+      "id": "https://openalex.org/S5407045211",
+      "display_name": "Porta Universorum",
+      "issn_l": "3030-2234",
+      "issn": [
+        "3030-2234"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Porta Universorum",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 1.0,
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure"
+    },
+    {
+      "score": 0.9235000014305115,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    },
+    {
+      "score": 0.833299994468689,
+      "id": "https://metadata.un.org/sdg/8",
+      "display_name": "Decent work and economic growth"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7128496744.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7128496744.grobid-xml"
+  },
+  "referenced_works_count": 6,
+  "referenced_works": [
+    "https://openalex.org/W2060822530",
+    "https://openalex.org/W2086045076",
+    "https://openalex.org/W2102911810",
+    "https://openalex.org/W4255101645",
+    "https://openalex.org/W7106249473",
+    "https://openalex.org/W7109050070"
+  ],
+  "related_works": [
+    "https://openalex.org/W4411045641",
+    "https://openalex.org/W2571621213",
+    "https://openalex.org/W4382814347",
+    "https://openalex.org/W4377157929",
+    "https://openalex.org/W4410265941",
+    "https://openalex.org/W4390707297",
+    "https://openalex.org/W7124278584",
+    "https://openalex.org/W2084649342",
+    "https://openalex.org/W4319443921",
+    "https://openalex.org/W7220068859"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      60,
+      99,
+      115
+    ],
+    "interaction": [
+      1
+    ],
+    "between": [
+      2,
+      57,
+      69
+    ],
+    "education,": [
+      3
+    ],
+    "technology,": [
+      4
+    ],
+    "and": [
+      5,
+      15,
+      28,
+      39,
+      49,
+      65,
+      76,
+      85,
+      94,
+      109,
+      134
+    ],
+    "economic": [
+      6,
+      77,
+      97,
+      132
+    ],
+    "development": [
+      7,
+      133
+    ],
+    "has": [
+      8
+    ],
+    "become": [
+      9
+    ],
+    "a": [
+      10,
+      63
+    ],
+    "critical": [
+      11
+    ],
+    "determinant": [
+      12
+    ],
+    "of": [
+      13,
+      101
+    ],
+    "competitiveness": [
+      14,
+      137
+    ],
+    "sustainable": [
+      16,
+      131
+    ],
+    "growth": [
+      17
+    ],
+    "in": [
+      18,
+      71,
+      82,
+      112,
+      138
+    ],
+    "developing": [
+      19,
+      139
+    ],
+    "countries.": [
+      20
+    ],
+    "This": [
+      21
+    ],
+    "study": [
+      22,
+      116
+    ],
+    "empirically": [
+      23
+    ],
+    "examines": [
+      24
+    ],
+    "how": [
+      25
+    ],
+    "educational": [
+      26,
+      122
+    ],
+    "attainment": [
+      27
+    ],
+    "technological": [
+      29,
+      74,
+      125
+    ],
+    "readiness": [
+      30
+    ],
+    "jointly": [
+      31
+    ],
+    "influence": [
+      32
+    ],
+    "macroeconomic": [
+      33
+    ],
+    "performance.": [
+      34
+    ],
+    "Using": [
+      35
+    ],
+    "multi-country": [
+      36
+    ],
+    "panel": [
+      37
+    ],
+    "data": [
+      38
+    ],
+    "indicators": [
+      40
+    ],
+    "related": [
+      41
+    ],
+    "to": [
+      42
+    ],
+    "human": [
+      43,
+      83
+    ],
+    "capital,": [
+      44
+    ],
+    "digital": [
+      45,
+      86,
+      102
+    ],
+    "infrastructure,": [
+      46
+    ],
+    "innovation": [
+      47,
+      92
+    ],
+    "capacity,": [
+      48,
+      93
+    ],
+    "productivity,": [
+      50,
+      90
+    ],
+    "the": [
+      51,
+      54
+    ],
+    "research": [
+      52
+    ],
+    "analyzes": [
+      53
+    ],
+    "structural": [
+      55
+    ],
+    "links": [
+      56
+    ],
+    "these": [
+      58
+    ],
+    "variables.": [
+      59
+    ],
+    "findings": [
+      61
+    ],
+    "reveal": [
+      62
+    ],
+    "strong": [
+      64
+    ],
+    "statistically": [
+      66
+    ],
+    "significant": [
+      67
+    ],
+    "relationship": [
+      68
+    ],
+    "improvements": [
+      70
+    ],
+    "education": [
+      72,
+      105
+    ],
+    "systems,": [
+      73
+    ],
+    "adoption,": [
+      75
+    ],
+    "growth.": [
+      78
+    ],
+    "Countries": [
+      79
+    ],
+    "that": [
+      80,
+      118
+    ],
+    "invest": [
+      81
+    ],
+    "capital": [
+      84
+    ],
+    "transformation": [
+      87
+    ],
+    "demonstrate": [
+      88
+    ],
+    "higher": [
+      89
+    ],
+    "stronger": [
+      91
+    ],
+    "more": [
+      95
+    ],
+    "diversified": [
+      96
+    ],
+    "structures.": [
+      98
+    ],
+    "integration": [
+      100
+    ],
+    "tools": [
+      103
+    ],
+    "into": [
+      104
+    ],
+    "enhances": [
+      106
+    ],
+    "workforce": [
+      107
+    ],
+    "skills": [
+      108
+    ],
+    "supports": [
+      110
+    ],
+    "participation": [
+      111
+    ],
+    "technology-intensive": [
+      113
+    ],
+    "sectors.": [
+      114
+    ],
+    "concludes": [
+      117
+    ],
+    "coordinated": [
+      119
+    ],
+    "policies": [
+      120
+    ],
+    "linking": [
+      121
+    ],
+    "reform": [
+      123
+    ],
+    "with": [
+      124
+    ],
+    "strategies": [
+      126
+    ],
+    "are": [
+      127
+    ],
+    "essential": [
+      128
+    ],
+    "for": [
+      129
+    ],
+    "achieving": [
+      130
+    ],
+    "strengthening": [
+      135
+    ],
+    "global": [
+      136
+    ],
+    "economies.": [
+      140
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7128496744",
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-17T12:49:18.490984",
+  "created_date": "2026-02-11T00:00:00"
+}

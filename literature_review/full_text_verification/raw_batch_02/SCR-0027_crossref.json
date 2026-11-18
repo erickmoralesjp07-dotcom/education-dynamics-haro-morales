@@ -1,0 +1,214 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2026-02-06T10:44:06Z",
+      "timestamp": 1770374646981,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "MIT Press",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              26
+            ]
+          ],
+          "date-time": "2025-08-26T00:00:00Z",
+          "timestamp": 1756166400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "direct.mit.edu"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In this article we study differences in levels of educational inequality across European countries and regions. We address two research questions. First, we ask whether educational inequality in geographical Europe is shaped to a larger extent by the country or the region within the country where an individual resides. Second, we investigate whether convergence in levels of educational inequality has occurred across territorial units in Europe. Such convergence could take three different forms: (1) convergence across regions within each country (intra-country convergence), (2) convergence across countries but not regions (inter-country convergence), or (3) convergence across countries and regions within countries (full convergence). To address these questions, we analyze data from the European Social Survey (years 2002 to 2020) covering 248 regions in 25 countries. We estimate a three-level hierarchical linear probability model, with individuals (level 1) nested in regions (level 2) nested in countries (level 3). The model allows random slopes for parental education to vary across regions and countries. Our findings show that regional variation within countries accounts for about 15% to 33% of overall spatial variation in educational inequalities across Europe. Furthermore, we find evidence of persistent differences in levels of educational inequality across countries over time (no inter-country convergence), alongside a decline in regional disparities within countries (intra-country convergence).</jats:p>",
+    "DOI": "10.1162/euso.a.37",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          26
+        ]
+      ],
+      "date-time": "2025-08-26T16:44:02Z",
+      "timestamp": 1756226642000
+    },
+    "page": "1-24",
+    "update-policy": "https://doi.org/10.1162/mitpressjournals.corrections.policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The geography of tertiary education inequality in Europe: a within- and cross-country analysis over time"
+    ],
+    "prefix": "10.1162",
+    "author": [
+      {
+        "given": "Fabrizio",
+        "family": "Bernardi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Sociology II, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ilaria",
+        "family": "Lievore",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Fondazione per la Scuola, Turin, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Manuel T.",
+        "family": "Valdes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Sociology II, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain"
+          },
+          {
+            "name": "University of Vienna, Department of Sociology, Vienna, Austria"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "281",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "European Societies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/EUSO.a.37/2548594/euso.a.37.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/EUSO.a.37/2548594/euso.a.37.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2026-02-05T22:06:17Z",
+      "timestamp": 1770329177000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://direct.mit.edu/euso/article/doi/10.1162/EUSO.a.37/132784/The-geography-of-tertiary-education-inequality-in"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1162/euso.a.37",
+    "relation": {},
+    "ISSN": [
+      "1461-6696",
+      "1469-8307"
+    ],
+    "issn-type": [
+      {
+        "value": "1461-6696",
+        "type": "print"
+      },
+      {
+        "value": "1469-8307",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2026-07-15T16:57:15Z",
+      "timestamp": 1784134635288,
+      "version": "3.55.0"
+    },
+    "reference-count": 50,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2023-11-27T00:00:00Z",
+          "timestamp": 1701043200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Sociol Educ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>This article expands the scope of comparative social stratification research in education to rapidly developing, largely low-income sub-Saharan Africa. First, we investigate trends in the association between parental socioeconomic status (SES) and children’s chances to attend and complete primary education, exploring whether and where educational expansion of the early twenty-first century led to equalization of educational opportunities. Drawing on data from 153 Demographic and Health Surveys and Multiple Indicator Cluster Surveys (1990–2017) from 40 countries, findings indicate that inequality in attendance declined, but inequality in completing six grades largely persisted. Cross-country analyses reveal a large variation in inequality levels and trends. We explore the role of national contextual factors and find that underweight prevalence, fertility rates, school fees, public spending on education, and the ratio of pupils to teaching staff systematically explain variation in SES gaps across countries and cohorts. Findings underline the importance of absolute material deprivation and school teaching resources in the stratification of educational opportunities in this region.</jats:p>",
+    "DOI": "10.1177/00380407231210279",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2023-11-27T03:16:01Z",
+      "timestamp": 1701054961000
+    },
+    "page": "193-217",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Trends and Determinants of Intergenerational Educational Inequality in Sub-Saharan Africa for Birth Cohorts 1974 to 2003"
+    ],
+    "prefix": "10.1177",
+    "volume": "97",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6226-3303",
+        "authenticated-orcid": false,
+        "given": "Ilze",
+        "family": "Plavgo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Mannheim, Mannheim, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fabrizio",
+        "family": "Bernardi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Nacional de Educación a Distancia, Madrid, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3386/w25534"
+      },
+      {
+        "key": "bibr2-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1596/1813-9450-7843"
+      },
+      {
+        "key": "bibr3-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/341159"
+      },
+      {
+        "key": "bibr4-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/esr/jcn031"
+      },
+      {
+        "key": "bibr5-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14616696.2017.1290265"
+      },
+      {
+        "key": "bibr6-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/esr/19.1.1"
+      },
+      {
+        "key": "bibr7-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0305-750X(02)00027-X"
+      },
+      {
+        "key": "bibr8-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14616696.2012.750729"
+      },
+      {
+        "key": "bibr9-00380407231210279",
+        "unstructured": "Bhalotra Sonia, Harttgen Kenneth, Klasen Stephan. 2015. “The Impact of School Fees on Schooling Outcomes and the Intergenerational Transmission of Education.” Background Paper Commissioned for the Education for All Global Monitoring Report 2013/14, Teaching and Learning: Achieving Quality for All. https://unesdoc.unesco.org/ark:/48223/pf0000225956"
+      },
+      {
+        "key": "bibr10-00380407231210279",
+        "first-page": "1",
+        "volume-title": "Persistent Inequality",
+        "author": "Blossfeld HansPeter",
+        "year": "1993"
+      },
+      {
+        "key": "bibr11-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1728-4457.2013.00557.x"
+      },
+      {
+        "key": "bibr12-00380407231210279",
+        "volume-title": "Education, Opportunity, and Social Inequality: Changing Prospects in Western Society",
+        "author": "Boudon Raymond",
+        "year": "1974"
+      },
+      {
+        "key": "bibr13-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/104346397009003002"
+      },
+      {
+        "key": "bibr14-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-soc-073117-041429"
+      },
+      {
+        "key": "bibr15-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/595951"
+      },
+      {
+        "key": "bibr16-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.soc.34.040507.134719"
+      },
+      {
+        "key": "bibr17-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1973678"
+      },
+      {
+        "key": "bibr18-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0003122419847165"
+      },
+      {
+        "key": "bibr19-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/aer.97.2.31"
+      },
+      {
+        "key": "bibr20-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12187-017-9488-1"
+      },
+      {
+        "key": "bibr21-00380407231210279",
+        "volume-title": "Can Education Be Equalized?: The Swedish Case in Comparative Perspective",
+        "author": "Erikson Robert",
+        "year": "1996"
+      },
+      {
+        "key": "bibr22-00380407231210279",
+        "volume-title": "A Model of the Inter-generational Transmission of Educational Success",
+        "author": "Feinstein Leon",
+        "year": "2004"
+      },
+      {
+        "key": "bibr23-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3945/ajcn.113.080960"
+      },
+      {
+        "key": "bibr24-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0022278X00011319"
+      },
+      {
+        "key": "bibr25-00380407231210279",
+        "volume-title": "Child Poverty in the Developing World",
+        "author": "Gordon David",
+        "year": "2003"
+      },
+      {
+        "key": "bibr26-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0038040720919379"
+      },
+      {
+        "issue": "1",
+        "key": "bibr27-00380407231210279",
+        "first-page": "1",
+        "volume": "76",
+        "author": "Harding Robin",
+        "year": "2013",
+        "journal-title": "The Journal of Politics"
+      },
+      {
+        "key": "bibr28-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0003122419885094"
+      },
+      {
+        "key": "bibr29-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/227799"
+      },
+      {
+        "key": "bibr30-00380407231210279",
+        "volume-title": "A Solution to the Ecological Inference Problem: Reconstructing Individual Behavior from Aggregate Data",
+        "author": "King Gary",
+        "year": "1997"
+      },
+      {
+        "key": "bibr31-00380407231210279",
+        "volume-title": "Child Poverty in Kenya: A Multidimensional Approach",
+        "author": "KNBS, and UNICEF",
+        "year": "2017"
+      },
+      {
+        "key": "bibr32-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijedudev.2012.02.013"
+      },
+      {
+        "key": "bibr33-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1728-4457.2000.00483.x"
+      },
+      {
+        "key": "bibr34-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1728-4465.2012.00310.x"
+      },
+      {
+        "key": "bibr35-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/esr/jcp006"
+      },
+      {
+        "key": "bibr36-00380407231210279",
+        "first-page": "49",
+        "volume-title": "Education and International Development: An Introduction",
+        "author": "Mundy Karen",
+        "year": "2015"
+      },
+      {
+        "key": "bibr37-00380407231210279",
+        "unstructured": "Plavgo Ilze. 2021. “Education for All, Graduation for Some: Trends and Determinants of Intergenerational Educational Inequality in Sub-Saharan Africa.” PhD dissertation, European University Institute. https://hdl.handle.net/1814/70413."
+      },
+      {
+        "key": "bibr38-00380407231210279",
+        "unstructured": "Plavgo Ilze. 2023. “Intergenerational Educational Inequality in Sub-Saharan Africa Dataset.”EUI Research Data. http://hdl.handle.net/1814/75219."
+      },
+      {
+        "key": "bibr39-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2112784"
+      },
+      {
+        "key": "bibr40-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0738-0593(94)90017-5"
+      },
+      {
+        "key": "bibr41-00380407231210279",
+        "unstructured": "Tomasevski Katarina. 2006. “Free or Fee: 2006 Global Report. The State of the Right to Education Worldwide.”https://www.right-to-education.org/resource/state-right-education-worldwide-free-or-fee-2006-global-report."
+      },
+      {
+        "key": "bibr42-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0038040710367935"
+      },
+      {
+        "key": "bibr43-00380407231210279",
+        "volume-title": "Education for All 2000 - 2015: Achievements and Challenges",
+        "author": "UNESCO",
+        "year": "2015"
+      },
+      {
+        "key": "bibr44-00380407231210279",
+        "unstructured": "UNESCO. 2020. “UIS Statistics.”UNESCO Institute for Statistics. http://data.uis.unesco.org/?ReportId=163#."
+      },
+      {
+        "key": "bibr45-00380407231210279",
+        "unstructured": "UNESCO. 2023. “World Inequality Database on Education (WIDE).”https://www.education-inequalities.org/."
+      },
+      {
+        "key": "bibr46-00380407231210279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15220/978-92-9189-079-2-en"
+      },
+      {
+        "key": "bibr47-00380407231210279",
+        "volume-title": "The Millennium Development Goals Report 2015",
+        "author": "United Nations",
+        "year": "2015"
+      },
+      {
+        "key": "bibr48-00380407231210279",
+        "volume-title": "Nutrition Landscape Information System (NLIS): Country Profile Indicators: Interpretation Guide",
+        "author": "WHO",
+        "year": "2010"
+      },
+      {
+        "key": "bibr49-00380407231210279",
+        "unstructured": "World Bank. 2020. “World Development Indicators.”http://databank.worldbank.org/data/source/world-development-indicators/preview/on."
+      },
+      {
+        "key": "bibr50-00380407231210279",
+        "volume-title": "Abolishing School Fees in Africa. Lessons from Ethiopia, Ghana, Kenya, Malawi, and Mozambique",
+        "author": "World Bank, and UNICEF",
+        "year": "2009"
+      }
+    ],
+    "container-title": [
+      "Sociology of Education"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00380407231210279",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00380407231210279",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00380407231210279",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T11:03:05Z",
+      "timestamp": 1777633385000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/00380407231210279"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/00380407231210279"
+    ],
+    "URL": "https://doi.org/10.1177/00380407231210279",
+    "relation": {},
+    "ISSN": [
+      "0038-0407",
+      "1939-8573"
+    ],
+    "issn-type": [
+      {
+        "value": "0038-0407",
+        "type": "print"
+      },
+      {
+        "value": "1939-8573",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    }
+  }
+}

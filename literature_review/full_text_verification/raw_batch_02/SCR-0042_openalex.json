@@ -1,0 +1,1020 @@
+{
+  "id": "https://openalex.org/W3038022850",
+  "doi": "https://doi.org/10.17522/balikesirnef.618977",
+  "title": "The Link between Structural Quality Indicators in Pre-primary and PISA Science Literacy Skills: A Cross-Country Comparison",
+  "display_name": "The Link between Structural Quality Indicators in Pre-primary and PISA Science Literacy Skills: A Cross-Country Comparison",
+  "alternate_titles": [
+    "Erken Çocukluk Eğitimi Yapısal Kalite Göstergeleri ve PISA Fen Okur-yazarlık Becerileri Arasındaki İlişki: Ülkeler-Arası Karşılaştırma"
+  ],
+  "publication_year": 2020,
+  "publication_date": "2020-06-27",
+  "ids": {
+    "openalex": "https://openalex.org/W3038022850",
+    "doi": "https://doi.org/10.17522/balikesirnef.618977",
+    "mag": "3038022850"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.17522/balikesirnef.618977",
+    "doi": "https://doi.org/10.17522/balikesirnef.618977",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.17522/balikesirnef.618977",
+    "pdf_url": "https://dergipark.org.tr/en/download/article-file/1177153",
+    "source": {
+      "id": "https://openalex.org/S4306520668",
+      "display_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+      "issn_l": "1307-6086",
+      "issn": [
+        "1307-6086"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+        "erih-plus",
+        "tr-dizin"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W3038022850"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://dergipark.org.tr/en/download/article-file/1177153",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5072678495",
+        "display_name": "Elif Buldu",
+        "orcid": "https://orcid.org/0000-0003-0585-0138",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-0585-0138"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I140940799",
+          "display_name": "Bayburt University",
+          "ror": "https://ror.org/050ed7z50",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I140940799"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elif BULDU",
+      "raw_affiliation_strings": [
+        "BAYBURT ÜNİVERSİTESİ, BAYBURT EĞİTİM FAKÜLTESİ"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0585-0138",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BAYBURT ÜNİVERSİTESİ, BAYBURT EĞİTİM FAKÜLTESİ",
+          "institution_ids": [
+            "https://openalex.org/I140940799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5029716565",
+        "display_name": "Refika Olgan",
+        "orcid": "https://orcid.org/0000-0003-1953-7484",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-1953-7484"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I201799495",
+          "display_name": "Middle East Technical University",
+          "ror": "https://ror.org/014weej12",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I201799495"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Refika OLGAN",
+      "raw_affiliation_strings": [
+        "Middle East Technical University, Faculty of Education, The Department of Elementary and Early Childhood Education, Ankara, Turkey,",
+        "Orta Doğu Teknik Üniversitesi , Eğitim Fakültesi , temel Eğitim Bölümü , Ankara , Türkiye ,",
+        "Orta Doğu Teknik Üniversitesi, Eğitim Fakültesi, temel Eğitim Bölümü, Ankara,"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1953-7484",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Middle East Technical University, Faculty of Education, The Department of Elementary and Early Childhood Education, Ankara, Turkey,",
+          "institution_ids": [
+            "https://openalex.org/I201799495"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Orta Doğu Teknik Üniversitesi , Eğitim Fakültesi , temel Eğitim Bölümü , Ankara , Türkiye ,",
+          "institution_ids": [
+            "https://openalex.org/I201799495"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Orta Doğu Teknik Üniversitesi, Eğitim Fakültesi, temel Eğitim Bölümü, Ankara,",
+          "institution_ids": [
+            "https://openalex.org/I201799495"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5029716565"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I201799495"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.2426,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.56942056,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 86,
+    "max": 92
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "1",
+    "first_page": "186",
+    "last_page": "216"
+  },
+  "is_retracted": false,
+  "is_pulled": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10674",
+    "display_name": "School Choice and Performance",
+    "score": 0.4636000096797943,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance",
+      "score": 0.4636000096797943,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11300",
+      "display_name": "Global Educational Policies and Reforms",
+      "score": 0.2639000117778778,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10589",
+      "display_name": "Early Childhood Education and Development",
+      "score": 0.1891999989748001,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/preschool-education",
+      "display_name": "preschool education",
+      "score": 0.9919999837875366
+    },
+    {
+      "id": "https://openalex.org/keywords/scientific-literacy",
+      "display_name": "scientific literacy",
+      "score": 0.7059999704360962
+    },
+    {
+      "id": "https://openalex.org/keywords/pisa",
+      "display_name": "PISA",
+      "score": 0.8690000176429749
+    },
+    {
+      "id": "https://openalex.org/keywords/education-quality-indicators",
+      "display_name": "educational quality indicators",
+      "score": 0.8349999785423279
+    },
+    {
+      "id": "https://openalex.org/keywords/public-expenditure-on-education",
+      "display_name": "public expenditure on education",
+      "score": 0.8629999756813049
+    },
+    {
+      "id": "https://openalex.org/keywords/teacher-student-ratio",
+      "display_name": "student-teacher ratio",
+      "score": 0.9990000128746033
+    },
+    {
+      "id": "https://openalex.org/keywords/per-capita-income",
+      "display_name": "per capita income",
+      "score": 0.9760000109672546
+    },
+    {
+      "id": "https://openalex.org/keywords/science-achievement",
+      "display_name": "science achievement",
+      "score": 0.5680000185966492
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-national-comparison",
+      "display_name": "cross-national comparison",
+      "score": 0.7409999966621399
+    },
+    {
+      "id": "https://openalex.org/keywords/turkey",
+      "display_name": "Turkey",
+      "score": 0.7170000076293945
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5772281885147095
+    },
+    {
+      "id": "https://openalex.org/C127598652",
+      "wikidata": "https://www.wikidata.org/wiki/Q558635",
+      "display_name": "Per capita",
+      "level": 3,
+      "score": 0.574951171875
+    },
+    {
+      "id": "https://openalex.org/C160443848",
+      "wikidata": "https://www.wikidata.org/wiki/Q45918",
+      "display_name": "Per capita income",
+      "level": 2,
+      "score": 0.41044265031814575
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.37846899032592773
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.3772681951522827
+    },
+    {
+      "id": "https://openalex.org/C45355965",
+      "wikidata": "https://www.wikidata.org/wiki/Q1643441",
+      "display_name": "Socioeconomics",
+      "level": 1,
+      "score": 0.374602347612381
+    },
+    {
+      "id": "https://openalex.org/C4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "level": 1,
+      "score": 0.3412064015865326
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.32144731283187866
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.32053565979003906
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.27450746297836304
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.26484012603759766
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.18152233958244324
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.17522/balikesirnef.618977",
+      "doi": "https://doi.org/10.17522/balikesirnef.618977",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.17522/balikesirnef.618977",
+      "pdf_url": "https://dergipark.org.tr/en/download/article-file/1177153",
+      "source": {
+        "id": "https://openalex.org/S4306520668",
+        "display_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+        "issn_l": "1307-6086",
+        "issn": [
+          "1307-6086"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [
+          "erih-plus",
+          "tr-dizin"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:dergipark.org.tr:article/618977",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://dergipark.org.tr/tr/pub/balikesirnef/issue/55528/618977",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306520668",
+        "display_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+        "issn_l": "1307-6086",
+        "issn": [
+          "1307-6086"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [
+          "erih-plus",
+          "tr-dizin"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:https://open.metu.edu.tr:11511/43723",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11511/43723",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402495",
+        "display_name": "OpenMETU (Middle East Technical University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I201799495",
+        "host_organization_name": "Middle East Technical University",
+        "host_organization_lineage": [
+          "https://openalex.org/I201799495"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:openaccess.bayburt.edu.tr:20.500.12403/6269",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/20.500.12403/6269",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407055299",
+        "display_name": "DSpace@Bayburt",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.17522/balikesirnef.618977",
+    "doi": "https://doi.org/10.17522/balikesirnef.618977",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.17522/balikesirnef.618977",
+    "pdf_url": "https://dergipark.org.tr/en/download/article-file/1177153",
+    "source": {
+      "id": "https://openalex.org/S4306520668",
+      "display_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+      "issn_l": "1307-6086",
+      "issn": [
+        "1307-6086"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+        "erih-plus",
+        "tr-dizin"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8278999924659729,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3038022850.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3038022850.grobid-xml"
+  },
+  "referenced_works_count": 55,
+  "referenced_works": [
+    "https://openalex.org/W73328367",
+    "https://openalex.org/W1549122405",
+    "https://openalex.org/W1603082044",
+    "https://openalex.org/W1704519148",
+    "https://openalex.org/W1818325234",
+    "https://openalex.org/W1911744640",
+    "https://openalex.org/W1982246231",
+    "https://openalex.org/W2000272185",
+    "https://openalex.org/W2003946990",
+    "https://openalex.org/W2009496169",
+    "https://openalex.org/W2035169529",
+    "https://openalex.org/W2038611211",
+    "https://openalex.org/W2047536201",
+    "https://openalex.org/W2051848416",
+    "https://openalex.org/W2055753667",
+    "https://openalex.org/W2056141506",
+    "https://openalex.org/W2088044151",
+    "https://openalex.org/W2093961770",
+    "https://openalex.org/W2115304160",
+    "https://openalex.org/W2117085196",
+    "https://openalex.org/W2132073984",
+    "https://openalex.org/W2132885065",
+    "https://openalex.org/W2145154420",
+    "https://openalex.org/W2147927985",
+    "https://openalex.org/W2151220071",
+    "https://openalex.org/W2156396199",
+    "https://openalex.org/W2158727331",
+    "https://openalex.org/W2159299011",
+    "https://openalex.org/W2159492200",
+    "https://openalex.org/W2166263895",
+    "https://openalex.org/W2167373370",
+    "https://openalex.org/W2167497263",
+    "https://openalex.org/W2186570755",
+    "https://openalex.org/W2189025833",
+    "https://openalex.org/W2208004527",
+    "https://openalex.org/W2250131611",
+    "https://openalex.org/W2336008065",
+    "https://openalex.org/W2411276857",
+    "https://openalex.org/W2419794946",
+    "https://openalex.org/W2527587910",
+    "https://openalex.org/W2580896817",
+    "https://openalex.org/W2586582996",
+    "https://openalex.org/W2599994073",
+    "https://openalex.org/W2606565681",
+    "https://openalex.org/W2885329652",
+    "https://openalex.org/W2891129865",
+    "https://openalex.org/W3022304362",
+    "https://openalex.org/W3121137352",
+    "https://openalex.org/W3123026700",
+    "https://openalex.org/W3125589405",
+    "https://openalex.org/W4212840495",
+    "https://openalex.org/W4241100824",
+    "https://openalex.org/W4410167338",
+    "https://openalex.org/W6960602166",
+    "https://openalex.org/W6992889388"
+  ],
+  "related_works": [
+    "https://openalex.org/W7110614036",
+    "https://openalex.org/W1605599963",
+    "https://openalex.org/W7095778099",
+    "https://openalex.org/W2954163527",
+    "https://openalex.org/W2887352746",
+    "https://openalex.org/W2007477555",
+    "https://openalex.org/W1572518790",
+    "https://openalex.org/W3119397577",
+    "https://openalex.org/W2070206239",
+    "https://openalex.org/W151527158"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      41,
+      77
+    ],
+    "main": [
+      1
+    ],
+    "aim": [
+      2
+    ],
+    "of": [
+      3,
+      63,
+      110,
+      114,
+      143
+    ],
+    "this": [
+      4
+    ],
+    "study": [
+      5,
+      117
+    ],
+    "was": [
+      6
+    ],
+    "to": [
+      7,
+      14
+    ],
+    "make": [
+      8
+    ],
+    "a": [
+      9,
+      107,
+      129
+    ],
+    "comparison": [
+      10
+    ],
+    "across": [
+      11
+    ],
+    "distinct": [
+      12
+    ],
+    "countries": [
+      13,
+      120
+    ],
+    "investigate": [
+      15
+    ],
+    "the": [
+      16,
+      31,
+      81,
+      100,
+      111,
+      115,
+      135
+    ],
+    "relationship": [
+      17,
+      82
+    ],
+    "between": [
+      18,
+      38,
+      83
+    ],
+    "several": [
+      19
+    ],
+    "quality": [
+      20
+    ],
+    "indicators": [
+      21,
+      43
+    ],
+    "in": [
+      22,
+      30,
+      65
+    ],
+    "pre-primary": [
+      23,
+      66,
+      131
+    ],
+    "education": [
+      24
+    ],
+    "and": [
+      25,
+      54,
+      73,
+      94,
+      138
+    ],
+    "children’s": [
+      26,
+      95
+    ],
+    "subsequent": [
+      27,
+      96
+    ],
+    "science": [
+      28,
+      97
+    ],
+    "competency": [
+      29
+    ],
+    "Program": [
+      32
+    ],
+    "for": [
+      33,
+      134
+    ],
+    "International": [
+      34
+    ],
+    "Student": [
+      35
+    ],
+    "Assessment": [
+      36
+    ],
+    "(PISA)": [
+      37
+    ],
+    "2000-2015": [
+      39
+    ],
+    "years.": [
+      40
+    ],
+    "cross-national": [
+      42
+    ],
+    "that": [
+      44,
+      80,
+      119,
+      121
+    ],
+    "were": [
+      45,
+      47,
+      102
+    ],
+    "used": [
+      46
+    ],
+    "obtained": [
+      48
+    ],
+    "from": [
+      49
+    ],
+    "previous": [
+      50
+    ],
+    "records,": [
+      51
+    ],
+    "including": [
+      52
+    ],
+    "public": [
+      53,
+      84,
+      136,
+      144
+    ],
+    "private": [
+      55
+    ],
+    "expenditure,": [
+      56,
+      85
+    ],
+    "pupil-teacher": [
+      57,
+      86
+    ],
+    "ratio,": [
+      58,
+      87
+    ],
+    "enrollment": [
+      59
+    ],
+    "rate,": [
+      60
+    ],
+    "duration,": [
+      61
+    ],
+    "age": [
+      62
+    ],
+    "beginning": [
+      64
+    ],
+    "education,": [
+      67
+    ],
+    "individual": [
+      68
+    ],
+    "countries'": [
+      69
+    ],
+    "adult": [
+      70,
+      91
+    ],
+    "literacy": [
+      71,
+      92
+    ],
+    "rates,": [
+      72
+    ],
+    "income": [
+      74,
+      88
+    ],
+    "per": [
+      75,
+      89
+    ],
+    "capita.": [
+      76
+    ],
+    "results": [
+      78
+    ],
+    "showed": [
+      79
+    ],
+    "capita,": [
+      90
+    ],
+    "rate": [
+      93
+    ],
+    "performance": [
+      98
+    ],
+    "on": [
+      99
+    ],
+    "PISA": [
+      101
+    ],
+    "positively": [
+      103
+    ],
+    "statistically": [
+      104
+    ],
+    "significant": [
+      105
+    ],
+    "at": [
+      106
+    ],
+    "country-level.": [
+      108
+    ],
+    "One": [
+      109
+    ],
+    "important": [
+      112
+    ],
+    "implications": [
+      113
+    ],
+    "current": [
+      116,
+      141
+    ],
+    "is": [
+      118
+    ],
+    "spend": [
+      122
+    ],
+    "less": [
+      123
+    ],
+    "(which": [
+      124
+    ],
+    "include": [
+      125
+    ],
+    "Turkey)": [
+      126
+    ],
+    "should": [
+      127
+    ],
+    "plan": [
+      128
+    ],
+    "detailed": [
+      130
+    ],
+    "expenditure": [
+      132
+    ],
+    "agenda": [
+      133
+    ],
+    "sector": [
+      137
+    ],
+    "raise": [
+      139
+    ],
+    "their": [
+      140
+    ],
+    "level": [
+      142
+    ],
+    "spending.": [
+      145
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3038022850",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-17T12:49:18.490984",
+  "created_date": "2020-07-02T00:00:00"
+}

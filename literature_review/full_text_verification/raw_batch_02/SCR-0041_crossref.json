@@ -1,0 +1,203 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "Research Square"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2026-06-20T00:09:08Z",
+      "timestamp": 1781914148655,
+      "version": "3.54.5"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ]
+    },
+    "group-title": "In Review",
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              11
+            ]
+          ],
+          "date-time": "2024-03-11T00:00:00Z",
+          "timestamp": 1710115200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          10
+        ]
+      ]
+    },
+    "abstract": "<title>Abstract</title>\n        <p>In this study we utilized data from the Programme for International Student Assessment (PISA) to investigate differences in schools’ average mathematics scores by treating intraclass correlation coefficient (ICC) as a measure of educational inequality. We computed ICCs both with unconditional and conditional multilevel models for 79 PISA 2018 participating countries and meta-analyzed the results. There are two main purposes of this study; to quantify the inequality after controlling for common PISA-variables across countries and try to explain heterogeneity at the country level, to investigate the school differences in Türkiye due to its large ICCs and the authors’ familiarity with its educational system. The results showed that PISA variables that are common across countries reduced the unconditional ICC by 5% to 73%, further at least 50% of the heterogeneity in conditional ICCs was explained by the country level non-PISA variables. The tracking age, cultural differences and Gross Domestic Product variables were particularly important to explain differences in conditional ICCs. The Türkiye specific model, consistent with the meta-analysis results, indicated that the school type is a substantial predictor to understand ICC. Overall, we briefly explained the important variables that might be helpful to investigate ICC for researchers, administrators and policy makers who are interested in studying educational inequality from a quantitative perspective.</p>",
+    "DOI": "10.21203/rs.3.rs-4066275/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2024-03-11T07:57:37Z",
+      "timestamp": 1710143857000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "The Intraclass Correlation Coefficient as a Measure of Educational Inequality: An Empirical Study with Data from PISA 2018"
+    ],
+    "prefix": "10.21203",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6897-0850",
+        "authenticated-orcid": false,
+        "given": "Yasemin",
+        "family": "YARDIM",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ege University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7123-1987",
+        "authenticated-orcid": false,
+        "given": "Gürkan",
+        "family": "CÜVİTOĞLU",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ege University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4462-1784",
+        "authenticated-orcid": false,
+        "given": "Burak",
+        "family": "AYDIN",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Leuphana University & Ege University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-4066275/v1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-4066275/v1.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2024-03-11T07:57:45Z",
+      "timestamp": 1710143865000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-4066275/v1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.21203/rs.3.rs-4066275/v1",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}
