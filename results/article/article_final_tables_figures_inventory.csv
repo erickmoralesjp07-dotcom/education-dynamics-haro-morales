@@ -1,0 +1,9 @@
+﻿ITEM_ID,ITEM_TYPE,FILE_PATH,ARTICLE_SECTION,PURPOSE,STATUS
+Figure_1,Figure,results/figures/article_global_predictive_performance.png,4. Resultados predictivos,Comparar la mejora de Ridge frente a cambio cero para las cuatro ecuaciones.,READY
+Figure_2,Figure,results/figures/article_dc_model_benchmark.png,4. Resultados predictivos,Comparar modelos para dC/dt bajo validación anidada.,READY
+Figure_3,Figure,results/figures/aclf_ecuador_trajectories.png,8. Caso de Ecuador,Mostrar las trayectorias ACLF observadas para Ecuador.,EXISTING_READY
+Figure_4,Figure,results/figures/ecuador_aclf_observed_predicted_rates.png,8. Caso de Ecuador,Comparar tasas observadas y predichas para Ecuador.,EXISTING_READY
+Table_1,Table,results/article/master_selected_indicators.csv,2. Datos y cobertura,Documentar los ocho indicadores educativos seleccionados.,EXISTING_READY
+Table_2,Table,results/article/article_final_key_results_table.csv,4. Resultados predictivos,Resumir los resultados Ridge y los ganadores del benchmark anidado.,READY
+Table_3,Table,results/article/article_dc_stability_table.csv,4. Resultados predictivos,"Mostrar estabilidad leave-one-country-out, bootstrap y por décadas de dC/dt.",READY
+Table_4,Table,literature_review/evidence_synthesis/final_candidates_master_evidence_table.csv,5. Revisión de literatura,Resumir los doce candidatos finales de la revisión.,EXISTING_READY

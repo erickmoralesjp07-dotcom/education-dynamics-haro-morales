@@ -1,0 +1,7 @@
+﻿BATCH_ID,FULL_TEXT_DECISION,RISK_OF_BIAS,RECORD_COUNT
+screening_batch_01,Exclude_full_text,Critical risk of bias,3
+screening_batch_01,Include_final_candidate,Moderate risk of bias,5
+screening_batch_01,Include_with_major_limitations,High risk of bias,6
+screening_batch_02,Exclude_full_text,Critical risk of bias,2
+screening_batch_02,Include_final_candidate,Moderate risk of bias,7
+screening_batch_02,Include_with_major_limitations,High risk of bias,4

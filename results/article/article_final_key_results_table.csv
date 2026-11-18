@@ -1,0 +1,15 @@
+﻿RESULT_TYPE,ANALYSIS_LEVEL,SAMPLE,EQUATION,OBSERVATION_COUNT,COUNTRY_COUNT,MODEL,MODEL_RMSE,REFERENCE_RMSE,GAIN_PERCENT,CLASSIFICATION
+Ridge_vs_zero,Global GroupKFold by country,consecutive,dA/dt,207,37,Ridge,1.5502,1.5322,-1.18,no_improvement
+Ridge_vs_zero,Global GroupKFold by country,consecutive,dC/dt,207,37,Ridge,2.8166,2.9756,5.34,moderate
+Ridge_vs_zero,Global GroupKFold by country,consecutive,dF/dt,207,37,Ridge,0.3635,0.3622,-0.36,no_improvement
+Ridge_vs_zero,Global GroupKFold by country,consecutive,dL/dt,207,37,Ridge,1.4967,1.0147,-47.5,no_improvement
+Ridge_vs_zero,Global GroupKFold by country,gap_max_2,dA/dt,266,49,Ridge,1.5667,1.5488,-1.16,no_improvement
+Ridge_vs_zero,Global GroupKFold by country,gap_max_2,dC/dt,266,49,Ridge,2.5478,2.7315,6.73,moderate
+Ridge_vs_zero,Global GroupKFold by country,gap_max_2,dF/dt,266,49,Ridge,0.3663,0.3639,-0.68,no_improvement
+Ridge_vs_zero,Global GroupKFold by country,gap_max_2,dL/dt,266,49,Ridge,1.272,1.2456,-2.12,no_improvement
+Ridge_vs_zero,Ecuador Leave-One-Out,Ecuador annual series,dA/dt,14,1,Ridge,1.0623,1.0288,-3.26,no_improvement
+Ridge_vs_zero,Ecuador Leave-One-Out,Ecuador annual series,dC/dt,14,1,Ridge,1.3804,1.5602,11.52,substantial
+Ridge_vs_zero,Ecuador Leave-One-Out,Ecuador annual series,dF/dt,14,1,Ridge,0.3092,0.2914,-6.12,no_improvement
+Ridge_vs_zero,Ecuador Leave-One-Out,Ecuador annual series,dL/dt,14,1,Ridge,0.3385,0.328,-3.21,no_improvement
+Nested_ML_winner,Global nested GroupKFold,consecutive,dC/dt,207,37,Ridge,2.8157,2.9756,5.37,best_nested_model
+Nested_ML_winner,Global nested GroupKFold,gap_max_2,dC/dt,266,49,Elastic Net,2.5447,2.7315,6.84,best_nested_model

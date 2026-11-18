@@ -1,0 +1,217 @@
+================================================================================
+SCREENING_ID: SCR-0027
+================================================================================
+100: of a limitation section; general revision of
+167: 2. DATA AND METHOD 9
+168: 2.1. DATA AND SAMPLE 9
+176: 4. CONCLUSIONS 27
+182: TABLE 3. MULTILEVEL LINEAR REGRESSION MODELS PREDICTING THE INDIVIDUAL PROBABILITY OF ATTAINING A TERTIARY
+192: FIGURE 7. MULTILEVEL LINEAR REGRESSION ANALYSIS PREDICTING THE PROBABILITY OF ATTAINING TERTIARY EDUCATION
+195: FIGURE 8. MULTILEVEL LINEAR REGRESSION MODEL PREDICTING THE PROBABILITY OF ATTAINING TERTIARY EDUCATION DEGREE
+198: FIGURE 9. LINEAR REGRESSION ANALYSIS FOR EACH COUNTRY PREDICTING THE PROBABILITY OF ATTAINING TERTIARY EDUCATION
+200: FIGURE 10. MULTILEVEL REGRESSION NULL MODEL RESIDUALS CALCULATED AT THE COUNTRY LEVEL AND AT THE REGIONAL
+202: FIGURE 11. REGIONAL AND COUNTRY SLOPES FROM MULTILEVEL MODEL PREDICTING THE INDIVIDUAL PROBABILITY OF ATTAINING
+212: European tertiary education attainment. Analysing data from the European Social Survey
+366: The remaining of this work is organized as follows. We begin with our data and methods
+367: section, where we provide an overview of our sample selection, the definition of our key
+377: 2. Data and Method
+378: 2.1. Data and Sample
+379: This analysis leverages the extensive territorial data made available through the European
+382: to-face interviews with freshly selected cross-sectional samples. The objective of the ESS
+385: Our dataset consists of a merge of ESS survey rounds from round 1 (administered in 2002)
+387: (NUTS) level information varies across countries and survey rounds within our dataset.
+388: Consequently, our combined dataset necessitates the harmonization of NUTS-level
+390: granular NUTS-level data for each country within the final dataset.
+394: survey waves. This criterion ensures an adequate sample size for descriptive
+397: ensures the dataset's representativeness of diverse age groups.
+398: This methodical approach underpins the robustness and comprehensiveness of our
+399: analysis, allowing us to draw meaningful insights from the ESS data.
+405: The resultant selection encompasses data from a total of 25 European countries, covering
+406: 298 distinct regions, and includes a substantial sample size of 285,506 individuals. This
+408: the representativeness of our dataset across a wide range of European countries and
+413: Table 1 below describes the countries included in our analytical sample, the number of
+415: information, and the number of ESS waves present in our sample.
+446: Table 2 describes the individual-level data that has been selected for our analysis. Our
+541: 2.3.2. Multilevel Linear Regression Analysis
+545: do so, we perform a multilevel regression analysis, with individuals nested in regions
+560: 2.3.3. Country-specific Linear Regression Analysis
+562: time for each selected country. We do so by relying on Linear probability models for each
+565: versus having parents without any tertiary degree. Each model includes an interaction term
+591: through the availability and volume of data in the European Social Survey (ESS).
+606: Note: Authors’ own elaboration using pooled data from ESS waves (1-10). For each smallest
+613: levels within our dataset. Panel A illustrates these percentages for individuals for whom at
+643: Note: Authors’ elaboration using pooled data from ESS (waves 1-10). For each smallest
+680: Figure 3 shows two European maps, following the same methodology as presented in
+691: for both the oldest and youngest cohorts of our sample, the northern countries exhibit a
+699: Note: Authors’ elaboration using pooled data from ESS (waves 1-10). We show IEOs calculated as
+730: Note: Authors’ calculations using pooled ESS data (wave 1-10). We restrict the sample to those
+768: of inequalities in tertiary education opportunities in our sample.
+775: Note: Authors’ calculations using pooled ESS data (wave 1-10). On the left, we show IEOs
+788: Note: Authors’ calculations using pooled ESS data (wave 1-10).
+800: regression analysis how much variation in the probability of attaining a tertiary educational
+802: To understand so, the first step is calculating the intraclass correlation for the null model.
+807: Figure 10 (appendix section) shows the residuals calculated from the null model of the
+808: multilevel linear regression analysis. Residual plots suggest that there are no potential
+809: problems with the model assumptions.
+811: regional level, we also exploited a multilevel model in which regions as the unit of analysis
+816: are nested in countries. In this model, the outcome variable is IEOs measured as the
+819: parents did not attain TED. The ICC from this null multilevel model shows that 22% of the
+826: Table 3 presents the coefficients derived from a linear multilevel regression model aimed
+827: at predicting the likelihood of individuals obtaining a tertiary degree. In Model 1, the
+828: explanatory variables encompass parental educational levels and cohorts. Model 2
+831: Analysis of Model 1 reveals that, on average, individuals with at least one parent holding
+837: Upon the introduction of the random slope and the interaction term in Model 2, the
+
+================================================================================
+SCREENING_ID: SCR-0029
+================================================================================
+7: of opportunity to learn in PISA
+18: ing PISA data. Specifically, we scrutinize the construct validity of the OTL measure in PISA that has been used in previous
+19: research. Our analyses reveal two latent dimensions of the OTL indicators in PISA, namely an unbiased OTL dimension
+23: Keywords Opportunity to learn (OTL) · Socioeconomic status · Educational inequality · Student achievement · PISA
+41: PISA data to explore whether OTL is a mediator for the
+47: we identified a serious methodological flaw related to their
+50: items in PISA measure not only OTL but also students’ self-
+72: mance. Thereafter, we discuss a methodological issue in the
+74: the PISA 2012 study, as used by Schmidt et al. (2015). Spe-
+83: yses. Finally, we discuss our findings from a methodological
+92: nities to learn. For this purpose, the OTL model conceptual-
+115: model a network of relationships among the constructs
+180: however, point out that “[r]eviews and meta-analyses of data
+181: from nonrepresentative samples are not necessarily any more
+183: (1995, p. 41). According to this, the data from many small
+184: samples of convenience should be replaced by data from
+185: large probability samples. In addition, many meta-analyses
+186: and reviews use data from the US, which limits the general-
+189: that draw large stratified random samples from a diverse set
+191: Using PISA 2012 data from 33 OECD countries, Schmidt
+202: Fig. 1). Schmidt at al. applied a mediation path model, where
+213: observational and cross-sectional international data. How-
+221: PISA (2012). To measure OTL, TIMSS asked teachers if 19
+226: introduced (3). Using simple regression, Luyten regressed
+228: ingly and in contrast to the previously reported PISA find-
+230: close to zero (standardized regression coefficient was 0.03).
+231: The difference between analyses based on TIMSS and PISA
+234: large effect sizes reported by Schmidt et al. using data only
+236: (standardized regression coefficient was 0.37; this coeffi -
+238: Luyten aggregated the student-level OTL data from PISA
+242: based on teacher responses and the PISA OTL measures
+259: of the PISA items. In the next section, we will scrutinize the
+260: PISA items and elaborate on this idea.
+262: is measured in PISA: a methodological issue
+264: To understand our critique of PISA’s OTL measure, it is
+270: survey data. Respondents have to understand a question,
+280: A closer look at how PISA measures OTL reveals a meth-
+284: However, some of the items in the PISA questionnaire use a
+287: cal self-concept. In brief, PISA asked students how familiar
+308: OTL measure in PISA. Our approach to test this is to use a
+312: included in the PISA questionnaire and it explains on aver-
+322: ematics using PISA data for a wide range of countries.
+327: measure by modeling construct irrelevant variance as a
+328: Table 1  The PISA items on
+351: PISA administrated computer- and paper-based surveys with marginally different layouts and instructions
+361: 2  Data and analytical method
+362: 2.1  Samples
+363: PISA 2012 data were used to reexamine the measurement
+365: matics achievement. The PISA studies test the knowledge
+369: two-thirds of the total testing time. In PISA 2012, math-
+371: PISA is not aligned with any specific national curriculum.
+377: sample size. Mexico has the largest sample size, followed
+378: by Italy, Spain and Canada, with Liechtenstein’s sample
+379: being the smallest. It should also be noted that PISA sam-
+382: in the same sample had different topic coverage in math-
+384: should be noted that the participation rates in PISA were
+387: Furthermore, the cross-cultural validity of survey data is
+417: model the construct irrelevant variance in some of the PISA
+426: Table 2  The PISA item on
+440: PISA administrated computer- and paper-based surveys with marginally different layouts and instruc-
+
+================================================================================
+SCREENING_ID: SCR-0039
+================================================================================
+92: attitudes in these countries. We employ data from a longitudinal survey, tracking students
+96: effects of the various channels which could not be isolated using the cross-sectional data used
+116: Section 3 presents features of the employed dataset, the Longitudinal Survey of Australian
+117: Youth, and the methodology. Results in Section 4 show the consistent differences by country
+135: longitudinal data with detailed information on both immigrant youth and their families, which
+159: children, viewing academic achievement as a measure of a better life. Our data enables us to
+163: In the following section, we document the data which enables us to investigate the relative
+169: 3. Data and Methodology
+170: 3.1 Data
+171: We employ data from the 2003 cohort of the Longitudinal Survey of Australian Youth (LSAY).
+172: The survey consists of a large, nationally representative sample of young people, collecting
+176: Australian Programme for International Student Assessment (PISA), administered by the
+178: individuals from the PISA sample, 10,370 make up the LSAY 2003 cohort. In our analysis,
+181: In addition to using the baseline data collected in the first wave (when participants were aged
+185: to attend school until 17 years of age. In the context of our data, students are expected to
+190: employed methodology.
+191: An important feature of this longitudinal data is that it enables us to empirically estimate the
+199: data captures the experiences in formative years which shape education decisions later in life.
+202: education per 100,000 inhabitants from the World Bank database. This variable is available for
+203: 119 countries of origin, out of about 170 from our sample. Parental attitudes towards important
+209: for 54 countries of origin, out of about 170 from our sample. Both country-level variables cover
+210: the main countries of origin, which contribute the majority of immigrants in our sample.3 Table
+211: A1 in the appendix summarises the details of all the variables and data availability.
+212: 3.2 Methodology
+213: We estimate the following reduced form model to investigate the education choices of the
+217: 0 otherwise). We use probit regression to estimate the determinants of the probability of
+226: report estimates using weights to account for both initial sampling and subsequent attrition.
+235: Since the LSAY cohort is drawn from PISA sample, the data contains variables from PISA
+236: survey as well. The PISA survey assesses the reading, mathematical and scientific literacy of
+241: created by averaging students’ PISA literacy scores across all three domains. By including a
+322: second generation migrants). The majority of immigrants in our sample arrived in Australia
+324: Descriptive analysis of the data in this section reveals interesting differences in the study
+423: particular qualities in children. We supplement the analysis of the individual data with data on
+426: data was available (See Appendix Table A1 for details).
+457: of immigrant choices, we acknowledge possible limitations. Apart from the limited data
+466: We check for the robustness of our results by separately analysing full-time study and part-
+471: immigrants and NESB immigrants, by (i) estimating the model separately for the three groups
+474: 5. Conclusion
+490: The longitudinal data employed in this analysis enables us to assess the role of parental
+492: education decisions. We find that all of these factors play a role, with youth with higher PISA
+588: OECD. (2014). PISA 2012 Results: What Students Know and Can Do – Student Performance
+589: in Mathematics, Reading and Science. Volume I, Revised edition, February 2014, PISA. Paris:
+670: weights reported. See Appendix table A1 for details of the variables.
+706: Ability (PISA) No No Yes No No Yes
+708: Notes: The table reports average marginal effects estimated using a probit model with
+712: married. Ability refers to PISA scores.
+740: Notes: The table reports average marginal effects estimated using a probit model with studying
+746: at home and PISA scores.
+764: Notes: The table reports average marginal effects estimated using a probit model with
+768: and PISA scores.
+807: Notes: The table reports average marginal effects estimated using a probit model with studying
+810: locations, having completed high school, having children and being married,  and PISA scores.
+843: Notes: The table reports average marginal effects estimated using a probit model with studying
+844: as a dependent variable. Sample restricted to immigrants only. Robust standard errors in
+847: children and being married, and PISA scores.
+879: Notes: The table reports average marginal effects estimated using a probit model with studying
+880: as a dependent variable. Sample consists of immigrants from selected countries. Robust
+882: school, having children and being married, and PISA scores.
+890: ESCS Denotes economic social cultural status. Latent variable from PISA.
+920: UNESCO Institute for Statistics, downloaded from World Bank Database.
+
+================================================================================
+SCREENING_ID: SCR-0049
+================================================================================
+32: perceptionandeducationindicatorsareabundant.Inthisstudy,IusethePISAoutcomesto
+35: meanvaluesofthePISAresultsshowsthatlowercorruptionisassociatedwithanincrease
+36: inthePISAscoresformath(0.23σ),science(0.20σ),andreading(0.29σ)across
+41: UsinginteractionsinmyregressionsshowworsePISAoutcomesfordevelopingcountries
+57: •TheD.R.endedupwiththeworstscoreamongthecountriesinthePISA2015
+58: examinations.A70.7%fellintothelowestachievers!(PISA,2015).Around4.4%oftheGDP
+63: andaccesstoeducationwithmorerecentcross-countrydata(2003-2015).
+64: •Useanewindicatorforeducationquality:PISAoutcomes2003-2015.
+67: •CommentontheDominicanRepublic’sPISAoutcomesin2015.
+68: METHODS
+70: •Gatheredapaneldatasetandstandardizedsomevariables.Rantestsfor
+72: formsandRamsey’sRESETtestfavoredalinearmodel;and,theHausmantestfavoreda
+73: fixedeffectsmodelformostofmyregressions.
+74: •RanGLSregressionswithcountryfixedeffectsandtimefixedeffects.
+75: •Createdinteractionsinmyregressionstoinvestigatewhethertheeffectofcorruptionin
+77: • MyanalysisshowsthatabettergovernancescoreisassociatedwithincreasedscoresonthePISAexaminations
+87: theeducationsector.Thismaynotbetrueforallcases,soIgathereddatafromGlobalCorruptionBarometersurvey
+93: CONCLUSIONS	&	COMMENTS
+100: • Betterspecifications(2SLS,non-linearities,etc.)andmorecomparabledataacrosscountriesare
+102: • Moreresearchneeded.CriticismonPISAasoutdatedexamandsmallsample.Controlforstudentsthat
+106: willbetranslatedintobettereducation.Moredataandresearchisneededtotracktheexpendituresin
+109: GLS	on	PISA	Outcomes(Std.	Deviations)
