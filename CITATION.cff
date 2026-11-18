@@ -5,13 +5,14 @@ type: software
 authors:
   - family-names: "Morales Portilla"
     given-names: "Erick Jair"
-    orcid: "https://orcid.org/0009-0009-2228-4140"
+    orcid: https://orcid.org/0009-0009-2228-4140
   - family-names: "Haro Perugachi"
     given-names: "David Sebastian"
 version: "1.0.0"
 date-released: "2026-11-18"
-repository-code: "https://github.com/erickmoralesjp07-dotcom/education-dynamics-haro-morales"
-url: "https://github.com/erickmoralesjp07-dotcom/education-dynamics-haro-morales"
+doi: 10.5281/zenodo.24351085
+repository-code: https://github.com/erickmoralesjp07-dotcom/education-dynamics-haro-morales
+url: https://github.com/erickmoralesjp07-dotcom/education-dynamics-haro-morales
 keywords:
   - educational attainment
   - education planning
