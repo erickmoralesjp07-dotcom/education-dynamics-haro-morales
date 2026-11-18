@@ -1,0 +1,52 @@
+==============================================================================
+SCREENING_ID: SCR-0006
+SELECTED_PASSAGES: 45
+==============================================================================
+
+119: examined. The paper evaluates whether results found are robust across different sources of achievement data: the Trends in International Maths and Science Study (TIMSS), the
+127: Keywords: education, immigration, PISA, TIMSS, PIRLS
+173: immigration country. Besides the approach of testing the robustness of survey results by using PISA,
+244: However, besides SES also motivations and expectations of immigrants on their life
+250: and natives. This is also true for the self-selection of immigrants. The self-selection of
+259: However, the focus on immigrants' dispersion can only indicate the very different
+271: However, are countries differences in immigrants' educational disadvantage a
+287: PIRLS focused on primary school children aged 9-10 years4, TIMSS and PISA
+290: selection of a sample of schools and then a single class (TIMSS and PIRLS) or a
+299: PISA and PIRLS, TIMSS focused on assessing a mastery of internationally agreed
+330: TIMSS 1999 / 1995 PISA 2000 PIRLS 2001
+344: Note: TIMSS and PIRLS are organised by the International Study Center, Boston College, USA. PISA is
+348: for UK in TIMSS and PIRLS refer to England and Scotland only. Data on Netherlands for PISA might be
+390: the percentage of immigrants and natives achieving below TIMSS math international
+410: Veenman (2000).However, also in Australia and Germany the parental education of non-natives is on
+486: Figure 2: PISA reading mean achievement scores for natives and immigrants
+542: in mean achievement scores between immigrants and natives. TIMSS tested 7th and
+549: scores than natives. In addition, survey and subject results show a relatively consistent
+553: countries TIMSS results show that pupils whose parents were born abroad lack about
+580: However, achievement in maths in PISA is measured by applying the `life-skill'
+583: maths in PISA. This result stands in contrast to TIMSS: for all countries immigrants'
+592: natives and immigrants given in Table 2 for PISA and PIRLS reading into average
+603: non-native immigrants) for PISA and PIRLS reading
+623: immigrants in PISA reading; bold figures mean that achievement differences between natives and
+653: TIMSS maths immigrants’ dispersion is higher than that of natives (see Table A3 in
+684: Figure 3: Ratio of achievement scores of immigrants to natives by percentile for PISA reading
+726: between natives. PISA results show that in countries where immigrants' educational
+753: However, response rate in the Netherlands was very low so that PISA results for this country need to be
+791: 17 See introduction for limitations of our estimation of immigrants' SES.
+799: Figure 4 presents results only for PISA reading, however other surveys'
+833: We estimated the percentage difference between natives and immigrants whose
+836: 19 For PISA and PIRLS we compare mothers who completed upper secondary education, for TIMSS
+852: Percent difference between natives and immigrants with more than 100 books at homeDifferences in mean PISA reading score between
+859: maths, 0.67 for PISA reading, 0.65 for PIRLS and 0.62 for TIMSS science.
+924: However, this contrasts the sample design of TIMSS and PIRLS. These surveys select
+1065: support for children with a disadvantaged family background. However, if immigrants
+1074: different models for PISA maths, TIMSS maths and PIRLS reading. The focus on
+1091: regression analysis we use three dummies on immigrant status: non-native
+1106: insignificant (TIMSS) or below 20 points (PISA and PIRLS). To help interpret the
+1183: controlled for immigrants fare even better than natives. However, the positive
+1203: However, in PIRLS contrary results appear indicating that primary school immigrants
+1226: TIMSS, immigrants' achievement in PIRLS reading is still worse than that of their native counterparts
+1351: (model 2) and on parental background and school segregation (model 3) for PISA maths, TIMSS maths (8th graders) and PIRLS; selection of OLS regression
+1460: performance than their lowest achieving native counterparts. However, immigrants'
+1618: Table A3: P95-P5 for natives and immigrants by country for PISA reading and TIMSS maths
+
+==============================================================================

@@ -1,0 +1,52 @@
+==============================================================================
+SCREENING_ID: SCR-0012
+SELECTED_PASSAGES: 45
+==============================================================================
+
+10: УЧАЩИХСЯ В МЕЖДУНАРОДНОМ ИССЛЕДОВАНИИ PISA-2018
+14: казахстанских учащихся в международном исследовании PISA-2018. В данной статье использу -
+18: PISA, транслирующими большое количество факторов, влияющих на результаты школьников,
+29: зультаты казахстанских школьников, по таким направлениям исследования PISA-2018, как мате -
+37: 1JSC «Information and Analytical Center», Kazakhstan, Astana
+40: Factors influencing the achievements of Kazakhstani students
+42: The PISA International Student Assessment Program (Program for International Student Assessment)
+44: The relevance of the article is due to the factors influencing the achievements of Kazakhstani stu -
+48: are characterized by the results of the PISA study, which broadcast a large number of factors affecting
+54: The research methodology includes multilevel regression analysis, complex sampling design, statis -
+60: for mathematical, reading and natural science literacy of 15-year-olds, in which only a random constant
+63: results of Kazakhstani schoolchildren in such areas of the PISA-2018 study as mathematics, reading and
+66: of inequality over 10-14 years of development of the education system in the Republic of Kazakhstan.
+69: Keywords: school education quality, statistical analysis, plausible values, complex sampling design.
+74: PISA-2018 халықаралық зерттеуінде қазақстандық
+76: PISA – (Programme for International Student Assessment) халықаралық оқушыларды бағалау
+78: Мақаланың өзектілігі PISA-2018 халықаралық зерттеуіндегі қазақстандық оқушылардың
+83: көптеген факторларды көрсететін PISA зерттеу нәтижелерімен сипатталады, оларды шартты түрде географиялық, мектептік, отбасылық-өмірбаяндық және әлеуметтік-экономикалық деп бөлуге болады.
+91: Жүргізілген зерттеудің құндылығы PISA-2018 зерттеуінің жеке, мектеп және өңірлік
+104: зовательных достижений 15-летних обучающих-ся PISA стало инструментом по оценке, улучше-нию и разработке политики в области развития
+112: Факторы, влияющие на достижения казахстанских учащихся в международном исследовании PISA -2018PISA смогла превратиться в мощнейший вли -
+117: PISA к успешной жизни в современном мире.
+135: PISA-2018 приняли участие порядка 600 тыс.
+142: ков PISA обычно формируется из числа обу -
+147: Так как возраст большинства участников PISA
+171: если сравнения будут повторены ( PISA , 2018)
+174: ников PISA (Programme for International Student
+177: образования. Основной фокус PISA направлен
+183: году в первом исследовании PISA участие при -
+188: ние PISA собирает большое количество данных
+201: ра данных исследование PISA придерживается
+223: Результаты PISA-2018 показали, что баллы
+240: следования PISA. В данной статье используется
+249: объясняющий результаты исследования PISA-2018 по читательской, математической и есте -
+252: школы на результаты исследования PISA-2018 по читательской, математической и естествен -
+698: 3. Susilowati, N. E., et al. PISA 2021 Creative Thinking Instrument for Students: Physics Teachers’ Perceptions // Indonesian
+705: 6. Mang, J., Küchenhoff, H., Meinck, S., Prenzel, M. Sampling weights in multilevel modelling: an investigation using PISA
+718: for secondary school students: PISA Hong Kong sample // International Journal of Science Education, 2012. V .34(14). P. 2107-2125.
+728: level? Evaluating measures of science teaching in PISA 2015 // Educational Assessment, Evaluation and Accountability, 2020. No 32. P. 275–310. https://doi.org/10.1007/s11092-020-09328-6
+733: 19. Torppa, M., Eklund, K., Sulkunen, S., Niemi, P., Ahonen, T. Why do boys and girls perform differently on PISA Reading
+739: level? Evaluating measures of science teaching in PISA 2015. Educational Assessment, Evaluation and Accountability, 32, 275–310.
+754: Mang, J., Küchenhoff, H., Meinck, S., & Prenzel, M. (2021). Sampling weights in multilevel modelling: an investigation using
+771: Факторы, влияющие на достижения казахстанских учащихся в международном исследовании PISA -2018Smanova, N. (2021). Can We Overcome the Achievement Gap between Urban and Rural Students in Kazakhstan through School
+775: achievement for secondary school students: PISA Hong Kong sample. International Journal of Science Education, 34(14), 2107-
+777: Susilowati, N. E., et al. (2022). PISA 2021 Creative Thinking Instrument for Students: Physics Teachers’ Perceptions. Indone -
+
+==============================================================================

@@ -1,0 +1,52 @@
+==============================================================================
+SCREENING_ID: SCR-0001
+SELECTED_PASSAGES: 45
+==============================================================================
+
+26: The Impacts of Natural Disasters on Educational Attainment:
+60: Do natural disasters impact educational attainment? Education as a paramount factor of economic development suffers from the
+63: human capital for rich - and low-income countries are exposed to the uneven impact of natural disasters that adjusts household and country -
+65: a sample of 85 countries from 1960 to 1990, we employ a panel data set from the Emergency Events dataset and Barro -Lee dataset. Using
+69: capital and these degenerates into long -term effects on economic development. Consequently, while natural disasters cannot be averted, its
+73: Keywords: Educational attainment, Natural Disasters, Economic Development, Education, Human Capital,
+83: 2.1 Natural Disasters........................................................................................................ ............. ................4
+85: 2.3 Human Capital and Educational Attainment..................................................................... ................7
+87: 2.4 Natural Disasters and Educational Attainment.................................................................... .............9
+143: such as the size of the government or public sector, level of educational attainment, openness, financial
+146: natural disasters on economic growth such as the Hsiang and Jina (2014) global study of cyclones. They
+159: Furthermore, some authors discuss the natural disaster effects on not just cognitive skills but also
+162: natural disasters to affect educational attainment via health has also been widely discussed where in rural
+171: questions like, what are the impacts of damages and deaths per capita on secondary educational attainment
+174: Particularly, we look at the micro -level effects of natural disa sters on educational attainment using macro -
+187: Natural disasters are natural events resulting from the natural processes of the earth such as floods,
+199: Figure 1, according to the CRED International Disaster Database, shows that natural disasters
+204: natural disasters per annum.
+206: Floods have been ranked as the most frequent natural disaster, with 3,062 (about 43% of all events)
+209: Wildfire and Volcanic activit ies are 4% and 2% (251 and 111 events) of total recorded natural disasters
+218: 2.2 Natural Disasters and Human Capital
+221: the destruction of capital (both physical and human) by natural disaster sho cks could either affect
+223: Parts of literature discuss the potential effect of natural disaster risks on mortality which lowers
+250: The more the natural disasters, the higher it leads to high levels of damages for these states (Rasmussen,
+264: of natural disasters (loss of lives, destruction of properties) which decomposes into indirect effects such
+270: productivity and welfare through educational attainment, we must understand the theme supporting
+273: 2.3 Human Capital and Educational Attainment
+276: productiv ity and social outcomes (Barro and Lee, 2013) and an abundance of well -educated human
+279: Educational attainment, as reflected in the enrollment of school -aged population, is indicative of past
+359: 2.4 Natural Disasters and Educational Attainment
+437: of natural disaster shocks on educational attainment for a broad group of countries.
+466: of natural disaster shocks , we use the intensity of deaths and damages as measures for disasters for the
+505: • Do natural disasters impact human capital formation by reducing educational attainment?
+528: 𝜆𝑖 = country fixed effects
+534: The study applies the fixed effects model to measure the impacts of natural disasters on educational
+536: fixed effect is more aligned to yield consistent efficient estimates as compared to the random effects model.
+539: educational attainment variable for all countries while the country -specific fixed effects control for
+542: the country and year fixed effects, we assume that natural disasters are exogenous ly determined . Variation
+547: match the 5 -year age interval educational attainment data. This ensures that a panel data set is available for
+573: intensity of deaths on secondary school attainment using both country and year fixed effects . We see that
+603: two main predictor variables with country and year fixed effects. Co lumns 1 and 2 show a negative and no
+626: poses a threat of endogeneity in our analysis of natural disasters using economic damages.
+1092: Robust standard errors in parentheses
+1138: Robust standard errors in parentheses
+1191: Robust standard errors in
+
+==============================================================================

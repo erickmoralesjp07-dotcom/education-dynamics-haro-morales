@@ -1,0 +1,52 @@
+==============================================================================
+SCREENING_ID: SCR-0021
+SELECTED_PASSAGES: 45
+==============================================================================
+
+90: USING TURKEY AS A CASE STUDY (PISA 2003 - PISA 2012)
+153: the PISA sample in Turkey has nearly doubled from 45% in PISA 2003, to 80% in PISA 2012. By
+171: moment de l’enquête PISA 2003, à 80% dans PISA 2012. En combinant les données de l’enquête
+202: ROBUSTNESS CHECKS ................................ ................................ ................................ ............................. 36
+229: Figure 1. The educational status and PISA -eligibility of 15 -16 year -olds in Turkey in DHS 2003,
+231: Figure 2. Access to literacy (Level 2) in Turkey 2003 (PISA 2003 and DHS 2003) ........................... 20
+233: Figure 4. Access to Literacy (Level 2) in Turkey 2012 (PISA 2012 and DHS 2013 ........................... 21
+235: Figure 6. Access to Numeracy (Level 2) in Turkey 2009 (PISA 2009 and DHS 2008) ....................... 23
+247: Figure 13. Kernel density of Turkey’s PISA 2012 Reading Scores (Plausible Value 1) by grade of
+279: Traditional analyses of Turkey’s PISA results ignore these large changes in PISA eligibility and thus
+288: 2 The lower estimate reflects the OECD’s own “Coverage Index 3” for Turkey 2003 (OECD, 2004, p. 321 )
+291: 3 For ease of reading, throughout this paper I use ‘sample eligibility’ and ‘sample coverage’ interchangeably.
+302: Figure 1. The educational status and PISA -eligibility of 15 -16 year -olds in Turkey in DHS 2003, DHS 2008 and
+404: Although this is taken from the PISA 2003 report, it can also be found in the PISA 2006, 2009 and
+417: Unfortunately the Coverage Index 3 (CI -3) values for PISA 2003 that were used in the PISA 2012
+433: countries). Note that Turkey has the lowest CI -3 rate of 36% in PISA 2003 an d that this nearly doubled to
+435: here is to focus on Turkey to show how incorporating data on PISA -eligibility and coverage can shift
+444: PISA 2000 PISA 2003 PISA 2006 PISA 2009 PISA 2012 PISA 2015
+496: PISA 2003, 2006, 2009 and 2012 reports, one can find the word ‘coverage’ on 2 - 4% of the total
+525: sample eligibility in Turkey (or other countries). For example, the World Bank (2005) in their ‘Education
+547: 184), citing Coverage Index 2. However Coverage Index 2 only recor ds eligible students and thus excludes
+603: grade in highest level ( HV107 ), current enrolment ( HV121 ). As well as the following weighting variables:
+620: so we use the STATA program me repest (Avvisati and Keslair, 2014) with five plausible values for each
+639: the samples are independent and thus the composite standard errors are simply the square root of the sum
+680: 7 For Turkey DHS 2003 and 2013 we use the wealth quintiles created by DHS (HV270). For DHS 2008 the
+742: the paper when conducting robustness checks.
+857: Figure 2. Access to literacy (Level 2) in Turkey 2003 (PISA 2003 and DHS 2003)
+863: Figure 3. Access to Literacy (Level 2) in Turkey 2009 (PISA 2009 and DHS 2008)
+866: Figure 4. Access to Literacy (Level 2) in Turkey 2012 (PISA 2012 and DHS 2013
+873: Figure 5. Access to Numeracy (Level 2) in Turkey 2003 (PISA 2003 and DHS 2003)
+879: 23 Figure 6. Access to Numeracy (Level 2) in Turkey 2009 (PISA 2009 and DHS 2008)
+882: Figure 7. Access t o Literacy (Level 2) in Turkey 2012 (PISA 2012 and DSH 2013)
+1102: large and statistically significant increases in PISA sample eligibility in Turkey over the 2003 -
+1121: (OECD, 2014a) . However this ignores the large expansion in PISA eligibility in Turkey over the
+1233: The modal grade in Turkey in PISA 2012 was Grade 10, with 66% of the sample being in this grade
+1235: enrolment in Tur key in PISA 2012. Clearly those 15 -16 year -olds that are delayed perform significantly
+1241: Figure 13. Kernel density of Turkey’s PISA 2012 Reading Scores (Plausible Value 1) by grade of enrolment
+1252: PISA Reading Plausible Value 1
+1300: 39 there is a mismatch in t he DHS years corresponding to the PISA 2009 and PISA 2012 cycles (where we
+1302: PISA and only look at PISA 2003 in Turkey. We would argue that the DHS of 2008 and 2013 are good
+1328: eligibility and sample representivity in one middle -income country: Turkey. Whether one chooses to use
+1367: Finally, by drawing attention to the large changes in PISA sample ineligibility in Turkey, it is our
+1381: samples and plausible values", Boston: Statistical Software Components, Boston C ollege
+1396: Dülger, I. (2004), "Case Study on Turkey: Rapid Coverage for Compulsory Education Program " , Scaling
+1424: Kırdar, M. G. (2009), "Explaining Ethnic Disparities in School Enrollment in Turkey", Economic
+
+==============================================================================
