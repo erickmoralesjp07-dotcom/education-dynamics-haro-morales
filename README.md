@@ -31,3 +31,8 @@ Raw and restricted data are not stored in this repository. PISA microdata and la
 - scripts: reusable programs
 - data/metadata: data dictionaries and provenance
 - results: figures, tables, and diagnostics
+
+## Archived release
+The reproducible research materials for release v1.0.0 are archived in Zenodo.
+
+**DOI:** https://doi.org/10.5281/zenodo.24351085
