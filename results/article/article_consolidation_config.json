@@ -1,7 +1,7 @@
 {
   "processing_datetime": "2026-11-09T15:29:13.645471-05:00",
-  "project_root": "C:\\Users\\ERICK\\OneDrive\\Documents\\Tercer Semestre CDIA\\ECUACIONES DIFERENCIALES\\Articulo\\education_dynamics_starter",
-  "output_directory": "C:\\Users\\ERICK\\OneDrive\\Documents\\Tercer Semestre CDIA\\ECUACIONES DIFERENCIALES\\Articulo\\education_dynamics_starter\\results\\article",
+  "project_root": ".",
+  "output_directory": "results/article",
   "master_results_rows": 25,
   "master_models_rows": 60,
   "selected_indicators_rows": 8,

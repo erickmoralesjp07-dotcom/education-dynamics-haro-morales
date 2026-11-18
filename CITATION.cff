@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software and analytical workflow, please cite it using the metadata below."
+title: "Education Dynamics: UNESCO UIS Predictive Modeling and Validation Workflow"
+type: software
+authors:
+  - family-names: "Morales Portilla"
+    given-names: "Erick Jair"
+    orcid: "https://orcid.org/0009-0009-2228-4140"
+  - family-names: "Haro Perugachi"
+    given-names: "David Sebastian"
+version: "1.0.0"
+date-released: "2026-11-18"
+repository-code: "https://github.com/erickmoralesjp07-dotcom/education-dynamics-haro-morales"
+url: "https://github.com/erickmoralesjp07-dotcom/education-dynamics-haro-morales"
+keywords:
+  - educational attainment
+  - education planning
+  - UNESCO UIS
+  - Ridge regression
+  - temporal validation
+license: MIT
