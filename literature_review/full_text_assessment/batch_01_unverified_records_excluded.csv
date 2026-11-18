@@ -1,0 +1,2 @@
+﻿SCREENING_ID,TITLE,AUTHORS,YEAR,DOI_NORMALIZED,DECISION,EXCLUSION_REASON,VERIFICATION_FLAGS,RECORD_DATETIME
+SCR-0024,Digital Infrastructure and Educational Outcomes: Evidence from a Cross-Country Panel Study,Puti Xu,2026,10.35542/osf.io/fdytm_v1,Exclude_unverified_record,Unverified future-dated 2026 preprint record with no retrievable full text. The record cannot be treated as an assessed published study.,PREPRINT_OR_REPOSITORY|YEAR_2026_VERIFY,2026-11-18T06:39:58.889108-05:00
