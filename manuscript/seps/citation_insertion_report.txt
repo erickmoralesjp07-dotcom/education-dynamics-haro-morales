@@ -1,0 +1,24 @@
+CITATION INSERTION REPORT
+Generated: 2026-11-18T08:34:03.002248-05:00
+
+Inserted or present: 13
+- multilevel inequality
+- PISA inequality
+- longitudinal attainment
+- PISA eligibility
+- PISA measurement validity
+- attainment measurement
+- attainment validation
+- planning methods
+- UNESCO source
+- Ridge method
+- Elastic Net
+- remove duplicated list models [already present]
+- Kazakhstan PISA
+
+Missing replacements: 0
+
+Citation groups detected: 13
+Missing required authors: None
+Backup: C:\Users\ERICK\OneDrive\Documents\Tercer Semestre CDIA\ECUACIONES DIFERENCIALES\Articulo\education_dynamics_starter\manuscript\seps\main_manuscript_before_citations.md
+Manuscript: C:\Users\ERICK\OneDrive\Documents\Tercer Semestre CDIA\ECUACIONES DIFERENCIALES\Articulo\education_dynamics_starter\manuscript\seps\main_manuscript.md
